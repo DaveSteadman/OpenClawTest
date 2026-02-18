@@ -1,7 +1,9 @@
-
 ---
 name: LoggedAnalysis
 description: Analyse all logged web search files for a given date and produce a concise assessment.
+capabilities:
+  - filesystem:read
+  - filesystem:write:workspace
 metadata: {"openclaw":{"requires":{"bins":["python"]}}}
 ---
 

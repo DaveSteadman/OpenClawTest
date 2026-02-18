@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+"""DuckDuckGo Search (Logged) - Simple web search with plain-text logging."""
+
 import argparse
 import datetime as dt
 import json
@@ -10,188 +12,353 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
-DDG_HTML = "https://duckduckgo.com/html/?q={q}"
+# DuckDuckGo HTML endpoint
+DDG_URL = "https://duckduckgo.com/html/?q={q}"
 
-REDIRECT_RE = re.compile(r"/l/\?uddg=([^&\"'>]+)")
-A_TAG_RE = re.compile(
-    r"<a[^>]+class=\"result__a\"[^>]+href=\"([^\"]+)\"[^>]*>(.*?)</a>",
-    re.IGNORECASE | re.DOTALL,
+# ============================================================================
+# HTML PARSING: Regex patterns for DuckDuckGo results
+# ============================================================================
+
+# Find redirect links: /l/?uddg=<encoded_url>
+REDIRECT_PATTERN = re.compile(r"/l/\?uddg=([^&\"'>]+)")
+
+# Find result anchors with class="result__a"
+ANCHOR_PATTERN = re.compile(
+    r'<a[^>]+class="result__a"[^>]+href="([^"]+)"[^>]*>(.*?)</a>',
+    re.IGNORECASE | re.DOTALL
 )
-SNIPPET_RE = re.compile(
-    r"class=\"result__snippet\"[^>]*>(.*?)</(?:a|div)>",
-    re.IGNORECASE | re.DOTALL,
+
+# Find snippets with class="result__snippet"
+SNIPPET_PATTERN = re.compile(
+    r'class="result__snippet"[^>]*>(.*?)</(?:a|div)>',
+    re.IGNORECASE | re.DOTALL
 )
-TAG_RE = re.compile(r"<[^>]+>")
+
+# Strip any HTML tags
+TAG_PATTERN = re.compile(r"<[^>]+>")
 
 
-def html_unescape(s: str) -> str:
-    return (
-        s.replace("&amp;", "&")
-        .replace("&quot;", "\"")
-        .replace("&#39;", "'")
-        .replace("&lt;", "<")
-        .replace("&gt;", ">")
-    )
+# ============================================================================
+# UTILITY FUNCTIONS
+# ============================================================================
+
+def decode_html_entities(text):
+    """Decode common HTML entities to plain text."""
+    if not text:
+        return ""
+    
+    replacements = [
+        ("&amp;", "&"),
+        ("&quot;", '"'),
+        ("&#39;", "'"),
+        ("&lt;", "<"),
+        ("&gt;", ">"),
+        ("&nbsp;", " "),
+        ("&mdash;", "—"),
+        ("&ndash;", "–"),
+    ]
+    
+    for entity, char in replacements:
+        text = text.replace(entity, char)
+    
+    return text
 
 
-def strip_tags(s: str) -> str:
-    s = TAG_RE.sub("", s)
-    return html_unescape(s).strip()
+def remove_html_tags(text):
+    """Remove all HTML tags from text."""
+    if not text:
+        return ""
+    text = TAG_PATTERN.sub("", text)
+    text = decode_html_entities(text)
+    return text.strip()
 
 
-def resolve_ddg_redirect(url: str) -> str:
-    m = REDIRECT_RE.search(url)
-    if m:
-        return urllib.parse.unquote(m.group(1))
-    return url
+def decode_redirect_url(redirect_url):
+    """Decode DuckDuckGo redirect URL to actual target URL."""
+    if not redirect_url:
+        return ""
+    
+    match = REDIRECT_PATTERN.search(redirect_url)
+    if match:
+        try:
+            return urllib.parse.unquote(match.group(1))
+        except Exception:
+            return redirect_url
+    
+    return redirect_url
 
 
-def fetch_html(query: str, timeout_s: int) -> str:
-    q = urllib.parse.quote_plus(query)
-    url = DDG_HTML.format(q=q)
-    req = urllib.request.Request(
-        url,
-        headers={
-            "User-Agent": "Mozilla/5.0 (compatible; OpenClawSkill/1.0)",
-            "Accept": "text/html",
-        },
-        method="GET",
-    )
-    with urllib.request.urlopen(req, timeout=timeout_s) as resp:
-        data = resp.read()
-    return data.decode("utf-8", errors="replace")
+def fetch_duckduckgo_html(query, timeout_seconds):
+    """Fetch HTML from DuckDuckGo search."""
+    if not query or not isinstance(query, str):
+        raise ValueError("Query must be a non-empty string")
+    
+    if timeout_seconds <= 0:
+        timeout_seconds = 20
+    
+    # URL-encode the query
+    encoded_query = urllib.parse.quote_plus(query)
+    search_url = DDG_URL.format(q=encoded_query)
+    
+    # Create request with proper headers
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Accept": "text/html",
+        "Accept-Language": "en-US,en;q=0.9",
+    }
+    
+    request = urllib.request.Request(search_url, headers=headers, method="GET")
+    
+    try:
+        with urllib.request.urlopen(request, timeout=timeout_seconds) as response:
+            html_bytes = response.read()
+        
+        # Decode with error replacement for robustness
+        html_text = html_bytes.decode("utf-8", errors="replace")
+        return html_text
+    
+    except urllib.error.URLError as e:
+        raise RuntimeError(f"Network error: {str(e)}")
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"HTTP {e.code}: {str(e)}")
+    except Exception as e:
+        raise RuntimeError(f"Failed to fetch: {str(e)}")
 
 
-def parse_results(html: str, max_results: int):
-    anchors = list(A_TAG_RE.finditer(html))
-    snippets = list(SNIPPET_RE.finditer(html))
-
+def extract_results_from_html(html, max_count):
+    """Extract search results from DuckDuckGo HTML response."""
+    if not html:
+        return []
+    
+    if max_count <= 0:
+        max_count = 8
+    
     results = []
-    for i, a in enumerate(anchors):
-        if len(results) >= max_results:
+    
+    # Find all anchors (result titles)
+    anchors = list(ANCHOR_PATTERN.finditer(html))
+    
+    # Find all snippets (result descriptions)
+    snippets = list(SNIPPET_PATTERN.finditer(html))
+    
+    # Extract result for each anchor, up to max_count
+    for index, anchor_match in enumerate(anchors):
+        # Stop when we have enough
+        if len(results) >= max_count:
             break
-
-        href = a.group(1)
-        title = strip_tags(a.group(2))
-        url = resolve_ddg_redirect(href)
-
-        snippet = ""
-        if i < len(snippets):
-            snippet = strip_tags(snippets[i].group(1))
-
-        if url.startswith("/"):
-            continue
-
-        results.append(
-            {
+        
+        try:
+            # Extract fields from anchor
+            href = anchor_match.group(1)
+            title_html = anchor_match.group(2)
+            
+            # Clean up title
+            title = remove_html_tags(title_html)
+            
+            # Decode redirect URL
+            url = decode_redirect_url(href)
+            
+            # Skip relative URLs
+            if url.startswith("/"):
+                continue
+            
+            # Extract snippet if available
+            snippet = ""
+            if index < len(snippets):
+                snippet_html = snippets[index].group(1)
+                snippet = remove_html_tags(snippet_html)
+            
+            # Skip empty entries
+            if not title or not url:
+                continue
+            
+            # Add result
+            result = {
                 "title": title,
                 "url": url,
                 "snippet": snippet,
                 "rank": len(results) + 1,
             }
-        )
+            results.append(result)
+        
+        except Exception as parse_error:
+            # Skip malformed results
+            continue
+    
     return results
 
 
-def to_camel_case(query: str) -> str:
+def query_to_filename(query):
+    """Convert query string to a safe filename (CamelCase)."""
+    if not query:
+        return "Search"
+    
+    # Extract alphanumeric tokens
     tokens = re.findall(r"[A-Za-z0-9]+", query)
+    
     if not tokens:
         return "Search"
-
-    parts = []
+    
+    # Convert tokens to CamelCase
+    camel_parts = []
     for token in tokens:
         if token.isdigit():
-            parts.append(token)
+            camel_parts.append(token)
         else:
-            parts.append(token[:1].upper() + token[1:].lower())
-
-    name = "".join(parts)
-    return name[:80]
-
-
-def get_output_root() -> str:
-    env = os.environ.get("OPENCLAW_OUTPUT_ROOT")
-    if env:
-        return env
-
-    home = Path.home()
-    return str(home / ".openclaw" / "data")
+            # Capitalize first letter, lowercase rest
+            camel_parts.append(token[0].upper() + token[1:].lower())
+    
+    filename = "".join(camel_parts)
+    
+    # Limit to 80 characters
+    return filename[:80]
 
 
-def write_log(output_root: str, query: str, results) -> str:
+def get_data_root():
+    """Get the root directory for storing data."""
+    # Check environment variable first
+    env_root = os.environ.get("OPENCLAW_OUTPUT_ROOT")
+    if env_root:
+        return env_root
+    
+    # Fall back to default location
+    home_dir = Path.home()
+    default_root = home_dir / ".openclaw" / "data"
+    
+    return str(default_root)
+
+
+def write_search_log(data_root, query, results):
+    """Write search results to plain-text log file."""
+    if not query:
+        raise ValueError("Query cannot be empty")
+    
+    # Get current date/time
     now = dt.datetime.now()
     year = now.strftime("%Y")
     month = now.strftime("%m")
     day = now.strftime("%d")
-    name = to_camel_case(query)
+    timestamp = now.isoformat(timespec="seconds")
+    
+    # Determine filename
+    filename = query_to_filename(query)
+    
+    # Create directory path: datastore/YYYY/MM/DD/
+    log_dir = os.path.join(data_root, "datastore", year, month, day)
+    
+    try:
+        os.makedirs(log_dir, exist_ok=True)
+    except Exception as e:
+        raise RuntimeError(f"Failed to create log directory: {str(e)}")
+    
+    # Create full path
+    log_file = os.path.join(log_dir, f"{filename}.txt")
+    
+    # Write log
+    try:
+        with open(log_file, "a", encoding="utf-8") as f:
+            # Write header
+            f.write(f"Query: {query}\n")
+            f.write(f"Timestamp: {timestamp}\n")
+            
+            # Write each result
+            for result in results:
+                title = result.get("title", "").strip()
+                url = result.get("url", "").strip()
+                snippet = result.get("snippet", "").strip()
+                
+                if title:
+                    f.write(f"- {title}\n")
+                if url:
+                    f.write(f"  {url}\n")
+                if snippet:
+                    f.write(f"  {snippet}\n")
+            
+            # Add blank line between entries
+            f.write("\n")
+    
+    except Exception as e:
+        raise RuntimeError(f"Failed to write log file: {str(e)}")
+    
+    return log_file
 
-    log_dir = os.path.join(output_root, "datastore", year, month, day)
-    os.makedirs(log_dir, exist_ok=True)
 
-    log_path = os.path.join(log_dir, f"{name}.txt")
-
-    with open(log_path, "a", encoding="utf-8") as f:
-        f.write(f"Query: {query}\n")
-        f.write(f"Timestamp: {now.isoformat(timespec='seconds')}\n")
-        for item in results:
-            title = item.get("title", "").strip()
-            url = item.get("url", "").strip()
-            snippet = item.get("snippet", "").strip()
-
-            if title:
-                f.write(f"- {title}\n")
-            if url:
-                f.write(f"  {url}\n")
-            if snippet:
-                f.write(f"  {snippet}\n")
-        f.write("\n")
-
-    return log_path
-
+# ============================================================================
+# MAIN EXECUTION
+# ============================================================================
 
 def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--query", required=True)
-    ap.add_argument("--max", type=int, default=8)
-    ap.add_argument("--timeout", type=int, default=20)
-    ap.add_argument("--sleep-ms", type=int, default=0)
-    args = ap.parse_args()
-
-    if args.sleep_ms > 0:
-        time.sleep(args.sleep_ms / 1000.0)
-
-    output_root = get_output_root()
-
+    """Main entry point."""
+    # Parse command-line arguments
+    parser = argparse.ArgumentParser(
+        description="Search DuckDuckGo and log results to plain text"
+    )
+    parser.add_argument("--query", required=True, help="Search query (required)")
+    parser.add_argument("--max", type=int, default=8, help="Max results (1-25, default 8)")
+    parser.add_argument("--timeout", type=int, default=20, help="Network timeout in seconds (default 20)")
+    parser.add_argument("--sleep-ms", type=int, default=0, help="Sleep before search in milliseconds (default 0)")
+    
     try:
-        html = fetch_html(args.query, args.timeout)
-        results = parse_results(html, max(1, min(args.max, 25)))
-        log_path = write_log(output_root, args.query, results)
-
-        out = {
+        args = parser.parse_args()
+    except SystemExit:
+        return 1
+    
+    # Validate arguments
+    if not args.query or not isinstance(args.query, str):
+        error_response = {
+            "query": "",
+            "error": "Query must be provided and must be a string",
+            "results": [],
+        }
+        print(json.dumps(error_response, ensure_ascii=False))
+        return 1
+    
+    # Optional sleep
+    if args.sleep_ms > 0:
+        try:
+            time.sleep(args.sleep_ms / 1000.0)
+        except Exception:
+            pass
+    
+    # Clamp max results
+    max_results = max(1, min(args.max, 25))
+    timeout_seconds = max(5, min(args.timeout, 60))
+    
+    # Get data root
+    data_root = get_data_root()
+    
+    # Execute search
+    try:
+        # Fetch HTML from DuckDuckGo
+        html = fetch_duckduckgo_html(args.query, timeout_seconds)
+        
+        # Parse results from HTML
+        results = extract_results_from_html(html, max_results)
+        
+        # Log results to file
+        log_path = write_search_log(data_root, args.query, results)
+        
+        # Return success response
+        response = {
             "query": args.query,
             "results": results,
             "log_path": log_path,
-            "diag": {
-                "cwd": os.getcwd(),
-                "__file__": os.path.abspath(__file__),
-                "output_root": output_root,
-            },
+            "count": len(results),
+            "status": "ok",
         }
-        print(json.dumps(out, ensure_ascii=False))
+        print(json.dumps(response, ensure_ascii=False))
         return 0
-
+    
     except Exception as e:
-        err = {
+        # Return error response
+        error_response = {
             "query": args.query,
             "error": str(e),
             "results": [],
-            "diag": {
-                "cwd": os.getcwd(),
-                "__file__": os.path.abspath(__file__),
-                "output_root": output_root,
-            },
+            "count": 0,
+            "status": "error",
         }
-        print(json.dumps(err, ensure_ascii=False))
+        print(json.dumps(error_response, ensure_ascii=False))
         return 1
 
 

@@ -1,0 +1,33 @@
+Query: UK News Headlines
+Timestamp: 2026-02-18T20:38:08
+- UK | Latest News & Updates | BBC News
+  https://www.bbc.com/news/uk
+  Get all the latest news, live updates and content about the UK from across the BBC.
+- UK News - The latest headlines from the UK | Sky News
+  https://news.sky.com/uk
+  Expert comment and analysis on the latest UK news, with headlines from England, Scotland, Northern Ireland and Wales.
+- Google News - United Kingdom - Latest
+  https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE
+  Read full articles, watch videos, browse thousands of titles and more on the "United Kingdom" topic with Google News.
+- Latest UK news | The Guardian
+  https://www.theguardian.com/uk-news
+  Latest news, breaking news and current affairs coverage from across the UK from theguardian.com
+- UK News - Breaking News UK & UK Newspaper Stories - Express.co.uk
+  https://www.express.co.uk/news/uk
+  Breaking UK news headlines and stories from around Britain from Express.co.uk. Featuring the latest news stories, features, analysis, videos and pictures.
+- UK News: Latest breaking headlines, top stories and updates
+  https://metro.co.uk/news/uk/
+  Find out all latest UK news from England, Wales, Scotland and Northern Ireland including breaking and exclusive headlines and stories from Metro.co.uk.
+- UK news: Latest stories & updates - The Telegraph
+  https://www.telegraph.co.uk/news/uk/
+  Find all the latest news and updates from stories around the UK. Including politics, transport, education, health and religion.
+- UK News | UK Latest News - NewsNow
+  https://www.newsnow.co.uk/h/UK
+  Get the latest UK news, covering England, Scotland, Wales and Northern Ireland, in a live news feed aggregated from mainstream, alternative and independent sources.
+- UK | Latest News & Updates - BBC
+  https://www.bbc.co.uk/news/uk
+  Get all the latest news, live updates and content about the UK from across the BBC.
+- UK News | Top Stories from the UK | Reuters
+  https://www.reuters.com/world/uk/
+  Reuters.com is your online source for the latest UK news stories and current events, ensuring our readers up to date with any breaking news developments
+
