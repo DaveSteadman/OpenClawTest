@@ -1,0 +1,32 @@
+StartURL: https://www.python.org/
+Timestamp: 2026-02-19T21:46:47
+PerPageSummaryWords: 200
+StartPageSummaryWords: 200
+StartPageSummary:
+Notice: This page displays a fallback because interactive scripts did not run. Possible causes include disabled JavaScript or failure to load scripts or stylesheets. Skip to content ▼ Close Python PSF Docs PyPI Jobs Community ▲ The Python Network Donate ≡ Menu Search This Site GO A A Smaller Larger Reset Socialize LinkedIn Mastodon Chat on IRC Twitter About Applications Quotes Getting Started Help Python Brochure Downloads All releases Source code Windows macOS Android Other Platforms License Alternative Implementations Documentation Docs Audio/Visual Talks Beginner's Guide FAQ Non-English Docs PEP Index Python Books Python Essays Community Diversity Mailing Lists IRC Forums PSF Annual Impact Report Python Conferences Special Interest Groups Python Logo Python Wiki Code of Conduct Community Awards Get Involved Shared Stories Success Stories Arts Business Education Engineering Government Scientific Software Development News Python News PSF Newsletter PSF News PyCon US News News from the Community Events Python Events User Group Events Python Events Archive User Group Events Archive Submit an Event >_ Launch Interactive Shell # Python 3: Fibonacci series up to n >>> def fib(n): >>> a, b = 0, 1 >>> while a < n: >>> print(a, end=' ') >>> a, b = b, a+b >>> print()
+
+- Link 1
+  AnchorText: Python
+  URL: https://www.python.org/
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Notice: This page displays a fallback because interactive scripts did not run. Possible causes include disabled JavaScript or failure to load scripts or stylesheets. Skip to content ▼ Close Python PSF Docs PyPI Jobs Community ▲ The Python Network Donate ≡ Menu Search This Site GO A A Smaller Larger Reset Socialize LinkedIn Mastodon Chat on IRC Twitter About Applications Quotes Getting Started Help Python Brochure Downloads All releases Source code Windows macOS Android Other Platforms License Alternative Implementations Documentation Docs Audio/Visual Talks Beginner's Guide FAQ Non-English Docs PEP Index Python Books Python Essays Community Diversity Mailing Lists IRC Forums PSF Annual Impact Report Python Conferences Special Interest Groups Python Logo Python Wiki Code of Conduct Community Awards Get Involved Shared Stories Success Stories Arts Business Education Engineering Government Scientific Software Development News Python News PSF Newsletter PSF News PyCon US News News from the Community Events Python Events User Group Events Python Events Archive User Group Events Archive Submit an Event >_ Launch Interactive Shell # Python 3: Fibonacci series up to n >>> def fib(n): >>> a, b = 0, 1 >>> while a < n: >>> print(a, end=' ') >>> a, b = b, a+b >>> print()
+
+- Link 2
+  AnchorText: PSF
+  URL: https://www.python.org/psf-landing/
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Notice: This page displays a fallback because interactive scripts did not run. Possible causes include disabled JavaScript or failure to load scripts or stylesheets. Skip to content ▼ Close Python PSF Docs PyPI Jobs Community ▲ The Python Network Donate ≡ Menu Search This Site GO A A Smaller Larger Reset Socialize LinkedIn Mastodon Chat on IRC Twitter About Mission Statement Board of Directors & Officers PSF Staff Annual Impact Report Fiscal Sponsorees Public Records Legal & Policies PSF FAQ Developers in Residence Sponsorship PSF Sponsors Apply to Sponsor Sponsorship Prospectus 2025-26 Membership Sign up as a Member of the PSF! Membership FAQ PSF Elections Nominate a Fellow & Fellows Roster Donate End of year fundraiser 2025: Python is for Everyone Donate to the PSF Become a Supporting Member of the PSF PSF Matching Donations Volunteer Volunteer for the PSF PSF Work Groups Volunteer for PyCon US Community Programs Grants Program Grants Program FAQ Community Partner Program PyCon US News & Community Subscribe to the Newsletter PSF Blog Python Community Code of Conduct Community Awards Discourse The Python Software Foundation is the charitable organization behind the Python programming language. We support the Python Community through... Grants In 2024, the PSF
+
+- Link 3
+  AnchorText: Docs
+  URL: https://docs.python.org/3/
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  3.14.3 Documentation Theme Auto Light Dark Download Download these documents Docs by version Python 3.15 (in development) Python 3.14 (stable) Python 3.13 (stable) Python 3.12 (security-fixes) Python 3.11 (security-fixes) Python 3.10 (security-fixes) Python 3.9 (EOL) Python 3.8 (EOL) Python 3.7 (EOL) Python 3.6 (EOL) Python 3.5 (EOL) Python 3.4 (EOL) Python 3.3 (EOL) Python 3.2 (EOL) Python 3.1 (EOL) Python 3.0 (EOL) Python 2.7 (EOL) Python 2.6 (EOL) All versions Other resources PEP Index Beginner's Guide Book List Audio/Visual Talks Python Developerâs Guide Navigation index modules | Python » 3.14.3 Documentation » | Theme Auto Light Dark | Python 3.14.3 documentation Welcome! This is the official documentation for Python 3.14.3. Documentation sections: What's new in Python 3.14? Or all "What's new" documents since Python 2.0 Tutorial Start here: a tour of Python's syntax and features Library reference Standard library and builtins Language reference Syntax and language elements Python setup and usage How to install, configure, and use Python Python HOWTOs In-depth topic manuals Installing Python modules Third-party modules and PyPI.org Distributing Python modules Publishing modules for use by other people Extending and embedding For C/C++ programmers Python's C API C API reference FAQs Frequently asked questions (with answers!) Deprecations Deprecated
+
+

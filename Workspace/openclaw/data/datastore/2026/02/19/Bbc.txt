@@ -1,0 +1,288 @@
+StartURL: https://www.bbc.co.uk/news
+Timestamp: 2026-02-19T21:48:29
+PerPageSummaryWords: 200
+StartPageSummaryWords: 200
+StartPageSummary:
+Home - BBC News BBC Homepage Skip to content Accessibility Help Your account Notifications Home News Sport Weather iPlayer Sounds Bitesize CBBC CBeebies Food More menu More menu Search BBC Home News Sport Weather iPlayer Sounds Bitesize CBBC CBeebies Food Close menu BBC News Menu Home UK World Business Culture Politics Health Tech InDepth BBC Verify Climate More Science Family & Education In Pictures Disability Newsbeat England N. Ireland Scotland Alba Wales Cymru Local News My News BBC News Live .Â Live .Â Andrew released under investigation after arrest on suspicion of misconduct in public office The former prince has been pictured leaving a police station on Thursday evening, as police say searches in Norfolk have ended. Scroll to previous item Scroll to next item 0:18 Andrew departs police station in Norfolk. 00:00:18, play video Andrew departs police station in Norfolk 0:59 Trump on Andrew arrest: 'It's a shame' 00:00:59, play video Trump on Andrew arrest: 'It's a shame' 0:20 King asked for reaction to brother's arrest. 00:00:20, play video King asked for reaction to brother's arrest 1:27 Arrest 'an extraordinary set of events' 00:01:27, play video Arrest 'an extraordinary set of events' 0:29 Moment BBC breaks news of arrest.
+
+- Link 1
+  AnchorText: BBC Homepage
+  URL: https://www.bbc.co.uk/
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BBC - Home BBC Homepage Skip to content Accessibility Help Your account Notifications Home News Sport Weather iPlayer Sounds Bitesize CBBC CBeebies Food More menu More menu Search BBC Home News Sport Weather iPlayer Sounds Bitesize CBBC CBeebies Food Close menu Welcome to the BBC BBC Homepage Live .Â Live .Â Andrew released under investigation after arrest on suspicion of misconduct in public office The former prince has been pictured leaving a police station on Thursday evening, as police say searches in Norfolk have ended. Attribution News Scroll to previous item Scroll to next item 0:18 Andrew departs police station in Norfolk. 00:00:18, play video Andrew departs police station in Norfolk 0:59 Trump on Andrew arrest: 'It's a shame' 00:00:59, play video Trump on Andrew arrest: 'It's a shame' 0:20 King asked for reaction to brother's arrest. 00:00:20, play video King asked for reaction to brother's arrest 1:27 Arrest 'an extraordinary set of events' 00:01:27, play video Arrest 'an extraordinary set of events' 0:29 Moment BBC breaks news of arrest. 00:00:29, play video Moment BBC breaks news of arrest 0:20 Vehicles arrive at Sandringham Estate. 00:00:20, play video Vehicles arrive at Sandringham Estate 2:19 What happened this morning? 00:02:19, play
+
+- Link 2
+  AnchorText: Accessibility Help
+  URL: https://www.bbc.co.uk/accessibility/
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Accessibility - BBC Homepage Accessibility links Skip to content Accessibility Help BBC Account Notifications Home News Sport Weather iPlayer Sounds Bitesize CBeebies CBBC Food Home News Sport Business Innovation Culture Travel Earth Video Live More menu Search BBC Home News Sport Weather iPlayer Sounds Bitesize CBeebies CBBC Food Home News Sport Business Innovation Culture Travel Earth Video Live Close menu BBC Accessibility BBC Accessibility Help All audiences are important to the BBC. This page provides links to resources and documents to help users access the BBC's content and to find out about the BBC approach to the development of rich accessible products and services. BBC Accessibility Help BBC Shows and Tours, booking assistance BBC iPlayer, Accessibility FAQs BBC iPlayer, Playing Content BBC iPlayer, Audio Described Content BBC iPlayer, Signed Content BBC Sounds Accessibility Information Cbeebies, Parents Pages for Children with Special Needs BBC Accessibility Policy BBC Policies and Guidelines BBC Freedom of Information BBC Accessibility Policy BBC Programmes and Accessibility BBC iPlayer, Criptales BBC Sounds, 1800 Seconds on Autism BBC Sounds, Ouch! BBC 2, See Hear BBC Radio 4, In Touch CBeebies, Something Special CBeebies, Magic Hands CBeebies, Pablo Useful BBC Accessibility Design and Technical Resources BBC a11y testing tool
+
+- Link 3
+  AnchorText: Your account
+  URL: https://account.bbc.com/auth?realm=%2F&clientId=Account&ptrt=https%3A%2F%2Faccount.bbc.com%2Faccount%3Flang%3Den-GB%26ptrt%3Dhttps%253A%252F%252Fwww.bbc.co.uk%252Fnews&isCasso=false&action=sign-in&redirectUri=https%3A%2F%2Fsession.bbc.com%2Fsession%2Fcallback%3Frealm%3D%2F&service=IdSignInService&nonce=ExOU85bl-IEbdfC-0wp1hy0slB80G142CD1M
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 88
+  LinkedPageSummary:
+  BBC – Sign in Enter your email or username Email or username Continue Sign in and we’ll help you discover more things you’ll love. I've forgotten my username or email More help signing in Don’t have a BBC account? Register now Find out more about BBC accounts Terms of Use About the BBC Privacy Policy Cookies Accessibility Help Parental Guidance Contact the BBC Get Personalised Newsletters Copyright © 2026 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+- Link 4
+  AnchorText: Notifications
+  URL: https://account.bbc.com/auth?realm=%2F&clientId=Account&action=sign-in&journeyGroupType=sign-in&ptrt=https%3A%2F%2Fwww.bbc.co.uk%2Fnotifications&sequenceId=3b1dac4e-0b39-46b7-bd2c-99d7e2f84e43&isCasso=false&redirectUri=https%3A%2F%2Fsession.bbc.co.uk%2Fsession%2Fcallback%3Frealm%3D%2F&service=IdSignInService&nonce=tq58p3LX-Vc75MwXUankdF0rRV1-243xsPlo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 88
+  LinkedPageSummary:
+  BBC – Sign in Enter your email or username Email or username Continue Sign in and we’ll help you discover more things you’ll love. I've forgotten my username or email More help signing in Don’t have a BBC account? Register now Find out more about BBC accounts Terms of Use About the BBC Privacy Policy Cookies Accessibility Help Parental Guidance Contact the BBC Get Personalised Newsletters Copyright © 2026 BBC. The BBC is not responsible for the content of external sites. Read about our approach to external linking.
+
+- Link 5
+  AnchorText: News
+  URL: https://www.bbc.co.uk/news
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Home - BBC News BBC Homepage Skip to content Accessibility Help Your account Notifications Home News Sport Weather iPlayer Sounds Bitesize CBBC CBeebies Food More menu More menu Search BBC Home News Sport Weather iPlayer Sounds Bitesize CBBC CBeebies Food Close menu BBC News Menu Home UK World Business Culture Politics Health Tech InDepth BBC Verify Climate More Science Family & Education In Pictures Disability Newsbeat England N. Ireland Scotland Alba Wales Cymru Local News My News BBC News Live .Â Live .Â Andrew released under investigation after arrest on suspicion of misconduct in public office The former prince has been pictured leaving a police station on Thursday evening, as police say searches in Norfolk have ended. Scroll to previous item Scroll to next item 0:18 Andrew departs police station in Norfolk. 00:00:18, play video Andrew departs police station in Norfolk 0:59 Trump on Andrew arrest: 'It's a shame' 00:00:59, play video Trump on Andrew arrest: 'It's a shame' 0:20 King asked for reaction to brother's arrest. 00:00:20, play video King asked for reaction to brother's arrest 1:27 Arrest 'an extraordinary set of events' 00:01:27, play video Arrest 'an extraordinary set of events' 0:29 Moment BBC breaks news of arrest.
+
+- Link 6
+  AnchorText: Sport
+  URL: https://www.bbc.co.uk/sport
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BBC Sport - Scores, Fixtures, News - Live Sport BBC Homepage Skip to content Accessibility Help Your account Notifications Home News Sport Weather iPlayer Sounds Bitesize CBBC CBeebies Food More menu More menu Search BBC Home News Sport Weather iPlayer Sounds Bitesize CBBC CBeebies Food Close menu BBC Sport Menu Home Football Cricket Winter Olympics Formula 1 Rugby U Rugby L Tennis Golf Boxing My Sport More A-Z Sports American Football Athletics Basketball Boxing Cricket Cycling Darts Disability Sport Football Formula 1 Gaelic Games Golf Gymnastics Horse Racing Mixed Martial Arts Motorsport Netball Olympic Sports Rugby League Rugby Union Snooker Swimming Tennis Winter Olympics Full Sports A-Z More from Sport England Scotland Wales Northern Ireland My Sport Match of the Day Sports Personality 5 Live Sport News Feeds Help & FAQs Home Winter Olympics Guide Six Nations Video Sign In Banner Discover your BBC Sign in or create an account to watch, listen and join in Sign in or Register Close sign in banner BBC Sport Live .Â Winter Olympics: Watch women's figure skating final after GB's curlers reach gold medal match Watch action from the Milan-Cortina Winter Olympics as Great Britain's men reach curling final with women's figure skating
+
+- Link 7
+  AnchorText: Weather
+  URL: https://www.bbc.co.uk/weather
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BBC Weather - Home Homepage Accessibility links Skip to content Accessibility Help BBC Account Notifications Home News Sport Weather iPlayer Sounds Bitesize CBeebies CBBC Food Home News Sport Business Innovation Culture Travel Earth Video Live More menu Search BBC Home News Sport Weather iPlayer Sounds Bitesize CBeebies CBBC Food Home News Sport Business Innovation Culture Travel Earth Video Live Close menu BBC Weather BBC Weather Search for a location Search Search for a location Forecast for the UK Latest forecast for the UK Last updated 1 hour ago Latest forecast for UK Last updated 58 minutes ago Tonight Tonight, the south will be mainly dry, with cloudy periods and clear breaks at times. The north will be cloudy. In the early hours, a band of rain will push into the north-west, becoming breezy. Friday Tomorrow will become unsettled, with a band of rain pushing in from the west, then clearing to bright spells and blustery showers during the afternoon. Hill snow possible in Scotland in the morning. Outlook for Saturday to Monday Saturday will be breezy and cloudy with a few spots of light rain. In the afternoon and evening, the rain will become heavier across the west. Sunday will
+
+- Link 8
+  AnchorText: iPlayer
+  URL: https://www.bbc.co.uk/iplayer
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BBC iPlayer - Home Homepage Accessibility links Skip to content Accessibility Help BBC Account Notifications Home News Sport Weather iPlayer Sounds Bitesize CBeebies CBBC Food Home News Sport Business Innovation Culture Travel Earth Video Live More menu Search iPlayer Home News Sport Weather iPlayer Sounds Bitesize CBeebies CBBC Food Home News Sport Business Innovation Culture Travel Earth Video Live Close menu iPlayer Navigation iPlayer Accessibility Help Menu Channels ; ; Channels Sub Navigation Scroll Channels Sub Navigation left BBC One BBC Two BBC Three BBC Four BBC Radio 1 CBBC CBeebies BBC Scotland BBC News BBC Parliament BBC Alba S4C Scroll Channels Sub Navigation right Categories Categories Category Sub Navigation Scroll Category Sub Navigation left Drama & Soaps Films Comedy Documentaries Sport News Entertainment Music Food Lifestyle History Science & Nature Arts From the Archive Audio Described Signed Northern Ireland Scotland Wales CBeebies CBBC Scroll Category Sub Navigation right Drama & Soaps Films Comedy Documentaries Sport News Entertainment Music Food Lifestyle History Science & Nature Arts From the Archive Accessible alternative formats Audio Described Signed Regions Northern Ireland Scotland Wales Children’s CBeebies CBBC A-Z TV Guide Watchlist BBC iPlayer Homepage Live Live The Apprentice Series 20: 4. Advertising Water The
+
+
+StartURL: https://www.bbc.co.uk/news
+Timestamp: 2026-02-19T21:52:01
+PerPageSummaryWords: 200
+StartPageSummaryWords: 200
+StartPageSummary:
+BBC News Live .Â The former prince has been pictured leaving a police station on Thursday evening, as police say searches in Norfolk have ended. More top stories Change my nation Change your nation to get more top stories from where you are, as well as the UK and international headlines. United Kingdom England Scotland Wales Northern Ireland You are now seeing top stories for Northern Ireland More top stories Change my nation Change your nation to get more top stories from where you are, as well as the UK and international headlines. United Kingdom England Scotland Wales Northern Ireland You are now seeing top stories for Wales More top stories Change my nation Change your nation to get more top stories from where you are, as well as the UK and international headlines. United Kingdom England Scotland Wales Northern Ireland You are now seeing top stories for Scotland More top stories Change my nation Change your nation to get more top stories from where you are, as well as the UK and international headlines. United Kingdom England Scotland Wales Northern Ireland You are now seeing top stories for England More top stories Change my nation Change your nation to
+
+- Link 1
+  AnchorText: Live .Â Andrew released under investigation after arrest on suspicion of misconduct in public office
+  URL: https://www.bbc.co.uk/news/live/c70kjr9wjw0t
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 20
+  LinkedPageSummary:
+  Andrew pictured leaving police station following arrest on suspicion of misconduct in public office - live updates - BBC News
+
+- Link 2
+  AnchorText: Epstein files could be just tip of the iceberg for Andrew investigation
+  URL: https://www.bbc.co.uk/news/articles/cd032xnm804o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Image source, PA Media Image caption, Two addresses are being searched following the arrest of Andrew Mountbatten-Windsor By Daniel Sandford UK correspondent Published 19 February 2026, 17:58 GMT Updated 1 hour ago When Andrew Mountbatten-Windsor was arrested at about 08:00 on Thursday, it had nothing to do with Virginia Giuffre, the woman who accused him of sexual abuse. What led to him being arrested started with information that came out in the massive Epstein file release in January, around activities while he was a trade envoy for the British government. But it will not have stopped there. It was emails in those files that seem to be between Andrew and the late sex offender Jeffrey Epstein that led to Thames Valley Police getting involved. One email in particular stood out. In November 2010, after Andrew had returned from a UK government-funded trip to Asia, he was sent a series of country reports relating to his trip. Within five minutes of receiving them he seems to have forwarded them to Epstein , who had by this point already been convicted and spent time in prison for sex offences. There were further email revelations from the files. A month later, on Christmas
+
+- Link 3
+  AnchorText: An unprecedented moment for the UK - and a former prince
+  URL: https://www.bbc.co.uk/news/articles/czr0vj13ezjo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Image source, Reuters Image caption, The King was not informed in advance of the arrest, the BBC understands By Sean Coughlan Royal correspondent Published 19 February 2026, 17:42 GMT Updated 3 hours ago It's a catch your breath moment. Andrew Mountbatten-Windsor is the first senior member of the Royal Family in modern history to have been arrested. The events are made even more dramatic by the unprecedented statement from his brother, King Charles. "Let me state clearly: the law must take its course," says the unambiguous statement from the King, offering no hiding place or protection. The arrest, on suspicion of misconduct in public office, relates to Andrew's time as the UK's trade representative between 2001 and 2011. It follows a series of allegations, prompted by the release of the Epstein files, that Andrew shared official documents. That included sharing reports from trade visits and a confidential briefing on investment in Afghanistan with the sex offender Jeffrey Epstein, and passing a Treasury briefing to a personal business contact. Being a member of the Royal Family will make no legal difference to how his case is assessed. Andrew Mountbatten-Windsor has consistently denied any wrongdoing in his associations with Epstein. The no-nonsense
+
+- Link 4
+  AnchorText: Read King and police statements in full
+  URL: https://www.bbc.co.uk/news/articles/cd6zjl58734o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Media caption, Vehicles arrive at Sandringham Estate in Norfolk Published 19 February 2026, 10:31 GMT Updated 9 hours ago King Charles III has released a statement after his brother Andrew Mountbatten-Windsor was arrested on Thursday on suspicion of misconduct in public office. Earlier, Thames Valley Police released a separate statement saying it had arrested a man in his 60s. It comes after police said they were assessing a complaint over the alleged sharing of confidential material with late sex offender Jeffrey Epstein. Andrew has previously denied wrongdoing in relation to Epstein; he has not responded to the BBC's requests for comment on any of the specific allegations in relation to the release of millions of Epstein files in January. Here are both statements in full: King's statement "I have learned with the deepest concern the news about Andrew Mountbatten-Windsor and suspicion of misconduct in public office. "What now follows is the full, fair and proper process by which this issue is investigated in the appropriate manner and by the appropriate authorities. "In this, as I have said before, they have our full and wholehearted support and co-operation. "Let me state clearly: the law must take its course. "As this process
+
+- Link 5
+  AnchorText: What happens next after Andrew's arrest?
+  URL: https://www.bbc.co.uk/news/articles/cn9e1q4797wo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Image source, Reuters Image caption, Andrew Mountbatten-Windsor rides a horse in Windsor Great Park, near Royal Lodge, earlier this month By Duncan Walker Â and Â Tom McArthur Published 19 February 2026, 11:57 GMT Updated 1 minute ago Andrew Mountbatten-Windsor has been arrested on suspicion of misconduct in public office. It comes after Thames Valley Police said it was assessing a complaint over the alleged sharing of confidential material by the former prince with late sex offender Jeffrey Epstein. The former prince has consistently and strenuously denied any wrongdoing in relation to Epstein. He has since been released under investigation. Andrew was seen leaving Aylsham police station on Thursday evening. Why has Andrew Mountbatten-Windsor been arrested? Mountbatten-Windsor was arrested at about 08:00 GMT on Thursday on the King's Sandringham Estate in Norfolk, where he has been staying. Officers arrested the King's brother on his 66th birthday. It is understood that neither the King nor Buckingham Palace was informed in advance of Mountbatten-Windsor's arrest, by officers from Thames Valley Police. We don't know the specifics of the allegations of misconduct in public office being investigated. However, previously reported allegations include that he had shared reports from trade visits, forwarded a confidential
+
+- Link 6
+  AnchorText: He told police his XL bullies were friendly â days later his mother-in-law was mauled to death
+  URL: https://www.bbc.co.uk/news/articles/c75e6qpl4p0o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Image source, PA Media Image caption, Ashley Warren was the first person in the UK to be prosecuted under XL bully laws By Lewis Adams Essex Published 1 hour ago When the police visited Ashley Warren's home in Jaywick, Essex, he told them his XL bully dogs were misunderstood, even suggesting they were less vicious than a poodle. Yet 10 days later, and two days after their ownership became illegal without a certificate of exemption , they mauled his mother-in-law to death. Esther Martin, 68, had been left in the property with the two dogs, eight puppies and a child while Warren filmed a music video in London on 3 February 2024. The amateur rapper was alerted to screams coming from his property in Hillman Avenue and demanded "someone that's strong, really strong" went immediately. But it was too late. Martin suffered "dozens and dozens" of catastrophic bites and was dead within minutes . Warren, 41, was arrested upon his return to Clacton railway station and became the first person in the UK to be charged with XL bully-related offences. He has now been found guilty of owning one of the dogs, called Bear, responsible for killing Martin. He was
+
+- Link 7
+  AnchorText: UK has not given US permission to use RAF bases for Iran strikes
+  URL: https://www.bbc.co.uk/news/articles/cj98egkl7l1o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Image source, Reuters Image caption, US President Donald Trump has expressed his opposition to the Chagos deal By Jonathan Beale ,Â Defence correspondent Â and Â Joe Pike ,Â Political correspondent Published 19 February 2026, 17:13 GMT Updated 3 hours ago The British government has not given permission for the US to use UK military bases to support potential US strikes on Iran, the BBC understands. The US has in the past used RAF Fairford, in Gloucestershire, and the UK overseas territory of Diego Garcia, in the Indian Ocean, to carry out strikes in the Middle East region. The Times reports , external that US President Donald Trump's latest criticism of Sir Keir Starmer's deal to hand the Chagos Islands over to Mauritius and lease back a joint UK-US military base was prompted by the UK withholding permission to use bases. A UK government spokesperson said: "As routine, we do not comment on operational matters." The US has been pressuring Iran to agree to curb its nuclear programme. It has threatened possible strikes if it fails to do so and has moved warships, aircraft and other military assets to the region in preparation for a possible strike. At the same
+
+- Link 8
+  AnchorText: Single nasal spray vaccine could protect against all colds and flus, researchers say
+  URL: https://www.bbc.co.uk/news/articles/cx2g8rz7yedo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Image source, Getty Images Image caption, Could a different style of vaccine mark the end of the winter cold? By James Gallagher Health and science correspondent Published 1 hour ago A single nasal spray vaccine could protect against all coughs, colds and flus, as well as bacterial lung infections, and may even ease allergies, say US researchers. The team at Stanford University have tested their "universal vaccine" in animals and still need to do human clinical trials. Their approach marks a "radical departure" from the way vaccines have been designed for more than 200 years, they say. Experts in the field said the study was "really exciting" despite being at an early stage and could be a "major step forward". Current vaccines train the body to fight one single infection. A measles vaccine protects against only measles and a chickenpox vaccine protects against only chickenpox. This is how immunisation has worked since Sir Edward Jenner pioneered vaccines in the late 18th Century. The approach described in the journal Science , external does not train the immune system. Instead it mimics the way immune cells communicate with each other. It is given as a nasal spray and leaves white blood cells
+
+
+StartURL: https://www.bbc.co.uk/news
+Timestamp: 2026-02-19T21:54:08
+PerPageSummaryWords: 200
+StartPageSummaryWords: 14
+StartPageSummary:
+Top stories, breaking news, live reporting, and follow news topics that match your interests
+
+- Link 1
+  AnchorText: Epstein files could be just tip of the iceberg for Andrew investigation
+  URL: https://www.bbc.co.uk/news/articles/cd032xnm804o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  It is highly unlikely that the police arrested Andrew on Thursday on the basis of just a couple of emails people have seen within the Epstein files. At this stage, Andrew has only been arrested. He has not been charged. He has always denied any wrongdoing arising from his relationship with Epstein and has not responded to specific BBC questions about the files released in January. And a reminder, this arrest has nothing to do with allegations Andrew has previously faced from Giuffre, who said she was made to have sex with Andrew on a number of occasions in the early 2000s. An out-of-court financial settlement was reached between Andrew and Giuffre in 2022, which made no admission of wrongdoing on Andrew's part. The police released Andrew under investigation on Thursday evening. Typically with arrests relating to white collar crime, people are held for a few hours to allow for searches and initial questioning. Being released under investigation does not rule out further questioning at a later date. Now detectives will have a big decision to make. This could take weeks. Police officers with a crown on their cap badges will sit down with lawyers from the Crown Prosecution Service
+
+- Link 2
+  AnchorText: An unprecedented moment for the UK - and a former prince
+  URL: https://www.bbc.co.uk/news/articles/czr0vj13ezjo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The Palace has had some nervous moments in recent times, with questions shouted by hecklers suggesting they might be protecting Andrew. This statement from the King will seek to draw a line under this and separate the Royal Family from whatever might happen to Andrew. Another important factor in all of this is the public mood. The Epstein files, and what they have revealed regarding a network of those apparently high in connections but low on morals, has left people feeling angry at such unaccountable power and wealth. It has felt abusive to the public, that the rich and influential appear to have been immune from the consequences of their behaviour, be it in terms of either sex or money. It has seemed to the public that corruption paid. Making the arrest even more resonant is that it happened on Andrew's 66th birthday. Any candles are going to have to wait for later. There are references to Andrew's previous birthdays in the Epstein files, such as a glitzy bash for his 50th at St James's Palace. One person who had to turn down the invite for that night of "mysterious mischief" was Jeffrey Epstein, who was still under house arrest
+
+- Link 3
+  AnchorText: Read King and police statements in full
+  URL: https://www.bbc.co.uk/news/articles/cd6zjl58734o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 146
+  LinkedPageSummary:
+  "As part of the investigation, we have today (19/2) arrested a man in his sixties from Norfolk on suspicion of misconduct in public office and are carrying out searches at addresses in Berkshire and Norfolk. "The man remains in police custody at this time. "We will not be naming the arrested man, as per national guidance. Please also remember that this case is now active so care should be taken with any publication to avoid being in contempt of court. "Assistant Chief Constable Oliver Wright said: "Following a thorough assessment, we have now opened an investigation into this allegation of misconduct in public office. "'It is important that we protect the integrity and objectivity of our investigation as we work with our partners to investigate this alleged offence. "We understand the significant public interest in this case, and we will provide updates at the appropriate time.'"
+
+- Link 4
+  AnchorText: What happens next after Andrew's arrest?
+  URL: https://www.bbc.co.uk/news/articles/cn9e1q4797wo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Mountbatten-Windsor was arrested at about 08:00 GMT on Thursday on the King's Sandringham Estate in Norfolk, where he has been staying. Officers arrested the King's brother on his 66th birthday. It is understood that neither the King nor Buckingham Palace was informed in advance of Mountbatten-Windsor's arrest, by officers from Thames Valley Police. We don't know the specifics of the allegations of misconduct in public office being investigated. However, previously reported allegations include that he had shared reports from trade visits, forwarded a confidential briefing on investment in Afghanistan, and passed a Treasury briefing to a personal business contact. BBC News UK and home affairs correspondent Daniel Sandford said: "There has to be an assumption that part of this is going to be the sharing of documents within the Epstein files - between Andrew and Jeffrey Epstein himself. That's when Thames Valley Police got involved." But Sandford said it was possible that police were not only focusing on emails seen widely in the Epstein files. "Firstly, there's three million documents in the files, so there may be some the media have missed. But secondly, Buckingham Palace said they would support Thames Valley Police in their inquiries. "And that potentially means
+
+- Link 5
+  AnchorText: He told police his XL bullies were friendly â days later his mother-in-law was mauled to death
+  URL: https://www.bbc.co.uk/news/articles/c75e6qpl4p0o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 189
+  LinkedPageSummary:
+  When the police visited Ashley Warren's home in Jaywick, Essex, he told them his XL bully dogs were misunderstood, even suggesting they were less vicious than a poodle. Yet 10 days later, and two days after their ownership became illegal without a certificate of exemption , they mauled his mother-in-law to death. Esther Martin, 68, had been left in the property with the two dogs, eight puppies and a child while Warren filmed a music video in London on 3 February 2024. The amateur rapper was alerted to screams coming from his property in Hillman Avenue and demanded "someone that's strong, really strong" went immediately. But it was too late. Martin suffered "dozens and dozens" of catastrophic bites and was dead within minutes . Warren, 41, was arrested upon his return to Clacton railway station and became the first person in the UK to be charged with XL bully-related offences. He has now been found guilty of owning one of the dogs, called Bear, responsible for killing Martin. He was cleared of being in charge of the other dog, Beauty, which also injured Martin, but belonged to his girlfriend.
+
+- Link 6
+  AnchorText: UK has not given US permission to use RAF bases for Iran strikes
+  URL: https://www.bbc.co.uk/news/articles/cj98egkl7l1o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The US has been pressuring Iran to agree to curb its nuclear programme. It has threatened possible strikes if it fails to do so and has moved warships, aircraft and other military assets to the region in preparation for a possible strike. At the same time, some progress has been reported at talks between American and Iranian negotiators in Switzerland. On Thursday, Trump said the world would find out "over the next, probably, 10 days" whether the US would reach a deal with Iran or take military action. A UK government spokesperson said: "There is a political process ongoing between the US and Iran, which the UK supports. "Iran must never be able to develop a nuclear weapon, and our priority is security in the region." Sir Keir spoke to Trump over the phone on Tuesday, after the US government gave its formal support for the Chagos deal. The Times reports that the pair discussed Trump's ultimatum to Iran over its nuclear programme, and Trump made his statement attacking the Chagos deal the next day. Insiders believe the Pentagon's preparations for possible strikes on Iran - which could potentially be launched from Diego Garcia - may have shifted the president's
+
+- Link 7
+  AnchorText: Single nasal spray vaccine could protect against all colds and flus, researchers say
+  URL: https://www.bbc.co.uk/news/articles/cx2g8rz7yedo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  However, there are still many questions to answer. The vaccine was given as a nasal spray in the experiments, but may need to be breathed in through a nebuliser to reach the depths of human lungs. It is not known whether the same effect can be achieved in people or how long the immune system would stay in amber alert. There are differences in the immune systems between mice and humans, including our immunity being shaped by decades of infections. So the researchers are planning trials where one person is vaccinated and then deliberately infected to see how their body copes. There may also be consequences to dialling up the immune system beyond its normal state - raising questions of immune disorders. Jonathan Ball, professor of molecular virology at the Liverpool School of Tropical Medicine, said the work was undeniably "exciting" but cautioned "we have to ensure that keeping the body on 'high alert' doesn't lead to friendly fire, where a hyper-ready immune system accidentally triggers unwelcome side effects". The research team in the US does not think the immune system should be permanently dialled up and think such a vaccine should be used to compliment rather than replace current
+
+- Link 8
+  AnchorText: SpaceX rocket fireball linked to plume of polluting lithium
+  URL: https://www.bbc.co.uk/news/articles/cpd8z4eqlxno
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  "I hope that if we start our measurements now, perhaps we can get ahead of the curve and identify any potential problems before they become serious," Wing says. Earlier research has suggested that 10% of aerosols in the atmosphere are already contaminated by space debris. SpaceX has not responded to emailed requests from BBC News for comment. The researchers also sent their findings to the company but did not receive a response. Almost 30,000 pieces of debris are calculated to be free-floating in space, created when rockets break up in space or satellites disintegrate. Scientists warn that the debris is congesting space and threatens collision with rockets, the International Space Station, and our planet. Musk's SpaceX is the world's leading company for rocket launches including for sending humans into space and maintaining a network of 10,000 Starlink internet satellites. Musk recently announced he has applied to launch one million satellites to support artificial intelligence (AI) data centres in space. Scientists warn that as humans move more activities off-Earth, more debris will fall to Earth, polluting as it plummets. Last year a group of researchers from Nasa, the University of Plymouth and University of Texas called on the UN to include
+
+
+StartURL: https://www.bbc.co.uk/news
+Timestamp: 2026-02-19T21:54:44
+PerPageSummaryWords: 200
+StartPageSummaryWords: 14
+StartPageSummary:
+Top stories, breaking news, live reporting, and follow news topics that match your interests
+
+- Link 1
+  AnchorText: Epstein files could be just tip of the iceberg for Andrew investigation
+  URL: https://www.bbc.co.uk/news/articles/cd032xnm804o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  It is highly unlikely that the police arrested Andrew on Thursday on the basis of just a couple of emails people have seen within the Epstein files. At this stage, Andrew has only been arrested. He has not been charged. He has always denied any wrongdoing arising from his relationship with Epstein and has not responded to specific BBC questions about the files released in January. And a reminder, this arrest has nothing to do with allegations Andrew has previously faced from Giuffre, who said she was made to have sex with Andrew on a number of occasions in the early 2000s. An out-of-court financial settlement was reached between Andrew and Giuffre in 2022, which made no admission of wrongdoing on Andrew's part. The police released Andrew under investigation on Thursday evening. Typically with arrests relating to white collar crime, people are held for a few hours to allow for searches and initial questioning. Being released under investigation does not rule out further questioning at a later date. Now detectives will have a big decision to make. This could take weeks. Police officers with a crown on their cap badges will sit down with lawyers from the Crown Prosecution Service
+
+- Link 2
+  AnchorText: An unprecedented moment for the UK - and a former prince
+  URL: https://www.bbc.co.uk/news/articles/czr0vj13ezjo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The Palace has had some nervous moments in recent times, with questions shouted by hecklers suggesting they might be protecting Andrew. This statement from the King will seek to draw a line under this and separate the Royal Family from whatever might happen to Andrew. Another important factor in all of this is the public mood. The Epstein files, and what they have revealed regarding a network of those apparently high in connections but low on morals, has left people feeling angry at such unaccountable power and wealth. It has felt abusive to the public, that the rich and influential appear to have been immune from the consequences of their behaviour, be it in terms of either sex or money. It has seemed to the public that corruption paid. Making the arrest even more resonant is that it happened on Andrew's 66th birthday. Any candles are going to have to wait for later. There are references to Andrew's previous birthdays in the Epstein files, such as a glitzy bash for his 50th at St James's Palace. One person who had to turn down the invite for that night of "mysterious mischief" was Jeffrey Epstein, who was still under house arrest
+
+- Link 3
+  AnchorText: Read King and police statements in full
+  URL: https://www.bbc.co.uk/news/articles/cd6zjl58734o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 146
+  LinkedPageSummary:
+  "As part of the investigation, we have today (19/2) arrested a man in his sixties from Norfolk on suspicion of misconduct in public office and are carrying out searches at addresses in Berkshire and Norfolk. "The man remains in police custody at this time. "We will not be naming the arrested man, as per national guidance. Please also remember that this case is now active so care should be taken with any publication to avoid being in contempt of court. "Assistant Chief Constable Oliver Wright said: "Following a thorough assessment, we have now opened an investigation into this allegation of misconduct in public office. "'It is important that we protect the integrity and objectivity of our investigation as we work with our partners to investigate this alleged offence. "We understand the significant public interest in this case, and we will provide updates at the appropriate time.'"
+
+- Link 4
+  AnchorText: What happens next after Andrew's arrest?
+  URL: https://www.bbc.co.uk/news/articles/cn9e1q4797wo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Mountbatten-Windsor was arrested at about 08:00 GMT on Thursday on the King's Sandringham Estate in Norfolk, where he has been staying. Officers arrested the King's brother on his 66th birthday. It is understood that neither the King nor Buckingham Palace was informed in advance of Mountbatten-Windsor's arrest, by officers from Thames Valley Police. We don't know the specifics of the allegations of misconduct in public office being investigated. However, previously reported allegations include that he had shared reports from trade visits, forwarded a confidential briefing on investment in Afghanistan, and passed a Treasury briefing to a personal business contact. BBC News UK and home affairs correspondent Daniel Sandford said: "There has to be an assumption that part of this is going to be the sharing of documents within the Epstein files - between Andrew and Jeffrey Epstein himself. That's when Thames Valley Police got involved." But Sandford said it was possible that police were not only focusing on emails seen widely in the Epstein files. "Firstly, there's three million documents in the files, so there may be some the media have missed. But secondly, Buckingham Palace said they would support Thames Valley Police in their inquiries. "And that potentially means
+
+- Link 5
+  AnchorText: He told police his XL bullies were friendly â days later his mother-in-law was mauled to death
+  URL: https://www.bbc.co.uk/news/articles/c75e6qpl4p0o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 189
+  LinkedPageSummary:
+  When the police visited Ashley Warren's home in Jaywick, Essex, he told them his XL bully dogs were misunderstood, even suggesting they were less vicious than a poodle. Yet 10 days later, and two days after their ownership became illegal without a certificate of exemption , they mauled his mother-in-law to death. Esther Martin, 68, had been left in the property with the two dogs, eight puppies and a child while Warren filmed a music video in London on 3 February 2024. The amateur rapper was alerted to screams coming from his property in Hillman Avenue and demanded "someone that's strong, really strong" went immediately. But it was too late. Martin suffered "dozens and dozens" of catastrophic bites and was dead within minutes . Warren, 41, was arrested upon his return to Clacton railway station and became the first person in the UK to be charged with XL bully-related offences. He has now been found guilty of owning one of the dogs, called Bear, responsible for killing Martin. He was cleared of being in charge of the other dog, Beauty, which also injured Martin, but belonged to his girlfriend.
+
+- Link 6
+  AnchorText: UK has not given US permission to use RAF bases for Iran strikes
+  URL: https://www.bbc.co.uk/news/articles/cj98egkl7l1o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The US has been pressuring Iran to agree to curb its nuclear programme. It has threatened possible strikes if it fails to do so and has moved warships, aircraft and other military assets to the region in preparation for a possible strike. At the same time, some progress has been reported at talks between American and Iranian negotiators in Switzerland. On Thursday, Trump said the world would find out "over the next, probably, 10 days" whether the US would reach a deal with Iran or take military action. A UK government spokesperson said: "There is a political process ongoing between the US and Iran, which the UK supports. "Iran must never be able to develop a nuclear weapon, and our priority is security in the region." Sir Keir spoke to Trump over the phone on Tuesday, after the US government gave its formal support for the Chagos deal. The Times reports that the pair discussed Trump's ultimatum to Iran over its nuclear programme, and Trump made his statement attacking the Chagos deal the next day. Insiders believe the Pentagon's preparations for possible strikes on Iran - which could potentially be launched from Diego Garcia - may have shifted the president's
+
+- Link 7
+  AnchorText: Single nasal spray vaccine could protect against all colds and flus, researchers say
+  URL: https://www.bbc.co.uk/news/articles/cx2g8rz7yedo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  However, there are still many questions to answer. The vaccine was given as a nasal spray in the experiments, but may need to be breathed in through a nebuliser to reach the depths of human lungs. It is not known whether the same effect can be achieved in people or how long the immune system would stay in amber alert. There are differences in the immune systems between mice and humans, including our immunity being shaped by decades of infections. So the researchers are planning trials where one person is vaccinated and then deliberately infected to see how their body copes. There may also be consequences to dialling up the immune system beyond its normal state - raising questions of immune disorders. Jonathan Ball, professor of molecular virology at the Liverpool School of Tropical Medicine, said the work was undeniably "exciting" but cautioned "we have to ensure that keeping the body on 'high alert' doesn't lead to friendly fire, where a hyper-ready immune system accidentally triggers unwelcome side effects". The research team in the US does not think the immune system should be permanently dialled up and think such a vaccine should be used to compliment rather than replace current
+
+- Link 8
+  AnchorText: SpaceX rocket fireball linked to plume of polluting lithium
+  URL: https://www.bbc.co.uk/news/articles/cpd8z4eqlxno
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  "I hope that if we start our measurements now, perhaps we can get ahead of the curve and identify any potential problems before they become serious," Wing says. Earlier research has suggested that 10% of aerosols in the atmosphere are already contaminated by space debris. SpaceX has not responded to emailed requests from BBC News for comment. The researchers also sent their findings to the company but did not receive a response. Almost 30,000 pieces of debris are calculated to be free-floating in space, created when rockets break up in space or satellites disintegrate. Scientists warn that the debris is congesting space and threatens collision with rockets, the International Space Station, and our planet. Musk's SpaceX is the world's leading company for rocket launches including for sending humans into space and maintaining a network of 10,000 Starlink internet satellites. Musk recently announced he has applied to launch one million satellites to support artificial intelligence (AI) data centres in space. Scientists warn that as humans move more activities off-Earth, more debris will fall to Earth, polluting as it plummets. Last year a group of researchers from Nasa, the University of Plymouth and University of Texas called on the UN to include
+
+
