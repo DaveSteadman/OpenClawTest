@@ -1,0 +1,73 @@
+Domain: GenNews
+StartURL: https://www.bbc.co.uk/news
+Timestamp: 2026-02-19T22:26:28
+PerPageSummaryWords: 200
+StartPageSummaryWords: 14
+StartPageSummary:
+Top stories, breaking news, live reporting, and follow news topics that match your interests
+
+- Link 1
+  AnchorText: Epstein files could be just tip of the iceberg for Andrew investigation
+  URL: https://www.bbc.co.uk/news/articles/cd032xnm804o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  It is highly unlikely that the police arrested Andrew on Thursday on the basis of just a couple of emails people have seen within the Epstein files. At this stage, Andrew has only been arrested. He has not been charged. He has always denied any wrongdoing arising from his relationship with Epstein and has not responded to specific BBC questions about the files released in January. And a reminder, this arrest has nothing to do with allegations Andrew has previously faced from Giuffre, who said she was made to have sex with Andrew on a number of occasions in the early 2000s. An out-of-court financial settlement was reached between Andrew and Giuffre in 2022, which made no admission of wrongdoing on Andrew's part. The police released Andrew under investigation on Thursday evening. Typically with arrests relating to white collar crime, people are held for a few hours to allow for searches and initial questioning. Being released under investigation does not rule out further questioning at a later date. Now detectives will have a big decision to make. This could take weeks. Police officers with a crown on their cap badges will sit down with lawyers from the Crown Prosecution Service
+
+- Link 2
+  AnchorText: Shell-shocked, haunted photo of Andrew will be part of how arrest is remembered
+  URL: https://www.bbc.co.uk/news/articles/czr0vj13ezjo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Earlier, Andrew Mountbatten-Windsor had become the first senior member of the Royal Family in modern history to have been arrested. It was another catch your breath moment. It was followed by an unprecedented statement from his brother, King Charles. "Let me state clearly: the law must take its course," read the unambiguous statement from the King, offering no hiding place or royal get-out clause. The arrest, on suspicion of misconduct in public office, relates to Andrew's time as the UK's trade representative between 2001 and 2011. It follows a series of allegations, prompted by the release of the Epstein files, that Andrew shared official documents. That included sharing reports from trade visits and a confidential briefing on investment in Afghanistan with the sex offender Jeffrey Epstein, and passing a Treasury briefing to a personal business contact. Being a member of the Royal Family will make no legal difference to how his case is assessed. Andrew Mountbatten-Windsor has consistently denied any wrongdoing in his associations with Epstein. The no-nonsense police statement on Thursday morning was a bluntly worded news earthquake: "The man remains in police custody at this time." Whoever thought we'd read that sentence when the man in question is
+
+- Link 3
+  AnchorText: Read King and police statements in full
+  URL: https://www.bbc.co.uk/news/articles/cd6zjl58734o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 146
+  LinkedPageSummary:
+  "As part of the investigation, we have today (19/2) arrested a man in his sixties from Norfolk on suspicion of misconduct in public office and are carrying out searches at addresses in Berkshire and Norfolk. "The man remains in police custody at this time. "We will not be naming the arrested man, as per national guidance. Please also remember that this case is now active so care should be taken with any publication to avoid being in contempt of court. "Assistant Chief Constable Oliver Wright said: "Following a thorough assessment, we have now opened an investigation into this allegation of misconduct in public office. "'It is important that we protect the integrity and objectivity of our investigation as we work with our partners to investigate this alleged offence. "We understand the significant public interest in this case, and we will provide updates at the appropriate time.'"
+
+- Link 4
+  AnchorText: What happens next after Andrew's arrest?
+  URL: https://www.bbc.co.uk/news/articles/cn9e1q4797wo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Mountbatten-Windsor was arrested at about 08:00 GMT on Thursday on the King's Sandringham Estate in Norfolk, where he has been staying. Officers arrested the King's brother on his 66th birthday. It is understood that neither the King nor Buckingham Palace was informed in advance of Mountbatten-Windsor's arrest, by officers from Thames Valley Police. We don't know the specifics of the allegations of misconduct in public office being investigated. However, previously reported allegations include that he had shared reports from trade visits, forwarded a confidential briefing on investment in Afghanistan, and passed a Treasury briefing to a personal business contact. BBC News UK and home affairs correspondent Daniel Sandford said: "There has to be an assumption that part of this is going to be the sharing of documents within the Epstein files - between Andrew and Jeffrey Epstein himself. That's when Thames Valley Police got involved." But Sandford said it was possible that police were not only focusing on emails seen widely in the Epstein files. "Firstly, there's three million documents in the files, so there may be some the media have missed. But secondly, Buckingham Palace said they would support Thames Valley Police in their inquiries. "And that potentially means
+
+- Link 5
+  AnchorText: He told police his XL bullies were friendly â days later his mother-in-law was mauled to death
+  URL: https://www.bbc.co.uk/news/articles/c75e6qpl4p0o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 189
+  LinkedPageSummary:
+  When the police visited Ashley Warren's home in Jaywick, Essex, he told them his XL bully dogs were misunderstood, even suggesting they were less vicious than a poodle. Yet 10 days later, and two days after their ownership became illegal without a certificate of exemption , they mauled his mother-in-law to death. Esther Martin, 68, had been left in the property with the two dogs, eight puppies and a child while Warren filmed a music video in London on 3 February 2024. The amateur rapper was alerted to screams coming from his property in Hillman Avenue and demanded "someone that's strong, really strong" went immediately. But it was too late. Martin suffered "dozens and dozens" of catastrophic bites and was dead within minutes . Warren, 41, was arrested upon his return to Clacton railway station and became the first person in the UK to be charged with XL bully-related offences. He has now been found guilty of owning one of the dogs, called Bear, responsible for killing Martin. He was cleared of being in charge of the other dog, Beauty, which also injured Martin, but belonged to his girlfriend.
+
+- Link 6
+  AnchorText: UK has not given US permission to use RAF bases for Iran strikes
+  URL: https://www.bbc.co.uk/news/articles/cj98egkl7l1o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The US has been pressuring Iran to agree to curb its nuclear programme. It has threatened possible strikes if it fails to do so and has moved warships, aircraft and other military assets to the region in preparation for a possible strike. At the same time, some progress has been reported at talks between American and Iranian negotiators in Switzerland. On Thursday, Trump said the world would find out "over the next, probably, 10 days" whether the US would reach a deal with Iran or take military action. A UK government spokesperson said: "There is a political process ongoing between the US and Iran, which the UK supports. "Iran must never be able to develop a nuclear weapon, and our priority is security in the region." Sir Keir spoke to Trump over the phone on Tuesday, after the US government gave its formal support for the Chagos deal. The Times reports that the pair discussed Trump's ultimatum to Iran over its nuclear programme, and Trump made his statement attacking the Chagos deal the next day. Insiders believe the Pentagon's preparations for possible strikes on Iran - which could potentially be launched from Diego Garcia - may have shifted the president's
+
+- Link 7
+  AnchorText: Single nasal spray vaccine could protect against all colds and flus, researchers say
+  URL: https://www.bbc.co.uk/news/articles/cx2g8rz7yedo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  However, there are still many questions to answer. The vaccine was given as a nasal spray in the experiments, but may need to be breathed in through a nebuliser to reach the depths of human lungs. It is not known whether the same effect can be achieved in people or how long the immune system would stay in amber alert. There are differences in the immune systems between mice and humans, including our immunity being shaped by decades of infections. So the researchers are planning trials where one person is vaccinated and then deliberately infected to see how their body copes. There may also be consequences to dialling up the immune system beyond its normal state - raising questions of immune disorders. Jonathan Ball, professor of molecular virology at the Liverpool School of Tropical Medicine, said the work was undeniably "exciting" but cautioned "we have to ensure that keeping the body on 'high alert' doesn't lead to friendly fire, where a hyper-ready immune system accidentally triggers unwelcome side effects". The research team in the US does not think the immune system should be permanently dialled up and think such a vaccine should be used to compliment rather than replace current
+
+- Link 8
+  AnchorText: SpaceX rocket fireball linked to plume of polluting lithium
+  URL: https://www.bbc.co.uk/news/articles/cpd8z4eqlxno
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  "I hope that if we start our measurements now, perhaps we can get ahead of the curve and identify any potential problems before they become serious," Wing says. Earlier research has suggested that 10% of aerosols in the atmosphere are already contaminated by space debris. SpaceX has not responded to emailed requests from BBC News for comment. The researchers also sent their findings to the company but did not receive a response. Almost 30,000 pieces of debris are calculated to be free-floating in space, created when rockets break up in space or satellites disintegrate. Scientists warn that the debris is congesting space and threatens collision with rockets, the International Space Station, and our planet. Musk's SpaceX is the world's leading company for rocket launches including for sending humans into space and maintaining a network of 10,000 Starlink internet satellites. Musk recently announced he has applied to launch one million satellites to support artificial intelligence (AI) data centres in space. Scientists warn that as humans move more activities off-Earth, more debris will fall to Earth, polluting as it plummets. Last year a group of researchers from Nasa, the University of Plymouth and University of Texas called on the UN to include
+
+
