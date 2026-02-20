@@ -1,0 +1,73 @@
+Domain: GeneralNews
+StartURL: https://www.bbc.co.uk/news
+Timestamp: 2026-02-20T17:32:28
+PerPageSummaryWords: 200
+StartPageSummaryWords: 14
+StartPageSummary:
+Top stories, breaking news, live reporting, and follow news topics that match your interests
+
+- Link 1
+  AnchorText: Tariffs ruling is major blow to Trump's second-term agenda
+  URL: https://www.bbc.co.uk/news/articles/cx2jqgdn719o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 153
+  LinkedPageSummary:
+  The Trump administration had plenty of time to prepare for Friday's decision. Supreme Court precedent, and the attitude of many of the justices when the case was argued in court last November, indicated that an adverse outcome for the president was quite possible. Jamieson Greer, Trump's top trade adviser, said last month that the White House has "a lot of different options" on how to proceed if the tariffs were struck down. "The reality," he said, "is the president is going to have tariffs as part of his trade policy going forward." The other options that could be at Trump's disposal are more limited, however. They require government agencies to produce detailed reports to justify imposing tariffs, and they have limits on their scope and duration. Gone are the days when the president could threaten, or enact, triple-digit tariffs with the wave of a pen or the click of a Truth Social post.
+
+- Link 2
+  AnchorText: A tip-off and 'more luck than judgement': The story behind Andrew car snap
+  URL: https://www.bbc.co.uk/news/articles/c93wl4kp671o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 191
+  LinkedPageSummary:
+  The unprecedented nature of the event - plus the clear focus on Andrew's face - secured frontpage coverage worldwide. "You can plan and use your experience and know roughly what you need to do, but still everything needs to align," said Noble. "When you're doing car shots, it's more luck than judgment." He said it was "surreal" to see his photo becoming the defining image of a major news story. "In a climate where photographers are everywhere, it's rare for one outlet to get one key moment like that." On Friday morning, Noble rejoined media teams outside the Sandringham Estate, where Andrew returned after being released under investigation. The former prince was arrested in relation to his time as the UK's trade representative between 2001 and 2011. The BBC doesn't know the specifics of the allegations but the detention follows previously-reported claims that he shared official documents from trade visits and a confidential briefing on investment in Afghanistan with the late financier and sex offender Jeffrey Epstein - as well as passing a Treasury briefing to a personal business contact. He has consistently denied any wrongdoing in his associations with Epstein.
+
+- Link 3
+  AnchorText: Nasa targets early March to send humans back around the Moon
+  URL: https://www.bbc.co.uk/news/articles/c86y1g6wde3o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  "Every night I look up a the Moon and I see it and I get real excited because I can feel she's calling us and we're ready," Nasa's Lori Glaze told a news conference on Friday. "The excitement for Artemis II is really, really starting to build, we can really start to feel it. It's coming." The first rehearsal, which took place in early February, ended early because of a hydrogen fuel leak at the launch pad. Glaze said issues including with seals and filters had now been remedied. "Yesterday we were able to fully tank the SLS rocket within the planned time line [â¦] we also succesfully demonstrated the launch countdown," she said. Three Americans - Reid Wiseman, Victor Glover and Christina Koch - and one Canadian, Jeremy Hansen, make up the Artemis II crew. Glaze said the crew were excited following the successful rehearsal and would go into quarantine later on Friday. They'll begin their journey on Nasa's mega Moon rocket: the 98m-tall (322ft) Space Launch System, or SLS. It's only flown once before in November 2022 for the Artemis I mission, but this was with no people onboard. The crew will be strapped into the Orion capsule,
+
+- Link 4
+  AnchorText: Life sentences for teens after racist murder of stranger delivering food to his mum
+  URL: https://www.bbc.co.uk/news/articles/c8r1kmz614po
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  On 23:50 on 30 June Aman arrived in Barry Road and parked a few doors down from his mother's home. He had been working during the day before spending time with his wife and four-year-old daughter. Marcus Staniforth and the second defendant had been drinking alcohol for several hours before arriving at a house on the same road where they continued to drink. The trial heard the second defendant had behaved in a "volatile and aggressive manner" earlier in the day, "confronting a train conductor" and "later threatening" Staniforth. It was the younger of the two, looking down from a bedroom window, who noticed Aman in his car in the street below and decided to attack him. Initially he took a hammer from the house but the weapon was taken off him. The youth started hurling racist abuse at Aman and, after unsuccessfully trying to get in to the passenger side of the car, went around to the driver's side. Aman came out of the car and began defending himself against a barrage of punches that were thrown first by the 16-year-old and then Staniforth who had joined the attack. Several neighbours told the trial how they were alarmed by
+
+- Link 5
+  AnchorText: KFC, Nando's, and others ditch chicken welfare pledge
+  URL: https://www.bbc.co.uk/news/articles/cm2r6jqm042o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Allen Simpson, CEO of UKHospitality, which represents some of the restaurant brands who have withdrawn from the BCC, said despite the change the businesses are "committed to enhancing their ongoing work across welfare and the environment". The eight businesses, owning or franchising 18 leading restaurant chains, have instead joined the industry-led Sustainable Chicken Forum (SCF). Some of the brands include include Popeyes, Wingstop, and Wagamama. The SCF said businesses "no longer believe the BCC is the right framework to drive the next phase of progress on welfare due to the requirement to source only slower-growing breeds". It argued that farming slower-growing breeds produce more greenhouse gas emissions than farming faster-growing breeds. UKHospitality said the SCF will focus on increasing welfare while limiting the environmental impact of chicken farming and keeping up with demand. KFC in 2024 said it was rescinding its commitment to phase out buying fast-growing chicken , but the decision on Thursday withdrew from the Better Chicken Commitment entirely. The BBC understands the famous chicken chain owned by Yum Brands buys about 4% of the UK chicken supply. An industry source said there is not yet a large enough supply of slower-growing poultry in the UK. However, animal
+
+- Link 6
+  AnchorText: Man charged with raping unconscious wife with other men for years
+  URL: https://www.bbc.co.uk/news/articles/cqxde27ep5qo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 106
+  LinkedPageSummary:
+  A man has been charged with drugging and sexually abusing his unconscious wife alongside a number of other men. The husband, who cannot be named for legal reasons, faces 48 counts including conspiracy to rape, sexual assault by penetration and conspiracy to administer a substance with intent to commit a sexual offence. The case involves 12 other men ranging in age from 28 to 73, and involves allegations dating back to the early 2000s. The defendants appeared at Manchester Minshull Crown Court earlier where seven of the defendants including the woman's husband, aged in his 60s from Stockport, Greater Manchester, pleaded not guilty to all charges.
+
+- Link 7
+  AnchorText: Two teens who died at holiday park named by police
+  URL: https://www.bbc.co.uk/news/articles/c4g8rdp6lrvo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Police said they received a call regarding concern for safety at the holiday park on Wednesday . The 33-year-old was arrested on Thursday and an extension to keep him for a further 12 hours had been granted, while the 42-year-old had been arrested since, police said. Ch Supt Matt Peach said: "Our thoughts remain with the loved ones of both teenagers. "This remains a very complex investigation with numerous lines of inquiry being followed up." He said investigations to establish the full circumstances surrounding the deaths continued and a cordon remained in place at the site. A fundraising page has been set up by Ethan's family. The description said: "Ethan had his whole life ahead of him. "He was the most kind-hearted boy. With a natural warmth. He was funny, he was protective and he carried himself with a quiet strength and loyalty that made us so proud to call him our son. "He was loved beyond measure. A son, a brother, a grandson, a friend. His smile lit up a room, and his absence has left a silence that feels impossible to fill. "Our lives will never be the same without him." Police said they were working with the
+
+- Link 8
+  AnchorText: Couple left with $200k bill after baby born in US
+  URL: https://www.bbc.co.uk/news/articles/cx2r7d4gzz1o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  "I was 25. I'd never been ill in my life. It was a big opportunity," Ferris explained. "The advice was, you're perfectly healthy so there's not really a reason not to do it". Sylvester said the couple "made 100% sure Issy was insured to be pregnant, and any complications involving pregnancy whilst we were abroad were covered". "At least to our understanding - we would never have gone otherwise", he said. But the couple said they could never have predicted what would happen after two days in Nashville when Issy developed pre-eclampsia, a life-threatening complication that can affect women in the second half of pregnancy. "In my case, severe pre-eclampsia can lead to organ failure so it was a really serious situation" said Ferris. The problems meant the couple's baby boy, Lucky, had to be delivered seven weeks before his due date. "The consultant came in and said, look this is really serious - you're not going anywhere. Your baby is going to be born in America," said Sylvester. Lucky was delivered safely but spent nearly three weeks in intensive care. In the trauma and emotion of that time, Sylvester proposed and the couple were married in a Nashville park.
+
+

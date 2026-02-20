@@ -1,0 +1,67 @@
+Domain: BAESystems
+Query: https://www.hl.co.uk/shares/shares-search-results/b/bae-systems-plc-ordinary-2.5p/share-news
+Timestamp: 2026-02-20T18:21:39
+PerPageSummaryWords: 200
+- Shares - prices and news on over 8,000 stocks and shares
+  https://www.hl.co.uk/shares
+  A wealth of information on shares: share prices, research, charts, share news and more across a range of equities from Hargreaves Lansdown.
+  LinkedPageStatus: ok (https://www.hl.co.uk/shares)
+  LinkedPageSummaryWords: 150
+  LinkedPageSummary:
+  If you’re thinking about buying shares, the good news is that it’s much easier than you might think. In fact, you could do it all online. Here’s how. 1. Choose an account to hold your shares in. You can buy and hold shares in our Fund and Share Account, HL ISA or Self Invested Personal Pension (SIPP). Find out more and choose an account that's right for you . 2. Select the share you want to buy and check our charges. 3. Buying the shares. Once you have an account open with money ready to invest, you can buy shares. When trading we’ll show you the live share price. You can then choose to accept the price or not. That’s it. Your shares will be held securely in your account. You can see how they’re doing and deal whenever the market is open, online or with the HL app .
+
+- Price explorer | London Stock Exchange
+  https://prod-aws.londonstockexchange.com/stock/HL./hargreaves-lansdown-plc/company-page
+  Search for stocks and share prices, company fundamentals, news and trading information for all instruments traded on the London Stock Exchange's markets via Company, Code, ISIN, Carket, Instrument type, Sector and Admission date
+  LinkedPageStatus: ok (https://prod-aws.londonstockexchange.com/stock/HL./hargreaves-lansdown-plc/company-page)
+  LinkedPageSummaryWords: 7
+  LinkedPageSummary:
+  London Stock Exchange | London Stock Exchange
+
+- Hargreaves Lansdown Share Price | This is Money
+  https://investing.thisismoney.co.uk/quote/HL.
+  Hargreaves Lansdown PLC is a United Kingdom-based digital wealth management service administering company. The Company provides a range of services, including stocks and shares individual savings account (ISA), Self-Invested Personal Pension (SIPP), share dealing, fund dealing, drawdown, cash savings, lifetime ISA and junior ISA.
+  LinkedPageStatus: ok (https://investing.thisismoney.co.uk/quote/HL.)
+  LinkedPageSummaryWords: 114
+  LinkedPageSummary:
+  Hargreaves Lansdown PLC is a United Kingdom-based digital wealth management service administering company. The Company provides a range of services, including stocks and shares individual savings account (ISA), Self-Invested Personal Pension (SIPP), share dealing, fund dealing, drawdown, cash savings, lifetime ISA and junior ISA. SIPP is a type of account that allows to take charge of retirement savings. Its share dealings include investors to choose from a range of investments United Kingdom and international share, investment trusts, exchange-traded funds, bonds, and initial public offering (IPO). A Junior Stocks and Shares ISA is a tax-efficient investment account for children under 18. The Company offers pension products, such as self-invested personal pension (SIPP) and Junior SIPP.
+
+- Stock Market and Investment News | Hargreaves Lansdown
+  https://www.hl.co.uk/news
+  All the latest investment, economic and personal finance news from leading experts and online news resources, brought to you by Hargreaves Lansdown.
+  LinkedPageStatus: ok (https://www.hl.co.uk/news)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Updated Friday 20th February 2026 Live blog covering today's important financial market events and news Gold edges higher, despite resilient US jobs data. Brent crude prices rise to a six-month high over US-Iran fears. Significant reduction in UK public borrowing and a surge in January retail sales Oil extends gains as US-Iran tensions rise Fed minutes reveal a house divided Wall Street edges higher despite rate jitters FTSE 100 hits new highs as inflation cools Inflation has fallen to a 10-month low thanks to falling fuel and food prices UK jobs data reveals post-pandemic employment bounce is well and truly over Oil prices slipped slightly lower as US-Iran negotiations continue. Gold prices fall after traders take a holiday. US stock futures move lower as AI-related fears continue. FTSE marginally up at the open Oil prices hold steady after back-to-back weekly drop US markets closed for Presidents’ Day, after another week of software pain FTSE 100 opens higher Investing insights How geopolitics factors into the stock market Terence Darko Head Investment Specialist What Japan’s election means for investors – plus two fund ideas Kate Marshall Lead Investment Analyst What next for the gold price? Emma Wall Chief Investment Strategist Personal finance
+
+- BAE Systems plc Share Price (BA.) Ordinary 2.5p | BA.
+  https://www.hl.co.uk/shares/shares-search-results/b/bae-systems-plc-ordinary-2.5p
+  The latest BAE Systems plc share price (BA.). View recent trades and share price information for BAE Systems plc and other shares.
+  LinkedPageStatus: ok (https://www.hl.co.uk/shares/shares-search-results/b/bae-systems-plc-ordinary-2.5p)
+  LinkedPageSummaryWords: 80
+  LinkedPageSummary:
+  Recent dividends paid or declared by BAE Systems plc: * Dividend has not yet been paid but has been declared by BAE Systems plc. This data is provided by Digital Look. HL accepts no responsibility for its accuracy and you should independently check data before making any investment decision. Five years' total annual BAE Systems plc dividends: All dividend data is calculated excluding any special dividends. Historical dividends may be adjusted to reflect any subsequent rights issues and corporate actions.
+
+- Hargreaves Lansdown Share Price. HL. - Stock Quote, Charts, Trade ...
+  https://uk.advfn.com/stock-market/london/HL./share-price
+  Hargreaves Lansdown share price and HL. stock charts. Free real-time prices, and the most active stock market forums in the UK.
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://uk.advfn.com/stock-market/london/HL./share-price
+  LinkedPageSummaryWords: 0
+
+- Hargreaves Lansdown share price | HL. - Barclays Smart Investor
+  https://research-centre.barclays.co.uk/shares/hargreaves-lansdown/
+  Check the latest Hargreaves Lansdown (HL.) share price. Find the most recent trades and share price information for Hargreaves Lansdown (HL.).
+  LinkedPageStatus: ok (https://research-centre.barclays.co.uk/shares/hargreaves-lansdown/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The types of cookies used on this website fall into one of four categories - Strictly Necessary, Performance, Targeting and Functionality & Profile. You can find out more information in our cookie policy. Please indicate the categories you wish to consent to using the sliders below and then click "Save preferences" to retain your preferences for future visits. You can change these preferences at any time by clicking on the cookie policy link on our website. Cookie policy Strictly necessary Data collected in this category is essential to provide our services to you. The data is necessary for the website to operate and to maintain your security and privacy while using the website. Data is not used for marketing purposes, or for the purposes covered by the other three categories below. These strictly necessary cookies are always on, as without this data, the services you've asked for can't be provided. Performance Data collected in this category is used to inform us how the website is used, improve how our website works and to help us to identify issues you may have when using our services. This data is not used to target you with online advertising. Targeting Data collected in
+
+- Aviva Plc Share Price (AV.) Ordinary Shares 32 17/19 pence | AV.
+  https://www.hl.co.uk/shares/shares-search-results/a/aviva-plc-ordinary-shares-32-1719-pence
+  The latest Aviva Plc share price (AV.). View recent trades and share price information for Aviva Plc and other shares.
+  LinkedPageStatus: ok (https://www.hl.co.uk/shares/shares-search-results/a/aviva-plc-ordinary-shares-32-1719-pence)
+  LinkedPageSummaryWords: 86
+  LinkedPageSummary:
+  The London Stock Exchange does not disclose whether a trade is a buy or a sell so this data is estimated based on the trade price received and the LSE-quoted mid-price at the point the trade is placed. It should only be considered an indication and not a recommendation. Trades priced above the mid-price at the time the trade is placed are labelled as a buy; those priced below the mid-price are sells; and those priced close to the mid-price or declared late are labelled 'N/A'.
+
+

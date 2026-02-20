@@ -1,0 +1,65 @@
+Domain: BAESystems
+Query: BAE Systems contract wins 2025
+Timestamp: 2026-02-20T18:17:38
+PerPageSummaryWords: 200
+- BAE Systems Wins $35B in Contracts So Far in 2025 - The Defense Post
+  https://thedefensepost.com/2025/11/14/bae-systems-2025-contracts/
+  BAE Systems has won more than 27 billion pounds ($35 billion) in contracts in 2025 from strong global demand for its defense products.
+  LinkedPageStatus: ok (https://thedefensepost.com/2025/11/14/bae-systems-2025-contracts/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems has already won more than 27 billion pounds ($35 billion) in contracts in 2025, reflecting strong global demand for its defense platforms and technologies. Trading in the second half of the year has remained in line with expectations, the company said in a market update . It noted that operational performance “continues to be strong” as it delivers critical capabilities across combat aircraft, submarines, missile systems, and electronic warfare. The surge in contracts highlights the continuing impact of rising defense budgets and NATO modernization programs on global procurement. “These programmes not only strengthen national security, but also support thousands of skilled jobs and generate significant export value for the UK economy,” BAE Systems Chief Executive Charles Woodburn said. BAE Systems said it remains committed to its capital allocation strategy, including continued investment in technology, selective acquisitions, and shareholder returns — totaling around 1.5 billion pounds ($1.9 billion) in 2025 through dividends and share buybacks. BAE Systems’ contracts this year span aviation, naval, ground, and electronic systems. Among the most notable awards is a four-billion euro contract to build 20 Eurofighter Typhoon aircraft and integrate weapons systems for Turkey, with deliveries expected to begin in 2030. In the US,
+
+- BAE Systems 2025 full year results | Newsroom
+  https://www.baesystems.com/en/article/2025-full-year-results
+  Today we announced the Group's full year results for 2025 . 2025 full year results Our results highlight another year of strong operational and financial performance, thanks to the outstanding dedication of our employees.
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- BAE Systems reports record £30.7 billion sales and £83.6 billion order ...
+  https://defence-industry.eu/bae-systems-reports-record-30-7-billion-sales-and-83-6-billion-order-backlog-in-2025-full-year-results/
+  BAE Systems has announced its full year results for 2025 , reporting record sales and a strengthened order backlog.
+  LinkedPageStatus: ok (https://defence-industry.eu/bae-systems-reports-record-30-7-billion-sales-and-83-6-billion-order-backlog-in-2025-full-year-results/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems has announced its full year results for 2025, reporting record sales and a strengthened order backlog. The company said the performance reflects strong operational and financial delivery, supported by continued investment and rising global defence spending. Sales increased by 10% to a record £30.7 billion, with growth across all sectors and organic growth of 9%. Underlying EBIT rose by 12%, with return on sales increasing from 10.6% to 10.8%, while underlying earnings per share also grew by 12%. Free cash flow reached £2,158 million, with significant customer advances received late in the year. Capital expenditure remained close to record levels at around £1bn and research and development spending increased. The order backlog grew by £5.8 billion to a record £83.6 billion, with order intake of £36.8 billion across all sectors. The company said this reflects the continued relevance of its geographic footprint and multi-domain capabilities. Under IFRS measures, revenue growth of 8% reflected strong operational sales performance but excluded the impact of equity accounted investments. Operating profit increased by 9%, as growth in underlying EBIT was partly offset by amortisation costs linked to prior year acquisitions, including Ball Aerospace, while basic earnings per share rose by 6%. During
+
+- Report: BAE Systems Wins $35B in Contracts So Far in 2025
+  https://defence.m5dergi.com/one-cikan/report-bae-systems-wins-35b-in-contracts-so-far-in-2025/
+  Key Orders Secured in 2025 BAE Systems' contracts this year span aviation, naval, ground, and electronic systems . Among the most notable awards is a four-billion euro contract to build 20 Eurofighter Typhoon aircraft and integrate weapons systems for Turkey, with deliveries expected to begin in 2030.
+  LinkedPageStatus: ok (https://defence.m5dergi.com/one-cikan/report-bae-systems-wins-35b-in-contracts-so-far-in-2025/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Trading in the second half of the year has remained in line with expectations, the company said in a market update. It noted that operational performance “continues to be strong” as it delivers critical capabilities across combat aircraft, submarines, missile systems, and electronic warfare. The surge in contracts highlights the continuing impact of rising defense budgets and NATO modernization programs on global procurement. “These programmes not only strengthen national security, but also support thousands of skilled jobs and generate significant export value for the UK economy,” BAE Systems Chief Executive Charles Woodburn said. BAE Systems said it remains committed to its capital allocation strategy, including continued investment in technology, selective acquisitions, and shareholder returns — totaling around 1.5 billion pounds ($1.9 billion) in 2025 through dividends and share buybacks. BAE Systems’ contracts this year span aviation, naval, ground, and electronic systems. Among the most notable awards is a four-billion euro contract to build 20 Eurofighter Typhoon aircraft and integrate weapons systems for Turkey, with deliveries expected to begin in 2030. In the US, BAE received approximately $3.3 billion in new and incremental awards, including funding for Space & Mission Systems and tactical communications programs such as the APKWS precision-guided rocket
+
+- BAE Systems Announces 2025 Full Year Results - Business Wire
+  https://www.businesswire.com/news/home/20260218327744/en/BAE-Systems-Announces-2025-Full-Year-Results
+  BAE SYSTEMS ANNOUNCES 2025 FULL YEAR RESULTS LONDON-- (BUSINESS WIRE)--Charles Woodburn, Chief Executive, said: "Our results highlight another year of strong operational and financial ...
+  LinkedPageStatus: ok (https://www.businesswire.com/news/home/20260218327744/en/BAE-Systems-Announces-2025-Full-Year-Results)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  LONDON--( BUSINESS WIRE )-- Charles Woodburn, Chief Executive, said: “Our results highlight another year of strong operational and financial performance, thanks to the outstanding dedication of our employees. In a new era of defence spending, driven by escalating security challenges, we’re well positioned to provide both the advanced conventional systems and disruptive technologies needed to protect the nations we serve now and into the future. With a record order backlog and continuing investment in our business to enhance agility, efficiency and capacity, we’re confident in our ability to keep delivering growth over the coming years.” – Sales increased 10% 2 to a record £30.7bn, with growth in all of our sectors. Organic growth was 9% 2 . – Underlying EBIT increased by 12% 2 with a 20bps increase in return on sales from 10.6% to 10.8%. – Underlying EPS increased by 12% 2 . – Free cash flow was strong at £2,158m. Significant customer advances were received late in the year, capital expenditure remained close to record levels at c.£1bn and research and development (R&D) spend increased. – Our order backlog grew by £5.8bn to a record £83.6bn. Order intake was strong at £36.8bn, with all sectors performing well, reflecting
+
+- BAE Systems reports record results and growth in 2025
+  https://www.lancashiretelegraph.co.uk/news/25864809.bae-systems-reports-record-results-growth-2025/
+  In Lancashire, BAE Systems invested more than £460,000 in community projects and hired more than 1,200 new employees at its Warton and Samlesbury sites.
+  LinkedPageStatus: ok (https://www.lancashiretelegraph.co.uk/news/25864809.bae-systems-reports-record-results-growth-2025/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The defence giant, which employs around 12,000 people at its Warton and Samlesbury sites, said the success was underpinned by the ongoing progress of its combat air programmes. In 2025, the company secured Typhoon production into the next decade through a new agreement with the Republic of Turkiye and the UK Government to supply 20 aircraft. Additional orders include £800 million in contracts for major units on Typhoon aircraft for Germany and Italy. It saw revenue rise eight per cent to £28.3 billion, while operating profit is up to £2.9 billion, a nine per cent increase, and earnings before tax and interest up to £3.3bn, a 12 per cent jump. In Lancashire, BAE Systems invested more than £460,000 in community projects and hired more than 1,200 new employees at its Warton and Samlesbury sites. The year has been marred in Lancashire by ongoing strikes at the two sites, with workers demanding a "fair slice of the pie" after the record year. Charles Woodburn, chief executive of BAE Systems, said: "Our results highlight another year of strong operational and financial performance, thanks to the outstanding dedication of our employees. "In a new era of defence spending, driven by escalating security challenges,
+
+- BAE Systems profits leap amid 'new era' of defence spending
+  https://www.independent.co.uk/news/business/bae-systems-keir-starmer-gdp-europe-prime-minister-b2922542.html
+  BAE Systems profits leap amid 'new era' of defence spending Europe's biggest defence contractor reported better-than-expected underlying earnings of £3.32 billion for 2025 , up 12% on 2024.
+  LinkedPageStatus: ok (https://www.independent.co.uk/news/business/bae-systems-keir-starmer-gdp-europe-prime-minister-b2922542.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems has set new records with its annual results amid a ramping-up in global defence spending as geopolitical uncertainty remains heightened. Europe’s biggest defence contractor reported better-than-expected underlying earnings before interest and taxes of £3.32 billion for 2025, up 12% on the previous year, as sales jumped 10% to a record high of £30.66 billion. The aerospace and weapons manufacturer said its order backlog also hit a record £83.6 billion as of the end of December while its order intake stood at £36.8 billion. Chief executive Charles Woodburn said: “In a new era of defence spending, driven by escalating security challenges, we’re well-positioned to provide both the advanced conventional systems and disruptive technologies needed to protect the nations we serve now and into the future. “With a record order backlog and continuing investment in our business to enhance agility, efficiency and capacity, we’re confident in our ability to keep delivering growth over the coming years.” The firm forecast further growth in 2026, albeit at a slower pace, with the firm pencilling in underlying earnings growth of between 9% to 11% and sales to rise by between 7% and 9%. BAE – which makes weapons ranging across missiles and artillery
+
+- BAE Systems wins $1.7 billion US Navy contract | Reuters
+  https://www.reuters.com/business/aerospace-defense/bae-systems-wins-17-billion-us-navy-contract-2025-12-10/
+  BAE Systems , Britain's biggest defence company, said on Wednesday that the U.S. Navy had awarded it a five-year contract worth up to $1.7 billion to supply laser-guidance kits that turn unguided ...
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/aerospace-defense/bae-systems-wins-17-billion-us-navy-contract-2025-12-10/
+  LinkedPageSummaryWords: 0
+
+

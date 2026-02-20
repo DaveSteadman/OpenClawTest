@@ -1,0 +1,57 @@
+Domain: BAESystems
+Query: BAESystems Countries of operation 2026
+Timestamp: 2026-02-20T21:59:14
+PerPageSummaryWords: 200
+- Our Locations - BAE Systems
+  https://www.baesystems.com/en/locations
+  Our global locations Click the icon on the map to see locations in your selected country, or use the buttons below the map: UK locations US locations Australia locations
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- BAE Systems - Company Analysis and Outlook Report (2026)
+  https://www.aviationoutlook.com/p/bae-systems-company-analysis-outlook-report
+  BAE Systems company analysis: $41.3B revenue, AUKUS submarines, F-35, GCAP fighter programs. Defense outlook through 2026 with growth drivers.
+  LinkedPageStatus: ok (https://www.aviationoutlook.com/p/bae-systems-company-analysis-outlook-report)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems delivered robust financial performance in 2025 with revenue reaching £27.1 billion (last twelve months through December 2025: $41.3 billion), driven by record order intake exceeding £27 billion and strong demand across air, maritime, land, and space sectors. The company’s strategic acquisition of Ball Aerospace for $5.5 billion in February 2024 significantly expanded its space capabilities, creating the new Space & Mission Systems division with over 5,200 employees. Major programs including F-35, Eurofighter Typhoon, SSN-AUKUS submarines, and the Global Combat Air Programme (GCAP) position BAE Systems to capitalize on sustained defense modernization through 2035. Geopolitical tensions, particularly conflicts in Ukraine and the Middle East, continue to drive defense budget increases globally, creating favorable conditions for multi-year growth. BAE Systems plc operates as one of the world’s premier defense, aerospace, and security companies. Headquartered in Farnborough, United Kingdom, the company maintains significant operations across the United States, United Kingdom, Saudi Arabia, and Australia. The United States represents approximately 45% of total revenue, followed by the United Kingdom at 25%, and Saudi Arabia at 15%. This geographic diversification provides resilience against regional economic fluctuations. Combat Aircraft : BAE Systems plays critical roles in two flagship fighter programs. The company manufactures rear
+
+- BAE Systems PLC - Earnings Release 2026 | FinancialReports.eu
+  https://financialreports.eu/filings/bae-systems-plc/earnings-release/2026/30488008/
+  Access the 2026 Earnings Release content for BAE Systems PLC. View the original document or AI-processed analysis.
+  LinkedPageStatus: ok (https://financialreports.eu/filings/bae-systems-plc/earnings-release/2026/30488008/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Charles Woodburn, Chief Executive, said: "Our results highlight another year of strong operational and financial performance, thanks to the outstanding dedication of our employees. In a new era of defence spending, driven by escalating security challenges, we're well positioned to provide both the advanced conventional systems and disruptive technologies needed to protect the nations we serve now and into the future. With a record order backlog and continuing investment in our business to enhance agility, efficiency and capacity, we're confident in our ability to keep delivering growth over the coming years." - Sales increased 10%2 to a record £30.7bn, with growth in all of our sectors. Organic growth was 9%2. - Underlying EBIT increased by 12%2 with a 20bps increase in return on sales from 10.6% to 10.8%. - Free cash flow was strong at £2,158m. Significant customer advances were received late in the year, capital expenditure remained close to record levels at c.£1bn and research and development (R&D) spend increased. - Our order backlog grew by £5.8bn to a record £83.6bn. Order intake was strong at £36.8bn, with all sectors performing well, reflecting the continued relevance of our diverse geographic footprint and multi-domain capabilities. - The growth in revenue
+
+- Global presence - baesystems.com
+  https://www.baesystems.com/en/our-company/global-presence
+  Sustainability reporting Investors Investors home Why invest in BAE Systems? 2025 half year results 2024 annual report Investor events
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- Our strategy - BAE Systems
+  https://www.baesystems.com/en/our-company/our-strategy
+  Our Hägglunds team is investing more than $200m (£160m) to add capacity and scale operations , while also teaming to expand production capacity in customer countries . This approach benefits our partners' local economies and communities and also diversifies the CV90 industrial base.
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- Our businesses - baesystems.com
+  https://www.baesystems.com/en/our-businesses
+  Platforms & Services, with operations in the US, Sweden and the UK, manufactures and upgrades combat vehicles, weapons and munitions, and delivers services and sustainment activities, including US naval ship repair and the management and operation of two government-owned, contractor-operated ammunition plants.
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- Countering threats and enhancing operations: Our 2026 technology ...
+  https://www.baesystems.com/en/insight/countering-threats-2026-predictions
+  Our technology and defence domain experts outline their predictions for 2026 across space, cyber, AI, defence operations and secure cloud.
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- FY 2025 - Preliminary Results Announcements-2026-02-17-16-45
+  https://www.baesystems.com/dam/jcr:430d3195-c990-4bd5-ac85-ec5588380dbf
+  All statements other than statements of historical fact included in this document, including, without limitation, those regarding the financial condition, results, operations and businesses of BAE Systems plc and its strategy, plans and objectives and the markets and economies in which it operates, are forward-looking statements.
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+

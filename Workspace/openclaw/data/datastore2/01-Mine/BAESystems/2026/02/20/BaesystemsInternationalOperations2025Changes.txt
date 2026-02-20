@@ -1,0 +1,61 @@
+Domain: BAESystems
+Query: BAESystems international operations 2025 changes
+Timestamp: 2026-02-20T18:18:40
+PerPageSummaryWords: 200
+- PDF BAE Systems plc Preliminary Results Announcement 2025
+  https://investors.baesystems.com/dam/jcr:430d3195-c990-4bd5-ac85-ec5588380dbf/FY-2025-Preliminary-Results-Announcements-FINAL.pdf
+  BAE Systems plc Preliminary Results Announcement 2025 Charles Woodburn, Chief Executive, said: "Our results highlight another year of strong operational and financial performance, thanks to the outstanding dedication of our employees. In a new era of defence spending, driven by escalating security challenges, we're well positioned to provide both the advanced conventional systems and ...
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- BAE Systems Announces 2025 Full Year Results - Business Wire
+  https://www.businesswire.com/news/home/20260218327744/en/BAE-Systems-Announces-2025-Full-Year-Results
+  BAE SYSTEMS ANNOUNCES 2025 FULL YEAR RESULTS LONDON-- (BUSINESS WIRE)--Charles Woodburn, Chief Executive, said: "Our results highlight another year of strong operational and financial ...
+  LinkedPageStatus: ok (https://www.businesswire.com/news/home/20260218327744/en/BAE-Systems-Announces-2025-Full-Year-Results)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  LONDON--( BUSINESS WIRE )-- Charles Woodburn, Chief Executive, said: “Our results highlight another year of strong operational and financial performance, thanks to the outstanding dedication of our employees. In a new era of defence spending, driven by escalating security challenges, we’re well positioned to provide both the advanced conventional systems and disruptive technologies needed to protect the nations we serve now and into the future. With a record order backlog and continuing investment in our business to enhance agility, efficiency and capacity, we’re confident in our ability to keep delivering growth over the coming years.” – Sales increased 10% 2 to a record £30.7bn, with growth in all of our sectors. Organic growth was 9% 2 . – Underlying EBIT increased by 12% 2 with a 20bps increase in return on sales from 10.6% to 10.8%. – Underlying EPS increased by 12% 2 . – Free cash flow was strong at £2,158m. Significant customer advances were received late in the year, capital expenditure remained close to record levels at c.£1bn and research and development (R&D) spend increased. – Our order backlog grew by £5.8bn to a record £83.6bn. Order intake was strong at £36.8bn, with all sectors performing well, reflecting
+
+- Preliminary Results Announcement 2025 - Investegate
+  https://www.investegate.co.uk/announcement/rns/bae-systems--ba./preliminary-results-announcement-2025-/9435221
+  Preliminary Results Announcement 2025 Summary by AI BETA Close X BAE Systems plc reported strong financial and operational performance for the year ended 31 December 2025 , with sales increasing by 10% to £30.7 billion and underlying EBIT rising by 12% to £3.32 billion, leading to a 12% increase in underlying EPS to 75.2p.
+  LinkedPageStatus: ok (https://www.investegate.co.uk/announcement/rns/bae-systems--ba./preliminary-results-announcement-2025-/9435221)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Sensitivity to foreign exchange rates: the Group operates in a number of currencies, the most significant of which is the US dollar. As a guide, a 5 cent movement in the £ /$ exchange rate will impact sales by c. £ 500m, underlying EBIT by c. £ 70m and underlying EPS by c.1.4p. 1. While the Group is subject to geopolitical and other uncertainties, the following guidance is provided on current expected operational performance. The guidance is based on the measures used to monitor the underlying financial performance of the Group. A presentation, for analysts and investors, of the Group's Results for 2025 will be available at 9.30am GMT today (18 February 2026) on the investor website, followed by a live Q&A. Details can be found on investors.baesystems.com, together with the presentation slides and a copy of this report. A recording of the webcast will be available for replay later in the day. We are supporting our customers so that they can stay ahead of evolving threats across land, sea, air, cyber and space. We are a workforce of 111,400 1 highly skilled people in more than 40 countries. Working with our customers and local partners, we develop, engineer, manufacture
+
+- BAE Systems confirms strong 2025 performance and over £27 billion in ...
+  https://defence-industry.eu/bae-systems-confirms-strong-2025-performance-and-over-27-billion-in-orders-ahead-of-year-end/
+  BAE Systems has confirmed continued strong operational and financial performance in the second half of 2025 , supporting its upgraded full-year guidance issued in July.
+  LinkedPageStatus: error: HTTPSConnectionPool(host='defence-industry.eu', port=443): Read timed out. (read timeout=15)
+  LinkedPageSummaryWords: 0
+
+- BAE Systems raises 2025 outlook after strong H1 performance
+  https://www.aerotime.aero/articles/bae-systems-h1-2025-results-outlook
+  BAE Systems reported double-digit sales and earnings growth in H1 2025 , raising its full-year outlook as global defense spending continues to rise.
+  LinkedPageStatus: ok (https://www.aerotime.aero/articles/bae-systems-h1-2025-results-outlook)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems has raised its full-year guidance after reporting strong results for the first half of 2025, with momentum driven by combat air and space programs. Sales rose 11% year-on-year to £14.6 billion (approx. $19 billion), while underlying EBIT grew 13% to £1.55 billion (approx. $2 billion). Order intake reached £13.2 billion (approx. $17.2 billion) and the backlog remained high at £75.4 billion (approx. $98 billion). The Air segment posted £4.3 billion (approx. $5.6 billion) in sales and £500 million (approx. $650 million) in EBIT. Growth was supported by Typhoon sustainment, strong MBDA missile activity, and GCAP development work. Electronic Systems recorded £3.6 billion (approx. $4.7 billion) in sales and £541 million (approx. $703 million) in EBIT. Key wins included a $1.2 billion US Space Force contract for missile-tracking satellites and strong performance in electronic warfare and flight control systems. The Maritime segment generated £3.2 billion (approx. $4.2 billion) in sales, with BAE supporting the Royal Navy’s Indo-Pacific deployment. Its Malloy T-150 uncrewed drones were used at sea for logistics support during carrier operations—a first for the service. Submarine work also advanced, including Dreadnought and Astute programs. Cyber & Intelligence remained stable, posting £1.2 billion (approx. $1.6 billion) in sales.
+
+- BAE Systems 2025 full year results | Newsroom
+  https://www.baesystems.com/en/article/2025-full-year-results
+  2025 full year results Our results highlight another year of strong operational and financial performance, thanks to the outstanding dedication of our employees.
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- UK's BAE Systems forecasts years of growth in 'new era' of defence ...
+  https://www.reuters.com/business/aerospace-defense/uks-bae-systems-posts-better-than-expected-12-profit-rise-2026-02-18/
+  BAE Systems said a "new era" of defence spending would drive its growth for years to come after the British contractor reported a 12% rise in full-year operating profit on Wednesday and a record ...
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/aerospace-defense/uks-bae-systems-posts-better-than-expected-12-profit-rise-2026-02-18/
+  LinkedPageSummaryWords: 0
+
+- BAE Systems Plc reaffirms 2025 guidance
+  https://www.directorstalkinterviews.com/bae-systems-plc-reaffirms-2025-guidance/4121195514
+  BAE Systems Plc announces strong trading performance and maintains its 2025 guidance, highlighting growth opportunities in a changing defense landscape.
+  LinkedPageStatus: ok (https://www.directorstalkinterviews.com/bae-systems-plc-reaffirms-2025-guidance/4121195514)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems Plc (LON:BA) has provided the following market update ahead of its Annual General Meeting today. · Trading so far this year in line with management’s expectations. · Order backlog and pipeline of work on incumbent positions provide good visibility and support long-term growth. · Well positioned to capture additional defence spending. Charles Woodburn, BAE Systems Chief Executive , said: “We’ve had a strong start to 2025 and are maintaining our guidance for the full year. During this time where the defence and security landscape is rapidly evolving, we are focused on delivering our long-term programme commitments to our customers, while investing in our business to boost capacity, drive efficiencies and shape our portfolio to support future growth.” Trading so far this year is in line with management’s expectations. Our operational performance continues to be strong as we focus on consistent delivery of critical capabilities and technologies for our customers around the world. We are therefore maintaining our guidance for 2025. In 2025 we expect good growth in revenue and EBIT as well as solid cash generation. Our full year 2025 guidance remains unchanged from the preliminary results announcement published on 19 February 2025. · Underlying EBIT +8% to
+
+

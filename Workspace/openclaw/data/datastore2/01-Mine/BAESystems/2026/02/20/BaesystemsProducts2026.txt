@@ -1,0 +1,65 @@
+Domain: BAESystems
+Query: BAESystems Products 2026
+Timestamp: 2026-02-20T21:58:49
+PerPageSummaryWords: 200
+- Countering threats and enhancing operations: Our 2026 technology ...
+  https://www.baesystems.com/en/insight/countering-threats-2026-predictions
+  Prof. Henry Tse, Global Head of Products and Services, BAE Systems Digital Intelligence AI shifts from experimentation to real-world defence operations After years of exploration, 2026 will see many AI projects in defence move into real-world operational exploitation, driven by the need to deliver out of innovation at wartime pace.
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- BAE Systems Shares Are Up 23% in 2026. Is This FTSE 100 Defense Stock a ...
+  https://global.morningstar.com/en-gb/stocks/bae-systems-shares-are-up-23-2026-is-this-ftse-100-defense-stock-buy-2
+  On the FTSE 100, BAE Systems is playing its part in the index's fresh record highs, with this key defense and aerospace stock rising 23% in the year to date, positioning it for its best annual gain since last year, when it climbed 49%. BAE shares are up 56% on this time last year.
+  LinkedPageStatus: ok (https://global.morningstar.com/en-gb/stocks/bae-systems-shares-are-up-23-2026-is-this-ftse-100-defense-stock-buy-2)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Ollie Smith: With global conflict ever present and governments pledging to spend yet more on defense, BAE Systems BA. is already one of the FTSE 100’s top-performing stocks in 2026. Indeed, it’s just delivered a strong set of results for 2025. Revenue is up 8% year-on-year. Operating profits are up 9%. BAE’s order book is £2.7 billion larger than 2024 and, for income seekers, dividend per share is up 10% to 36p. On the FTSE 100, BAE Systems is playing its part in the index’s fresh record highs, with this key defense and aerospace stock rising 23% in the year to date, positioning it for its best annual gain since last year, when it climbed 49%. BAE shares are up 56% on this time last year. So what’s handing this multi-national arms manufacturer momentum right now? BAE Systems has a portfolio of defense capabilities ranging from aircraft, weapons, munitions, and ships to submarines and cyber. The Royal Navy relies on BAE for its frigates. The British Army relies on BAE for small and large calibre munitions and Challenger 3 tank upgrades while, in the air, the RAF’s Typhoon fast jets were produced by BAE in partnership with other European nations.
+
+- UK's BAE Systems forecasts years of growth in 'new era' of defence ...
+  https://www.reuters.com/business/aerospace-defense/uks-bae-systems-posts-better-than-expected-12-profit-rise-2026-02-18/
+  BAE Systems said a "new era" of defence spending would drive its growth for years to come after the British contractor reported a 12% rise in full-year operating profit on Wednesday and a record ...
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/aerospace-defense/uks-bae-systems-posts-better-than-expected-12-profit-rise-2026-02-18/
+  LinkedPageSummaryWords: 0
+
+- Britain's BAE Systems positions for 'new era' of defense spending
+  https://www.cnbc.com/2026/02/18/bae-systems-defense-spending-europe-military-geopolitics-weapons.html
+  The company expects sales to grow by between 7% and 9% in 2026 , with guidance for cumulative free cash flow between 2026 and 2028 in excess of £6 billion. BAE Systems.
+  LinkedPageStatus: ok (https://www.cnbc.com/2026/02/18/bae-systems-defense-spending-europe-military-geopolitics-weapons.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems attracted record orders in 2025, and now the UK defense staple is setting its sights on years of growth amid a global ramp-up in spending. Its shares rose 3.6% on Wednesday after its full-year earnings report showed sales soared 10% last year to reach a record £30.7 billion ($41.7 billion). That helped push operating profits to £2.93 billion, a 9% year-on-year increase, as revenues grew 8% to £28.3 billion. The FTSE 100 -listed company, which manufactures a range of aircraft, weapons, munitions and warships, saw its order backlog hit £83.6 billion, a £5.8 billion increase from 2024. Now, BAE is preparing to capitalize on years of future growth as geopolitical fissures usher in what CEO Charles Woodburn called a "new era of defense spending" driven by "escalating security challenges." The company expects sales to grow by between 7% and 9% in 2026, with guidance for cumulative free cash flow between 2026 and 2028 in excess of £6 billion. "We're well positioned to provide both the advanced conventional systems and disruptive technologies needed to protect the nations we serve now and into the future," Woodburn said in a statement accompanying Wednesday's earnings. "With a record order backlog and continuing
+
+- BAE Systems - Company Analysis and Outlook Report (2026)
+  https://www.aviationoutlook.com/p/bae-systems-company-analysis-outlook-report
+  BAE Systems company analysis: $41.3B revenue, AUKUS submarines, F-35, GCAP fighter programs. Defense outlook through 2026 with growth drivers.
+  LinkedPageStatus: ok (https://www.aviationoutlook.com/p/bae-systems-company-analysis-outlook-report)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems delivered robust financial performance in 2025 with revenue reaching £27.1 billion (last twelve months through December 2025: $41.3 billion), driven by record order intake exceeding £27 billion and strong demand across air, maritime, land, and space sectors. The company’s strategic acquisition of Ball Aerospace for $5.5 billion in February 2024 significantly expanded its space capabilities, creating the new Space & Mission Systems division with over 5,200 employees. Major programs including F-35, Eurofighter Typhoon, SSN-AUKUS submarines, and the Global Combat Air Programme (GCAP) position BAE Systems to capitalize on sustained defense modernization through 2035. Geopolitical tensions, particularly conflicts in Ukraine and the Middle East, continue to drive defense budget increases globally, creating favorable conditions for multi-year growth. BAE Systems plc operates as one of the world’s premier defense, aerospace, and security companies. Headquartered in Farnborough, United Kingdom, the company maintains significant operations across the United States, United Kingdom, Saudi Arabia, and Australia. The United States represents approximately 45% of total revenue, followed by the United Kingdom at 25%, and Saudi Arabia at 15%. This geographic diversification provides resilience against regional economic fluctuations. Combat Aircraft : BAE Systems plays critical roles in two flagship fighter programs. The company manufactures rear
+
+- BAE Systems PLC - Earnings Release 2026 | FinancialReports.eu
+  https://financialreports.eu/filings/bae-systems-plc/earnings-release/2026/30488008/
+  Access the 2026 Earnings Release content for BAE Systems PLC. View the original document or AI-processed analysis.
+  LinkedPageStatus: ok (https://financialreports.eu/filings/bae-systems-plc/earnings-release/2026/30488008/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Charles Woodburn, Chief Executive, said: "Our results highlight another year of strong operational and financial performance, thanks to the outstanding dedication of our employees. In a new era of defence spending, driven by escalating security challenges, we're well positioned to provide both the advanced conventional systems and disruptive technologies needed to protect the nations we serve now and into the future. With a record order backlog and continuing investment in our business to enhance agility, efficiency and capacity, we're confident in our ability to keep delivering growth over the coming years." - Sales increased 10%2 to a record £30.7bn, with growth in all of our sectors. Organic growth was 9%2. - Underlying EBIT increased by 12%2 with a 20bps increase in return on sales from 10.6% to 10.8%. - Free cash flow was strong at £2,158m. Significant customer advances were received late in the year, capital expenditure remained close to record levels at c.£1bn and research and development (R&D) spend increased. - Our order backlog grew by £5.8bn to a record £83.6bn. Order intake was strong at £36.8bn, with all sectors performing well, reflecting the continued relevance of our diverse geographic footprint and multi-domain capabilities. - The growth in revenue
+
+- BAE Systems reports on progress of UK's Type 26 frigate program
+  https://www.navaltoday.com/2026/02/18/bae-systems-reports-on-progress-of-uks-type-26-frigate-program/
+  Shipbuilder BAE Systems has reported on the progress of the UK's Type 26 frigate program, highlighting key milestones in construction, outfitting, and export success as the Royal Navy prepares to replace its aging Type 23 fleet.
+  LinkedPageStatus: ok (https://www.navaltoday.com/2026/02/18/bae-systems-reports-on-progress-of-uks-type-26-frigate-program/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Shipbuilder BAE Systems has reported on the progress of the UK’s Type 26 frigate program, highlighting key milestones in construction, outfitting, and export success as the Royal Navy prepares to replace its aging Type 23 fleet. The company disclosed that the final outfitting is underway on the first two ships, HMS Glasgow and HMS Cardiff , at the Scotstoun yard. Meanwhile, HMS Belfast, HMS Birmingham, and are progressing at the firm’s Govan site. BAE has invested heavily in shipyard infrastructure, notably the Janet Harvey Hall at Govan, allowing two Type 26 ships to be constructed simultaneously and increasing production efficiency. Preparations for the sixth ship, HMS Newcastle, including long-lead procurement, are already underway, maintaining a steady production pipeline. To remind, the naming of the first of eight Type 26 frigates being built by BAE Systems for the Royal Navy, HMS Glasgow, took place in May 2025. The vessel was officially named by Catherine, the Princess of Wales, at a ceremony in the city in which it was built and named after. The Type 26 program has also gained momentum on the international stage. Norway has selected the Type 26 design for its future frigate fleet in a £10 billion government-to-government
+
+- BAE Systems aims for 2026 market debut of autonomous submarine
+  https://www.bairdmaritime.com/security/naval/unmanned-naval-systems/bae-systems-aims-for-2026-market-debut-for-autonomous-submarine
+  Britain's BAE Systems said it was aiming to bring an autonomous submarine to market by 2026 , amid interest from countries increasingly worried about underwater threats, following a series of attacks on subsea cables. BAE successfully tested its Herne submarine product last year and said at the DSEI arms fair on Tuesday it signed a 10-year deal with Canadian partner Cellula Robotics, with the ...
+  LinkedPageStatus: ok (https://www.bairdmaritime.com/security/naval/unmanned-naval-systems/bae-systems-aims-for-2026-market-debut-for-autonomous-submarine)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Britain's BAE Systems said it was aiming to bring an autonomous submarine to market by 2026, amid interest from countries increasingly worried about underwater threats, following a series of attacks on subsea cables. BAE successfully tested its Herne submarine product last year and said at the DSEI arms fair on Tuesday it signed a 10-year deal with Canadian partner Cellula Robotics, with the pair aiming to have a product "market ready" by the end of 2026. Herne would be the first autonomous underwater vehicle BAE has taken to market. Scott Jamieson, Managing Director of BAE Systems Maritime Land Defence Solutions business, said he was confident BAE could be manufacturing 10-20 of the submarines in 2027. "I think there's a lot of interest we've had this week through a number of different countries and delegations," he said on the sidelines of the event, adding that Britain, Middle Eastern and European countries were all potential customers. He said many Western navies were conscious of the emerging threat under the sea. The Baltic Sea region, for example, is on high alert after a string of power cable, telecom link, and gas pipeline outages since Russia invaded Ukraine in 2022. The Herne mini-submarine would
+
+

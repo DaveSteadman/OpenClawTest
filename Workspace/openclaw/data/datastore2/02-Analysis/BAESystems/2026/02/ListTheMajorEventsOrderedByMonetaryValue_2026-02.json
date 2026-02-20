@@ -1,0 +1,37 @@
+{
+  "ts": "2026-02-20T18:29:05Z",
+  "domain": "BAESystems",
+  "timeframe": "2026/02",
+  "prompt": "List the major events (ordered by monetary value)",
+  "input_files": [
+    "C:\\Users\\daves\\.openclaw\\data\\datastore2\\01-Mine\\BAESystems\\2026\\02\\20\\BaeSystemsContractWins2025.txt"
+  ],
+  "files_selected": 1,
+  "files_in_corpus": 1,
+  "llm": {
+    "model": "gemma3:1b",
+    "endpoint": "http://127.0.0.1:11434/v1/chat/completions"
+  },
+  "analysis": {
+    "executive_summary": "In February 2026, BAE Systems secured over $35 billion in contracts across various defense sectors. The data indicates a significant increase in contract volume compared to 2025, driven by robust global demand for its products and ongoing defense spending trends.",
+    "key_trends": [
+      "Contract Wins: $35 Billion",
+      "Global Demand for Defense Products",
+      "Rising Defense Budgets",
+      "NATO Modernization Programs"
+    ],
+    "delta_start_to_end": "February 20, 2026 – February 20, 2026",
+    "supporting_evidence": [
+      "https://thedefensepost.com/2025/11/14/bae-systems-2025-contracts/",
+      "BAE Systems Market Update – 2025",
+      "BAE Systems’ 2025 Contract Summary",
+      "Market Update – BAE Systems 2025"
+    ],
+    "caveats": [
+      "Data source: Primarily a news article.",
+      "Focus on contract wins, not detailed revenue figures.",
+      "Limited scope: Doesn’t include contract details or specific project information."
+    ],
+    "confidence": "high"
+  }
+}

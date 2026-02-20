@@ -1,0 +1,53 @@
+{
+  "ts": "2026-02-20T22:04:07Z",
+  "domain": "BAESystems",
+  "timeframe": "2026/02/20",
+  "prompt": "Company operations overview",
+  "input_files": [
+    "C:\\Users\\daves\\.openclaw\\data\\datastore2\\01-Mine\\BAESystems\\2026\\02\\20\\BaeSystemsContractWins2025.txt",
+    "C:\\Users\\daves\\.openclaw\\data\\datastore2\\01-Mine\\BAESystems\\2026\\02\\20\\BaesystemsCountriesOfOperation2026.txt",
+    "C:\\Users\\daves\\.openclaw\\data\\datastore2\\01-Mine\\BAESystems\\2026\\02\\20\\BaesystemsInternationalOperations2025Changes.txt",
+    "C:\\Users\\daves\\.openclaw\\data\\datastore2\\01-Mine\\BAESystems\\2026\\02\\20\\BaesystemsProducts2026.txt",
+    "C:\\Users\\daves\\.openclaw\\data\\datastore2\\01-Mine\\BAESystems\\2026\\02\\20\\HttpsWwwHlCoUkSharesSharesSearchResultsBBaeSystemsPlcOrdinary25pShareNews.txt"
+  ],
+  "files_selected": 5,
+  "files_in_corpus": 5,
+  "llm": {
+    "model": "gemma3:1b",
+    "endpoint": "http://127.0.0.1:11434/v1/chat/completions"
+  },
+  "analysis": {
+    "executive_summary": "BAE Systems is a global defense and aerospace company focused on providing advanced technologies and solutions to its customers across various sectors. The company’s recent performance highlights a strong focus on strategic acquisitions, particularly in space and defense, alongside continued investment in core technologies.",
+    "key_trends": [
+      "Increased defense spending globally",
+      "Growing demand for advanced technologies in defense and aerospace",
+      "Focus on space capabilities",
+      "Strategic acquisitions and partnerships",
+      "Digital transformation within the defense sector"
+    ],
+    "delta_start_to_end": "2026-02-20T18:17:38",
+    "supporting_evidence": [
+      "BAE Systems Contract Wins 2025 - The Defense Post (2025-11-14)",
+      "BAE Systems - Company Analysis and Outlook Report (2026)",
+      "BAE Systems - Earnings Release 2025",
+      "BAE Systems - Company Analysis and Outlook Report (2026)",
+      "Royal Navy relies on BAE for its frigates",
+      "British Army relies on BAE for its small and large calibre munitions",
+      "Air, naval, ground, and electronic systems",
+      "Investment in technology and defence operations",
+      "Digital Intelligence AI shifts from experimentation to real-world defence operations",
+      "Oil prices rise to a six-month high over US-Iran fears",
+      "Significant reduction in UK public borrowing and a surge in January retail sales",
+      "Gold edges higher, despite resilient US jobs data",
+      " FTSE 100 hits new highs as inflation cools",
+      "UK jobs data reveals post-pandemic employment bounce is well and truly over",
+      "US stock futures move lower as AI-related fears continue",
+      "FTSE 100 opens higher",
+      "Investment insights How geopolitics factors into the stock market",
+      "What Japan’s election means for investors – plus two fund ideas",
+      "Personal finance"
+    ],
+    "delta_start_to_end_summary": "BAE Systems is experiencing a period of robust growth driven by strategic acquisitions and a focus on key defense sectors.  The company's performance is influenced by global defense spending trends and geopolitical factors.",
+    "confidence": "medium"
+  }
+}

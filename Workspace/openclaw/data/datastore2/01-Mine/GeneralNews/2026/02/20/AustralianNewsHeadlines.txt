@@ -1,0 +1,69 @@
+Domain: GeneralNews
+Query: Australian News Headlines
+Timestamp: 2026-02-20T17:39:30
+PerPageSummaryWords: 200
+- news.com.au — Australia's leading news site for latest headlines
+  https://www.news.com.au/
+  Read the latest headlines covering sports, entertainment, finance, politics and national breaking news . Be on it with Australia's leading news site.
+  LinkedPageStatus: ok (https://www.news.com.au/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Once his biggest support, details of how Fergie is handling Andrew’s arrest have emerged – as police start interviewing his royal protection officers. Donald Trump’s controversial global tariffs on foreign imports have been struck down by the US Supreme Court in a landmark decision. Strange new photos of Andrew Mountbatten-Windsor have come to light in the hours following his bombshell arrest in the UK. One of the co-founders of online fashion retailer ASOS has tragically died in Thailand. An outbreak of a highly-infectious disease has prompted authorities to issue a new alert listing a busy airport and numerous medical centres as fresh exposure sites. The IOC has made its decision regarding Jake Paul’s girlfriend’s $1.4m move after she won gold at the Winter Olympics. Just hours after the tragic death of his longtime co-star and friend, Patrick Dempsey has shared details of their last conversations. The dramaric arrest of Andrew Mountbatten-Windsor has plunged the monarchy into its biggest crisis in modern history. A major police operation unfolded in Sydney’s west following an alleged armed break and enter by a group of men. Pauline Hanson has accused police of trying to “put me back in jail” after officers “received reports of
+
+- News Australia - Latest news headlines in Australia
+  https://www.9news.com.au/national
+  Australian news headlines This is a collection page for national news . 9News promises to bring you breaking news faster than any other media organisation.
+  LinkedPageStatus: ok (https://www.9news.com.au/national)
+  LinkedPageSummaryWords: 133
+  LinkedPageSummary:
+  This is a collection page for national news. 9News promises to bring you breaking news faster than any other media organisation. If it’s happening in Australia, you’ll find it here. We have bureaux in Sydney , Melbourne , Brisbane , Adelaide and Perth , with major regional bases on the Gold Coast , in Darwin and of course Canberra . We also have regional teams across New South Wales , Victoria and Queensland , which means nothing gets missed. Our coverage of crime is second to none, with the best court reporters in the business. We are also award-winners for our coverage of the states, holding local governments to account for spending our money, with transport, health and education also hugely important. Check this page for latest Australian news updates and breaking headlines.
+
+- ABC News & Headlines - Australian Broadcasting Corporation
+  https://www.abc.net.au/
+  Follow the latest headlines from ABC News , Australia's most trusted media source, with live events, audio and on-demand video from the national broadcaster.
+  LinkedPageStatus: ok (https://www.abc.net.au/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The US Supreme Court has handed down a bombshell ruling against President Donald Trump's global tariffs, deeming them illegal and killing them off. We have a new leader in the 1,500m! Australia has left Steve Smith out of its final XI of the T20 World Cup as it plays for pride in a dead rubber against Oman. Follow live. Unless the Board of Peace begins to focus and genuinely tries to make the world a better place, this may well prove to be yet another monument to Donald Trump. From a cursed vagina to a classic retold, there's plenty of culture to dig into this weekend. Glider pilot makes aviation history in Central Australia with 10-hour marathon Three generations of Indigenous women explore sisterhood in Black Light How vegetable scraps could soon help power Queensland homes Breaking: Royal protection police close to Andrew Mountbatten-Windsor to be grilled The star was best known for his role as Dr Mark Sloan in long-running medical drama Grey's Anatomy, and as the patriarch of the Jacobs family in teen hit Euphoria. Fiji, Palau and Tuvalu look set to host world leaders and climate change ministers in the lead-up to COP31 in a bid to
+
+- Australian News: Latest & Breaking National News in Australia | 7NEWS
+  https://7news.com.au/news/australia
+  7News brings you the latest local news from Australia. Stay up to date with all of the breaking sport, politics, entertainment, finance, weather and business headlines . Today's Australian news , live updates & all the latest breaking stories from 7News.
+  LinkedPageStatus: ok (https://7news.com.au/news/australia)
+  LinkedPageSummaryWords: 102
+  LinkedPageSummary:
+  The risky car trends creeping in across Australia An alarming number of drivers are putting their safety at risk and may not know it. 3 min read ‘Are you joking?’: $80m Powerball jackpot winner’s shock ‘I can’t believe it! Oh my god! I can’t stop crying!’ 2 min read Heat turned up on gaming giant Roblox after shock new allegations 3 min read Harsh penalties proposed for ‘provocative’ act with Aussie flag 4 min read Silent ‘epidemic’ leaving Aussie homeowners at risk of losing everything 5 min read Banks pass on cash rate hike spelling mortgage pain 4 min read 1 Next
+
+- The Australian | Latest Australian News Headlines and World News
+  https://www.theaustralian.com.au/
+  The Australian | Latest Australian News Headlines and World News A NOTE ABOUT RELEVANT ADVERTISING: We collect information about the content (including ads) you use across this site and use it to ...
+  LinkedPageStatus: ok (https://www.theaustralian.com.au/?nk=a5be1fb156ef92ec5c35f5acdf6aac78-1771609157)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  How much longer will Australians tolerate Home Affairs Minister Tony Burke reacting to political pressure rather than making considered decisions in the national interest? The Albanese government told Kurdish authorities 11 ISIS-linked families in northeast Syria were ‘terrorists’ and that it did not want the women and children returned to Australia | WATCH As debate rages over the return of Australian ISIS brides, sympathy flows to their children but rarely their mothers. The controversy exposes deeper fears about Muslims — and tests what we mean by ‘our values’. The Supreme Court has struck down Donald Trump’s global tariffs in a stinging ruling that removes a key diplomatic tool and marks his first major second-term legal defeat. Last year’s ‘Liberation Day’ tariffs now appear to be one the biggest overreaches by a US President in recent history, with the administration’s trade agenda plunged into deep uncertainty. Education ministers want school students to learn more about democracy, freedom and the rule of law – as well as the Aussie ‘fair go’. The former deputy prime minister thought he could tame Pauline Hanson’s controversial antics, but colleagues warned this political marriage was doomed from the start. Police searches will continue at Royal Lodge
+
+- Breaking News | Sky News Australia
+  https://www.skynews.com.au/breaking-news
+  SkyNews.com.au — Australian News Headlines & World News Online from the best award winning journalists
+  LinkedPageStatus: ok (https://www.skynews.com.au/breaking-news?nk=69e2572cdb99faf30e38fc1276f9f715-1771609162)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Billions of dollars in unclaimed earnings is sitting in the forgotten accounts of millions of Aussies. An outbreak of a highly-infectious disease has prompted authorities to issue a new alert listing a busy airport and numerous medical centres as fresh exposure sites. A major police operation unfolded in Sydney’s west following an alleged armed break and enter by a group of men. One state’s police union has demanded “compensation” for officers locked out of controversial proposed WFH changes which would affect millions of Aussies. Footage has captured the moment a noisy police helicopter was deployed in a Sydney suburb as officers searched for a wanted man who fled before his arrest. Federal and state police have launched a new taskforce to combat “black flights” suspected of smuggling tonnes of drugs and people into Australia from stockpiles in the Pacific. Owners of cats who like to roam are on notice, with one state set to introduce laws to limit the movement of their beloved pets. Pauline Hanson has accused police of trying to “put me back in jail” after officers “received reports of crime” over controversial statements. Australian shares have dipped despite a strong week, as tech stocks tumbled and Guzman
+
+- Breaking News - Latest News - Just In | SBS News
+  https://www.sbs.com.au/news/collection/just-in
+  Stay on top of breaking news and latest national and international stories from Australia and the world. Read the latest in breaking news and updates on SBS News .
+  LinkedPageStatus: ok (https://www.sbs.com.au/news/collection/just-in)
+  LinkedPageSummaryWords: 184
+  LinkedPageSummary:
+  Just In 02:09 Bangarra Dance Theater becomes first Australian recipient of Venice's Golden Lion Australia 03:08 Australian group stranded in Syria release photo of youngest girl held in detention Australia 02:10 A Sydney property has been raided by police in search of 'mistakenly kidnapped' man Chris Baghsarian Australia 10:32 US goods deficit widens despite tariffs and market reacts to QBE and Rio results Finance NT hit-and-run driver avoids jail again after prosecutors appeal 'inadequate' sentence Australia 05:58 Virginia Giuffre's family welcomes royal arrest | Evening News Bulletin 20 February 2026 06:28 UN says siege at el-Fasher shows evidence of genocide Africa 06:43 Australian Federal Police says reports of crime received over Pauline Hanson's remarks on Muslims Australia Two mental health facility escapes ended in tragedy. Now, a push for 'urgent' change Australia 'Extremely interesting': Trump says he'll release files on aliens and UFOs US Politics 07:17 Trump's 'Board of Peace' flags billions in Gaza aid, US issues fresh threats against Iran Middle East 06:43 Former Prince Andrew becomes first senior British royal to be arrested in almost 400 years World 1 2 3 4
+
+- Australia news headlines from Thursday 19th February 2026: Albanese ...
+  https://www.smh.com.au/national/australia-news-live-tony-burke-confirms-is-brides-have-australian-passports-as-government-issues-one-temporary-exclusion-order-us-military-build-up-fuels-speculation-trump-is-headed-for-war-with-iran-20260219-p5o3ja.html
+  Follow along as we bring you the latest live news updates from Australia and beyond.
+  LinkedPageStatus: ok (https://www.smh.com.au/national/australia-news-live-tony-burke-confirms-is-brides-have-australian-passports-as-government-issues-one-temporary-exclusion-order-us-military-build-up-fuels-speculation-trump-is-headed-for-war-with-iran-20260219-p5o3ja.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A former Coles manager who set prices for its pet foods has hit back at the suggestion increasing sales and earning money was the only motivation for putting a product on promotion, as the supermarket fights a Federal Court case alleging it misled shoppers with its “Down Down” discounts. The court heard in Melbourne on Thursday an at-times combative exchange between the Australian Competition and Consumer Commission’s lead barrister, Garry Rich, SC, and Paul Carroll, who was the head of Coles’ pet food category, Carroll was being grilled over price-change allegations at the centre of the watchdog’s case. Nature’s Gift Wet Dog Food in a 12-kilogram tin, which Coles priced at $4 between April 18, 2022, and February 7, 2023, was then increased to a $6 “Every Day price” for a seven-day period, before the supermarket cut it to its third price, $4.50. Coles promoted this price with a red Down Down discount label, despite it being 50¢ more expensive than it had been sold at eight days earlier, in a move it has since acknowledged was an error and against its internal pricing “guardrails”. Rich asked Carroll about the difference between Every Day and Down Down pricing, and the
+
+
