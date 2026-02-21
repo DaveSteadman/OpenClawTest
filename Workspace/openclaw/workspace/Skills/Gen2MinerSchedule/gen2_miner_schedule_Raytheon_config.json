@@ -1,0 +1,32 @@
+{
+  "default_domain": "Raytheon",
+  "tasks": [
+    {
+      "name": "Raytheon Company News",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "Raytheon",
+      "query": "Raytheon latest company news",
+      "max": 8
+    },
+    {
+      "name": "Raytheon Contract Awards",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "Raytheon",
+      "query": "Raytheon latest contract awards",
+      "max": 8
+    },
+    {
+      "name": "Raytheon UK News",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "webtext",
+      "url": "https://www.raytheon.co.uk/news",
+      "max_links": 8,
+      "words": 220
+    }
+  ]
+}

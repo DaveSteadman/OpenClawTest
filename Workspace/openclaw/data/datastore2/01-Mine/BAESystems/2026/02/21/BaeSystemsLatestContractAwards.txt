@@ -1,0 +1,277 @@
+Domain: BAESystems
+Query: BAE Systems latest contract awards
+Timestamp: 2026-02-21T13:25:39
+PerPageSummaryWords: 200
+- New investment to deliver advanced radar for Royal Air Force Typhoon
+  https://www.baesystems.com/en-uk/article/typhoon-ecrs-mk2-production-contract-award
+  The UK Ministry of Defence has awarded BAE Systems a contract worth £453.5 million for the full production of a new advanced radar for UK Typhoon aircraft. The contract follows a successful programme of development and testing, enabled through long-term UK investment, and marks a major step forward in the Royal Air Force's (RAF) Typhoon ...
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- BAE Systems Wins $35B in Contracts So Far in 2025 - The Defense Post
+  https://thedefensepost.com/2025/11/14/bae-systems-2025-contracts/
+  Key Orders Secured in 2025 BAE Systems' contracts this year span aviation, naval, ground, and electronic systems . Among the most notable awards is a four-billion euro contract to build 20 Eurofighter Typhoon aircraft and integrate weapons systems for Turkey, with deliveries expected to begin in 2030.
+  LinkedPageStatus: ok (https://thedefensepost.com/2025/11/14/bae-systems-2025-contracts/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems has already won more than 27 billion pounds ($35 billion) in contracts in 2025, reflecting strong global demand for its defense platforms and technologies. Trading in the second half of the year has remained in line with expectations, the company said in a market update . It noted that operational performance “continues to be strong” as it delivers critical capabilities across combat aircraft, submarines, missile systems, and electronic warfare. The surge in contracts highlights the continuing impact of rising defense budgets and NATO modernization programs on global procurement. “These programmes not only strengthen national security, but also support thousands of skilled jobs and generate significant export value for the UK economy,” BAE Systems Chief Executive Charles Woodburn said. BAE Systems said it remains committed to its capital allocation strategy, including continued investment in technology, selective acquisitions, and shareholder returns — totaling around 1.5 billion pounds ($1.9 billion) in 2025 through dividends and share buybacks. BAE Systems’ contracts this year span aviation, naval, ground, and electronic systems. Among the most notable awards is a four-billion euro contract to build 20 Eurofighter Typhoon aircraft and integrate weapons systems for Turkey, with deliveries expected to begin in 2030. In the US,
+
+- U.S. Air Force awards $145 million sole-source contract to BAE Systems ...
+  https://defence-industry.eu/u-s-air-force-awards-145-million-sole-source-contract-to-bae-systems-for-dual-mode-apkws-upgrade/
+  The contract is structured as an Indefinite Delivery/Indefinite Quantity agreement and is expected to be awarded on a sole-source basis to BAE Systems in Hudson, New Hampshire. Work must begin no later than the second quarter of fiscal year 2026 to meet operational timelines set by U.S. Central Command and Air Force Central Command.
+  LinkedPageStatus: ok (https://defence-industry.eu/u-s-air-force-awards-145-million-sole-source-contract-to-bae-systems-for-dual-mode-apkws-upgrade/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The U.S. Air Force has released details of a $145 million contract action to develop and integrate an Air-to-Air Dual Mode weapon based on the Advanced Precision Kill Weapon System. The effort is designed to counter large groups of unmanned aerial systems, particularly lower-cost Group 3 drones. According to a Justification and Approval document published February 13, 2026, the program supports a Joint Urgent Operational Need issued by combatant commanders in August 2024. The requirement was driven by what officials described as “growing risks from mass attacks involving lower-cost Group 3 drones, potentially numbering in the hundreds,” especially within the U.S. Central Command area of responsibility. The program centers on upgrading the AGR-20F APKWS rocket, also known as FALCO, to create prototype air-to-air rounds. The new configuration adds a nose-mounted Long Wave Infrared seeker, a mid-body warhead, and a dual safe proximity fuze intended to defeat Group 3 unmanned aerial system threats. According to the document, the design allows a handoff from laser designation to infrared homing, reducing the time aircrews must maintain laser contact with a target. The Air Force stated that “the modification minimizes exposure during engagements while allowing faster targeting cycles against multiple airborne threats,” while keeping
+
+- BAE Systems wins $1.7 billion US Navy contract | Reuters
+  https://www.reuters.com/business/aerospace-defense/bae-systems-wins-17-billion-us-navy-contract-2025-12-10/
+  Dec 10 (Reuters) - BAE Systems (BAES.L), opens new tab, Britain's biggest defence company, said on Wednesday that the U.S. Navy had awarded it a five-year contract worth up to $1.7 billion to ...
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/aerospace-defense/bae-systems-wins-17-billion-us-navy-contract-2025-12-10/
+  LinkedPageSummaryWords: 0
+
+- BAE Systems sees order intake surpass £27bn - Naval Technology
+  https://www.naval-technology.com/news/bae-system-trading-update/
+  In Electronic Systems , BAE Systems secured around $3.3bn in orders, comprising incremental funding for Space & Mission Systems and various electronics programmes, as well as new contracts for the Advanced Precision Kill Weapon System (APKWS) and Multifunctional Information Distribution System Joint Tactical Radio Systems .
+  LinkedPageStatus: ok (https://www.naval-technology.com/news/bae-system-trading-update/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems has reported that its performance in the second half of fiscal 2025 is meeting expectations, driven by positive momentum in order intake. The company has received more than £27bn ($35bn) in orders so far this year. Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. Key contract awards in the second half include around £4bn for the construction of 20 Typhoon aircraft and weapons integration for Türkiye, where first delivery is set for 2030. In Electronic Systems, BAE Systems secured around $3.3bn in orders, comprising incremental funding for Space & Mission Systems and various electronics programmes, as well as new contracts for the Advanced Precision Kill Weapon System (APKWS) and Multifunctional Information Distribution System Joint Tactical Radio Systems. The group also received approximately $1.7bn in funding supporting US combat vehicle production across ongoing AMPV, Bradley and M109 programmes. Additionally, it secured almost £1.1bn of MBDA orders for domestic and export contracts, and £900m to continue work on Dreadnought programme design and build activities. Don’t let policy changes catch you off guard. Stay proactive with real-time data and expert analysis. BAE Systems also expected the recent agreement between the Norwegian and UK governments
+
+- BAE Systems awarded $145 million Pentagon contract for anti-drone systems
+  https://www.msn.com/en-ie/money/technology/bae-systems-awarded-145-million-pentagon-contract-for-anti-drone-systems/ar-AA1Wtx01
+  The U.S. Department of War has awarded BAE Systems a $145 million contract to develop and produce weapons designed to counter unmanned aerial systems .
+  LinkedPageStatus: ok (https://www.msn.com/en-ie/money/technology/bae-systems-awarded-145-million-pentagon-contract-for-anti-drone-systems/ar-AA1Wtx01)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Britain's BAE Systems positions for 'new era' of defense spending
+  https://www.cnbc.com/2026/02/18/bae-systems-defense-spending-europe-military-geopolitics-weapons.html
+  BAE Systems is positioning for a "new era" in defense spending underpinned by what CEO Charles Woodburn called "escalating security challenges." The British weapons manufacturer secured £36.8 ...
+  LinkedPageStatus: ok (https://www.cnbc.com/2026/02/18/bae-systems-defense-spending-europe-military-geopolitics-weapons.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems attracted record orders in 2025, and now the UK defense staple is setting its sights on years of growth amid a global ramp-up in spending. Its shares rose 3.6% on Wednesday after its full-year earnings report showed sales soared 10% last year to reach a record £30.7 billion ($41.7 billion). That helped push operating profits to £2.93 billion, a 9% year-on-year increase, as revenues grew 8% to £28.3 billion. The FTSE 100 -listed company, which manufactures a range of aircraft, weapons, munitions and warships, saw its order backlog hit £83.6 billion, a £5.8 billion increase from 2024. Now, BAE is preparing to capitalize on years of future growth as geopolitical fissures usher in what CEO Charles Woodburn called a "new era of defense spending" driven by "escalating security challenges." The company expects sales to grow by between 7% and 9% in 2026, with guidance for cumulative free cash flow between 2026 and 2028 in excess of £6 billion. "We're well positioned to provide both the advanced conventional systems and disruptive technologies needed to protect the nations we serve now and into the future," Woodburn said in a statement accompanying Wednesday's earnings. "With a record order backlog and continuing
+
+- BAE Systems Awarded UK MoD RECODE Contract | Joint Forces News
+  https://www.joint-forces.com/uk-news/79554-bae-systems-awarded-uk-mod-recode-contract
+  BAE Systems has been awarded a RECODE contract by UK MoD to support the Royal Navy's Shared Infrastructure, CMS and warship networks. ~ Press Release, London, 28 January 2025: BAE Systems has been awarded a £285m contract by the Ministry of Defence to support the Royal Navy's Shared Infrastructure, Combat Management Systems (CMS) and warship networks. RECODE is an eight-year programme ...
+  LinkedPageStatus: ok (https://www.joint-forces.com/uk-news/79554-bae-systems-awarded-uk-mod-recode-contract)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Press Release, London, 28 January 2025 : BAE Systems has been awarded a £285m contract by the Ministry of Defence to support the Royal Navy’s Shared Infrastructure, Combat Management Systems (CMS) and warship networks. RECODE is an eight-year programme ensuring the Navy’s fleet is armed and ready for evolving military challenges. It is tailored to meet the Royal Navy’s future operational needs and will deliver a modernisation programme at pace to enable the agile deployment of capabilities. The contract award builds on 13 years of collaboration with the Royal Navy in which the BAE Systems’ CMS is used across a wide range of naval assets. RECODE will support more than 200 highly-skilled jobs at BAE Systems’ Naval Ships business across the Company’s sites in Filton, Dorchester, New Malden, Frimley and Portsmouth. It will also create additional investment in UK SME and high-tech suppliers across the UK. Steve Carter, Naval Ships Combat Systems Director, BAE Systems, said: “RECODE represents a huge stride forward in our partnership with the Royal Navy and will help to realise warfare capability of the future. The global threat picture, advances in commercial technology and the immense volume of data available to crews means we need to
+
+
+Domain: BAESystems
+Query: BAE Systems latest contract awards
+Timestamp: 2026-02-21T14:36:06
+PerPageSummaryWords: 200
+- BAE Systems Secures $118M Navy Contract Modification for USS Sherman Modernization
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2cef7584646bc2e10f16ca27419&url=https%3a%2f%2fwww.govconwire.com%2farticles%2fbae-systems-navy-contract-uss-sherman&c=9711716607896439261&mkt=en-us
+  BAE Systems has received a $117.7 million contract modification from the U.S. Navy to support depot-level modernization, maintenance and repair of USS Forrest Sherman (DDG 98) during fiscal year 2026.
+  LinkedPageStatus: ok (https://www.govconwire.com/articles/bae-systems-navy-contract-uss-sherman)
+  LinkedPageSummaryWords: 163
+  LinkedPageSummary:
+  BAE Systems has received a $117.7 million contract modification from the U.S. Navy to support depot-level modernization, maintenance and repair of USS Forrest Sherman (DDG 98) during fiscal year 2026. The Department of War said Monday the firm-fixed-price modification covers all required labor, equipment, supervision, production, testing, facilities, and quality assurance to execute the Chief of Naval Operations availability. BAE Systems will carry out the work on the Arleigh Burke‑class guided‑missile destroyer at its Norfolk Ship Repair facility in Virginia, with completion scheduled for August 2027. The Naval Sea Systems Command in Washington, D.C., will allocate the full amount from fiscal 2026 Navy procurement funds at the time of award. These funds will remain available and will not expire at the end of the current fiscal year. The Naval Sea Systems Command awarded BAE Systems the initial contract in November. The deal, under the Navy Depot Modernization Period contract, has a base value of $123 million but could potentially reach $139.1 million .
+
+- US Navy awards BAE Systems APKWS contract worth up to $1.7 billion
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2cef7584646bc2e10f16ca27419&url=https%3a%2f%2fwww.msn.com%2fen-us%2fwar-and-conflicts%2fmilitary%2fus-navy-awards-bae-systems-apkws-contract-worth-up-to-1-7-billion%2far-AA1SaQWa&c=16682362131153377311&mkt=en-us
+  BAE Systems has received an initial order for 11,000 laser-guidance kits worth $322 million, with a maximum contract value of $1.7 billion, to equip the U.S. military and partners. BAE Systems ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/war-and-conflicts/military/us-navy-awards-bae-systems-apkws-contract-worth-up-to-1-7-billion/ar-AA1SaQWa)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- BAE Systems Awarded $123M NAVSEA Contract for USS Forrest Sherman Maintenance
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2cef7584646bc2e10f16ca27419&url=https%3a%2f%2fwww.govconwire.com%2farticles%2fbae-systems-navsea-uss-forrest-sherman&c=9140420624904962398&mkt=en-us
+  BAE Systems has been awarded a potential $139.1 million contract by the U.S. Naval Sea Systems Command, or NAVSEA, to deliver maintenance, modernization and repair services for the USS Forrest Sherman ...
+  LinkedPageStatus: ok (https://www.govconwire.com/articles/bae-systems-navsea-uss-forrest-sherman)
+  LinkedPageSummaryWords: 150
+  LinkedPageSummary:
+  BAE Systems has been awarded a potential $139.1 million contract by the U.S. Naval Sea Systems Command, or NAVSEA, to deliver maintenance, modernization and repair services for the USS Forrest Sherman (DDG 98) . According to the award notice posted Wednesday on SAM.gov, BAE Systems’ Norfolk Ship Repair division will provide labor, supervision, equipment, production, testing, facilities and quality assurance necessary to prepare for and accomplish the Chief of Naval Operations Availability for critical modernization, maintenance and repair programs. The firm-fixed-price contract is initially valued at $123.2 million, with options that could bring the cumulative value to the maximum amount. It supports the USS Forrest Sherman’s Fiscal Year 2026 Depot Modernization Period, or DMP. Based on the project’s solicitation notice , the work is scheduled to begin in February 2026 and is expected to be completed by August 2027. The contract was awarded through a full and open competitive process.
+
+- US Navy awards $1.7bn contract to BAE Systems for APKWS kits
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2cef7584646bc2e10f16ca27419&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2ftechnology%2fus-navy-awards-1-7bn-contract-to-bae-systems-for-apkws-kits%2far-AA1SbaM0&c=12052318100689362111&mkt=en-us
+  The US Navy has signed a five-year indefinite delivery, indefinite quantity (IDIQ) contract with BAE Systems for Advanced Precision Kill Weapon System (APKWS) laser-guidance kits, valued at up to ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/news/technology/us-navy-awards-1-7bn-contract-to-bae-systems-for-apkws-kits/ar-AA1SbaM0)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- US Navy awards USD1.7 billion contract to BAE Systems for APKWS laser guidance kits
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2cef7584646bc2e10f16ca27419&url=https%3a%2f%2fwww.janes.com%2fosint-insights%2fdefence-news%2fair%2fus-navy-awards-usd17-billion-contract-to-bae-systems-for-apkws-laser-guidance-kits&c=5845042807807279339&mkt=en-us
+  The US Navy awarded BAE Systems a USD1.7 billion contract for the production of Advanced Precision Kill Weapon System (APKWS) laser guidance kits, the company announced on 10 December. The contract ...
+  LinkedPageStatus: ok (https://www.janes.com/osint-insights/defence-news/air/us-navy-awards-usd17-billion-contract-to-bae-systems-for-apkws-laser-guidance-kits)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems APKWS rocket fitted to Bell 407GT Armed Scout. (Janes/Patrick Allen) The US Navy awarded BAE Systems a USD1.7 billion contract for the production of Advanced Precision Kill Weapon System (APKWS) laser guidance kits, the company announced on 10 December. The contract contains an initial USD322 million order, up to a maximum value of USD1.7 billion. The five-year indefinite delivery/indefinite quantity (ID/IQ) contract is designed to equip US forces with up to 55,000 APKWS kits. These are intended to transform 70 mm (2.75 inch) unguided rockets into low-cost, laser-guided precision munitions for US and potentially allied forces. “APKWS kits are available to all US armed forces, as well as allies via foreign defence sales,” Jason Petrie, director at BAE Systems, told Janes in an emailed statement on 10 December, adding that the company will be delivering the kits to the navy on a “set schedule”. The contract enables the navy to purchase APKWS guidance kits until December 2030. The kit-modified munitions can be fired by rotary- and fixed-wing aircraft, as well as unmanned aerial vehicles (UAVs), static and mounted ground platforms, and maritime vessels. The kit is compatible with new and existing inventories of rocket motors, warheads, and fuzes,
+
+- DARPA Awards BAE Systems $16 Mln Phase 2 Contract For Oversight Program
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2cef7584646bc2e10f16ca27419&url=https%3a%2f%2fwww.nasdaq.com%2farticles%2fdarpa-awards-bae-systems-16-mln-phase-2-contract-oversight-program&c=15505989206749720676&mkt=en-us
+  (RTTNews) - The U.S. Defense Advanced Research Projects Agency (DARPA) has awarded BAE Systems' FAST Labs research, development, and production organization a $16 million Phase 2 contract for the ...
+  LinkedPageStatus: ok (https://www.nasdaq.com/articles/darpa-awards-bae-systems-16-mln-phase-2-contract-oversight-program)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  (RTTNews) - The U.S. Defense Advanced Research Projects Agency (DARPA) has awarded BAE Systems' FAST Labs research, development, and production organization a $16 million Phase 2 contract for the Oversight program. This initiative is focused on developing an autonomous system capable of maintaining constant "custody" of a large number of terrestrial assets through advanced satellite constellations. The award follows the successful completion of Phase 1, during which BAE Systems' software was integrated into a modeling and simulation environment to demonstrate custody missions using representative satellite and sensor models. In Phase 2, the company will further mature its solution algorithms and showcase operations with larger constellations, more complex scenarios, and higher fidelity modeling and simulation environments. The technology will be deployed across both tactical-edge satellites and ground stations. By deploying Oversight program software and algorithms on proliferated, networked satellite constellations, BAE Systems aims to enable persistent surveillance at tactical timescales. Space-based coordination and data processing will deliver lower latency and higher revisit rates, supporting near real-time tracking. This increased scale, availability, and timeliness of information will enhance warfighter situational awareness and accelerate decision-making. Work on the program will be conducted at BAE Systems' facilities in Burlington, Massachusetts, and Merrimack, New Hampshire,
+
+
+Domain: BAESystems
+Query: BAE Systems latest contract awards
+Timestamp: 2026-02-21T14:52:24
+PerPageSummaryWords: 200
+- BAE Systems Secures $118M Navy Contract Modification for USS Sherman Modernization
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c68a986f4f5f8a545c6ab4866a1b&url=https%3a%2f%2fwww.govconwire.com%2farticles%2fbae-systems-navy-contract-uss-sherman&c=9711716607896439261&mkt=en-us
+  BAE Systems has received a $117.7 million contract modification from the U.S. Navy to support depot-level modernization, maintenance and repair of USS Forrest Sherman (DDG 98) during fiscal year 2026.
+  LinkedPageStatus: ok (https://www.govconwire.com/articles/bae-systems-navy-contract-uss-sherman)
+  LinkedPageSummaryWords: 163
+  LinkedPageSummary:
+  BAE Systems has received a $117.7 million contract modification from the U.S. Navy to support depot-level modernization, maintenance and repair of USS Forrest Sherman (DDG 98) during fiscal year 2026. The Department of War said Monday the firm-fixed-price modification covers all required labor, equipment, supervision, production, testing, facilities, and quality assurance to execute the Chief of Naval Operations availability. BAE Systems will carry out the work on the Arleigh Burke‑class guided‑missile destroyer at its Norfolk Ship Repair facility in Virginia, with completion scheduled for August 2027. The Naval Sea Systems Command in Washington, D.C., will allocate the full amount from fiscal 2026 Navy procurement funds at the time of award. These funds will remain available and will not expire at the end of the current fiscal year. The Naval Sea Systems Command awarded BAE Systems the initial contract in November. The deal, under the Navy Depot Modernization Period contract, has a base value of $123 million but could potentially reach $139.1 million .
+
+- US Navy awards BAE Systems APKWS contract worth up to $1.7 billion
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c68a986f4f5f8a545c6ab4866a1b&url=https%3a%2f%2fwww.msn.com%2fen-us%2fwar-and-conflicts%2fmilitary%2fus-navy-awards-bae-systems-apkws-contract-worth-up-to-1-7-billion%2far-AA1SaQWa&c=16682362131153377311&mkt=en-us
+  BAE Systems has received an initial order for 11,000 laser-guidance kits worth $322 million, with a maximum contract value of $1.7 billion, to equip the U.S. military and partners. BAE Systems ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/war-and-conflicts/military/us-navy-awards-bae-systems-apkws-contract-worth-up-to-1-7-billion/ar-AA1SaQWa)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- BAE Systems Awarded $123M NAVSEA Contract for USS Forrest Sherman Maintenance
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c68a986f4f5f8a545c6ab4866a1b&url=https%3a%2f%2fwww.govconwire.com%2farticles%2fbae-systems-navsea-uss-forrest-sherman&c=9140420624904962398&mkt=en-us
+  BAE Systems has been awarded a potential $139.1 million contract by the U.S. Naval Sea Systems Command, or NAVSEA, to deliver maintenance, modernization and repair services for the USS Forrest Sherman ...
+  LinkedPageStatus: ok (https://www.govconwire.com/articles/bae-systems-navsea-uss-forrest-sherman)
+  LinkedPageSummaryWords: 150
+  LinkedPageSummary:
+  BAE Systems has been awarded a potential $139.1 million contract by the U.S. Naval Sea Systems Command, or NAVSEA, to deliver maintenance, modernization and repair services for the USS Forrest Sherman (DDG 98) . According to the award notice posted Wednesday on SAM.gov, BAE Systems’ Norfolk Ship Repair division will provide labor, supervision, equipment, production, testing, facilities and quality assurance necessary to prepare for and accomplish the Chief of Naval Operations Availability for critical modernization, maintenance and repair programs. The firm-fixed-price contract is initially valued at $123.2 million, with options that could bring the cumulative value to the maximum amount. It supports the USS Forrest Sherman’s Fiscal Year 2026 Depot Modernization Period, or DMP. Based on the project’s solicitation notice , the work is scheduled to begin in February 2026 and is expected to be completed by August 2027. The contract was awarded through a full and open competitive process.
+
+- US Navy awards $1.7bn contract to BAE Systems for APKWS kits
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c68a986f4f5f8a545c6ab4866a1b&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2ftechnology%2fus-navy-awards-1-7bn-contract-to-bae-systems-for-apkws-kits%2far-AA1SbaM0&c=12052318100689362111&mkt=en-us
+  The US Navy has signed a five-year indefinite delivery, indefinite quantity (IDIQ) contract with BAE Systems for Advanced Precision Kill Weapon System (APKWS) laser-guidance kits, valued at up to ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/news/technology/us-navy-awards-1-7bn-contract-to-bae-systems-for-apkws-kits/ar-AA1SbaM0)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- US Navy awards USD1.7 billion contract to BAE Systems for APKWS laser guidance kits
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c68a986f4f5f8a545c6ab4866a1b&url=https%3a%2f%2fwww.janes.com%2fosint-insights%2fdefence-news%2fair%2fus-navy-awards-usd17-billion-contract-to-bae-systems-for-apkws-laser-guidance-kits&c=5845042807807279339&mkt=en-us
+  The US Navy awarded BAE Systems a USD1.7 billion contract for the production of Advanced Precision Kill Weapon System (APKWS) laser guidance kits, the company announced on 10 December. The contract ...
+  LinkedPageStatus: ok (https://www.janes.com/osint-insights/defence-news/air/us-navy-awards-usd17-billion-contract-to-bae-systems-for-apkws-laser-guidance-kits)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems APKWS rocket fitted to Bell 407GT Armed Scout. (Janes/Patrick Allen) The US Navy awarded BAE Systems a USD1.7 billion contract for the production of Advanced Precision Kill Weapon System (APKWS) laser guidance kits, the company announced on 10 December. The contract contains an initial USD322 million order, up to a maximum value of USD1.7 billion. The five-year indefinite delivery/indefinite quantity (ID/IQ) contract is designed to equip US forces with up to 55,000 APKWS kits. These are intended to transform 70 mm (2.75 inch) unguided rockets into low-cost, laser-guided precision munitions for US and potentially allied forces. “APKWS kits are available to all US armed forces, as well as allies via foreign defence sales,” Jason Petrie, director at BAE Systems, told Janes in an emailed statement on 10 December, adding that the company will be delivering the kits to the navy on a “set schedule”. The contract enables the navy to purchase APKWS guidance kits until December 2030. The kit-modified munitions can be fired by rotary- and fixed-wing aircraft, as well as unmanned aerial vehicles (UAVs), static and mounted ground platforms, and maritime vessels. The kit is compatible with new and existing inventories of rocket motors, warheads, and fuzes,
+
+- DARPA Awards BAE Systems $16 Mln Phase 2 Contract For Oversight Program
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c68a986f4f5f8a545c6ab4866a1b&url=https%3a%2f%2fwww.nasdaq.com%2farticles%2fdarpa-awards-bae-systems-16-mln-phase-2-contract-oversight-program&c=15505989206749720676&mkt=en-us
+  (RTTNews) - The U.S. Defense Advanced Research Projects Agency (DARPA) has awarded BAE Systems' FAST Labs research, development, and production organization a $16 million Phase 2 contract for the ...
+  LinkedPageStatus: ok (https://www.nasdaq.com/articles/darpa-awards-bae-systems-16-mln-phase-2-contract-oversight-program)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  (RTTNews) - The U.S. Defense Advanced Research Projects Agency (DARPA) has awarded BAE Systems' FAST Labs research, development, and production organization a $16 million Phase 2 contract for the Oversight program. This initiative is focused on developing an autonomous system capable of maintaining constant "custody" of a large number of terrestrial assets through advanced satellite constellations. The award follows the successful completion of Phase 1, during which BAE Systems' software was integrated into a modeling and simulation environment to demonstrate custody missions using representative satellite and sensor models. In Phase 2, the company will further mature its solution algorithms and showcase operations with larger constellations, more complex scenarios, and higher fidelity modeling and simulation environments. The technology will be deployed across both tactical-edge satellites and ground stations. By deploying Oversight program software and algorithms on proliferated, networked satellite constellations, BAE Systems aims to enable persistent surveillance at tactical timescales. Space-based coordination and data processing will deliver lower latency and higher revisit rates, supporting near real-time tracking. This increased scale, availability, and timeliness of information will enhance warfighter situational awareness and accelerate decision-making. Work on the program will be conducted at BAE Systems' facilities in Burlington, Massachusetts, and Merrimack, New Hampshire,
+
+
+Domain: BAESystems
+Query: BAE Systems latest contract awards
+Timestamp: 2026-02-21T15:02:32
+PerPageSummaryWords: 200
+- BAE Systems Secures $118M Navy Contract Modification for USS Sherman Modernization
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c8ec9579412c98b001925eb90858&url=https%3a%2f%2fwww.govconwire.com%2farticles%2fbae-systems-navy-contract-uss-sherman&c=9711716607896439261&mkt=en-us
+  BAE Systems has received a $117.7 million contract modification from the U.S. Navy to support depot-level modernization, maintenance and repair of USS Forrest Sherman (DDG 98) during fiscal year 2026.
+  LinkedPageStatus: ok (https://www.govconwire.com/articles/bae-systems-navy-contract-uss-sherman)
+  LinkedPageSummaryWords: 163
+  LinkedPageSummary:
+  BAE Systems has received a $117.7 million contract modification from the U.S. Navy to support depot-level modernization, maintenance and repair of USS Forrest Sherman (DDG 98) during fiscal year 2026. The Department of War said Monday the firm-fixed-price modification covers all required labor, equipment, supervision, production, testing, facilities, and quality assurance to execute the Chief of Naval Operations availability. BAE Systems will carry out the work on the Arleigh Burke‑class guided‑missile destroyer at its Norfolk Ship Repair facility in Virginia, with completion scheduled for August 2027. The Naval Sea Systems Command in Washington, D.C., will allocate the full amount from fiscal 2026 Navy procurement funds at the time of award. These funds will remain available and will not expire at the end of the current fiscal year. The Naval Sea Systems Command awarded BAE Systems the initial contract in November. The deal, under the Navy Depot Modernization Period contract, has a base value of $123 million but could potentially reach $139.1 million .
+
+- US Navy awards BAE Systems APKWS contract worth up to $1.7 billion
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c8ec9579412c98b001925eb90858&url=https%3a%2f%2fwww.msn.com%2fen-us%2fwar-and-conflicts%2fmilitary%2fus-navy-awards-bae-systems-apkws-contract-worth-up-to-1-7-billion%2far-AA1SaQWa&c=16682362131153377311&mkt=en-us
+  BAE Systems has received an initial order for 11,000 laser-guidance kits worth $322 million, with a maximum contract value of $1.7 billion, to equip the U.S. military and partners. BAE Systems ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/war-and-conflicts/military/us-navy-awards-bae-systems-apkws-contract-worth-up-to-1-7-billion/ar-AA1SaQWa)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- BAE Systems Awarded $123M NAVSEA Contract for USS Forrest Sherman Maintenance
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c8ec9579412c98b001925eb90858&url=https%3a%2f%2fwww.govconwire.com%2farticles%2fbae-systems-navsea-uss-forrest-sherman&c=9140420624904962398&mkt=en-us
+  BAE Systems has been awarded a potential $139.1 million contract by the U.S. Naval Sea Systems Command, or NAVSEA, to deliver maintenance, modernization and repair services for the USS Forrest Sherman ...
+  LinkedPageStatus: ok (https://www.govconwire.com/articles/bae-systems-navsea-uss-forrest-sherman)
+  LinkedPageSummaryWords: 150
+  LinkedPageSummary:
+  BAE Systems has been awarded a potential $139.1 million contract by the U.S. Naval Sea Systems Command, or NAVSEA, to deliver maintenance, modernization and repair services for the USS Forrest Sherman (DDG 98) . According to the award notice posted Wednesday on SAM.gov, BAE Systems’ Norfolk Ship Repair division will provide labor, supervision, equipment, production, testing, facilities and quality assurance necessary to prepare for and accomplish the Chief of Naval Operations Availability for critical modernization, maintenance and repair programs. The firm-fixed-price contract is initially valued at $123.2 million, with options that could bring the cumulative value to the maximum amount. It supports the USS Forrest Sherman’s Fiscal Year 2026 Depot Modernization Period, or DMP. Based on the project’s solicitation notice , the work is scheduled to begin in February 2026 and is expected to be completed by August 2027. The contract was awarded through a full and open competitive process.
+
+- US Navy awards $1.7bn contract to BAE Systems for APKWS kits
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c8ec9579412c98b001925eb90858&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2ftechnology%2fus-navy-awards-1-7bn-contract-to-bae-systems-for-apkws-kits%2far-AA1SbaM0&c=12052318100689362111&mkt=en-us
+  The US Navy has signed a five-year indefinite delivery, indefinite quantity (IDIQ) contract with BAE Systems for Advanced Precision Kill Weapon System (APKWS) laser-guidance kits, valued at up to ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/news/technology/us-navy-awards-1-7bn-contract-to-bae-systems-for-apkws-kits/ar-AA1SbaM0)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- US Navy awards USD1.7 billion contract to BAE Systems for APKWS laser guidance kits
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c8ec9579412c98b001925eb90858&url=https%3a%2f%2fwww.janes.com%2fosint-insights%2fdefence-news%2fair%2fus-navy-awards-usd17-billion-contract-to-bae-systems-for-apkws-laser-guidance-kits&c=5845042807807279339&mkt=en-us
+  The US Navy awarded BAE Systems a USD1.7 billion contract for the production of Advanced Precision Kill Weapon System (APKWS) laser guidance kits, the company announced on 10 December. The contract ...
+  LinkedPageStatus: ok (https://www.janes.com/osint-insights/defence-news/air/us-navy-awards-usd17-billion-contract-to-bae-systems-for-apkws-laser-guidance-kits)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems APKWS rocket fitted to Bell 407GT Armed Scout. (Janes/Patrick Allen) The US Navy awarded BAE Systems a USD1.7 billion contract for the production of Advanced Precision Kill Weapon System (APKWS) laser guidance kits, the company announced on 10 December. The contract contains an initial USD322 million order, up to a maximum value of USD1.7 billion. The five-year indefinite delivery/indefinite quantity (ID/IQ) contract is designed to equip US forces with up to 55,000 APKWS kits. These are intended to transform 70 mm (2.75 inch) unguided rockets into low-cost, laser-guided precision munitions for US and potentially allied forces. “APKWS kits are available to all US armed forces, as well as allies via foreign defence sales,” Jason Petrie, director at BAE Systems, told Janes in an emailed statement on 10 December, adding that the company will be delivering the kits to the navy on a “set schedule”. The contract enables the navy to purchase APKWS guidance kits until December 2030. The kit-modified munitions can be fired by rotary- and fixed-wing aircraft, as well as unmanned aerial vehicles (UAVs), static and mounted ground platforms, and maritime vessels. The kit is compatible with new and existing inventories of rocket motors, warheads, and fuzes,
+
+- DARPA Awards BAE Systems $16 Mln Phase 2 Contract For Oversight Program
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c8ec9579412c98b001925eb90858&url=https%3a%2f%2fwww.nasdaq.com%2farticles%2fdarpa-awards-bae-systems-16-mln-phase-2-contract-oversight-program&c=15505989206749720676&mkt=en-us
+  (RTTNews) - The U.S. Defense Advanced Research Projects Agency (DARPA) has awarded BAE Systems' FAST Labs research, development, and production organization a $16 million Phase 2 contract for the ...
+  LinkedPageStatus: ok (https://www.nasdaq.com/articles/darpa-awards-bae-systems-16-mln-phase-2-contract-oversight-program)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  (RTTNews) - The U.S. Defense Advanced Research Projects Agency (DARPA) has awarded BAE Systems' FAST Labs research, development, and production organization a $16 million Phase 2 contract for the Oversight program. This initiative is focused on developing an autonomous system capable of maintaining constant "custody" of a large number of terrestrial assets through advanced satellite constellations. The award follows the successful completion of Phase 1, during which BAE Systems' software was integrated into a modeling and simulation environment to demonstrate custody missions using representative satellite and sensor models. In Phase 2, the company will further mature its solution algorithms and showcase operations with larger constellations, more complex scenarios, and higher fidelity modeling and simulation environments. The technology will be deployed across both tactical-edge satellites and ground stations. By deploying Oversight program software and algorithms on proliferated, networked satellite constellations, BAE Systems aims to enable persistent surveillance at tactical timescales. Space-based coordination and data processing will deliver lower latency and higher revisit rates, supporting near real-time tracking. This increased scale, availability, and timeliness of information will enhance warfighter situational awareness and accelerate decision-making. Work on the program will be conducted at BAE Systems' facilities in Burlington, Massachusetts, and Merrimack, New Hampshire,
+
+
+Domain: BAESystems
+Query: BAE Systems latest contract awards
+Timestamp: 2026-02-21T15:07:37
+PerPageSummaryWords: 200
+- BAE Systems Secures $118M Navy Contract Modification for USS Sherman Modernization
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca1d32914b829b3f3b5304e30058&url=https%3a%2f%2fwww.govconwire.com%2farticles%2fbae-systems-navy-contract-uss-sherman&c=9711716607896439261&mkt=en-us
+  BAE Systems has received a $117.7 million contract modification from the U.S. Navy to support depot-level modernization, maintenance and repair of USS Forrest Sherman (DDG 98) during fiscal year 2026.
+  LinkedPageStatus: ok (https://www.govconwire.com/articles/bae-systems-navy-contract-uss-sherman)
+  LinkedPageSummaryWords: 163
+  LinkedPageSummary:
+  BAE Systems has received a $117.7 million contract modification from the U.S. Navy to support depot-level modernization, maintenance and repair of USS Forrest Sherman (DDG 98) during fiscal year 2026. The Department of War said Monday the firm-fixed-price modification covers all required labor, equipment, supervision, production, testing, facilities, and quality assurance to execute the Chief of Naval Operations availability. BAE Systems will carry out the work on the Arleigh Burke‑class guided‑missile destroyer at its Norfolk Ship Repair facility in Virginia, with completion scheduled for August 2027. The Naval Sea Systems Command in Washington, D.C., will allocate the full amount from fiscal 2026 Navy procurement funds at the time of award. These funds will remain available and will not expire at the end of the current fiscal year. The Naval Sea Systems Command awarded BAE Systems the initial contract in November. The deal, under the Navy Depot Modernization Period contract, has a base value of $123 million but could potentially reach $139.1 million .
+
+- US Navy awards BAE Systems APKWS contract worth up to $1.7 billion
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca1d32914b829b3f3b5304e30058&url=https%3a%2f%2fwww.msn.com%2fen-us%2fwar-and-conflicts%2fmilitary%2fus-navy-awards-bae-systems-apkws-contract-worth-up-to-1-7-billion%2far-AA1SaQWa&c=16682362131153377311&mkt=en-us
+  BAE Systems has received an initial order for 11,000 laser-guidance kits worth $322 million, with a maximum contract value of $1.7 billion, to equip the U.S. military and partners. BAE Systems ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/war-and-conflicts/military/us-navy-awards-bae-systems-apkws-contract-worth-up-to-1-7-billion/ar-AA1SaQWa)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- BAE Systems Awarded $123M NAVSEA Contract for USS Forrest Sherman Maintenance
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca1d32914b829b3f3b5304e30058&url=https%3a%2f%2fwww.govconwire.com%2farticles%2fbae-systems-navsea-uss-forrest-sherman&c=9140420624904962398&mkt=en-us
+  BAE Systems has been awarded a potential $139.1 million contract by the U.S. Naval Sea Systems Command, or NAVSEA, to deliver maintenance, modernization and repair services for the USS Forrest Sherman ...
+  LinkedPageStatus: ok (https://www.govconwire.com/articles/bae-systems-navsea-uss-forrest-sherman)
+  LinkedPageSummaryWords: 150
+  LinkedPageSummary:
+  BAE Systems has been awarded a potential $139.1 million contract by the U.S. Naval Sea Systems Command, or NAVSEA, to deliver maintenance, modernization and repair services for the USS Forrest Sherman (DDG 98) . According to the award notice posted Wednesday on SAM.gov, BAE Systems’ Norfolk Ship Repair division will provide labor, supervision, equipment, production, testing, facilities and quality assurance necessary to prepare for and accomplish the Chief of Naval Operations Availability for critical modernization, maintenance and repair programs. The firm-fixed-price contract is initially valued at $123.2 million, with options that could bring the cumulative value to the maximum amount. It supports the USS Forrest Sherman’s Fiscal Year 2026 Depot Modernization Period, or DMP. Based on the project’s solicitation notice , the work is scheduled to begin in February 2026 and is expected to be completed by August 2027. The contract was awarded through a full and open competitive process.
+
+- US Navy awards $1.7bn contract to BAE Systems for APKWS kits
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca1d32914b829b3f3b5304e30058&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2ftechnology%2fus-navy-awards-1-7bn-contract-to-bae-systems-for-apkws-kits%2far-AA1SbaM0&c=12052318100689362111&mkt=en-us
+  The US Navy has signed a five-year indefinite delivery, indefinite quantity (IDIQ) contract with BAE Systems for Advanced Precision Kill Weapon System (APKWS) laser-guidance kits, valued at up to ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/news/technology/us-navy-awards-1-7bn-contract-to-bae-systems-for-apkws-kits/ar-AA1SbaM0)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- US Navy awards USD1.7 billion contract to BAE Systems for APKWS laser guidance kits
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca1d32914b829b3f3b5304e30058&url=https%3a%2f%2fwww.janes.com%2fosint-insights%2fdefence-news%2fair%2fus-navy-awards-usd17-billion-contract-to-bae-systems-for-apkws-laser-guidance-kits&c=5845042807807279339&mkt=en-us
+  The US Navy awarded BAE Systems a USD1.7 billion contract for the production of Advanced Precision Kill Weapon System (APKWS) laser guidance kits, the company announced on 10 December. The contract ...
+  LinkedPageStatus: ok (https://www.janes.com/osint-insights/defence-news/air/us-navy-awards-usd17-billion-contract-to-bae-systems-for-apkws-laser-guidance-kits)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems APKWS rocket fitted to Bell 407GT Armed Scout. (Janes/Patrick Allen) The US Navy awarded BAE Systems a USD1.7 billion contract for the production of Advanced Precision Kill Weapon System (APKWS) laser guidance kits, the company announced on 10 December. The contract contains an initial USD322 million order, up to a maximum value of USD1.7 billion. The five-year indefinite delivery/indefinite quantity (ID/IQ) contract is designed to equip US forces with up to 55,000 APKWS kits. These are intended to transform 70 mm (2.75 inch) unguided rockets into low-cost, laser-guided precision munitions for US and potentially allied forces. “APKWS kits are available to all US armed forces, as well as allies via foreign defence sales,” Jason Petrie, director at BAE Systems, told Janes in an emailed statement on 10 December, adding that the company will be delivering the kits to the navy on a “set schedule”. The contract enables the navy to purchase APKWS guidance kits until December 2030. The kit-modified munitions can be fired by rotary- and fixed-wing aircraft, as well as unmanned aerial vehicles (UAVs), static and mounted ground platforms, and maritime vessels. The kit is compatible with new and existing inventories of rocket motors, warheads, and fuzes,
+
+- DARPA Awards BAE Systems $16 Mln Phase 2 Contract For Oversight Program
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca1d32914b829b3f3b5304e30058&url=https%3a%2f%2fwww.nasdaq.com%2farticles%2fdarpa-awards-bae-systems-16-mln-phase-2-contract-oversight-program&c=15505989206749720676&mkt=en-us
+  (RTTNews) - The U.S. Defense Advanced Research Projects Agency (DARPA) has awarded BAE Systems' FAST Labs research, development, and production organization a $16 million Phase 2 contract for the ...
+  LinkedPageStatus: ok (https://www.nasdaq.com/articles/darpa-awards-bae-systems-16-mln-phase-2-contract-oversight-program)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  (RTTNews) - The U.S. Defense Advanced Research Projects Agency (DARPA) has awarded BAE Systems' FAST Labs research, development, and production organization a $16 million Phase 2 contract for the Oversight program. This initiative is focused on developing an autonomous system capable of maintaining constant "custody" of a large number of terrestrial assets through advanced satellite constellations. The award follows the successful completion of Phase 1, during which BAE Systems' software was integrated into a modeling and simulation environment to demonstrate custody missions using representative satellite and sensor models. In Phase 2, the company will further mature its solution algorithms and showcase operations with larger constellations, more complex scenarios, and higher fidelity modeling and simulation environments. The technology will be deployed across both tactical-edge satellites and ground stations. By deploying Oversight program software and algorithms on proliferated, networked satellite constellations, BAE Systems aims to enable persistent surveillance at tactical timescales. Space-based coordination and data processing will deliver lower latency and higher revisit rates, supporting near real-time tracking. This increased scale, availability, and timeliness of information will enhance warfighter situational awareness and accelerate decision-making. Work on the program will be conducted at BAE Systems' facilities in Burlington, Massachusetts, and Merrimack, New Hampshire,
+
+

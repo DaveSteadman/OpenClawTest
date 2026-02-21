@@ -1,0 +1,187 @@
+Domain: LockheedMartin
+Query: Lockheed Martin latest product news
+Timestamp: 2026-02-21T13:44:49
+PerPageSummaryWords: 200
+- News & Events - Lockheed Martin
+  https://news.lockheedmartin.com/
+  Lockheed Martin and Fujitsu Formalize Industrial Collaboration for Japan Defense Lockheed Martin and Fujitsu Limited, a Japanese multinational leader in information technology solutions, finalized the first purchase order for a critical component of Japan's Aegis System Equipped Vessel (ASEV)'s SPY-7 radar antenna.
+  LinkedPageStatus: ok (https://news.lockheedmartin.com/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  ORLANDO, Fla., Feb. 18, 2026 – Lockheed Martin (NYSE: LMT) announced today that it has been awarded a foreign military sale contract through Wright-Patterson Air Force Base to deliver C-130J... DALLAS, Feb. 12, 2026 – Lockheed Martin (NYSE:LMT) conducted a successful 112-km flight test of its Extended‑Range GMLRS (ER GMLRS) at White Sands Missile Range, New Mexico. For the first... Lockheed Martin and Fujitsu Limited, a Japanese multinational leader in information technology solutions, finalized the first purchase order for a critical component of Japan’s Aegis System Equipped Vessel (ASEV)’s SPY-7 radar antenna. Lockheed Martin (NYSE: LMT) Chairman, President and CEO Jim Taiclet and Chief Financial Officer Evan Scott will participate in a fireside chat at Citi's 2026 Global Industrial Tech and Mobility... FLORENCE, Ala., Feb. 10, 2026 – Lockheed Martin (NYSE:LMT) inaugurated the Manufacturing Basic Skills+ (MBS+) program at the newly opened Launch Career Technical Specialized Education (CTSE)... Today Lockheed Martin unveils the Lamprey Multi‑Mission Autonomous Undersea Vehicle (MMAUV), a breakthrough “plug-and‑play” submersible that gives U.S. and allied warfighters technological and strategic advantage ... The Lockheed Martin Corporation (NYSE: LMT) board of directors has authorized a first quarter 2026 dividend of $3.45 per share. The dividend is payable on March
+
+- Lockheed Martin rapidly developed Lamprey drone, new ... - Naval News
+  https://www.navalnews.com/naval-news/2026/02/lockheed-martin-rapidly-developed-lamprey-drone-new-variants-on-the-way/
+  SAN DIEGO — Lockheed Martin rapidly developed its new Lamprey multi-mission autonomous undersea vehicle: The company took just 14 months to develop Lamprey, with future plans to field larger variants and another drone by the end of the year. Lockheed Martin showcased a model of Lamprey for the first time at WEST 2026.
+  LinkedPageStatus: ok (https://www.navalnews.com/naval-news/2026/02/lockheed-martin-rapidly-developed-lamprey-drone-new-variants-on-the-way/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  SAN DIEGO — Lockheed Martin rapidly developed its new Lamprey multi-mission autonomous undersea vehicle: The company took just 14 months to develop Lamprey, with future plans to field larger variants and another drone by the end of the year. Lockheed Martin showcased a model of Lamprey for the first time at WEST 2026. Mark Johnson, program director for unmanned maritime solutions division, discussed the highlights and future iterations of the multi-mission system with Naval News . Named after the Lamprey, a fish that latches onto others with its sucking mouth, the drone combines numerous features that the company claims could achieve various tailored missions in support of covert surveillance and sea denial. Given the drone’s namesake, Johnson explained Lamprey comes with this unique ability to latch onto submarines, warships and the seabed. This brings many key implications for operational use. “This thing has suction cups on the top that basically can autonomously navigate to a sub, a ship, and it swims up and suctions on to the bottom of that vehicle,” said Johnson. “So it can hitch your ride into whatever theater it’s going to, because if you think about one of the restrictions or constraints of UUVs, it’s battery
+
+- Lockheed unveils Lamprey underwater drone that can attach to ships
+  https://www.defensenews.com/unmanned/2026/02/10/lockheeds-unveils-lamprey-undersea-drone-that-can-attach-to-ships/
+  Lockheed Martin on Monday unveiled its Lamprey Multi‑Mission Autonomous Undersea Vehicle, an unmanned underwater vehicle that can attach itself to ships, launch torpedoes and deploy airborne drones.
+  LinkedPageStatus: ok (https://www.defensenews.com/unmanned/2026/02/10/lockheeds-unveils-lamprey-undersea-drone-that-can-attach-to-ships/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin on Monday unveiled its Lamprey Multi‑Mission Autonomous Undersea Vehicle, an unmanned underwater vehicle that can attach itself to ships, launch torpedoes and deploy airborne drones. With a 24-foot payload bay, the Lamprey can be modified to perform a wide range of operations, from the seabed to the surface, according to the company. It can loiter on the ocean floor and recharge its batteries by attaching to a host ship, in addition to collecting intelligence from the ocean floor while offering a low stealth profile. Below the surface, the Lamprey can launch both antisubmarine torpedoes and decoys. At surface level, it can launch unmanned aerial vehicles into the air to conduct reconnaissance or deliver kinetic strikes. These capabilities enable the system to conduct antiship warfare both at surface level and underwater. “[Lamprey] was internally funded, letting us iterate at lightning speed and hand the Navy a true multi-mission weapon that detects, disrupts, decoys and engages on its own,” Paul Lemmo, vice president and general manager of sensors, effectors and mission systems at Lockheed Martin, said in a statement. Like many autonomous systems, the Lamprey can be deployed in swarms and communicate with other unmanned systems to perform missions. It
+
+- Lockheed Martin Unveils Undersea Drone That Latches Onto ... - SlashGear
+  https://www.slashgear.com/2101923/lockheed-martin-lamprey-undersea-drone/
+  In February 2026, Lockheed Martin revealed its newest drone, called the Lamprey multi-mission autonomous undersea vehicle (MMAUV), and it's unlike anything that came before.
+  LinkedPageStatus: ok (https://www.slashgear.com/2101923/lockheed-martin-lamprey-undersea-drone/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin Unveils Undersea Drone That Latches Onto Any Vessel The 21st century has seen a shift in warfare, specifically toward drone dominance. Since the United States began arming itself with the likes of the propeller-driven MQ-1 Predator and high-speed MQ-9 Reaper drones, militaries around the world have followed suit. It used to be that a drone was defined as something that flew, but these days they crawl, walk, fly, and swim, with new and highly capable drones emerging all the time. In February 2026, Lockheed Martin revealed its newest drone, called the Lamprey multi-mission autonomous undersea vehicle (MMAUV), and it's unlike anything that came before. Much like its namesake, which latches onto various marine organisms, Lockheed Martin's underwater Lamprey does the same, attaching itself to other vessels for transportation, and is packed with capabilities that make it particularly dangerous to any hostile nation. The Lamprey combines numerous mission capabilities into a single package, and its ability to loiter on the seafloor makes it far more dangerous than something like a low-tech marine mine. It can disrupt enemy sensors, fire its own short-range missiles or uncrewed aerial vehicles, and it can collect intelligence in ways no other marine drone could
+
+- Lockheed Martin and BAE Systems Team Up for New Adaptable Multi-Effect ...
+  https://theaviationist.com/2025/09/10/lockheed-martin-bae-systems-team-up-unmanned-system/
+  The Lockheed Martin and BAE Systems product would technically be relatively sophisticated with swappable payloads, yet within the mass-producible category, where the 'low' in the 'low-cost ...
+  LinkedPageStatus: ok (https://theaviationist.com/2025/09/10/lockheed-martin-bae-systems-team-up-unmanned-system/)
+  LinkedPageSummaryWords: 111
+  LinkedPageSummary:
+  Concept rendition of the uncrewed autonomous air system by Skunk Works and FalconWorks. (Image credit: Lockheed Martin) TAGGED: BAE Systems FalconWorks Lockheed Martin Skunk Works Unmanned Aerial Systems Parth Satam's career spans a decade and a half between two dailies and two defense publications. He believes war, as a human activity, has causes and results that go far beyond which missile and jet flies the fastest. He therefore loves analyzing military affairs at their intersection with foreign policy, economics, technology, society and history. The body of his work spans the entire breadth from defense aerospace, tactics, military doctrine and theory, personnel issues, West Asian, Eurasian affairs, the energy sector and Space.
+
+- lockheed martin News and Press Releases | PR Newswire
+  https://www.prnewswire.com/news/lockheed-martin/
+  news News from lockheed martin A wide array of domestic and global news stories; news topics include politics/government, business, technology, religion, sports/entertainment, science/nature, and ...
+  LinkedPageStatus: ok (https://www.prnewswire.com/news/lockheed-martin/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin (NYSE: LMT) Chairman, President and CEO Jim Taiclet and Chief Financial Officer Evan Scott will participate in a fireside chat at... The Lockheed Martin Corporation (NYSE: LMT) board of directors has authorized a first quarter 2026 dividend of $3.45 per share. The dividend is... Lockheed Martin Corporation [NYSE: LMT] today reported fourth quarter 2025 sales of $20.3 billion, compared to $18.6 billion in the fourth quarter of ... Lockheed Martin (NYSE: LMT) signed a framework agreement with the Department of War (DoW) to quadruple the production of Terminal High Altitude Area... Every day, Lockheed Martin (NYSE: LMT) delivers capabilities that strengthen and transform our world. On Tuesday night, the company's ninth GPS III... Today, Lockheed Martin (NYSE:LMT), PG&E Corporation (NYSE:PCG), Salesforce (NYSE:CRM) and Wells Fargo (NYSE:WFC) announced the launch of... Lockheed Martin (NYSE: LMT) signed a landmark framework agreement with the U.S. Department of War to rapidly accelerate the production and delivery... Lockheed Martin (NYSE: LMT) will webcast live its fourth-quarter and full-year 2025 earnings results conference call (listen-only mode) on Thursday,... The Space Development Agency (SDA) has awarded Lockheed Martin (NYSE: LMT) a contract for 18 space vehicles for its Tranche 3 Tracking Layer (TRKT3)... Astris AI,
+
+- Lockheed Martin Joins Forces With BAE Systems On New Ultra-Adaptable Drone
+  https://www.twz.com/air/lockheed-martin-joins-forces-with-bae-systems-on-new-ultra-adaptable-drone
+  Lockheed Martin and BAE Systems have teamed up to develop a range of uncrewed air systems (UAS), all based on a common design, for which concept artwork has now been presented. The effort sees two of the world's biggest defense contractors joining forces and entering a growing field of less expensive and more expendable drones and munitions.
+  LinkedPageStatus: ok (https://www.twz.com/air/lockheed-martin-joins-forces-with-bae-systems-on-new-ultra-adaptable-drone)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin and BAE Systems have teamed up to develop a range of uncrewed air systems (UAS), all based on a common design, for which concept artwork has now been presented. The effort sees two of the world’s biggest defense contractors joining forces and entering a growing field of less expensive and more expendable drones and munitions. The collaboration was announced today at the Defense and Security Equipment International (DSEI) exhibition taking place in London. The partnership specifically involves the two companies’ advanced research and development divisions: Lockheed Martin Skunk Works and BAE Systems’ FalconWorks. Conceptual imagery of the UAS, so far unnamed, shows a missile-like vehicle with a body that is clearly optimized for low observability, with prominent chines. The UAS features notably long and narrow main wings, with seemingly limited sweep, V-shaped tailfins, and smaller, canted ventral fins. The overall size of the vehicle is not immediately apparent, and we have approached the manufacturers for more details about this and other aspects of the UAS. The companies describe the design as an autonomous UAS, although it’s unclear if it will have an optional “human in the loop” and to what degree. More generally, with advances in artificial intelligence
+
+- Lockheed Martin News | Latest News - NewsNow
+  https://www.newsnow.com/us/Business/Aerospace+and+Defense/Lockheed+Martin
+  Latest news on Lockheed Martin , an American aerospace, defense, arms, security, and advanced technologies company with worldwide interests. It is headquartered in Bethesda, Maryland, and employs approximately 114,000 people worldwide.
+  LinkedPageStatus: ok (https://www.newsnow.com/us/Business/Aerospace+and+Defense/Lockheed+Martin)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest news on Lockheed Martin, an American aerospace, defense, arms, security, and advanced technologies company with worldwide interests. It is headquartered in Bethesda, Maryland, and employs approximately 114,000 people worldwide. It is the world's largest defense contractor by revenue. Lockheed Martin was formed in 1995 by the merger of Lockheed Corporation and Martin Marietta, two major aerospace and defense companies. Lockheed Corporation was founded in 1926 as Lockheed Aircraft Company and produced many famous aircraft, such as the P-38 Lightning, the U-2 spy plane, the SR-71 Blackbird, and the F-117 Nighthawk. It also established a secret division called "Skunk Works" that became the leading U.S. developer of military aircraft. Martin Marietta was formed in 1961 by the merger of Martin Company and American-Marietta Company. Martin Company was a pioneer in rocket and missile development, producing the Titan family of launch vehicles and the Polaris, Poseidon, and Trident submarine-launched ballistic missiles. It also built the Viking Mars landers and the Magellan spacecraft to Venus. Since its formation in 1995, Lockheed Martin has made a number of acquisitions, such as United Defense, Sandia National Laboratories, Sikorsky Aircraft, and Aerojet Rocketdyne. It has also sold or spun off some of its businesses, such
+
+
+Domain: LockheedMartin
+Query: Lockheed Martin latest product news
+Timestamp: 2026-02-21T15:09:38
+PerPageSummaryWords: 200
+- Lockheed Martin’s Lunar Inflatable Habitat Passes Key Burst Test
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca92c19a41c2b4d9b771662ab834&url=https%3a%2f%2faviationweek.com%2fspace%2fspace-exploration%2flockheed-martins-lunar-inflatable-habitat-passes-key-burst-test&c=9278530525369114636&mkt=en-us
+  Boom! The inflatable test unit burst at a pressure of 224 psi—14.7 times NASA’s required factor of safety. Credit: Lockheed Martin The race to the Moon is on, and Lockheed Martin is confident that its ...
+  LinkedPageStatus: ok (https://aviationweek.com/space/space-exploration/lockheed-martins-lunar-inflatable-habitat-passes-key-burst-test)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The race to the Moon is on, and Lockheed Martin is confident that its inflatable habitat technology can help fast-track sustainable human operations, from Earth orbit to the lunar surface and beyond. Although the concept of inflatable structures in space is not new—as demonstrated by the human-rated Bigelow Expandable Activity Module that has been operating on the International Space Station since 2016—Lockheed Martin is developing an advanced in-house design that it says will provide higher performance, greater safety margins and faster build times than its competitors. To validate this, the company is conducting an intense test campaign of its softgoods technology, the culmination of which is expected to be an in-space demonstration in orbit—or on the lunar surface—around the end of the decade. The most dramatic of these tests involves deliberately overinflating the units until they burst under pressure, and Aviation Week was invited to witness the latest in the series. This test, the fifth burst evaluation conducted in the campaign, took place on a former Titan rocket test stand built deep into a ravine behind Lockheed Martin Space’s Waterton Canyon facility in Colorado. Securely anchored to a reinforced concrete platform and protected from sunlight by a large awning to
+
+- Lockheed Martin F-35s can be jailbroken like $80 million iPhones, European military chief says
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca92c19a41c2b4d9b771662ab834&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2ftechnology%2flockheed-martin-f-35s-can-be-jailbroken-like-80-million-iphones-european-military-chief-says%2far-AA1WKYnX&c=11682233481148360724&mkt=en-us
+  "You can jailbreak an F-35 just like an iPhone." The post Lockheed Martin F-35s Can Be Jailbroken Like $80 Million iPhones, European Military Chief Says appeared first on Futurism.
+  LinkedPageStatus: ok (https://www.msn.com/en-us/news/technology/lockheed-martin-f-35s-can-be-jailbroken-like-80-million-iphones-european-military-chief-says/ar-AA1WKYnX)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Lockheed secures additional $4bn to increase production on two critical long-range missiles
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca92c19a41c2b4d9b771662ab834&url=https%3a%2f%2fwww.flightglobal.com%2ffixed-wing%2flockheed-secures-additional-4bn-to-increase-production-of-key-long-range-missiles%2f164039.article&c=1475020936028740534&mkt=en-us
+  Defence manufacturer Lockheed Martin has secured an additional $4.2 billion from the US government to increase the production of two crucial long-range precision missiles. The 31 July contract adds ...
+  LinkedPageStatus: ok (https://www.flightglobal.com/fixed-wing/lockheed-secures-additional-4bn-to-increase-production-of-key-long-range-missiles/164039.article)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Defence manufacturer Lockheed Martin has secured an additional $4.2 billion from the US government to increase the production of two crucial long-range precision missiles. The 31 July contract adds more than $4 billion to an existing deal with Lockheed covering the production of the Joint Air-to-Surface Standoff Missile (JASSM) and Long Range Anti-Ship Missile (LRASM), bringing the total value of the order to over $9 billion. That massive plus-up comes more two years after Lockheed completed work on a second JASSM/LRASM factory line in Troy, Alabama. The company has invested significantly to increase production capacity for the two long-range munitions, after receiving assurances from the US government that new orders would follow. “Increasing JASSM and LRASM production is essential for American and allied national security, and Lockheed Martin is ready to answer the call,” says Dave Berganini, Lockheed’s vice-president of hypersonic and strike systems. “We are leveraging our advanced manufacturing capabilities and investing in our production facilities to quickly and affordably deliver these critical capabilities war fighters need to maintain a strategic edge and protect our nation from emerging threats,” he adds. Lockheed declines to disclose its current production capacity for the two missile systems, which both use a common
+
+- Top Analyst Reports for Philip Morris, Lockheed Martin & Danaher
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca92c19a41c2b4d9b771662ab834&url=https%3a%2f%2fwww.sharewise.com%2fus%2fnews_articles%2fTop_Analyst_Reports_for_Philip_Morris_Lockheed_Martin_Danaher_Zacks_20260220_2149&c=7673661417646111161&mkt=en-us
+  Friday, February 20, 2026The Zacks Research Daily presents the best research output of our analyst team. Today's Research Daily features new research reports on 16 major stocks, including Philip ...
+  LinkedPageStatus: ok (https://www.sharewise.com/us/news_articles/Top_Analyst_Reports_for_Philip_Morris_Lockheed_Martin_Danaher_Zacks_20260220_2149)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Friday, February 20, 2026 The Zacks Research Daily presents the best research output of our analyst team. Today's Research Daily features new research reports on 16 major stocks, including Philip Morris International Inc. (PM), Lockheed Martin Corp. (LMT) and Danaher Corp. (DHR), as well as a micro-cap stock Zeo Energy Corp. (ZEO). The Zacks microcap research is unique as our research content on these small and under-the-radar companies is the only research of its type in the country. These research reports have been hand-picked from the roughly 70 reports published by our analyst team today. You can see all of today’s research reports here >>> Ahead of Wall Street The daily 'Ahead of Wall Street' article is a must-read for all investors who would like to be ready for that day's trading action. The article comes out before the market opens, attempting to make sense of that morning's economic releases and how they will affect that day's market action. You can read this article for free on our home page and can actually sign up there to get an email notification as this article comes out each morning. You can read today's AWS here >>> Pre-Markets Dip on GDP &
+
+- Boeing, Lockheed Martin Compete For Key Role In Trump's $175 Billion Golden Dome Project
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca92c19a41c2b4d9b771662ab834&url=https%3a%2f%2fwww.benzinga.com%2fmarkets%2fequities%2f25%2f06%2f45973965%2fboeing-lockheed-martin-compete-for-key-role-in-trumps-175-billion-golden-dome-project&c=15576243574738158426&mkt=en-us
+  Boeing Co. (NYSE:BA) and Lockheed Martin Corp (NYSE:LMT) are touting their defense credentials in a bid to secure more contracts in the development of President Donald Trump's Golden Dome missile ...
+  LinkedPageStatus: ok (https://www.benzinga.com/markets/equities/25/06/45973965/boeing-lockheed-martin-compete-for-key-role-in-trumps-175-billion-golden-dome-project)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing Co. (NYSE: BA ) and Lockheed Martin Corp (NYSE: LMT ) are touting their defense credentials in a bid to secure more contracts in the development of President Donald Trump 's Golden Dome missile defense system. What Happened: "We clearly have a whole number of product lines that will contribute very well, that are going to fit very well with what is necessary to achieve the mission," said Tim Cahill , president of Missiles and Fire Control at Lockheed Martin, in a Reuters report published Monday. The report outlines that Lockheed Martin already supplies key components that could be incorporated into the Golden Dome, including missile detection systems and other components. Boeing, too, has signaled its involvement. Interim Defense and Space CEO Steve Parker noted that the aerospace giant has "done a lot of work" on the project, according to the report. Why It Matters: The news comes in as Trump's Golden Dome project is being eyed by several key players in the defense space as well as in Silicon Valley. Companies like SpaceX , Palantir Technologies Inc. (NASDAQ: PLTR ) have emerged as frontrunners for key projects in the initiative. The project, which will reportedly cost over $175
+
+- Lockheed Martin: Well Positioned For Tomorrow's Wars
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca92c19a41c2b4d9b771662ab834&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4799781-lockheed-martin-well-positioned-for-tomorrows-wars&c=453578043735023653&mkt=en-us
+  Lockheed Martin is well positioned for future growth, driven by increasing demand for drones, anti-drone systems, and cybersecurity solutions. Despite recent share price declines and stagnant revenues ...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4799781-lockheed-martin-well-positioned-for-tomorrows-wars
+  LinkedPageSummaryWords: 0
+
+- Is Lockheed Martin a Buy After Investment Company Paradiem Initiated a Big Position in the Stock?
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca92c19a41c2b4d9b771662ab834&url=https%3a%2f%2fwww.fool.com%2fcoverage%2ffilings%2f2025%2f10%2f18%2fis-lockheed-martin-a-buy-after-investment-company-paradiem-initiated-a-big-position-in-the-stock%2f&c=6270080344114175430&mkt=en-us
+  This was a new position for Paradiem, representing 3.76% of its reportable U.S. equity assets under management as of September 30, 2025. Top holdings after the filing: NASDAQ:LRCX: $27.44 million (6.4 ...
+  LinkedPageStatus: ok (https://www.fool.com/coverage/filings/2025/10/18/is-lockheed-martin-a-buy-after-investment-company-paradiem-initiated-a-big-position-in-the-stock/)
+  LinkedPageSummaryWords: 19
+  LinkedPageSummary:
+  Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+
+
+Domain: LockheedMartin
+Query: Lockheed Martin latest product news
+Timestamp: 2026-02-21T15:13:39
+PerPageSummaryWords: 200
+- Lockheed Martin’s Lunar Inflatable Habitat Passes Key Burst Test
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb81162d4124917f2de32cac3828&url=https%3a%2f%2faviationweek.com%2fspace%2fspace-exploration%2flockheed-martins-lunar-inflatable-habitat-passes-key-burst-test&c=9278530525369114636&mkt=en-us
+  Boom! The inflatable test unit burst at a pressure of 224 psi—14.7 times NASA’s required factor of safety. Credit: Lockheed Martin The race to the Moon is on, and Lockheed Martin is confident that its ...
+  LinkedPageStatus: ok (https://aviationweek.com/space/space-exploration/lockheed-martins-lunar-inflatable-habitat-passes-key-burst-test)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The race to the Moon is on, and Lockheed Martin is confident that its inflatable habitat technology can help fast-track sustainable human operations, from Earth orbit to the lunar surface and beyond. Although the concept of inflatable structures in space is not new—as demonstrated by the human-rated Bigelow Expandable Activity Module that has been operating on the International Space Station since 2016—Lockheed Martin is developing an advanced in-house design that it says will provide higher performance, greater safety margins and faster build times than its competitors. To validate this, the company is conducting an intense test campaign of its softgoods technology, the culmination of which is expected to be an in-space demonstration in orbit—or on the lunar surface—around the end of the decade. The most dramatic of these tests involves deliberately overinflating the units until they burst under pressure, and Aviation Week was invited to witness the latest in the series. This test, the fifth burst evaluation conducted in the campaign, took place on a former Titan rocket test stand built deep into a ravine behind Lockheed Martin Space’s Waterton Canyon facility in Colorado. Securely anchored to a reinforced concrete platform and protected from sunlight by a large awning to
+
+- Lockheed Martin F-35s can be jailbroken like $80 million iPhones, European military chief says
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb81162d4124917f2de32cac3828&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2ftechnology%2flockheed-martin-f-35s-can-be-jailbroken-like-80-million-iphones-european-military-chief-says%2far-AA1WKYnX&c=11682233481148360724&mkt=en-us
+  "You can jailbreak an F-35 just like an iPhone." The post Lockheed Martin F-35s Can Be Jailbroken Like $80 Million iPhones, European Military Chief Says appeared first on Futurism.
+  LinkedPageStatus: ok (https://www.msn.com/en-us/news/technology/lockheed-martin-f-35s-can-be-jailbroken-like-80-million-iphones-european-military-chief-says/ar-AA1WKYnX)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Lockheed secures additional $4bn to increase production on two critical long-range missiles
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb81162d4124917f2de32cac3828&url=https%3a%2f%2fwww.flightglobal.com%2ffixed-wing%2flockheed-secures-additional-4bn-to-increase-production-of-key-long-range-missiles%2f164039.article&c=1475020936028740534&mkt=en-us
+  Defence manufacturer Lockheed Martin has secured an additional $4.2 billion from the US government to increase the production of two crucial long-range precision missiles. The 31 July contract adds ...
+  LinkedPageStatus: ok (https://www.flightglobal.com/fixed-wing/lockheed-secures-additional-4bn-to-increase-production-of-key-long-range-missiles/164039.article)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Defence manufacturer Lockheed Martin has secured an additional $4.2 billion from the US government to increase the production of two crucial long-range precision missiles. The 31 July contract adds more than $4 billion to an existing deal with Lockheed covering the production of the Joint Air-to-Surface Standoff Missile (JASSM) and Long Range Anti-Ship Missile (LRASM), bringing the total value of the order to over $9 billion. That massive plus-up comes more two years after Lockheed completed work on a second JASSM/LRASM factory line in Troy, Alabama. The company has invested significantly to increase production capacity for the two long-range munitions, after receiving assurances from the US government that new orders would follow. “Increasing JASSM and LRASM production is essential for American and allied national security, and Lockheed Martin is ready to answer the call,” says Dave Berganini, Lockheed’s vice-president of hypersonic and strike systems. “We are leveraging our advanced manufacturing capabilities and investing in our production facilities to quickly and affordably deliver these critical capabilities war fighters need to maintain a strategic edge and protect our nation from emerging threats,” he adds. Lockheed declines to disclose its current production capacity for the two missile systems, which both use a common
+
+- Top Analyst Reports for Philip Morris, Lockheed Martin & Danaher
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb81162d4124917f2de32cac3828&url=https%3a%2f%2fwww.sharewise.com%2fus%2fnews_articles%2fTop_Analyst_Reports_for_Philip_Morris_Lockheed_Martin_Danaher_Zacks_20260220_2149&c=7673661417646111161&mkt=en-us
+  Friday, February 20, 2026The Zacks Research Daily presents the best research output of our analyst team. Today's Research Daily features new research reports on 16 major stocks, including Philip ...
+  LinkedPageStatus: ok (https://www.sharewise.com/us/news_articles/Top_Analyst_Reports_for_Philip_Morris_Lockheed_Martin_Danaher_Zacks_20260220_2149)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Friday, February 20, 2026 The Zacks Research Daily presents the best research output of our analyst team. Today's Research Daily features new research reports on 16 major stocks, including Philip Morris International Inc. (PM), Lockheed Martin Corp. (LMT) and Danaher Corp. (DHR), as well as a micro-cap stock Zeo Energy Corp. (ZEO). The Zacks microcap research is unique as our research content on these small and under-the-radar companies is the only research of its type in the country. These research reports have been hand-picked from the roughly 70 reports published by our analyst team today. You can see all of today’s research reports here >>> Ahead of Wall Street The daily 'Ahead of Wall Street' article is a must-read for all investors who would like to be ready for that day's trading action. The article comes out before the market opens, attempting to make sense of that morning's economic releases and how they will affect that day's market action. You can read this article for free on our home page and can actually sign up there to get an email notification as this article comes out each morning. You can read today's AWS here >>> Pre-Markets Dip on GDP &
+
+- Boeing, Lockheed Martin Compete For Key Role In Trump's $175 Billion Golden Dome Project
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb81162d4124917f2de32cac3828&url=https%3a%2f%2fwww.benzinga.com%2fmarkets%2fequities%2f25%2f06%2f45973965%2fboeing-lockheed-martin-compete-for-key-role-in-trumps-175-billion-golden-dome-project&c=15576243574738158426&mkt=en-us
+  Boeing Co. (NYSE:BA) and Lockheed Martin Corp (NYSE:LMT) are touting their defense credentials in a bid to secure more contracts in the development of President Donald Trump's Golden Dome missile ...
+  LinkedPageStatus: ok (https://www.benzinga.com/markets/equities/25/06/45973965/boeing-lockheed-martin-compete-for-key-role-in-trumps-175-billion-golden-dome-project)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing Co. (NYSE: BA ) and Lockheed Martin Corp (NYSE: LMT ) are touting their defense credentials in a bid to secure more contracts in the development of President Donald Trump 's Golden Dome missile defense system. What Happened: "We clearly have a whole number of product lines that will contribute very well, that are going to fit very well with what is necessary to achieve the mission," said Tim Cahill , president of Missiles and Fire Control at Lockheed Martin, in a Reuters report published Monday. The report outlines that Lockheed Martin already supplies key components that could be incorporated into the Golden Dome, including missile detection systems and other components. Boeing, too, has signaled its involvement. Interim Defense and Space CEO Steve Parker noted that the aerospace giant has "done a lot of work" on the project, according to the report. Why It Matters: The news comes in as Trump's Golden Dome project is being eyed by several key players in the defense space as well as in Silicon Valley. Companies like SpaceX , Palantir Technologies Inc. (NASDAQ: PLTR ) have emerged as frontrunners for key projects in the initiative. The project, which will reportedly cost over $175
+
+- Lockheed Martin: Well Positioned For Tomorrow's Wars
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb81162d4124917f2de32cac3828&url=https%3a%2f%2fseekingalpha.com%2farticle%2f4799781-lockheed-martin-well-positioned-for-tomorrows-wars&c=453578043735023653&mkt=en-us
+  Lockheed Martin is well positioned for future growth, driven by increasing demand for drones, anti-drone systems, and cybersecurity solutions. Despite recent share price declines and stagnant revenues ...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4799781-lockheed-martin-well-positioned-for-tomorrows-wars
+  LinkedPageSummaryWords: 0
+
+- Is Lockheed Martin a Buy After Investment Company Paradiem Initiated a Big Position in the Stock?
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb81162d4124917f2de32cac3828&url=https%3a%2f%2fwww.fool.com%2fcoverage%2ffilings%2f2025%2f10%2f18%2fis-lockheed-martin-a-buy-after-investment-company-paradiem-initiated-a-big-position-in-the-stock%2f&c=6270080344114175430&mkt=en-us
+  This was a new position for Paradiem, representing 3.76% of its reportable U.S. equity assets under management as of September 30, 2025. Top holdings after the filing: NASDAQ:LRCX: $27.44 million (6.4 ...
+  LinkedPageStatus: ok (https://www.fool.com/coverage/filings/2025/10/18/is-lockheed-martin-a-buy-after-investment-company-paradiem-initiated-a-big-position-in-the-stock/)
+  LinkedPageSummaryWords: 19
+  LinkedPageSummary:
+  Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+
+

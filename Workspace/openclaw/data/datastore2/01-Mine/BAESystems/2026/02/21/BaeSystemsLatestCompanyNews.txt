@@ -1,0 +1,477 @@
+Domain: BAESystems
+Query: BAE Systems latest company news
+Timestamp: 2026-02-21T13:25:31
+PerPageSummaryWords: 200
+- Latest news from BAE Systems
+  https://www.baesystems.com/en/newsroom
+  The latest in our Power of Perspective series, Chris Cook, External Stakeholder Director at BAE Systems Digital Intelligence shares his views on the subsea domain and what drives his work forward in this space.
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- Defence giant BAE hails record sales as workers remain on strike - BBC
+  https://www.bbc.co.uk/news/articles/cy4w8nxnp94o
+  Defence giant BAE Systems has hailed record results for 2025 while staff at its Lancashire sites continue striking over pay.
+  LinkedPageStatus: ok (https://www.bbc.co.uk/news/articles/cy4w8nxnp94o)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Unite, which represents 5,000 workers at BAE's factories in Warton and Samlesbury, said its workers "know their value and want their fair share of the pie". The union said higher-skilled staff at the sites were last year given 3.6% pay increases "against their will", while those on the factory floor agreed to a 4.2% rise and an extra day off. Local Unite organiser Ross Quinn said the striking staff, on average salaries of £50,000, were "crucial" to BAE's success. And Sharon Graham, Unite's general secretary, said: "BAE's profits are little short of obscene. The company is making billions from government contracts and yet refuses to pay our members what they are worth." BAE has offered 3.7% raises for 2026. Those on strike are demanding 5.2% increases to account for last year's below-inflation raises. A BAE Systems spokesperson said the current offer "is fair and ensures that our employees continued to receive market-leading pay and rewards, while balancing our need to be competitive and affordable for our customers". On the prospect of strike action continuing into March, BAE said: "With the majority of our employees working as normal, we are focused on minimising any disruption and implementing our robust contingency plans."
+
+- BAE Systems News | Latest News - NewsNow
+  https://www.newsnow.co.uk/h/Industry+Sectors/Aerospace+and+Defence/Corporations/BAE+Systems
+  Latest news on BAE Systems , a British multinational arms, security, and aerospace company based in London, England. It is the largest defence contractor in Europe, and ranked the seventh-largest in the world based on applicable 2021 revenues.
+  LinkedPageStatus: ok (https://www.newsnow.co.uk/h/Industry+Sectors/Aerospace+and+Defence/Corporations/BAE+Systems)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest news on BAE Systems, a British multinational arms, security, and aerospace company based in London, England. It is the largest defence contractor in Europe, and ranked the seventh-largest in the world based on applicable 2021 revenues. BAE Systems was formed in 1999 from the merger of British Aerospace (BAe) with Marconi Electronic Systems, the defence electronics and naval shipbuilding subsidiary of the General Electric Company plc (GEC). BAe, in turn, dates to the merger (1977, with two other firms) of British Aircraft Corporation (BAC) and Hawker Siddeley Aviation, both having been nationalised a year earlier owing to unprofitable financial situations. Through its BAe antecedents, BAE Systems carries the legacy of some 20 British aircraft firms (e.g., Bristol, Avro, Gloster, De Havilland, Supermarine), several dating to the first decades of flight. In the 1960s and early ’70s, BAC and Hawker Siddeley each produced significant aircraft. BAC built the Vickers-Armstrongs VC10 and BAC One-Eleven jetliners and, in partnership with Aerospatiale of France, the Concorde supersonic transport. Hawker Siddeley developed the HS 121 Trident jetliner, Vulcan bomber, and Harrier vertical/short-takeoff-and-landing (V/STOL) fighter. Since its formation in 1999, BAE has made a number of acquisitions, most notably of United Defense and Armor Holdings
+
+- BAE Systems profits leap amid 'new era' of defence spending
+  https://www.independent.co.uk/news/business/bae-systems-keir-starmer-gdp-europe-prime-minister-b2922542.html
+  BAE Systems profits leap amid 'new era' of defence spending Europe's biggest defence contractor reported better-than-expected underlying earnings of £3.32 billion for 2025, up 12% on 2024.
+  LinkedPageStatus: ok (https://www.independent.co.uk/news/business/bae-systems-keir-starmer-gdp-europe-prime-minister-b2922542.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems has set new records with its annual results amid a ramping-up in global defence spending as geopolitical uncertainty remains heightened. Europe’s biggest defence contractor reported better-than-expected underlying earnings before interest and taxes of £3.32 billion for 2025, up 12% on the previous year, as sales jumped 10% to a record high of £30.66 billion. The aerospace and weapons manufacturer said its order backlog also hit a record £83.6 billion as of the end of December while its order intake stood at £36.8 billion. Chief executive Charles Woodburn said: “In a new era of defence spending, driven by escalating security challenges, we’re well-positioned to provide both the advanced conventional systems and disruptive technologies needed to protect the nations we serve now and into the future. “With a record order backlog and continuing investment in our business to enhance agility, efficiency and capacity, we’re confident in our ability to keep delivering growth over the coming years.” The firm forecast further growth in 2026, albeit at a slower pace, with the firm pencilling in underlying earnings growth of between 9% to 11% and sales to rise by between 7% and 9%. BAE – which makes weapons ranging across missiles and artillery
+
+- Britain's BAE Systems positions for 'new era' of defense spending
+  https://www.cnbc.com/2026/02/18/bae-systems-defense-spending-europe-military-geopolitics-weapons.html
+  The company expects sales to grow by between 7% and 9% in 2026, with guidance for cumulative free cash flow between 2026 and 2028 in excess of £6 billion. BAE Systems .
+  LinkedPageStatus: ok (https://www.cnbc.com/2026/02/18/bae-systems-defense-spending-europe-military-geopolitics-weapons.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems attracted record orders in 2025, and now the UK defense staple is setting its sights on years of growth amid a global ramp-up in spending. Its shares rose 3.6% on Wednesday after its full-year earnings report showed sales soared 10% last year to reach a record £30.7 billion ($41.7 billion). That helped push operating profits to £2.93 billion, a 9% year-on-year increase, as revenues grew 8% to £28.3 billion. The FTSE 100 -listed company, which manufactures a range of aircraft, weapons, munitions and warships, saw its order backlog hit £83.6 billion, a £5.8 billion increase from 2024. Now, BAE is preparing to capitalize on years of future growth as geopolitical fissures usher in what CEO Charles Woodburn called a "new era of defense spending" driven by "escalating security challenges." The company expects sales to grow by between 7% and 9% in 2026, with guidance for cumulative free cash flow between 2026 and 2028 in excess of £6 billion. "We're well positioned to provide both the advanced conventional systems and disruptive technologies needed to protect the nations we serve now and into the future," Woodburn said in a statement accompanying Wednesday's earnings. "With a record order backlog and continuing
+
+- UK's BAE Systems forecasts years of growth in 'new era' of defence ...
+  https://www.reuters.com/business/aerospace-defense/uks-bae-systems-posts-better-than-expected-12-profit-rise-2026-02-18/
+  BAE Systems said a " new era" of defence spending would drive its growth for years to come after the British contractor reported a 12% rise in full-year operating profit on Wednesday and a record ...
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/aerospace-defense/uks-bae-systems-posts-better-than-expected-12-profit-rise-2026-02-18/
+  LinkedPageSummaryWords: 0
+
+- BAE Systems Announces 2025 Full Year Results - Business Wire
+  https://www.businesswire.com/news/home/20260218327744/en/BAE-Systems-Announces-2025-Full-Year-Results
+  About BAE Systems We provide some of the world's most advanced, technology-led defence, aerospace and security solutions, helping customers stay ahead of evolving threats across land, sea, air ...
+  LinkedPageStatus: ok (https://www.businesswire.com/news/home/20260218327744/en/BAE-Systems-Announces-2025-Full-Year-Results)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  LONDON--( BUSINESS WIRE )-- Charles Woodburn, Chief Executive, said: “Our results highlight another year of strong operational and financial performance, thanks to the outstanding dedication of our employees. In a new era of defence spending, driven by escalating security challenges, we’re well positioned to provide both the advanced conventional systems and disruptive technologies needed to protect the nations we serve now and into the future. With a record order backlog and continuing investment in our business to enhance agility, efficiency and capacity, we’re confident in our ability to keep delivering growth over the coming years.” – Sales increased 10% 2 to a record £30.7bn, with growth in all of our sectors. Organic growth was 9% 2 . – Underlying EBIT increased by 12% 2 with a 20bps increase in return on sales from 10.6% to 10.8%. – Underlying EPS increased by 12% 2 . – Free cash flow was strong at £2,158m. Significant customer advances were received late in the year, capital expenditure remained close to record levels at c.£1bn and research and development (R&D) spend increased. – Our order backlog grew by £5.8bn to a record £83.6bn. Order intake was strong at £36.8bn, with all sectors performing well, reflecting
+
+- bae systems, inc. News and Press Releases | PR Newswire
+  https://www.prnewswire.com/news/bae-systems,-inc./
+  News from bae systems , inc. A wide array of domestic and global news stories; news topics include politics/government, business, technology, religion, sports/entertainment, science/nature, and ...
+  LinkedPageStatus: ok (https://www.prnewswire.com/news/bae-systems,-inc./)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The CV9035 MkIV for the Armed Forces of the Slovak Republic has been unveiled during a ceremonial rollout at BAE Systems Hägglunds in Sweden. Swedish ... BAE Systems (LON: BA) has received Foreign Military Sales contracts from the U.S. Army valued at $137 million to deliver its AN/AAR-57 Common Missile ... BAE Systems (LON: BA) has received a $195 million contract for the production of additional Amphibious Combat Vehicles (ACVs) for the U.S. Marine... BAE Systems (LON: BA) announced the opening of its new office in Utah, marking an expansion of the company's local footprint and continued investment ... The U.S. Navy has awarded Data Link Solutions, a joint venture between BAE Systems (LON: BA) and Collins Aerospace, an RTX business, a $248 million... BAE Systems (LON: BA) has received a $473 million contract award for the production of 40 additional M109A7 Paladin Self-Propelled Howitzer sets,... The U.S. Navy has awarded BAE Systems (LON: BA) a $62 million contract to begin a new capability in the current depot line at the Fleet Readiness... BAE Systems (LON: BA) received a $184 million contract from the U.S. Marine Corps for the production of 30 additional Amphibious Combat Vehicles... BAE Systems (LON: BA)
+
+
+Domain: BAESystems
+Query: BAE Systems latest company news
+Timestamp: 2026-02-21T14:35:59
+PerPageSummaryWords: 200
+- Unite the union slams BAE systems for making ‘obscene’ profits while offering a raw deal to workers
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2c9258b489a8a16d901b5ba6174&url=https%3a%2f%2fleftfootforward.org%2f2026%2f02%2funite-the-union-slams-bae-systems-for-making-obscene-profits-while-offering-a-raw-deal-to-workers%2f&c=16474686373885227847&mkt=en-us
+  Unite the union, the country’s leading trade union for defence and aerospace, has slammed military-industrial giant BAE Systems for making obscene profits while at the same time refusing to pay its ...
+  LinkedPageStatus: ok (https://leftfootforward.org/2026/02/unite-the-union-slams-bae-systems-for-making-obscene-profits-while-offering-a-raw-deal-to-workers/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  'Without the skilled work of our members, the company doesn't make money." Unite the union, the country’s leading trade union for defence and aerospace, has slammed military-industrial giant BAE Systems for making obscene profits while at the same time refusing to pay its workers a fair wage. The union has also criticised BAE for attempting union-busting high court injunctions to prevent strikes. The latest financial results show BAE’s full year operating profits increased by 12% to £3.32 billion. Meanwhile skilled workers at their Lancashire factories in Warton and Salmesbury are being forced to take industrial action due to a poor pay offer and assault on their terms and conditions. Unite general secretary Sharon Graham said: “These profits are nothing short of obscene. BAE is making billions from government contracts and yet refuses to pay our members what they are worth. This is completely unacceptable – without the skilled work of our members, the company doesn’t make money.” Additionally, it’s most recent trading statement shows that BAE Systems shareholders received £1.5bn in dividends in 2025. In 2025, workers had a pay deal of 3.6 per cent imposed against their will, which was below the rate of inflation, and which represents a
+
+- BAE Systems strike action extended into March as Unite hits out at company profits
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2c9258b489a8a16d901b5ba6174&url=https%3a%2f%2fwww.blogpreston.co.uk%2f2026%2f02%2fbae-systems-strike-action-extended-into-march-as-unite-hits-out-at-company-profits%2f&c=6902751715909921561&mkt=en-us
+  Strike action will now continue until BAE Systems until 13 March. Strike action at BAE Systems is now expected to continue into March amid an ongoing pay dispute with Unite members.
+  LinkedPageStatus: ok (https://www.blogpreston.co.uk/2026/02/bae-systems-strike-action-extended-into-march-as-unite-hits-out-at-company-profits/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  “The company is making billions from government contracts and yet refuses to pay our members what they are worth. This is completely unacceptable – without the skilled work of our members, the company doesn’t make money.” Union members were particularly concerned about the pay deal of 3.6% which they say was below the rate of inflation. They said this was later imposed against their will and below the 4.5% increase given to shop floor workers. BAE Systems told Blog Preston in 2025 , ahead of the start of action in November, that the higher pay increase offered to shop floor workers was recognition of lower pay in that area of the business and in exchange for other changes to working practices. They told us this week that the dispute pay offer was implemented in the professional services area because negotiations had been exhausted through the disputes procedure. Around 200 people are expected to take part in strike action between now and 13 March. A spokesperson for BAE Systems said: “Our priority remains to protect our people, our business and the vital work we do for our customers. “We believe the Company’s offer is fair and ensures that our employees continued
+
+- BAE declare £3.3bn profits as union demands fair share
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2c9258b489a8a16d901b5ba6174&url=https%3a%2f%2fwww.lancashiretelegraph.co.uk%2fnews%2f25865596.bae-declare-3-3bn-profits-union-demands-fair-share%2f&c=4582461611861866605&mkt=en-us
+  A defence giant is under fire for posting increased profits while more than 1,000 Lancashire workers at its Warton and Salmesbury sites ...
+  LinkedPageStatus: ok (https://www.lancashiretelegraph.co.uk/news/25865596.bae-declare-3-3bn-profits-union-demands-fair-share/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Unite the Union has called out BAE Systems for reporting annual operating profits of £3.32 billion, a 12 per cent rise, while employees at its Warton and Samlesbury sites continue industrial action. The union has described the company’s earnings as "little short of obscene," and claimed staff are being denied a fair wage and improved conditions despite BAE’s financial success. BAE’s profits are little short of obscene say Unite (Image: Unite the Union) Sharon Graham, general secretary at Unite, said: "BAE needs to give its workers a fair piece of the pie. MORE: BAE Systems reports strong year as Lancashire workforce grows "The company is making billions from government contracts and yet refuses to pay our members what they are worth. "This is completely unacceptable—without the skilled work of our members, the company doesn't make money." Shareholders received £1.5 billion in dividends in 2025. More than 1,000 employees have taken strike action over a pay dispute involving professional services staff and aerospace engineers. These workers were given a 3.6 per cent pay rise in 2025, below both inflation and the 4.5 per cent increase awarded to shop floor staff. Unite said the offer represents a "real terms pay cut." Ross
+
+- Britain’s BAE Systems sets sights on defense spending boom amid record order backlog
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2c9258b489a8a16d901b5ba6174&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2fbritain-s-bae-systems-sets-sights-on-defense-spending-boom-amid-record-order-backlog%2far-AA1WzYd1&c=14623435445848222044&mkt=en-us
+  Shares in the UK defense giant rose on Wednesday after it reported strong full-year earnings.
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/companies/britain-s-bae-systems-sets-sights-on-defense-spending-boom-amid-record-order-backlog/ar-AA1WzYd1)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- BAE Systems officials upbeat over follow-on Typhoon prospect with Saudi Arabia
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2c9258b489a8a16d901b5ba6174&url=https%3a%2f%2fwww.flightglobal.com%2fdefence%2fbae-officials-upbeat-over-follow-on-typhoon-prospect-with-saudi-arabia%2f166324.article&c=9214452634955743821&mkt=en-us
+  UK airframer BAE Systems remains confident that Saudi Arabia will place a long-anticipated follow-on order for the Eurofighter Typhoon, as Riyadh also eyes a possible future role in the currently ...
+  LinkedPageStatus: ok (https://www.flightglobal.com/defence/bae-officials-upbeat-over-follow-on-typhoon-prospect-with-saudi-arabia/166324.article)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  UK airframer BAE Systems remains confident that Saudi Arabia will place a long-anticipated follow-on order for the Eurofighter Typhoon, as Riyadh also eyes a possible future role in the currently three-nation Global Combat Air Programme (GCAP). The Royal Saudi Air Force (RSAF) currently operates 72 BAE-assembled Typhoons, fielded from 2008 via the Project Salam acquisition. The European type also is being considered for a 54-aircraft need, which also has seen Riyadh look at the Boeing F-15EX and Dassault Aviation Rafale as part of a competitive evaluation. “We are still supporting the UK government in responding to the requirement for new Typhoons,” BAE’s Saudi Arabia managing director Steve Clutton said at the World Defense Show (WDS). “Discussions are ongoing, and it has been a great opportunity at the show this week,” he says of the 8-12 February event, which was staged near Riyadh. A repeat Typhoon order would be linked to a “substantial industrialisation package”, he says. That would include in-country final assembly of the type, in support of the customer’s Vision 2030 localisation process. Under a previous deal, 22 of the RSAF’s BAE Hawk 165 advanced jet trainers were assembled at the service’s Dhahran air base. Clutton also notes that
+
+- Union slams 'obscene' BAE Systems profits as over 1,000 Lancashire staff strike
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2c9258b489a8a16d901b5ba6174&url=https%3a%2f%2fwww.msn.com%2fen-gb%2fmoney%2fcareersandeducation%2funion-slams-obscene-bae-systems-profits-as-over-1000-lancashire-staff-strike%2far-AA1WzEXt&c=12755296837779698346&mkt=en-us
+  Unite said 'the company is making billions from government contracts and yet refuses to pay our members what they are worth' ...
+  LinkedPageStatus: ok (https://www.msn.com/en-gb/money/careersandeducation/union-slams-obscene-bae-systems-profits-as-over-1000-lancashire-staff-strike/ar-AA1WzEXt)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- BAE says its Eurofighter pipeline is filled until first GCAP assembly
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2c9258b489a8a16d901b5ba6174&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fother%2fbae-says-its-eurofighter-pipeline-is-filled-until-first-gcap-assembly%2far-AA1WEW0k&c=696750410833209798&mkt=en-us
+  Europe accounted for 32% of the BAE order book at the end of December, while accounting for 11% of sales in 2025, the company said.
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/other/bae-says-its-eurofighter-pipeline-is-filled-until-first-gcap-assembly/ar-AA1WEW0k)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- BAE Systems PLC ADR
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2c9258b489a8a16d901b5ba6174&url=https%3a%2f%2fwww.barrons.com%2fmarket-data%2fstocks%2fbaesy%2fcompany-people%3fgaa_at%3deafs%26gaa_n%3dAWEtsqcgdel2rPTm2cBj6M-tHUE_DBn_8nj3vLkPKPFvwHM9bUDbSdb-bfCd%26gaa_ts%3d69021f40%26gaa_sig%3d1TOpzltXplx1XRl8T-4JIgQRXhV99B6yKvzAainMhe-8nOoLxNkcJqY4_H-nhzXVItrbbrUrNMpTXYsBUXqG8g%253D%253D&c=10709353687604629527&mkt=en-us
+  BAE Systems Plc engages in the provision of a full range of products and services for air, land, and naval forces, advanced electronics, security, information technology solutions, and support ...
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.barrons.com/market-data/stocks/baesy/company-people?gaa_at=eafs&gaa_n=AWEtsqcgdel2rPTm2cBj6M-tHUE_DBn_8nj3vLkPKPFvwHM9bUDbSdb-bfCd&gaa_ts=69021f40&gaa_sig=1TOpzltXplx1XRl8T-4JIgQRXhV99B6yKvzAainMhe-8nOoLxNkcJqY4_H-nhzXVItrbbrUrNMpTXYsBUXqG8g%3D%3D
+  LinkedPageSummaryWords: 0
+
+
+Domain: BAESystems
+Query: BAE Systems latest company news
+Timestamp: 2026-02-21T14:51:46
+PerPageSummaryWords: 200
+- Unite the union slams BAE systems for making ‘obscene’ profits while offering a raw deal to workers
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c65b72c74426b1a3db47c0dcdb45&url=https%3a%2f%2fleftfootforward.org%2f2026%2f02%2funite-the-union-slams-bae-systems-for-making-obscene-profits-while-offering-a-raw-deal-to-workers%2f&c=16474686373885227847&mkt=en-us
+  Unite the union, the country’s leading trade union for defence and aerospace, has slammed military-industrial giant BAE Systems for making obscene profits while at the same time refusing to pay its ...
+  LinkedPageStatus: ok (https://leftfootforward.org/2026/02/unite-the-union-slams-bae-systems-for-making-obscene-profits-while-offering-a-raw-deal-to-workers/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  'Without the skilled work of our members, the company doesn't make money." Unite the union, the country’s leading trade union for defence and aerospace, has slammed military-industrial giant BAE Systems for making obscene profits while at the same time refusing to pay its workers a fair wage. The union has also criticised BAE for attempting union-busting high court injunctions to prevent strikes. The latest financial results show BAE’s full year operating profits increased by 12% to £3.32 billion. Meanwhile skilled workers at their Lancashire factories in Warton and Salmesbury are being forced to take industrial action due to a poor pay offer and assault on their terms and conditions. Unite general secretary Sharon Graham said: “These profits are nothing short of obscene. BAE is making billions from government contracts and yet refuses to pay our members what they are worth. This is completely unacceptable – without the skilled work of our members, the company doesn’t make money.” Additionally, it’s most recent trading statement shows that BAE Systems shareholders received £1.5bn in dividends in 2025. In 2025, workers had a pay deal of 3.6 per cent imposed against their will, which was below the rate of inflation, and which represents a
+
+- BAE Systems strike action extended into March as Unite hits out at company profits
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c65b72c74426b1a3db47c0dcdb45&url=https%3a%2f%2fwww.blogpreston.co.uk%2f2026%2f02%2fbae-systems-strike-action-extended-into-march-as-unite-hits-out-at-company-profits%2f&c=6902751715909921561&mkt=en-us
+  Strike action will now continue until BAE Systems until 13 March. Strike action at BAE Systems is now expected to continue into March amid an ongoing pay dispute with Unite members.
+  LinkedPageStatus: ok (https://www.blogpreston.co.uk/2026/02/bae-systems-strike-action-extended-into-march-as-unite-hits-out-at-company-profits/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  “The company is making billions from government contracts and yet refuses to pay our members what they are worth. This is completely unacceptable – without the skilled work of our members, the company doesn’t make money.” Union members were particularly concerned about the pay deal of 3.6% which they say was below the rate of inflation. They said this was later imposed against their will and below the 4.5% increase given to shop floor workers. BAE Systems told Blog Preston in 2025 , ahead of the start of action in November, that the higher pay increase offered to shop floor workers was recognition of lower pay in that area of the business and in exchange for other changes to working practices. They told us this week that the dispute pay offer was implemented in the professional services area because negotiations had been exhausted through the disputes procedure. Around 200 people are expected to take part in strike action between now and 13 March. A spokesperson for BAE Systems said: “Our priority remains to protect our people, our business and the vital work we do for our customers. “We believe the Company’s offer is fair and ensures that our employees continued
+
+- BAE declare £3.3bn profits as union demands fair share
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c65b72c74426b1a3db47c0dcdb45&url=https%3a%2f%2fwww.lancashiretelegraph.co.uk%2fnews%2f25865596.bae-declare-3-3bn-profits-union-demands-fair-share%2f&c=4582461611861866605&mkt=en-us
+  A defence giant is under fire for posting increased profits while more than 1,000 Lancashire workers at its Warton and Salmesbury sites ...
+  LinkedPageStatus: ok (https://www.lancashiretelegraph.co.uk/news/25865596.bae-declare-3-3bn-profits-union-demands-fair-share/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Unite the Union has called out BAE Systems for reporting annual operating profits of £3.32 billion, a 12 per cent rise, while employees at its Warton and Samlesbury sites continue industrial action. The union has described the company’s earnings as "little short of obscene," and claimed staff are being denied a fair wage and improved conditions despite BAE’s financial success. BAE’s profits are little short of obscene say Unite (Image: Unite the Union) Sharon Graham, general secretary at Unite, said: "BAE needs to give its workers a fair piece of the pie. MORE: BAE Systems reports strong year as Lancashire workforce grows "The company is making billions from government contracts and yet refuses to pay our members what they are worth. "This is completely unacceptable—without the skilled work of our members, the company doesn't make money." Shareholders received £1.5 billion in dividends in 2025. More than 1,000 employees have taken strike action over a pay dispute involving professional services staff and aerospace engineers. These workers were given a 3.6 per cent pay rise in 2025, below both inflation and the 4.5 per cent increase awarded to shop floor staff. Unite said the offer represents a "real terms pay cut." Ross
+
+- Union slams 'obscene' BAE Systems profits as over 1,000 Lancashire staff strike
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c65b72c74426b1a3db47c0dcdb45&url=https%3a%2f%2fwww.msn.com%2fen-gb%2fmoney%2fcareersandeducation%2funion-slams-obscene-bae-systems-profits-as-over-1-000-lancashire-staff-strike%2far-AA1WzEXt&c=10137145944594838483&mkt=en-us
+  Unite said 'the company is making billions from government contracts and yet refuses to pay our members what they are worth' ...
+  LinkedPageStatus: ok (https://www.msn.com/en-gb/money/careersandeducation/union-slams-obscene-bae-systems-profits-as-over-1-000-lancashire-staff-strike/ar-AA1WzEXt)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Britain’s BAE Systems sets sights on defense spending boom amid record order backlog
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c65b72c74426b1a3db47c0dcdb45&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2fbritain-s-bae-systems-sets-sights-on-defense-spending-boom-amid-record-order-backlog%2far-AA1WzYd1&c=14623435445848222044&mkt=en-us
+  Shares in the UK defense giant rose on Wednesday after it reported strong full-year earnings.
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/companies/britain-s-bae-systems-sets-sights-on-defense-spending-boom-amid-record-order-backlog/ar-AA1WzYd1)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Striking BAE workers picket outside Warton and Samlesbury sites in dispute over pay
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c65b72c74426b1a3db47c0dcdb45&url=https%3a%2f%2fwww.msn.com%2fen-gb%2fmoney%2fcareersandeducation%2fstriking-bae-workers-picket-outside-warton-and-samlesbury-sites-in-dispute-over-pay%2far-AA1WwFxs&c=13129915324878034482&mkt=en-us
+  Striking BAE workers are picketing outside the company’s sites in Lancashire today.
+  LinkedPageStatus: ok (https://www.msn.com/en-gb/money/careersandeducation/striking-bae-workers-picket-outside-warton-and-samlesbury-sites-in-dispute-over-pay/ar-AA1WwFxs)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- BAE Systems officials upbeat over follow-on Typhoon prospect with Saudi Arabia
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c65b72c74426b1a3db47c0dcdb45&url=https%3a%2f%2fwww.flightglobal.com%2fdefence%2fbae-officials-upbeat-over-follow-on-typhoon-prospect-with-saudi-arabia%2f166324.article&c=9214452634955743821&mkt=en-us
+  UK airframer BAE Systems remains confident that Saudi Arabia will place a long-anticipated follow-on order for the Eurofighter Typhoon, as Riyadh also eyes a possible future role in the currently ...
+  LinkedPageStatus: ok (https://www.flightglobal.com/defence/bae-officials-upbeat-over-follow-on-typhoon-prospect-with-saudi-arabia/166324.article)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  UK airframer BAE Systems remains confident that Saudi Arabia will place a long-anticipated follow-on order for the Eurofighter Typhoon, as Riyadh also eyes a possible future role in the currently three-nation Global Combat Air Programme (GCAP). The Royal Saudi Air Force (RSAF) currently operates 72 BAE-assembled Typhoons, fielded from 2008 via the Project Salam acquisition. The European type also is being considered for a 54-aircraft need, which also has seen Riyadh look at the Boeing F-15EX and Dassault Aviation Rafale as part of a competitive evaluation. “We are still supporting the UK government in responding to the requirement for new Typhoons,” BAE’s Saudi Arabia managing director Steve Clutton said at the World Defense Show (WDS). “Discussions are ongoing, and it has been a great opportunity at the show this week,” he says of the 8-12 February event, which was staged near Riyadh. A repeat Typhoon order would be linked to a “substantial industrialisation package”, he says. That would include in-country final assembly of the type, in support of the customer’s Vision 2030 localisation process. Under a previous deal, 22 of the RSAF’s BAE Hawk 165 advanced jet trainers were assembled at the service’s Dhahran air base. Clutton also notes that
+
+- BAE says its Eurofighter pipeline is filled until first GCAP assembly
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c65b72c74426b1a3db47c0dcdb45&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fother%2fbae-says-its-eurofighter-pipeline-is-filled-until-first-gcap-assembly%2far-AA1WEW0k&c=696750410833209798&mkt=en-us
+  Europe accounted for 32% of the BAE order book at the end of December, while accounting for 11% of sales in 2025, the company said.
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/other/bae-says-its-eurofighter-pipeline-is-filled-until-first-gcap-assembly/ar-AA1WEW0k)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+
+Domain: BAESystems
+Query: BAE Systems latest company news
+Timestamp: 2026-02-21T14:59:04
+PerPageSummaryWords: 200
+- Unite the union slams BAE systems for making ‘obscene’ profits while offering a raw deal to workers
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c8134e5849fb949b4d3ad2469638&url=https%3a%2f%2fleftfootforward.org%2f2026%2f02%2funite-the-union-slams-bae-systems-for-making-obscene-profits-while-offering-a-raw-deal-to-workers%2f&c=16474686373885227847&mkt=en-us
+  Unite the union, the country’s leading trade union for defence and aerospace, has slammed military-industrial giant BAE Systems for making obscene profits while at the same time refusing to pay its ...
+  LinkedPageStatus: ok (https://leftfootforward.org/2026/02/unite-the-union-slams-bae-systems-for-making-obscene-profits-while-offering-a-raw-deal-to-workers/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  'Without the skilled work of our members, the company doesn't make money." Unite the union, the country’s leading trade union for defence and aerospace, has slammed military-industrial giant BAE Systems for making obscene profits while at the same time refusing to pay its workers a fair wage. The union has also criticised BAE for attempting union-busting high court injunctions to prevent strikes. The latest financial results show BAE’s full year operating profits increased by 12% to £3.32 billion. Meanwhile skilled workers at their Lancashire factories in Warton and Salmesbury are being forced to take industrial action due to a poor pay offer and assault on their terms and conditions. Unite general secretary Sharon Graham said: “These profits are nothing short of obscene. BAE is making billions from government contracts and yet refuses to pay our members what they are worth. This is completely unacceptable – without the skilled work of our members, the company doesn’t make money.” Additionally, it’s most recent trading statement shows that BAE Systems shareholders received £1.5bn in dividends in 2025. In 2025, workers had a pay deal of 3.6 per cent imposed against their will, which was below the rate of inflation, and which represents a
+
+- BAE Systems strike action extended into March as Unite hits out at company profits
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c8134e5849fb949b4d3ad2469638&url=https%3a%2f%2fwww.blogpreston.co.uk%2f2026%2f02%2fbae-systems-strike-action-extended-into-march-as-unite-hits-out-at-company-profits%2f&c=6902751715909921561&mkt=en-us
+  Strike action will now continue until BAE Systems until 13 March. Strike action at BAE Systems is now expected to continue into March amid an ongoing pay dispute with Unite members.
+  LinkedPageStatus: ok (https://www.blogpreston.co.uk/2026/02/bae-systems-strike-action-extended-into-march-as-unite-hits-out-at-company-profits/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  “The company is making billions from government contracts and yet refuses to pay our members what they are worth. This is completely unacceptable – without the skilled work of our members, the company doesn’t make money.” Union members were particularly concerned about the pay deal of 3.6% which they say was below the rate of inflation. They said this was later imposed against their will and below the 4.5% increase given to shop floor workers. BAE Systems told Blog Preston in 2025 , ahead of the start of action in November, that the higher pay increase offered to shop floor workers was recognition of lower pay in that area of the business and in exchange for other changes to working practices. They told us this week that the dispute pay offer was implemented in the professional services area because negotiations had been exhausted through the disputes procedure. Around 200 people are expected to take part in strike action between now and 13 March. A spokesperson for BAE Systems said: “Our priority remains to protect our people, our business and the vital work we do for our customers. “We believe the Company’s offer is fair and ensures that our employees continued
+
+- BAE declare £3.3bn profits as union demands fair share
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c8134e5849fb949b4d3ad2469638&url=https%3a%2f%2fwww.lancashiretelegraph.co.uk%2fnews%2f25865596.bae-declare-3-3bn-profits-union-demands-fair-share%2f&c=4582461611861866605&mkt=en-us
+  A defence giant is under fire for posting increased profits while more than 1,000 Lancashire workers at its Warton and Salmesbury sites ...
+  LinkedPageStatus: ok (https://www.lancashiretelegraph.co.uk/news/25865596.bae-declare-3-3bn-profits-union-demands-fair-share/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Unite the Union has called out BAE Systems for reporting annual operating profits of £3.32 billion, a 12 per cent rise, while employees at its Warton and Samlesbury sites continue industrial action. The union has described the company’s earnings as "little short of obscene," and claimed staff are being denied a fair wage and improved conditions despite BAE’s financial success. BAE’s profits are little short of obscene say Unite (Image: Unite the Union) Sharon Graham, general secretary at Unite, said: "BAE needs to give its workers a fair piece of the pie. MORE: BAE Systems reports strong year as Lancashire workforce grows "The company is making billions from government contracts and yet refuses to pay our members what they are worth. "This is completely unacceptable—without the skilled work of our members, the company doesn't make money." Shareholders received £1.5 billion in dividends in 2025. More than 1,000 employees have taken strike action over a pay dispute involving professional services staff and aerospace engineers. These workers were given a 3.6 per cent pay rise in 2025, below both inflation and the 4.5 per cent increase awarded to shop floor staff. Unite said the offer represents a "real terms pay cut." Ross
+
+- Union slams 'obscene' BAE Systems profits as over 1,000 Lancashire staff strike
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c8134e5849fb949b4d3ad2469638&url=https%3a%2f%2fwww.msn.com%2fen-gb%2fmoney%2fcareersandeducation%2funion-slams-obscene-bae-systems-profits-as-over-1-000-lancashire-staff-strike%2far-AA1WzEXt&c=10137145944594838483&mkt=en-us
+  Unite said 'the company is making billions from government contracts and yet refuses to pay our members what they are worth' ...
+  LinkedPageStatus: ok (https://www.msn.com/en-gb/money/careersandeducation/union-slams-obscene-bae-systems-profits-as-over-1-000-lancashire-staff-strike/ar-AA1WzEXt)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Britain’s BAE Systems sets sights on defense spending boom amid record order backlog
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c8134e5849fb949b4d3ad2469638&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2fbritain-s-bae-systems-sets-sights-on-defense-spending-boom-amid-record-order-backlog%2far-AA1WzYd1&c=14623435445848222044&mkt=en-us
+  Shares in the UK defense giant rose on Wednesday after it reported strong full-year earnings.
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/companies/britain-s-bae-systems-sets-sights-on-defense-spending-boom-amid-record-order-backlog/ar-AA1WzYd1)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Striking BAE workers picket outside Warton and Samlesbury sites in dispute over pay
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c8134e5849fb949b4d3ad2469638&url=https%3a%2f%2fwww.msn.com%2fen-gb%2fmoney%2fcareersandeducation%2fstriking-bae-workers-picket-outside-warton-and-samlesbury-sites-in-dispute-over-pay%2far-AA1WwFxs&c=13129915324878034482&mkt=en-us
+  Striking BAE workers are picketing outside the company’s sites in Lancashire today.
+  LinkedPageStatus: ok (https://www.msn.com/en-gb/money/careersandeducation/striking-bae-workers-picket-outside-warton-and-samlesbury-sites-in-dispute-over-pay/ar-AA1WwFxs)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- BAE Systems officials upbeat over follow-on Typhoon prospect with Saudi Arabia
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c8134e5849fb949b4d3ad2469638&url=https%3a%2f%2fwww.flightglobal.com%2fdefence%2fbae-officials-upbeat-over-follow-on-typhoon-prospect-with-saudi-arabia%2f166324.article&c=9214452634955743821&mkt=en-us
+  UK airframer BAE Systems remains confident that Saudi Arabia will place a long-anticipated follow-on order for the Eurofighter Typhoon, as Riyadh also eyes a possible future role in the currently ...
+  LinkedPageStatus: ok (https://www.flightglobal.com/defence/bae-officials-upbeat-over-follow-on-typhoon-prospect-with-saudi-arabia/166324.article)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  UK airframer BAE Systems remains confident that Saudi Arabia will place a long-anticipated follow-on order for the Eurofighter Typhoon, as Riyadh also eyes a possible future role in the currently three-nation Global Combat Air Programme (GCAP). The Royal Saudi Air Force (RSAF) currently operates 72 BAE-assembled Typhoons, fielded from 2008 via the Project Salam acquisition. The European type also is being considered for a 54-aircraft need, which also has seen Riyadh look at the Boeing F-15EX and Dassault Aviation Rafale as part of a competitive evaluation. “We are still supporting the UK government in responding to the requirement for new Typhoons,” BAE’s Saudi Arabia managing director Steve Clutton said at the World Defense Show (WDS). “Discussions are ongoing, and it has been a great opportunity at the show this week,” he says of the 8-12 February event, which was staged near Riyadh. A repeat Typhoon order would be linked to a “substantial industrialisation package”, he says. That would include in-country final assembly of the type, in support of the customer’s Vision 2030 localisation process. Under a previous deal, 22 of the RSAF’s BAE Hawk 165 advanced jet trainers were assembled at the service’s Dhahran air base. Clutton also notes that
+
+- BAE says its Eurofighter pipeline is filled until first GCAP assembly
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c8134e5849fb949b4d3ad2469638&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fother%2fbae-says-its-eurofighter-pipeline-is-filled-until-first-gcap-assembly%2far-AA1WEW0k&c=696750410833209798&mkt=en-us
+  Europe accounted for 32% of the BAE order book at the end of December, while accounting for 11% of sales in 2025, the company said.
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/other/bae-says-its-eurofighter-pipeline-is-filled-until-first-gcap-assembly/ar-AA1WEW0k)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+
+Domain: BAESystems
+Query: BAE Systems latest company news
+Timestamp: 2026-02-21T15:01:56
+PerPageSummaryWords: 200
+- Unite the union slams BAE systems for making ‘obscene’ profits while offering a raw deal to workers
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c8bee222447c8ccfb39cf95132c4&url=https%3a%2f%2fleftfootforward.org%2f2026%2f02%2funite-the-union-slams-bae-systems-for-making-obscene-profits-while-offering-a-raw-deal-to-workers%2f&c=16474686373885227847&mkt=en-us
+  Unite the union, the country’s leading trade union for defence and aerospace, has slammed military-industrial giant BAE Systems for making obscene profits while at the same time refusing to pay its ...
+  LinkedPageStatus: ok (https://leftfootforward.org/2026/02/unite-the-union-slams-bae-systems-for-making-obscene-profits-while-offering-a-raw-deal-to-workers/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  'Without the skilled work of our members, the company doesn't make money." Unite the union, the country’s leading trade union for defence and aerospace, has slammed military-industrial giant BAE Systems for making obscene profits while at the same time refusing to pay its workers a fair wage. The union has also criticised BAE for attempting union-busting high court injunctions to prevent strikes. The latest financial results show BAE’s full year operating profits increased by 12% to £3.32 billion. Meanwhile skilled workers at their Lancashire factories in Warton and Salmesbury are being forced to take industrial action due to a poor pay offer and assault on their terms and conditions. Unite general secretary Sharon Graham said: “These profits are nothing short of obscene. BAE is making billions from government contracts and yet refuses to pay our members what they are worth. This is completely unacceptable – without the skilled work of our members, the company doesn’t make money.” Additionally, it’s most recent trading statement shows that BAE Systems shareholders received £1.5bn in dividends in 2025. In 2025, workers had a pay deal of 3.6 per cent imposed against their will, which was below the rate of inflation, and which represents a
+
+- BAE Systems strike action extended into March as Unite hits out at company profits
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c8bee222447c8ccfb39cf95132c4&url=https%3a%2f%2fwww.blogpreston.co.uk%2f2026%2f02%2fbae-systems-strike-action-extended-into-march-as-unite-hits-out-at-company-profits%2f&c=6902751715909921561&mkt=en-us
+  Strike action will now continue until BAE Systems until 13 March. Strike action at BAE Systems is now expected to continue into March amid an ongoing pay dispute with Unite members.
+  LinkedPageStatus: ok (https://www.blogpreston.co.uk/2026/02/bae-systems-strike-action-extended-into-march-as-unite-hits-out-at-company-profits/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  “The company is making billions from government contracts and yet refuses to pay our members what they are worth. This is completely unacceptable – without the skilled work of our members, the company doesn’t make money.” Union members were particularly concerned about the pay deal of 3.6% which they say was below the rate of inflation. They said this was later imposed against their will and below the 4.5% increase given to shop floor workers. BAE Systems told Blog Preston in 2025 , ahead of the start of action in November, that the higher pay increase offered to shop floor workers was recognition of lower pay in that area of the business and in exchange for other changes to working practices. They told us this week that the dispute pay offer was implemented in the professional services area because negotiations had been exhausted through the disputes procedure. Around 200 people are expected to take part in strike action between now and 13 March. A spokesperson for BAE Systems said: “Our priority remains to protect our people, our business and the vital work we do for our customers. “We believe the Company’s offer is fair and ensures that our employees continued
+
+- BAE declare £3.3bn profits as union demands fair share
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c8bee222447c8ccfb39cf95132c4&url=https%3a%2f%2fwww.lancashiretelegraph.co.uk%2fnews%2f25865596.bae-declare-3-3bn-profits-union-demands-fair-share%2f&c=4582461611861866605&mkt=en-us
+  A defence giant is under fire for posting increased profits while more than 1,000 Lancashire workers at its Warton and Salmesbury sites ...
+  LinkedPageStatus: ok (https://www.lancashiretelegraph.co.uk/news/25865596.bae-declare-3-3bn-profits-union-demands-fair-share/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Unite the Union has called out BAE Systems for reporting annual operating profits of £3.32 billion, a 12 per cent rise, while employees at its Warton and Samlesbury sites continue industrial action. The union has described the company’s earnings as "little short of obscene," and claimed staff are being denied a fair wage and improved conditions despite BAE’s financial success. BAE’s profits are little short of obscene say Unite (Image: Unite the Union) Sharon Graham, general secretary at Unite, said: "BAE needs to give its workers a fair piece of the pie. MORE: BAE Systems reports strong year as Lancashire workforce grows "The company is making billions from government contracts and yet refuses to pay our members what they are worth. "This is completely unacceptable—without the skilled work of our members, the company doesn't make money." Shareholders received £1.5 billion in dividends in 2025. More than 1,000 employees have taken strike action over a pay dispute involving professional services staff and aerospace engineers. These workers were given a 3.6 per cent pay rise in 2025, below both inflation and the 4.5 per cent increase awarded to shop floor staff. Unite said the offer represents a "real terms pay cut." Ross
+
+- Britain’s BAE Systems sets sights on defense spending boom amid record order backlog
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c8bee222447c8ccfb39cf95132c4&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2fbritain-s-bae-systems-sets-sights-on-defense-spending-boom-amid-record-order-backlog%2far-AA1WzYd1&c=14623435445848222044&mkt=en-us
+  Shares in the UK defense giant rose on Wednesday after it reported strong full-year earnings.
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/companies/britain-s-bae-systems-sets-sights-on-defense-spending-boom-amid-record-order-backlog/ar-AA1WzYd1)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Striking BAE workers picket outside Warton and Samlesbury sites in dispute over pay
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c8bee222447c8ccfb39cf95132c4&url=https%3a%2f%2fwww.msn.com%2fen-gb%2fmoney%2fcareersandeducation%2fstriking-bae-workers-picket-outside-warton-and-samlesbury-sites-in-dispute-over-pay%2far-AA1WwFxs&c=13129915324878034482&mkt=en-us
+  Striking BAE workers are picketing outside the company’s sites in Lancashire today.
+  LinkedPageStatus: ok (https://www.msn.com/en-gb/money/careersandeducation/striking-bae-workers-picket-outside-warton-and-samlesbury-sites-in-dispute-over-pay/ar-AA1WwFxs)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- BAE says its Eurofighter pipeline is filled until first GCAP assembly
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c8bee222447c8ccfb39cf95132c4&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fother%2fbae-says-its-eurofighter-pipeline-is-filled-until-first-gcap-assembly%2far-AA1WEW0k&c=696750410833209798&mkt=en-us
+  Europe accounted for 32% of the BAE order book at the end of December, while accounting for 11% of sales in 2025, the company said.
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/other/bae-says-its-eurofighter-pipeline-is-filled-until-first-gcap-assembly/ar-AA1WEW0k)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- BAE Systems officials upbeat over follow-on Typhoon prospect with Saudi Arabia
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c8bee222447c8ccfb39cf95132c4&url=https%3a%2f%2fwww.flightglobal.com%2fdefence%2fbae-officials-upbeat-over-follow-on-typhoon-prospect-with-saudi-arabia%2f166324.article&c=9214452634955743821&mkt=en-us
+  UK airframer BAE Systems remains confident that Saudi Arabia will place a long-anticipated follow-on order for the Eurofighter Typhoon, as Riyadh also eyes a possible future role in the currently ...
+  LinkedPageStatus: ok (https://www.flightglobal.com/defence/bae-officials-upbeat-over-follow-on-typhoon-prospect-with-saudi-arabia/166324.article)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  UK airframer BAE Systems remains confident that Saudi Arabia will place a long-anticipated follow-on order for the Eurofighter Typhoon, as Riyadh also eyes a possible future role in the currently three-nation Global Combat Air Programme (GCAP). The Royal Saudi Air Force (RSAF) currently operates 72 BAE-assembled Typhoons, fielded from 2008 via the Project Salam acquisition. The European type also is being considered for a 54-aircraft need, which also has seen Riyadh look at the Boeing F-15EX and Dassault Aviation Rafale as part of a competitive evaluation. “We are still supporting the UK government in responding to the requirement for new Typhoons,” BAE’s Saudi Arabia managing director Steve Clutton said at the World Defense Show (WDS). “Discussions are ongoing, and it has been a great opportunity at the show this week,” he says of the 8-12 February event, which was staged near Riyadh. A repeat Typhoon order would be linked to a “substantial industrialisation package”, he says. That would include in-country final assembly of the type, in support of the customer’s Vision 2030 localisation process. Under a previous deal, 22 of the RSAF’s BAE Hawk 165 advanced jet trainers were assembled at the service’s Dhahran air base. Clutton also notes that
+
+- Union slams 'obscene' BAE Systems profits as over 1,000 Lancashire staff strike
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c8bee222447c8ccfb39cf95132c4&url=https%3a%2f%2fwww.msn.com%2fen-gb%2fmoney%2fcareersandeducation%2funion-slams-obscene-bae-systems-profits-as-over-1000-lancashire-staff-strike%2far-AA1WzEXt&c=12755296837779698346&mkt=en-us
+  Unite said 'the company is making billions from government contracts and yet refuses to pay our members what they are worth' ...
+  LinkedPageStatus: ok (https://www.msn.com/en-gb/money/careersandeducation/union-slams-obscene-bae-systems-profits-as-over-1000-lancashire-staff-strike/ar-AA1WzEXt)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+
+Domain: BAESystems
+Query: BAE Systems latest company news
+Timestamp: 2026-02-21T15:07:00
+PerPageSummaryWords: 200
+- Unite the union slams BAE systems for making ‘obscene’ profits while offering a raw deal to workers
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c9ed22e34bb793b9e5eee9c35568&url=https%3a%2f%2fleftfootforward.org%2f2026%2f02%2funite-the-union-slams-bae-systems-for-making-obscene-profits-while-offering-a-raw-deal-to-workers%2f&c=16474686373885227847&mkt=en-us
+  Unite the union, the country’s leading trade union for defence and aerospace, has slammed military-industrial giant BAE Systems for making obscene profits while at the same time refusing to pay its ...
+  LinkedPageStatus: ok (https://leftfootforward.org/2026/02/unite-the-union-slams-bae-systems-for-making-obscene-profits-while-offering-a-raw-deal-to-workers/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  'Without the skilled work of our members, the company doesn't make money." Unite the union, the country’s leading trade union for defence and aerospace, has slammed military-industrial giant BAE Systems for making obscene profits while at the same time refusing to pay its workers a fair wage. The union has also criticised BAE for attempting union-busting high court injunctions to prevent strikes. The latest financial results show BAE’s full year operating profits increased by 12% to £3.32 billion. Meanwhile skilled workers at their Lancashire factories in Warton and Salmesbury are being forced to take industrial action due to a poor pay offer and assault on their terms and conditions. Unite general secretary Sharon Graham said: “These profits are nothing short of obscene. BAE is making billions from government contracts and yet refuses to pay our members what they are worth. This is completely unacceptable – without the skilled work of our members, the company doesn’t make money.” Additionally, it’s most recent trading statement shows that BAE Systems shareholders received £1.5bn in dividends in 2025. In 2025, workers had a pay deal of 3.6 per cent imposed against their will, which was below the rate of inflation, and which represents a
+
+- BAE Systems strike action extended into March as Unite hits out at company profits
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c9ed22e34bb793b9e5eee9c35568&url=https%3a%2f%2fwww.blogpreston.co.uk%2f2026%2f02%2fbae-systems-strike-action-extended-into-march-as-unite-hits-out-at-company-profits%2f&c=6902751715909921561&mkt=en-us
+  Strike action will now continue until BAE Systems until 13 March. Strike action at BAE Systems is now expected to continue into March amid an ongoing pay dispute with Unite members.
+  LinkedPageStatus: ok (https://www.blogpreston.co.uk/2026/02/bae-systems-strike-action-extended-into-march-as-unite-hits-out-at-company-profits/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  “The company is making billions from government contracts and yet refuses to pay our members what they are worth. This is completely unacceptable – without the skilled work of our members, the company doesn’t make money.” Union members were particularly concerned about the pay deal of 3.6% which they say was below the rate of inflation. They said this was later imposed against their will and below the 4.5% increase given to shop floor workers. BAE Systems told Blog Preston in 2025 , ahead of the start of action in November, that the higher pay increase offered to shop floor workers was recognition of lower pay in that area of the business and in exchange for other changes to working practices. They told us this week that the dispute pay offer was implemented in the professional services area because negotiations had been exhausted through the disputes procedure. Around 200 people are expected to take part in strike action between now and 13 March. A spokesperson for BAE Systems said: “Our priority remains to protect our people, our business and the vital work we do for our customers. “We believe the Company’s offer is fair and ensures that our employees continued
+
+- BAE declare £3.3bn profits as union demands fair share
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c9ed22e34bb793b9e5eee9c35568&url=https%3a%2f%2fwww.lancashiretelegraph.co.uk%2fnews%2f25865596.bae-declare-3-3bn-profits-union-demands-fair-share%2f&c=4582461611861866605&mkt=en-us
+  A defence giant is under fire for posting increased profits while more than 1,000 Lancashire workers at its Warton and Salmesbury sites ...
+  LinkedPageStatus: ok (https://www.lancashiretelegraph.co.uk/news/25865596.bae-declare-3-3bn-profits-union-demands-fair-share/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Unite the Union has called out BAE Systems for reporting annual operating profits of £3.32 billion, a 12 per cent rise, while employees at its Warton and Samlesbury sites continue industrial action. The union has described the company’s earnings as "little short of obscene," and claimed staff are being denied a fair wage and improved conditions despite BAE’s financial success. BAE’s profits are little short of obscene say Unite (Image: Unite the Union) Sharon Graham, general secretary at Unite, said: "BAE needs to give its workers a fair piece of the pie. MORE: BAE Systems reports strong year as Lancashire workforce grows "The company is making billions from government contracts and yet refuses to pay our members what they are worth. "This is completely unacceptable—without the skilled work of our members, the company doesn't make money." Shareholders received £1.5 billion in dividends in 2025. More than 1,000 employees have taken strike action over a pay dispute involving professional services staff and aerospace engineers. These workers were given a 3.6 per cent pay rise in 2025, below both inflation and the 4.5 per cent increase awarded to shop floor staff. Unite said the offer represents a "real terms pay cut." Ross
+
+- Britain’s BAE Systems sets sights on defense spending boom amid record order backlog
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c9ed22e34bb793b9e5eee9c35568&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2fbritain-s-bae-systems-sets-sights-on-defense-spending-boom-amid-record-order-backlog%2far-AA1WzYd1&c=14623435445848222044&mkt=en-us
+  Shares in the UK defense giant rose on Wednesday after it reported strong full-year earnings.
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/companies/britain-s-bae-systems-sets-sights-on-defense-spending-boom-amid-record-order-backlog/ar-AA1WzYd1)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Striking BAE workers picket outside Warton and Samlesbury sites in dispute over pay
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c9ed22e34bb793b9e5eee9c35568&url=https%3a%2f%2fwww.msn.com%2fen-gb%2fmoney%2fcareersandeducation%2fstriking-bae-workers-picket-outside-warton-and-samlesbury-sites-in-dispute-over-pay%2far-AA1WwFxs&c=13129915324878034482&mkt=en-us
+  Striking BAE workers are picketing outside the company’s sites in Lancashire today.
+  LinkedPageStatus: ok (https://www.msn.com/en-gb/money/careersandeducation/striking-bae-workers-picket-outside-warton-and-samlesbury-sites-in-dispute-over-pay/ar-AA1WwFxs)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- BAE says its Eurofighter pipeline is filled until first GCAP assembly
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c9ed22e34bb793b9e5eee9c35568&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fother%2fbae-says-its-eurofighter-pipeline-is-filled-until-first-gcap-assembly%2far-AA1WEW0k&c=696750410833209798&mkt=en-us
+  Europe accounted for 32% of the BAE order book at the end of December, while accounting for 11% of sales in 2025, the company said.
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/other/bae-says-its-eurofighter-pipeline-is-filled-until-first-gcap-assembly/ar-AA1WEW0k)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- BAE Systems officials upbeat over follow-on Typhoon prospect with Saudi Arabia
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c9ed22e34bb793b9e5eee9c35568&url=https%3a%2f%2fwww.flightglobal.com%2fdefence%2fbae-officials-upbeat-over-follow-on-typhoon-prospect-with-saudi-arabia%2f166324.article&c=9214452634955743821&mkt=en-us
+  UK airframer BAE Systems remains confident that Saudi Arabia will place a long-anticipated follow-on order for the Eurofighter Typhoon, as Riyadh also eyes a possible future role in the currently ...
+  LinkedPageStatus: ok (https://www.flightglobal.com/defence/bae-officials-upbeat-over-follow-on-typhoon-prospect-with-saudi-arabia/166324.article)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  UK airframer BAE Systems remains confident that Saudi Arabia will place a long-anticipated follow-on order for the Eurofighter Typhoon, as Riyadh also eyes a possible future role in the currently three-nation Global Combat Air Programme (GCAP). The Royal Saudi Air Force (RSAF) currently operates 72 BAE-assembled Typhoons, fielded from 2008 via the Project Salam acquisition. The European type also is being considered for a 54-aircraft need, which also has seen Riyadh look at the Boeing F-15EX and Dassault Aviation Rafale as part of a competitive evaluation. “We are still supporting the UK government in responding to the requirement for new Typhoons,” BAE’s Saudi Arabia managing director Steve Clutton said at the World Defense Show (WDS). “Discussions are ongoing, and it has been a great opportunity at the show this week,” he says of the 8-12 February event, which was staged near Riyadh. A repeat Typhoon order would be linked to a “substantial industrialisation package”, he says. That would include in-country final assembly of the type, in support of the customer’s Vision 2030 localisation process. Under a previous deal, 22 of the RSAF’s BAE Hawk 165 advanced jet trainers were assembled at the service’s Dhahran air base. Clutton also notes that
+
+- Union slams 'obscene' BAE Systems profits as over 1,000 Lancashire staff strike
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c9ed22e34bb793b9e5eee9c35568&url=https%3a%2f%2fwww.msn.com%2fen-gb%2fmoney%2fcareersandeducation%2funion-slams-obscene-bae-systems-profits-as-over-1000-lancashire-staff-strike%2far-AA1WzEXt&c=12755296837779698346&mkt=en-us
+  Unite said 'the company is making billions from government contracts and yet refuses to pay our members what they are worth' ...
+  LinkedPageStatus: ok (https://www.msn.com/en-gb/money/careersandeducation/union-slams-obscene-bae-systems-profits-as-over-1000-lancashire-staff-strike/ar-AA1WzEXt)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+
+Domain: BAESystems
+Query: BAE Systems latest company news
+Timestamp: 2026-02-21T15:07:02
+PerPageSummaryWords: 200
+- Unite the union slams BAE systems for making ‘obscene’ profits while offering a raw deal to workers
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c9f1a3514c68a6a1e40aa8585fdd&url=https%3a%2f%2fleftfootforward.org%2f2026%2f02%2funite-the-union-slams-bae-systems-for-making-obscene-profits-while-offering-a-raw-deal-to-workers%2f&c=16474686373885227847&mkt=en-us
+  Unite the union, the country’s leading trade union for defence and aerospace, has slammed military-industrial giant BAE Systems for making obscene profits while at the same time refusing to pay its ...
+  LinkedPageStatus: ok (https://leftfootforward.org/2026/02/unite-the-union-slams-bae-systems-for-making-obscene-profits-while-offering-a-raw-deal-to-workers/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  'Without the skilled work of our members, the company doesn't make money." Unite the union, the country’s leading trade union for defence and aerospace, has slammed military-industrial giant BAE Systems for making obscene profits while at the same time refusing to pay its workers a fair wage. The union has also criticised BAE for attempting union-busting high court injunctions to prevent strikes. The latest financial results show BAE’s full year operating profits increased by 12% to £3.32 billion. Meanwhile skilled workers at their Lancashire factories in Warton and Salmesbury are being forced to take industrial action due to a poor pay offer and assault on their terms and conditions. Unite general secretary Sharon Graham said: “These profits are nothing short of obscene. BAE is making billions from government contracts and yet refuses to pay our members what they are worth. This is completely unacceptable – without the skilled work of our members, the company doesn’t make money.” Additionally, it’s most recent trading statement shows that BAE Systems shareholders received £1.5bn in dividends in 2025. In 2025, workers had a pay deal of 3.6 per cent imposed against their will, which was below the rate of inflation, and which represents a
+
+- BAE Systems strike action extended into March as Unite hits out at company profits
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c9f1a3514c68a6a1e40aa8585fdd&url=https%3a%2f%2fwww.blogpreston.co.uk%2f2026%2f02%2fbae-systems-strike-action-extended-into-march-as-unite-hits-out-at-company-profits%2f&c=6902751715909921561&mkt=en-us
+  Strike action will now continue until BAE Systems until 13 March. Strike action at BAE Systems is now expected to continue into March amid an ongoing pay dispute with Unite members.
+  LinkedPageStatus: ok (https://www.blogpreston.co.uk/2026/02/bae-systems-strike-action-extended-into-march-as-unite-hits-out-at-company-profits/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  “The company is making billions from government contracts and yet refuses to pay our members what they are worth. This is completely unacceptable – without the skilled work of our members, the company doesn’t make money.” Union members were particularly concerned about the pay deal of 3.6% which they say was below the rate of inflation. They said this was later imposed against their will and below the 4.5% increase given to shop floor workers. BAE Systems told Blog Preston in 2025 , ahead of the start of action in November, that the higher pay increase offered to shop floor workers was recognition of lower pay in that area of the business and in exchange for other changes to working practices. They told us this week that the dispute pay offer was implemented in the professional services area because negotiations had been exhausted through the disputes procedure. Around 200 people are expected to take part in strike action between now and 13 March. A spokesperson for BAE Systems said: “Our priority remains to protect our people, our business and the vital work we do for our customers. “We believe the Company’s offer is fair and ensures that our employees continued
+
+- BAE declare £3.3bn profits as union demands fair share
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c9f1a3514c68a6a1e40aa8585fdd&url=https%3a%2f%2fwww.lancashiretelegraph.co.uk%2fnews%2f25865596.bae-declare-3-3bn-profits-union-demands-fair-share%2f&c=4582461611861866605&mkt=en-us
+  A defence giant is under fire for posting increased profits while more than 1,000 Lancashire workers at its Warton and Salmesbury sites ...
+  LinkedPageStatus: ok (https://www.lancashiretelegraph.co.uk/news/25865596.bae-declare-3-3bn-profits-union-demands-fair-share/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Unite the Union has called out BAE Systems for reporting annual operating profits of £3.32 billion, a 12 per cent rise, while employees at its Warton and Samlesbury sites continue industrial action. The union has described the company’s earnings as "little short of obscene," and claimed staff are being denied a fair wage and improved conditions despite BAE’s financial success. BAE’s profits are little short of obscene say Unite (Image: Unite the Union) Sharon Graham, general secretary at Unite, said: "BAE needs to give its workers a fair piece of the pie. MORE: BAE Systems reports strong year as Lancashire workforce grows "The company is making billions from government contracts and yet refuses to pay our members what they are worth. "This is completely unacceptable—without the skilled work of our members, the company doesn't make money." Shareholders received £1.5 billion in dividends in 2025. More than 1,000 employees have taken strike action over a pay dispute involving professional services staff and aerospace engineers. These workers were given a 3.6 per cent pay rise in 2025, below both inflation and the 4.5 per cent increase awarded to shop floor staff. Unite said the offer represents a "real terms pay cut." Ross
+
+- Britain’s BAE Systems sets sights on defense spending boom amid record order backlog
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c9f1a3514c68a6a1e40aa8585fdd&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2fbritain-s-bae-systems-sets-sights-on-defense-spending-boom-amid-record-order-backlog%2far-AA1WzYd1&c=14623435445848222044&mkt=en-us
+  Shares in the UK defense giant rose on Wednesday after it reported strong full-year earnings.
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/companies/britain-s-bae-systems-sets-sights-on-defense-spending-boom-amid-record-order-backlog/ar-AA1WzYd1)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Striking BAE workers picket outside Warton and Samlesbury sites in dispute over pay
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c9f1a3514c68a6a1e40aa8585fdd&url=https%3a%2f%2fwww.msn.com%2fen-gb%2fmoney%2fcareersandeducation%2fstriking-bae-workers-picket-outside-warton-and-samlesbury-sites-in-dispute-over-pay%2far-AA1WwFxs&c=13129915324878034482&mkt=en-us
+  Striking BAE workers are picketing outside the company’s sites in Lancashire today.
+  LinkedPageStatus: ok (https://www.msn.com/en-gb/money/careersandeducation/striking-bae-workers-picket-outside-warton-and-samlesbury-sites-in-dispute-over-pay/ar-AA1WwFxs)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- BAE says its Eurofighter pipeline is filled until first GCAP assembly
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c9f1a3514c68a6a1e40aa8585fdd&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fother%2fbae-says-its-eurofighter-pipeline-is-filled-until-first-gcap-assembly%2far-AA1WEW0k&c=696750410833209798&mkt=en-us
+  Europe accounted for 32% of the BAE order book at the end of December, while accounting for 11% of sales in 2025, the company said.
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/other/bae-says-its-eurofighter-pipeline-is-filled-until-first-gcap-assembly/ar-AA1WEW0k)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- BAE Systems officials upbeat over follow-on Typhoon prospect with Saudi Arabia
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c9f1a3514c68a6a1e40aa8585fdd&url=https%3a%2f%2fwww.flightglobal.com%2fdefence%2fbae-officials-upbeat-over-follow-on-typhoon-prospect-with-saudi-arabia%2f166324.article&c=9214452634955743821&mkt=en-us
+  UK airframer BAE Systems remains confident that Saudi Arabia will place a long-anticipated follow-on order for the Eurofighter Typhoon, as Riyadh also eyes a possible future role in the currently ...
+  LinkedPageStatus: ok (https://www.flightglobal.com/defence/bae-officials-upbeat-over-follow-on-typhoon-prospect-with-saudi-arabia/166324.article)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  UK airframer BAE Systems remains confident that Saudi Arabia will place a long-anticipated follow-on order for the Eurofighter Typhoon, as Riyadh also eyes a possible future role in the currently three-nation Global Combat Air Programme (GCAP). The Royal Saudi Air Force (RSAF) currently operates 72 BAE-assembled Typhoons, fielded from 2008 via the Project Salam acquisition. The European type also is being considered for a 54-aircraft need, which also has seen Riyadh look at the Boeing F-15EX and Dassault Aviation Rafale as part of a competitive evaluation. “We are still supporting the UK government in responding to the requirement for new Typhoons,” BAE’s Saudi Arabia managing director Steve Clutton said at the World Defense Show (WDS). “Discussions are ongoing, and it has been a great opportunity at the show this week,” he says of the 8-12 February event, which was staged near Riyadh. A repeat Typhoon order would be linked to a “substantial industrialisation package”, he says. That would include in-country final assembly of the type, in support of the customer’s Vision 2030 localisation process. Under a previous deal, 22 of the RSAF’s BAE Hawk 165 advanced jet trainers were assembled at the service’s Dhahran air base. Clutton also notes that
+
+- Union slams 'obscene' BAE Systems profits as over 1,000 Lancashire staff strike
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c9f1a3514c68a6a1e40aa8585fdd&url=https%3a%2f%2fwww.msn.com%2fen-gb%2fmoney%2fcareersandeducation%2funion-slams-obscene-bae-systems-profits-as-over-1000-lancashire-staff-strike%2far-AA1WzEXt&c=12755296837779698346&mkt=en-us
+  Unite said 'the company is making billions from government contracts and yet refuses to pay our members what they are worth' ...
+  LinkedPageStatus: ok (https://www.msn.com/en-gb/money/careersandeducation/union-slams-obscene-bae-systems-profits-as-over-1000-lancashire-staff-strike/ar-AA1WzEXt)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+

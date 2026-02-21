@@ -1,0 +1,128 @@
+Domain: GeneralNews
+Query: latest US news headlines
+Timestamp: 2026-02-21T11:20:14
+PerPageSummaryWords: 200
+- National News Alerts - Breaking National Headlines
+  https://duckduckgo.com/y.js?ad_domain=euractiv.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=wY7itDlD5gvbPhwtDhkmXRh8SSNjsWpi_KTenzNVBpu1eWyDRILl84m2wpvv7iKSjg0kVl9RS3EiXYASMuDQE36B3uA96l39rk_XwbhR1Bp5kubTA64zd6G6bb8VJcD9Jkdm4AxCBSSdL_lWXp1HAF2iEx52DaBocmFhKvF32C8.CX7tvHkG8sRPvNWY0f6zZg&rut=370794f501340d482d394f4e3443659d6fa31b409094169d30653135201fa7c0&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8u78eGyHQwRpY4ZyelFSSlzVUCUwHEtqZ3l%2DrKTYyXXVw2CzAKHihjK9vNNSHiX0k0ooZ50EZoCHFQdFi7yMvVMoxO0lJ4BFw8ue2sViOYUjIfmSyBHTQTxLVc33DqAbGMNiiWRGynyRp%2DsSJRULNvMslUFu6epxXyMV1ApM5wD%2DzDKrqreLbRE3YqX4wpw1tYwYCfNjbeRwvBTfN6rZ6sQIFi7Q%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuZXVyYWN0aXYuY29tJTJmc3Vic2NyaWJlLXRvLXRoZS1jYXBpdGFscyUyZiUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEVkaXRvcmlhbC1UaGUlMjUyMENhcGl0YWxzJTI2bXNjbGtpZCUzZGY4MjUxNDVlNGY4OTEwNTU2NTE3N2RjN2RiNTNjMzhiJTI2dXRtX3Rlcm0lM2RsYXRlc3QlMjUyMG5hdGlvbmFsJTI1MjBuZXdzJTI2dXRtX2NvbnRlbnQlM2ROYXRpb25hbCUyNTIwbmV3cw%26rlid%3Df825145e4f89105565177dc7db53c38b&vqd=4-203743017799581104647693889617550858358&iurl=%7B1%7DIG%3DAC7534CF21B54CC384A570A334B91CD1%26CID%3D152C81B65B8565E000AE96B15AA3649A%26ID%3DDevEx%2C5046.1
+  Subscribe to Euractiv's latest and breaking national daily news alert, The Capitals. The Capitals is Euractiv's daily national news roundup sent right to your inbox.
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.euractiv.com/subscribe-to-the-capitals/?utm_source=bing&utm_medium=cpc&utm_campaign=Editorial-The%20Capitals&msclkid=f825145e4f89105565177dc7db53c38b&utm_term=latest%20national%20news&utm_content=National%20news
+  LinkedPageSummaryWords: 0
+
+- Latest U.S. News | Top headlines from the USA | Reuters
+  https://www.reuters.com/world/us/
+  Reuters.com is your online source for the latest US news stories and current events, ensuring our readers up to date with any breaking news developments
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/world/us/
+  LinkedPageSummaryWords: 0
+
+- Breaking News, Latest News and Videos | CNN
+  https://www.cnn.com/
+  View the latest news and breaking news today for U.S ., world, weather, entertainment, politics and health at CNN.com.
+  LinkedPageStatus: ok (https://edition.cnn.com/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Steve Bannon ‘War machine’ elephants Underground salt kingdom Alysa Liu’s ‘halo hair’ Hollywood’s method dressing Mummified cheetah remains • CNN Exclusive CNN Exclusive Airbus US intel agencies tie Chinese explosive test to push for a completely new nuclear arsenal Photo Illustration by Alberto Mier/CNN/Getty Images Four years on, Russia is still paying for a fatal miscalculation in Ukraine Phil Noble/Reuters How that astonishing image of Andrew was captured Meet the man at the center of the SCOTUS tariffs decision Show all Courtesy Victor Owen Schwartz While corporate America stayed silent, a small wine importer risked his business to challenge Trump’s tariffs A defiant Trump announces 10% global tariffs as he fumes at Supreme Court Takeaways: Supreme Court stands up to Donald Trump on emergency tariffs The $134-billion question: Who will get a tariff refund? Video Trump attacks justices who ruled against his tariffs 2:02 Catch up on today's global news • Source: CNN Video Catch up on today’s global news Prisma/Universal Images Group/Getty Images Ancient bone may be first physical evidence of Hannibal’s ‘war machine’ elephants in Western Europe Mapbox Man trained dog to illegally dump garbage, Italian authorities say • Video 0:54 CNN Video Timothée Chalamet shares surprise birthday
+
+- US News - The latest headlines from the US | Sky News
+  https://news.sky.com/us
+  The latest news , video and expert analysis from around the United States of America.
+  LinkedPageStatus: ok (https://news.sky.com/us)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  US Content Homepage Trump announces global tariff after Supreme Court rebuke Analysis: A huge blow, but Trump's trade war isn't over 13 mins ago 13 minutes ago World Video, 2 minutes 31 seconds Video 2:31 Trump: Foreign countries 'are dancing in the streets' Yesterday Yesterday US Analysis Analysis Analysis Analysis An enormous blow to the Trump regime - but his trade war is not over Yesterday Yesterday US Three men killed in US strike on alleged drug boat 2 hrs ago 2 hours ago US Live Live Live Live Search of Andrew's former home enters third day 1 hr ago 1 hour ago UK Court approves law requiring Louisiana schools to display Ten Commandments 30 mins ago 30 minutes ago US Trump: Release the alien files Yesterday Yesterday US Andrew 'clearly has knowledge' on Epstein, US politician claims Yesterday Yesterday US NASA astronauts were 'stranded' in space by life-threatening mishap, report finds Yesterday Yesterday Science & Tech 'You can't play cute with me': Trump's message as billions of dollars pledged to Gaza 19 Feb 19th February US Video, 0 minutes 23 seconds Video 0:23 US military's fatal strike on 'drug boat' Video, 3 minutes 14 seconds Video 3:14 What next
+
+- U.S. News: Latest news, breaking news, today's news stories updated ...
+  https://www.cbsnews.com/us/
+  U.S . breaking news : Today's top stories updated by the CBS News team.
+  LinkedPageStatus: ok (https://www.cbsnews.com/us/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  House Speaker Mike Johnson's office has denied a request to have the late Rev. Jesse Jackson lie in honor in the U.S. Capitol Rotunda due to past precedent. The 5th Circuit Court of Appeals has cleared the way for a Louisiana law requiring poster-sized displays of the Ten Commandments in public classrooms to take effect. A federal judge who took the extraordinary step of holding a government lawyer in contempt of court earlier this week blasted the Justice Department for its handling of immigration cases on Friday. Barry Manilow announced Friday he needs to reschedule several more concerts as he continues to recover following surgery after he was diagnosed with lung cancer. "Jersey Shore" star Nicole "Snooki" Polizzi said in a TikTok video that her results at a post-op appointment for a cone biopsy showed stage 1 cervical cancer. The driver of the vehicle, a 23-year-old man from Albany, New York, had been reported missing and died of a self-inflicted gunshot wound, police said. Investigators in the Nancy Guthrie case have turned to genetic genealogy as they try to make the most of potential DNA evidence. Alysa Liu stunned the skating world by retiring at age 16. Two years later,
+
+- U.S. News: Top U.S. News Today | AP News
+  https://apnews.com/us-news
+  View the latest national news from The Associated Press. Stay tuned in to all of the current events within the U.S . borders and breaking U.S . news stories.
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- Google News - Headlines
+  https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB
+  Read full articles, watch videos, browse thousands of titles and more on the " Headlines " topic with Google News .
+  LinkedPageStatus: ok (https://consent.google.com/ml?continue=https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB&gl=GB&hl=en-US&cm=2&pc=n&src=1&escs=AZ8E49CPZhwy_jUXwOCmUD1S0k7hePF8h1PStod7iv9vjGZzGKtGcYa4x1yXPGienGcrrSShGQVx7N_bJ7gacbTmSYbTWkXaBUbg)
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  Select “More options” to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+- NBC News - Breaking Headlines and Video Reports on World, U.S. and ...
+  https://www.nbcnews.com/
+  Go to NBCNews.com for breaking news , videos, and the latest top stories in world news , business, politics, health and pop culture.
+  LinkedPageStatus: ok (https://www.nbcnews.com/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Apu Gomes / Getty Images file In tariff case, Supreme Court justices bicker over treating Trump and Biden differently Justice Neil Gorsuch, appointed by Trump, suggested some of his colleagues were treating presidents of opposing parties differently. Supreme Court rules tariffs are a 'taxing power' reserved for Congress Supreme Court rules tariffs are a 'taxing power' reserved for Congress Trump attacks Supreme Court for striking down tariffs The president announced a new 10% global levy and accused justices of being unpatriotic and "disloyal to the Constitution." 'The damage cannot be refunded': How small businesses are reacting British government considers removing former Prince Andrew from the royal line of succession Andrew Mountbatten-Windsor is currently eighth in line to the British throne. British government considers removing former Prince Andrew from the royal line of succession Andrew Mountbatten-Windsor is currently eighth in line to the British throne. NBC News' Raf Sanchez reports from Buckingham Palace on the investigation NBC News' Raf Sanchez reports from Buckingham Palace on the investigation House Oversight and Government Reform Committee The Epstein saga engulfs Les Wexner — and the Ohio he helped build Justice Department Epstein estate agrees to $35 million settlement in victim class action Bryan Bedder
+
+
+Domain: GeneralNews
+Query: latest US news headlines
+Timestamp: 2026-02-21T11:35:08
+PerPageSummaryWords: 200
+- Breaking News, Latest News and Videos | CNN
+  https://www.cnn.com/
+  View the latest news and breaking news today for U.S ., world, weather, entertainment, politics and health at CNN.com.
+  LinkedPageStatus: ok (https://edition.cnn.com/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Steve Bannon ‘War machine’ elephants Underground salt kingdom Alysa Liu’s ‘halo hair’ Hollywood’s method dressing Mummified cheetah remains • CNN Exclusive CNN Exclusive Airbus US intel agencies tie Chinese explosive test to push for a completely new nuclear arsenal Photo Illustration by Alberto Mier/CNN/Getty Images Four years on, Russia is still paying for a fatal miscalculation in Ukraine Phil Noble/Reuters How that astonishing image of Andrew was captured Meet the man at the center of the SCOTUS tariffs decision Show all Courtesy Victor Owen Schwartz While corporate America stayed silent, a small wine importer risked his business to challenge Trump’s tariffs Takeaways Supreme Court stands up to Donald Trump on emergency tariffs A defiant Trump announces 10% global tariffs as he fumes at Supreme Court Analysis John Roberts ends Trump’s big Supreme Court winning streak Video Trump attacks justices who ruled against his tariffs 2:02 Analysis These two new economic numbers blew a hole in Trump’s rosy narrative Catch up on today's global news • Source: CNN Video Catch up on today’s global news NASA/JPL/USGS Lunar mysteries: Returning to the moon could answer several big questions Mapbox Man trained dog to illegally dump garbage, Italian authorities say • Video 0:54
+
+- US News - The latest headlines from the US | Sky News
+  https://news.sky.com/us
+  The latest news , video and expert analysis from around the United States of America.
+  LinkedPageStatus: ok (https://news.sky.com/us)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  US Content Homepage Trump announces global tariff after Supreme Court rebuke Analysis: A huge blow, but Trump's trade war isn't over 24 mins ago 24 minutes ago World Video, 3 minutes 14 seconds Video 3:14 What next for Donald Trump's tariff plans? Yesterday Yesterday Video, 2 minutes 31 seconds Video 2:31 Trump: Foreign countries 'are dancing in the streets' Yesterday Yesterday US Analysis Analysis Analysis Analysis An enormous blow to the Trump regime - but his trade war is not over Yesterday Yesterday US Three men killed in US strike on alleged drug boat 3 hrs ago 3 hours ago US Live Live Live Live Search of Andrew's former home enters third day 1 hr ago 1 hour ago UK Court approves law requiring Louisiana schools to display Ten Commandments 49 mins ago 49 minutes ago US Trump: Release the alien files Yesterday Yesterday US Andrew 'clearly has knowledge' on Epstein, US politician claims Yesterday Yesterday US NASA astronauts were 'stranded' in space by life-threatening mishap, report finds Yesterday Yesterday Science & Tech Video, 4 minutes 50 seconds Video 4:50 Supreme Court rules against Trump tariffs Video, 0 minutes 23 seconds Video 0:23 US military's fatal strike on 'drug boat'
+
+- Google News - U.S. - Latest
+  https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE?hl=en-US&ceid=US:en
+  Read full articles, watch videos, browse thousands of titles and more on the " U.S ." topic with Google News .
+  LinkedPageStatus: ok (https://consent.google.com/ml?continue=https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE?hl%3Den-US%26ceid%3DUS:en&gl=GB&hl=en-US&cm=2&pc=n&src=1&escs=AZ8E49A84kN55QRMdDbO8atdZihbEwC2GB9mK5VYzcBiwO7lrUABHDk9btXatgLq8t3TgQPt5n-7das3HW2dZlN8pBgbODqTWChs)
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  Select “More options” to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+- Latest U.S. News | Top headlines from the USA | Reuters
+  https://www.reuters.com/world/us/
+  Reuters.com is your online source for the latest US news stories and current events, ensuring our readers up to date with any breaking news developments
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/world/us/
+  LinkedPageSummaryWords: 0
+
+- U.S. News: Top U.S. News Today | AP News
+  https://apnews.com/us-news
+  View the latest national news from The Associated Press. Stay tuned in to all of the current events within the U.S . borders and breaking U.S . news stories.
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- CBS News | Breaking news, top stories & today's latest headlines
+  https://www.cbsnews.com/
+  CBS News offers breaking news coverage of today's top headlines . Stay informed on the biggest new stories with our balanced, trustworthy reporting.
+  LinkedPageStatus: ok (https://www.cbsnews.com/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  President Trump said he was "ashamed of certain members of the court" after the Supreme Court struck down most of his tariffs. American Express tells CBS News it regrets having had Jeffrey Epstein as a client, as files reveal he used the company to book travel for multiple women or girls. President Trump says he's considering limited strikes against Iran as negotiations over its nuclear program are underway. Here are some of the figures talking with him about the decision. Labor Secretary Lori Chavez-DeRemer's husband was banned from the Labor Department building after agency employees alleged he had touched them inappropriately, sources said. The Trump administration fired an interim top prosecutor in Eastern Virginia almost immediately after he was hired by a panel of judges, deepening the conflict between the DOJ and the judiciary in that region. The U.S. men's hockey team will face Canada on Sunday for the gold medal. The U.S. men have not won gold in the Olympics since the "Miracle on Ice" team in 1980. While the Supreme Court struck down the Trump administration's emergency tariffs, experts said it could take years for businesses to get refunds. The driver of the vehicle, a 23-year-old man from
+
+- NBC News - Breaking Headlines and Video Reports on World, U.S. and ...
+  https://www.nbcnews.com/
+  Go to NBCNews.com for breaking news , videos, and the latest top stories in world news , business, politics, health and pop culture.
+  LinkedPageStatus: ok (https://www.nbcnews.com/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Apu Gomes / Getty Images file In tariff case, Supreme Court justices bicker over treating Trump and Biden differently Justice Neil Gorsuch, appointed by Trump, suggested some of his colleagues were treating presidents of opposing parties differently. Supreme Court rules tariffs are a 'taxing power' reserved for Congress Supreme Court rules tariffs are a 'taxing power' reserved for Congress Trump attacks Supreme Court for striking down tariffs The president announced a new 10% global levy and accused justices of being unpatriotic and "disloyal to the Constitution." 'The damage cannot be refunded': How small businesses are reacting British government considers removing former Prince Andrew from the royal line of succession Andrew Mountbatten-Windsor is currently eighth in line to the British throne. British government considers removing former Prince Andrew from the royal line of succession Andrew Mountbatten-Windsor is currently eighth in line to the British throne. NBC News' Raf Sanchez reports from Buckingham Palace on the investigation NBC News' Raf Sanchez reports from Buckingham Palace on the investigation House Oversight and Government Reform Committee The Epstein saga engulfs Les Wexner — and the Ohio he helped build Justice Department Epstein estate agrees to $35 million settlement in victim class action Bryan Bedder
+
+- The New York Times - Breaking News, US News, World News and Videos
+  https://www.nytimes.com/
+  Live news , investigations, opinion, photos and video by the journalists of The New York Times from more than 150 countries around the world. Subscribe for coverage of U.S . and international news ...
+  LinkedPageStatus: ok (https://www.nytimes.com/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  ‘Murky Waters’ for Global Businesses After Trump’s Tariff Loss Even after the Supreme Court invalidated many of the levies, foreign leaders and executives assume that U.S. tariffs are here to stay, in one form or another. Trump Doubles Down on Closing Tax Loophole on Cheap Imports In Gorsuch’s Homage to Legislative Power, a Subtle Reproach of a Neutered Congress For India, Buying Russian Oil Just Got More Complicated Why Attacking Iran Is More Dangerous Than Capturing Nicolás Maduro Unlike the quick operation in Venezuela, Iran’s extensive military capabilities and network of regional proxies could draw the U.S. into a prolonged conflict. Dozens of U.S. Planes Are at Jordan Base, Satellite Images and Flight Data Show Klaebo Is Aiming to Make History on Day 15 The Norwegian skier Johannes Hosflot Klaebo could make a clean sweep of all six cross-country gold medals. Later, Eileen Gu competes in her final event. In Her Big Olympic Moment, Alysa Liu Celebrated Her Freedom He Researched Dishonesty. He Got Friendly With Jeffrey Epstein. Dan Ariely, a behavioral scientist at Duke, sought out the convicted sex offender for his research. Their correspondence suggests it wasn’t all business. Got a Tip? The Times offers several ways to
+
+

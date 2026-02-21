@@ -1,0 +1,95 @@
+Domain: SAAB
+Query: SAAB defense latest company news
+Timestamp: 2026-02-21T14:33:07
+PerPageSummaryWords: 200
+
+Domain: SAAB
+Query: SAAB defense latest company news
+Timestamp: 2026-02-21T14:34:11
+PerPageSummaryWords: 200
+- Saab CEO Sees NATO Decision This Year
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c25d7f6d4ff9a181c00168080ead&url=https%3a%2f%2faviationweek.com%2fdefense%2faircraft-propulsion%2fsaab-ceo-sees-nato-decision-year&c=4890880829000489343&mkt=en-us
+  Saab CEO Micael Johansson says NATO may decide on an E-3 AWACS (airborne warning and control system) replacement this year, for which the Swedish company is offering its GlobalEye. Saab, which also is ...
+  LinkedPageStatus: ok (https://aviationweek.com/defense/aircraft-propulsion/saab-ceo-sees-nato-decision-year)
+  LinkedPageSummaryWords: 156
+  LinkedPageSummary:
+  Saab CEO Micael Johansson says NATO may decide on an E-3 AWACS (airborne warning and control system) replacement this year, for which the Swedish company is offering its GlobalEye. Saab, which also is pursuing business in the Middle East and elsewhere, has furnished NATO details on GlobalEye in... Robert Wall is Executive Editor for Defense and Space. Based in London, he directs a team of military and space journalists across the U.S., Europe and Asia-Pacific. Saab CEO Sees NATO Decision This Year is published in Aerospace Daily & Defense Report , an Aviation Week Intelligence Network (AWIN) Market Briefing and is included with your AWIN membership. Already a member of AWIN or subscribe to Aerospace Daily & Defense Report through your company? Login with your existing email and password. Not a member? Learn how you can access the market intelligence and data you need to stay abreast of what's happening in the aerospace and defense community.
+
+- Saab, JSC UDI to collaborate on aviation and airborne surveillance
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c25d7f6d4ff9a181c00168080ead&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2ftechnology%2fsaab-jsc-udi-to-collaborate-on-aviation-and-airborne-surveillance%2far-AA1WuaHv&c=13895822384310483172&mkt=en-us
+  The MoU signed at the Munich Security Conference 2026, aims to strengthen the defence capabilities of Ukraine.
+  LinkedPageStatus: ok (https://www.msn.com/en-us/news/technology/saab-jsc-udi-to-collaborate-on-aviation-and-airborne-surveillance/ar-AA1WuaHv)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Europe’s 2025 defense winners include Saab, Rheinmetall; FCAS falters
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c25d7f6d4ff9a181c00168080ead&url=https%3a%2f%2fwww.yahoo.com%2fnews%2farticles%2feurope-2025-defense-winners-saab-085735566.html&c=5453595919188292731&mkt=en-us
+  PARIS — With Europe spending record amounts on defense in 2025 on everything from ammunition to battle tanks, air defenses and naval ships, local industry winners included Germany’s Rheinmetall, ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_f6665eac-8167-45e7-bb02-5a2a0a29042d)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Saab AB Earnings Call: Record Orders, Bigger Risks
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c25d7f6d4ff9a181c00168080ead&url=https%3a%2f%2fwww.theglobeandmail.com%2finvesting%2fmarkets%2fstocks%2fSAABF%2fpressreleases%2f98312%2fsaab-ab-earnings-call-record-orders-bigger-risks%2f&c=178189122442241728&mkt=en-us
+  Saab AB Earnings Call Signals Powerful Growth Momentum Amid Execution Risks ...
+  LinkedPageStatus: ok (https://www.theglobeandmail.com/investing/markets/stocks/SAABF/pressreleases/98312/saab-ab-earnings-call-record-orders-bigger-risks/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Saab AB (($SE:SAAB.B)) has held its Q4 earnings call. Read on for the main highlights of the call. Saab AB Earnings Call Signals Powerful Growth Momentum Amid Execution Risks Saab AB’s latest earnings call painted a picture of a defense group in full growth mode, powered by record orders, a swelling backlog and accelerating profitability. Management stressed very strong commercial traction, particularly in Q4, alongside double‑digit sales and EBIT growth and solid cash generation. At the same time, they openly acknowledged execution challenges: loss‑making legacy and T‑7 contracts, supply‑chain bottlenecks and structurally higher CapEx. Overall, the tone was confident and upbeat, with management arguing that the strength of orders, backlog quality, margin expansion and cash conversion more than offsets those risks. Saab’s order book is the central driver of its growth story. Order bookings for 2025 reached SEK 169 billion, with an extraordinary Q4 order intake of SEK 100 billion, up from just SEK 17 billion in the prior‑year quarter, a jump of nearly 500%. This surge pushed total backlog to SEK 275 billion, roughly 3.5 times 2025 sales, giving the company multi‑year revenue visibility. Backlog for 2026 and 2027 rose 29% and 46% respectively, underscoring how rapidly the pipeline
+
+- Saab floats Gripen production hub in Canada, if Ottawa were willing
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c25d7f6d4ff9a181c00168080ead&url=https%3a%2f%2fwww.defensenews.com%2fglobal%2feurope%2f2026%2f02%2f05%2fsaab-floats-gripen-production-hub-in-canada-if-ottawa-were-willing%2f&c=13082274673124862563&mkt=en-us
+  A Saab Gripen E-series fighter aircraft is seen in the sky over the airport of Linkoping, Sweden, as it is shown to the Ukrainian president during his visit on Oct. 22, 2025. (Jonathan Nackstrand/AFP ...
+  LinkedPageStatus: ok (https://www.defensenews.com/global/europe/2026/02/05/saab-floats-gripen-production-hub-in-canada-if-ottawa-were-willing/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  SINGAPORE — Swedish aerospace manufacturer Saab has proposed that a hypothetical Gripen production line in Canada would be large enough to also serve export customers besides making planes for the Canadian Air Force. The statement is the latest effort by Saab in sweetening the pot for Canada to give the Swedish company a slice of its fighter jet business. “We need to ramp up our [fighter jet] production capabilities, to a level where it’s not only for Canada – we do see that [the potential line] will produce for export as well,” Mikael Franzén, chief marketing officer for the Gripen at Saab, told reporters at the Singapore Airshow here. During a press briefing overviewing ongoing and future fighter programs, executives showed a map of current and possible Gripen E customers, which included Canada and Ukraine, among others. Since last March, Ottawa has been undergoing a strategic review of its fighter capabilities and is exploring the potential of a mixed fleet that could combine F-35 and Gripen aircraft. The government announced in 2023 that it was spending $19 billion to acquire 88 jets from Lockheed Martin, but it has only committed to buying 16 for the time being. In a recent
+
+
+Domain: SAAB
+Query: SAAB defense latest company news
+Timestamp: 2026-02-21T15:13:31
+PerPageSummaryWords: 200
+- Saab CEO Sees NATO Decision This Year
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb82bbaf4399ac9de58ffc4821d9&url=https%3a%2f%2faviationweek.com%2fdefense%2faircraft-propulsion%2fsaab-ceo-sees-nato-decision-year&c=4890880829000489343&mkt=en-us
+  Saab CEO Micael Johansson says NATO may decide on an E-3 AWACS (airborne warning and control system) replacement this year, for which the Swedish company is offering its GlobalEye. Saab, which also is ...
+  LinkedPageStatus: ok (https://aviationweek.com/defense/aircraft-propulsion/saab-ceo-sees-nato-decision-year)
+  LinkedPageSummaryWords: 156
+  LinkedPageSummary:
+  Saab CEO Micael Johansson says NATO may decide on an E-3 AWACS (airborne warning and control system) replacement this year, for which the Swedish company is offering its GlobalEye. Saab, which also is pursuing business in the Middle East and elsewhere, has furnished NATO details on GlobalEye in... Robert Wall is Executive Editor for Defense and Space. Based in London, he directs a team of military and space journalists across the U.S., Europe and Asia-Pacific. Saab CEO Sees NATO Decision This Year is published in Aerospace Daily & Defense Report , an Aviation Week Intelligence Network (AWIN) Market Briefing and is included with your AWIN membership. Already a member of AWIN or subscribe to Aerospace Daily & Defense Report through your company? Login with your existing email and password. Not a member? Learn how you can access the market intelligence and data you need to stay abreast of what's happening in the aerospace and defense community.
+
+- Saab, JSC UDI to collaborate on aviation and airborne surveillance
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb82bbaf4399ac9de58ffc4821d9&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2ftechnology%2fsaab-jsc-udi-to-collaborate-on-aviation-and-airborne-surveillance%2far-AA1WuaHv&c=13895822384310483172&mkt=en-us
+  The MoU signed at the Munich Security Conference 2026, aims to strengthen the defence capabilities of Ukraine.
+  LinkedPageStatus: ok (https://www.msn.com/en-us/news/technology/saab-jsc-udi-to-collaborate-on-aviation-and-airborne-surveillance/ar-AA1WuaHv)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Europe’s 2025 defense winners include Saab, Rheinmetall; FCAS falters
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb82bbaf4399ac9de58ffc4821d9&url=https%3a%2f%2fwww.yahoo.com%2fnews%2farticles%2feurope-2025-defense-winners-saab-085735566.html&c=5453595919188292731&mkt=en-us
+  PARIS — With Europe spending record amounts on defense in 2025 on everything from ammunition to battle tanks, air defenses and naval ships, local industry winners included Germany’s Rheinmetall, ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_f2fe5e79-ece0-48e2-8f88-91f612009d23)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Saab AB Earnings Call: Record Orders, Bigger Risks
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb82bbaf4399ac9de58ffc4821d9&url=https%3a%2f%2fwww.theglobeandmail.com%2finvesting%2fmarkets%2fstocks%2fSAABF%2fpressreleases%2f98312%2fsaab-ab-earnings-call-record-orders-bigger-risks%2f&c=178189122442241728&mkt=en-us
+  Saab AB Earnings Call Signals Powerful Growth Momentum Amid Execution Risks ...
+  LinkedPageStatus: ok (https://www.theglobeandmail.com/investing/markets/stocks/SAABF/pressreleases/98312/saab-ab-earnings-call-record-orders-bigger-risks/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Saab AB (($SE:SAAB.B)) has held its Q4 earnings call. Read on for the main highlights of the call. Saab AB Earnings Call Signals Powerful Growth Momentum Amid Execution Risks Saab AB’s latest earnings call painted a picture of a defense group in full growth mode, powered by record orders, a swelling backlog and accelerating profitability. Management stressed very strong commercial traction, particularly in Q4, alongside double‑digit sales and EBIT growth and solid cash generation. At the same time, they openly acknowledged execution challenges: loss‑making legacy and T‑7 contracts, supply‑chain bottlenecks and structurally higher CapEx. Overall, the tone was confident and upbeat, with management arguing that the strength of orders, backlog quality, margin expansion and cash conversion more than offsets those risks. Saab’s order book is the central driver of its growth story. Order bookings for 2025 reached SEK 169 billion, with an extraordinary Q4 order intake of SEK 100 billion, up from just SEK 17 billion in the prior‑year quarter, a jump of nearly 500%. This surge pushed total backlog to SEK 275 billion, roughly 3.5 times 2025 sales, giving the company multi‑year revenue visibility. Backlog for 2026 and 2027 rose 29% and 46% respectively, underscoring how rapidly the pipeline
+
+- Saab floats Gripen production hub in Canada, if Ottawa were willing
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb82bbaf4399ac9de58ffc4821d9&url=https%3a%2f%2fwww.defensenews.com%2fglobal%2feurope%2f2026%2f02%2f05%2fsaab-floats-gripen-production-hub-in-canada-if-ottawa-were-willing%2f&c=13082274673124862563&mkt=en-us
+  A Saab Gripen E-series fighter aircraft is seen in the sky over the airport of Linkoping, Sweden, as it is shown to the Ukrainian president during his visit on Oct. 22, 2025. (Jonathan Nackstrand/AFP ...
+  LinkedPageStatus: ok (https://www.defensenews.com/global/europe/2026/02/05/saab-floats-gripen-production-hub-in-canada-if-ottawa-were-willing/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  SINGAPORE — Swedish aerospace manufacturer Saab has proposed that a hypothetical Gripen production line in Canada would be large enough to also serve export customers besides making planes for the Canadian Air Force. The statement is the latest effort by Saab in sweetening the pot for Canada to give the Swedish company a slice of its fighter jet business. “We need to ramp up our [fighter jet] production capabilities, to a level where it’s not only for Canada – we do see that [the potential line] will produce for export as well,” Mikael Franzén, chief marketing officer for the Gripen at Saab, told reporters at the Singapore Airshow here. During a press briefing overviewing ongoing and future fighter programs, executives showed a map of current and possible Gripen E customers, which included Canada and Ukraine, among others. Since last March, Ottawa has been undergoing a strategic review of its fighter capabilities and is exploring the potential of a mixed fleet that could combine F-35 and Gripen aircraft. The government announced in 2023 that it was spending $19 billion to acquire 88 jets from Lockheed Martin, but it has only committed to buying 16 for the time being. In a recent
+
+

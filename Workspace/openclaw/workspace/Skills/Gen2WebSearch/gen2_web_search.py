@@ -5,10 +5,12 @@ import argparse
 import datetime as dt
 import html
 import json
+import random
 import re
 import sys
 import time
 import urllib.parse
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 SKILLS_ROOT = Path(__file__).resolve().parent.parent
@@ -31,7 +33,8 @@ except ImportError:
                 "count": 0,
                 "log_path": "",
                 "status": "error",
-            }
+            },
+            ensure_ascii=True,
         )
     )
     sys.exit(1)
@@ -42,6 +45,7 @@ except ImportError:
     Document = None
 
 DDG_URL = "https://duckduckgo.com/html/?q={q}"
+BING_NEWS_RSS_URL = "https://www.bing.com/news/search"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
@@ -49,6 +53,9 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.9",
     "Connection": "close",
 }
+
+MIN_REQUEST_DELAY_SECONDS = 3.0
+MAX_REQUEST_DELAY_SECONDS = 5.0
 
 REDIRECT_PATTERN = re.compile(r"/l/\?uddg=([^&\"'>]+)")
 ANCHOR_PATTERN = re.compile(
@@ -121,6 +128,7 @@ def decode_redirect_url(redirect_url):
 
 
 def fetch_url_text(url, timeout_seconds):
+    time.sleep(random.uniform(MIN_REQUEST_DELAY_SECONDS, MAX_REQUEST_DELAY_SECONDS))
     response = requests.get(
         url,
         headers=HEADERS,
@@ -138,6 +146,20 @@ def fetch_duckduckgo_html(query, timeout_seconds):
     search_url = DDG_URL.format(q=encoded_query)
     html_text, _, _ = fetch_url_text(search_url, timeout_seconds)
     return html_text
+
+
+def fetch_bing_news_rss(query, timeout_seconds):
+    time.sleep(random.uniform(MIN_REQUEST_DELAY_SECONDS, MAX_REQUEST_DELAY_SECONDS))
+    response = requests.get(
+        BING_NEWS_RSS_URL,
+        params={"q": query, "format": "rss", "mkt": "en-US"},
+        headers=HEADERS,
+        timeout=timeout_seconds,
+        allow_redirects=True,
+        verify=True,
+    )
+    response.raise_for_status()
+    return response.text
 
 
 def extract_results_from_html(html_text, max_count):
@@ -175,6 +197,39 @@ def extract_results_from_html(html_text, max_count):
             )
         except Exception:
             continue
+
+    return results
+
+
+def extract_results_from_bing_rss(rss_text, max_count):
+    if not rss_text:
+        return []
+
+    try:
+        root = ET.fromstring(rss_text)
+    except ET.ParseError:
+        return []
+
+    results = []
+    for item in root.findall(".//item"):
+        if len(results) >= max_count:
+            break
+
+        title = remove_html_tags(item.findtext("title", default=""))
+        url = (item.findtext("link", default="") or "").strip()
+        snippet = remove_html_tags(item.findtext("description", default=""))
+
+        if not title or not url:
+            continue
+
+        results.append(
+            {
+                "title": title,
+                "url": url,
+                "snippet": snippet,
+                "rank": len(results) + 1,
+            }
+        )
 
     return results
 
@@ -377,6 +432,33 @@ def query_to_filename(query):
     return "".join(parts)[:80]
 
 
+def _normalize_query_spacing(text):
+    return re.sub(r"\s+", " ", (text or "").strip())
+
+
+def build_relaxed_queries(query):
+    candidates = []
+    base = _normalize_query_spacing(query)
+    if not base:
+        return candidates
+
+    no_latest = _normalize_query_spacing(re.sub(r"\blatest\b", "", base, flags=re.IGNORECASE))
+    if no_latest and no_latest.lower() != base.lower():
+        candidates.append(no_latest)
+
+    award_singular = _normalize_query_spacing(re.sub(r"\bawards\b", "award", base, flags=re.IGNORECASE))
+    if award_singular and award_singular.lower() != base.lower():
+        candidates.append(award_singular)
+
+    no_latest_award_singular = _normalize_query_spacing(
+        re.sub(r"\bawards\b", "award", no_latest, flags=re.IGNORECASE)
+    )
+    if no_latest_award_singular and no_latest_award_singular.lower() not in {base.lower(), no_latest.lower(), award_singular.lower()}:
+        candidates.append(no_latest_award_singular)
+
+    return candidates
+
+
 def write_search_plus_log(navigator, domain, query, results, words_per_page):
     now = dt.datetime.now()
     timestamp = now.isoformat(timespec="seconds")
@@ -452,7 +534,7 @@ def main():
                     "log_path": "",
                     "status": "error",
                 },
-                ensure_ascii=False,
+                ensure_ascii=True,
             )
         )
         return 1
@@ -468,20 +550,56 @@ def main():
     navigator = FolderNavigator.from_fixed_point()
 
     try:
-        search_html = fetch_duckduckgo_html(query, timeout_seconds)
+        effective_query = query
+        search_html = fetch_duckduckgo_html(effective_query, timeout_seconds)
         base_results = extract_results_from_html(search_html, max_results)
+        result_source = "duckduckgo_html"
+
+        if not base_results:
+            try:
+                rss_text = fetch_bing_news_rss(effective_query, timeout_seconds)
+                base_results = extract_results_from_bing_rss(rss_text, max_results)
+                if base_results:
+                    result_source = "bing_news_rss"
+            except Exception:
+                pass
+
+        if not base_results:
+            for relaxed_query in build_relaxed_queries(query):
+                try:
+                    search_html = fetch_duckduckgo_html(relaxed_query, timeout_seconds)
+                    base_results = extract_results_from_html(search_html, max_results)
+                    if base_results:
+                        effective_query = relaxed_query
+                        result_source = "duckduckgo_html_relaxed"
+                        break
+                except Exception:
+                    pass
+
+                try:
+                    rss_text = fetch_bing_news_rss(relaxed_query, timeout_seconds)
+                    base_results = extract_results_from_bing_rss(rss_text, max_results)
+                    if base_results:
+                        effective_query = relaxed_query
+                        result_source = "bing_news_rss_relaxed"
+                        break
+                except Exception:
+                    pass
+
         enriched_results = enrich_results_with_page_text(base_results, page_timeout, words_per_page)
         log_path = write_search_plus_log(navigator, domain, query, enriched_results, words_per_page)
 
         response = {
             "domain": domain,
             "query": query,
+            "effective_query": effective_query,
             "results": enriched_results,
             "log_path": log_path,
             "count": len(enriched_results),
+            "result_source": result_source,
             "status": "ok",
         }
-        print(json.dumps(response, ensure_ascii=False))
+        print(json.dumps(response, ensure_ascii=True))
         return 0
     except Exception as e:
         print(
@@ -495,7 +613,7 @@ def main():
                     "log_path": "",
                     "status": "error",
                 },
-                ensure_ascii=False,
+                ensure_ascii=True,
             )
         )
         return 1

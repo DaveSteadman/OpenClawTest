@@ -1,0 +1,134 @@
+Domain: GeneralNews
+Query: latest UK news headlines
+Timestamp: 2026-02-21T11:19:53
+PerPageSummaryWords: 200
+- Today's views, tomorrow's news - Subscribe today in minutes
+  https://duckduckgo.com/y.js?ad_domain=spectator.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=S1bGrtJxLL0j45TNTrz%2DMWDuFs0v4eZmEWgNAGBOyxtyEoKcATNaF3raPm0cCez7bxncwaBo_%2DEcjfzSg%2DjjOcqRz4vgEMNLbRDw1I%2DPsfKkGRscRyWHmv4i7ma12WOXbf%2Dux_qPQ5uzvf1WwdQPoY_j0LDqwszPOpkCIClYTXw.EgR1Ij9sG2SA8zgur1jGUg&rut=5e75dca9b259d6114f5662863e25cd8adea48b737e3ad900686bffc3f2cc09a4&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De80uIUfdfp_KdpczZhsiqWtDVUCUzUIzRlVOQL4XylODiWPMybjjndNER3H7Sbt4LLvg_KvFq5AMAnXTpbcfiTVxP2qrx%2Do%2DUyatLAfTkCYH0gF9D3dBfNKlDJ_RhoMg%2DqlanSYs3kDaJ9zVTYAQzoCNkuZYsFzueZIBU93YLfafAo50EoOeNRGzPYEPphBNtRN7v0fYoRjTWSX7IR6z4PQmQz9VU%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuc3BlY3RhdG9yLmNvbSUyZmNhdGVnb3J5JTJmZWNvbm9taWNzJTJmJTNmbXNjbGtpZCUzZGE2MjdhMjUxMmIyMjE2NmMwNzk4Y2JjOGJmZWU1OGYzJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkVUslMjU3Q1NwZWN0YXRvciUyNTdDUFBDJTI1N0NQTUFYX0NhdGVnb3JpZXMlMjZ1dG1fdGVybSUzZHd3dy5zcGVjdGF0b3IuY29tJTI2dXRtX2NvbnRlbnQlM2RQTUFYJTI1N0NFY29ub215%26rlid%3Da627a2512b22166c0798cbc8bfee58f3&vqd=4-263079586329141427716316051431393547878&iurl=%7B1%7DIG%3DC1432035D30A477EBDDD11A9796ACE75%26CID%3D22CC7461C0A96DDE165A6366C1D26C02%26ID%3DDevEx%2C5045.1
+  Get in-depth analysis of UK economic trends and global market news with The Spectator. Weekly magazine featuring the best British journalists, authors and critics since 1828.
+  LinkedPageStatus: ok (https://spectator.com/category/economics/?msclkid=a627a2512b22166c0798cbc8bfee58f3&utm_source=bing&utm_medium=cpc&utm_campaign=UK%7CSpectator%7CPPC%7CPMAX_Categories&utm_term=www.spectator.com&utm_content=PMAX%7CEconomy)
+  LinkedPageSummaryWords: 110
+  LinkedPageSummary:
+  It should have moved ‘Beyond Petroleum’ by now, with wind, solar and hydroelectric power powering its profits. If you rewind twenty years, BP had a clear plan to place itself at the forefront of the green energy transition. It hasn’t worked out as they had hoped. Instead, today the company announced it was suspending share buybacks to shore up its balance sheet, sending its shares tumbling. Its rival Shell is in better shape, but only just. As both of Britain’s oil giants struggle, it is becoming painfully clear that the obsession with net zero has destroyed what was one of our major industries – and it will be very hard
+
+- UK | Latest News & Updates - BBC
+  https://www.bbc.co.uk/news/uk
+  Get all the latest news , live updates and content about the UK from across the BBC.
+  LinkedPageStatus: ok (https://www.bbc.co.uk/news/uk)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Watch/Listen Features & analysis More from the UK Latest Updates 10:09 GMT Bin pushed against house and set alight in suspected arson , published at 10:09 GMT Bin pushed against house and set alight in suspected arson Attribution Northern Ireland 10:09 GMT Government considers removing Andrew from royal line of succession , published at 10:09 GMT Government considers removing Andrew from royal line of succession Attribution Politics 09:49 GMT What tariffs has Trump introduced and why? , published at 09:49 GMT What tariffs has Trump introduced and why? Attribution World 09:27 GMT Are MSPs undermining the rule of law in Scotland? , published at 09:27 GMT Are MSPs undermining the rule of law in Scotland? Attribution Scotland Politics 09:18 GMT Scotland's papers: Wind projects probe and 'Andrew's out of line' , published at 09:18 GMT Scotland's papers: Wind projects probe and 'Andrew's out of line' Attribution Scotland 08:58 GMT How Scottish road trip with sauerkraut in the boot led to fermentation love affair , published at 08:58 GMT How Scottish road trip with sauerkraut in the boot led to fermentation love affair Attribution Wales 07:12 GMT Gavin Henson on autism, shaving his legs and struggles with rugby fame , published
+
+- UK News - The latest headlines from the UK | Sky News
+  https://news.sky.com/uk
+  Expert comment and analysis on the latest UK news , with headlines from England, Scotland, Northern Ireland and Wales.
+  LinkedPageStatus: ok (https://news.sky.com/uk)
+  LinkedPageSummaryWords: 147
+  LinkedPageSummary:
+  Live Live Live Live Search of Andrew's former home enters third day 23 minutes ago 23 mins ago Watch: Should Andrew Mountbatten-Windsor stay in line to the throne? 48 minutes ago 48 mins ago 'Throne out': Andrew dominates Saturday frontpages 1 hour ago 1 hr ago Explained: Who is in the royal line of succession? 1 hour ago 1 hr ago In pictures: Protest at Andrew's new home at Sandringham 1 hour ago 1 hr ago 'Large number of vans' moving in and out of Royal Lodge 2 hours ago 2 hrs ago Buckingham Palace 'would never get in way' of plans to remove Andrew from succession 2 hours ago 2 hrs ago Search of Andrew's former home enters third day 2 hours ago 2 hrs ago Good morning Yesterday Yesterday We're pausing our coverage Yesterday Yesterday In pictures: Police pass public at Royal Lodge More updates
+
+- Latest UK news | The Guardian
+  https://www.theguardian.com/uk-news
+  Latest news , breaking news and current affairs coverage from across the UK from theguardian.com
+  LinkedPageStatus: ok (https://www.theguardian.com/uk-news)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  UK latest news Decline in remote jobs risks shutting disabled people out of work, study finds Research project warns fall in homeworking roles could undermine efforts to reduce unemployment Police search at Andrew’s former home in Windsor enters third day Bishop of Lincoln arrested on suspicion of sexual assault Survivor of financial abuse invited to advise ministers after Guardian report Antiques auction selling neck shackles accused of ‘profiting from slavery’ What was Andrew Mountbatten-Windsor’s trade envoy role? MPs considering investigation into Andrew’s role as UK trade envoy UK clinical trial into puberty blockers on hold after medicines regulator steps in Police to question Andrew’s former protection officers over his Epstein links All stories UK politics Starmer 2.0: could a more authentic PM revive Labour’s appeal? After surviving a coup, and with his critics chastened, No 10 insiders say a more combative PM is up for taking the fight to Reform UK Five former education secretaries urge Labour MPs to back Send reforms Brighter UK economy gives Reeves a springboard for March statement UK migrant families face giving up vital in-work benefits to avoid being ‘punished’ Passport changes prevent British dual national from visiting dying mother All stories Politics live with
+
+- Google News - United Kingdom - Latest
+  https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE
+  Read full articles, watch videos, browse thousands of titles and more on the "United Kingdom" topic with Google News .
+  LinkedPageStatus: ok (https://consent.google.com/ml?continue=https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE&gl=GB&hl=en-US&cm=2&pc=n&src=1&escs=AZ8E49BL7STnuJQk2jyhAYyYo0g74anRVNxPsMvWzGv0GprFLa-tDzidpkLEKDA9VmmzjGWyImWJpv12qpToUwTsYWcqyyX0t0wv)
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  Select “More options” to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+- News: Latest breaking news, top stories and updates - Metro
+  https://metro.co.uk/news/
+  Find out the latest news headlines and top stories from the UK , US and rest of the world.
+  LinkedPageStatus: ok (https://metro.co.uk/news/)
+  LinkedPageSummaryWords: 156
+  LinkedPageSummary:
+  Asos co-founder's ex-wife says 'I had nothing to do with his death' after fatal fall Trainspotting exposed Scotland's harrowing drug crisis - but did anything change? Tourist dangles baby over edge of 260ft waterfall for a holiday snap At least three killed after avalanches hit across Austrian Alps Donald Trump doubles down on his claim he's 'not going to make it to heaven' Miracle as missing mum, 37, found alive in hospital 200 miles away British man who became 'president' of own country sets up an embassy ‘I went for the gun’ – local hero recalls how he confronted Pawtucket ice rink killer Donald Trump is 'considering limited strike' on Iran Man carrying 'two firearms' arrested at Gatwick Airport station Photo of Andrew leaving custody was ‘icing on the cake’ for royals' worst day How the US is building up its military might around Iran Man and woman charged with murder after toddler dies in hospital
+
+- UK news: Latest stories & updates - The Telegraph
+  https://www.telegraph.co.uk/news/uk/
+  Find all the latest news and updates from stories around the UK . Including politics, transport, education, health and religion.
+  LinkedPageStatus: error: 402 Client Error: Payment Required for url: https://www.telegraph.co.uk/news/uk/
+  LinkedPageSummaryWords: 0
+
+- UK News | UK Latest News - NewsNow
+  https://www.newsnow.co.uk/h/UK
+  Get the latest UK news , covering England, Scotland, Wales and Northern Ireland, in a live news feed aggregated from mainstream, alternative and independent sources.
+  LinkedPageStatus: ok (https://www.newsnow.co.uk/h/UK)
+  LinkedPageSummaryWords: 96
+  LinkedPageSummary:
+  Get the latest UK news, covering England, Scotland, Wales and Northern Ireland, in a live news feed aggregated from mainstream, alternative and independent sources. NewsNow's UK coverage includes breaking news, analysis and updates on stories that matter to the United Kingdom, as covered by UK and international sources. Our UK news features national and regional politics, the state of the British economy, the impact of the cost of living crisis, the ongoing fallout from Brexit, travel news, weather forecasts, reports on climate change, the NHS, crime and policing, the Royal Family, military news and much more.
+
+
+Domain: GeneralNews
+Query: latest UK news headlines
+Timestamp: 2026-02-21T11:35:00
+PerPageSummaryWords: 200
+- UK | Latest News & Updates - BBC
+  https://www.bbc.co.uk/news/uk
+  Get all the latest news , live updates and content about the UK from across the BBC.
+  LinkedPageStatus: ok (https://www.bbc.co.uk/news/uk)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Watch/Listen Features & analysis More from the UK Latest Updates 10:09 GMT Bin pushed against house and set alight in suspected arson , published at 10:09 GMT Bin pushed against house and set alight in suspected arson Attribution Northern Ireland 10:09 GMT Government considers removing Andrew from royal line of succession , published at 10:09 GMT Government considers removing Andrew from royal line of succession Attribution Politics 09:49 GMT What tariffs has Trump introduced and why? , published at 09:49 GMT What tariffs has Trump introduced and why? Attribution World 09:27 GMT Are MSPs undermining the rule of law in Scotland? , published at 09:27 GMT Are MSPs undermining the rule of law in Scotland? Attribution Scotland Politics 09:18 GMT Scotland's papers: Wind projects probe and 'Andrew's out of line' , published at 09:18 GMT Scotland's papers: Wind projects probe and 'Andrew's out of line' Attribution Scotland 08:58 GMT How Scottish road trip with sauerkraut in the boot led to fermentation love affair , published at 08:58 GMT How Scottish road trip with sauerkraut in the boot led to fermentation love affair Attribution Wales 07:12 GMT Gavin Henson on autism, shaving his legs and struggles with rugby fame , published
+
+- UK News - The latest headlines from the UK | Sky News
+  https://news.sky.com/uk
+  Expert comment and analysis on the latest UK news , with headlines from England, Scotland, Northern Ireland and Wales.
+  LinkedPageStatus: ok (https://news.sky.com/uk)
+  LinkedPageSummaryWords: 156
+  LinkedPageSummary:
+  Live Live Live Live Search of Andrew's former home enters third day 14 minutes ago 14 mins ago Analysis: At Sandringham, international media lie in wait for the next extraordinary picture 38 minutes ago 38 mins ago Watch: Should Andrew Mountbatten-Windsor stay in line to the throne? 1 hour ago 1 hr ago 'Throne out': Andrew dominates Saturday frontpages 1 hour ago 1 hr ago Explained: Who is in the royal line of succession? 1 hour ago 1 hr ago In pictures: Protest at Andrew's new home at Sandringham 2 hours ago 2 hrs ago 'Large number of vans' moving in and out of Royal Lodge 2 hours ago 2 hrs ago Buckingham Palace 'would never get in way' of plans to remove Andrew from succession 2 hours ago 2 hrs ago Search of Andrew's former home enters third day 2 hours ago 2 hrs ago Good morning Yesterday Yesterday We're pausing our coverage More updates
+
+- Latest UK news | The Guardian
+  https://www.theguardian.com/uk-news
+  Latest news , breaking news and current affairs coverage from across the UK from theguardian.com
+  LinkedPageStatus: ok (https://www.theguardian.com/uk-news)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  UK latest news Decline in remote jobs risks shutting disabled people out of work, study finds Research project warns fall in homeworking roles could undermine efforts to reduce unemployment Police search at Andrew’s former home in Windsor enters third day Bishop of Lincoln arrested on suspicion of sexual assault Survivor of financial abuse invited to advise ministers after Guardian report Antiques auction selling neck shackles accused of ‘profiting from slavery’ What was Andrew Mountbatten-Windsor’s trade envoy role? MPs considering investigation into Andrew’s role as UK trade envoy UK clinical trial into puberty blockers on hold after medicines regulator steps in Police to question Andrew’s former protection officers over his Epstein links All stories UK politics Starmer 2.0: could a more authentic PM revive Labour’s appeal? After surviving a coup, and with his critics chastened, No 10 insiders say a more combative PM is up for taking the fight to Reform UK Five former education secretaries urge Labour MPs to back Send reforms Brighter UK economy gives Reeves a springboard for March statement UK migrant families face giving up vital in-work benefits to avoid being ‘punished’ Passport changes prevent British dual national from visiting dying mother All stories Politics live with
+
+- Google News - United Kingdom - Latest
+  https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE
+  Read full articles, watch videos, browse thousands of titles and more on the "United Kingdom" topic with Google News .
+  LinkedPageStatus: ok (https://consent.google.com/ml?continue=https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE&gl=GB&hl=en-US&cm=2&pc=n&src=1&escs=AZ8E49BeL7oXgYugUaB6QSj9MPdRJY4w6htttYDuQrD-UOY5dYYPzFwUfiLUm3FM1tY-4WgGqMZCP8XjmniKHH3m8cEXI8c0jtJj)
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  Select “More options” to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+- News: Latest breaking news, top stories and updates - Metro
+  https://metro.co.uk/news/
+  Find out the latest news headlines and top stories from the UK , US and rest of the world.
+  LinkedPageStatus: ok (https://metro.co.uk/news/)
+  LinkedPageSummaryWords: 160
+  LinkedPageSummary:
+  Boy, 11, led to court in handcuffs accused of shooting stepdad dead over Nintendo Switch Asos co-founder's ex-wife says 'I had nothing to do with his death' after fatal fall 'Utterly horrified' Beatrice and Eugenie in 'crisis talks' with King Charles Trainspotting exposed Scotland's harrowing drug crisis - but did anything change? Tourist dangles baby over edge of 260ft waterfall for a holiday snap At least three killed after avalanches hit across Austrian Alps Donald Trump doubles down on his claim he's 'not going to make it to heaven' Miracle as missing mum, 37, found alive in hospital 200 miles away British man who became 'president' of own country sets up an embassy ‘I went for the gun’ – local hero recalls how he confronted Pawtucket ice rink killer Donald Trump is 'considering limited strike' on Iran Man carrying 'two firearms' arrested at Gatwick Airport station Photo of Andrew leaving custody was ‘icing on the cake’ for royals' worst day
+
+- UK news: Latest stories & updates - The Telegraph
+  https://www.telegraph.co.uk/news/uk/
+  Find all the latest news and updates from stories around the UK . Including politics, transport, education, health and religion.
+  LinkedPageStatus: error: 402 Client Error: Payment Required for url: https://www.telegraph.co.uk/news/uk/
+  LinkedPageSummaryWords: 0
+
+- UK News | UK Latest News - NewsNow
+  https://www.newsnow.co.uk/h/UK
+  Get the latest UK news , covering England, Scotland, Wales and Northern Ireland, in a live news feed aggregated from mainstream, alternative and independent sources.
+  LinkedPageStatus: ok (https://www.newsnow.co.uk/h/UK)
+  LinkedPageSummaryWords: 96
+  LinkedPageSummary:
+  Get the latest UK news, covering England, Scotland, Wales and Northern Ireland, in a live news feed aggregated from mainstream, alternative and independent sources. NewsNow's UK coverage includes breaking news, analysis and updates on stories that matter to the United Kingdom, as covered by UK and international sources. Our UK news features national and regional politics, the state of the British economy, the impact of the cost of living crisis, the ongoing fallout from Brexit, travel news, weather forecasts, reports on climate change, the NHS, crime and policing, the Royal Family, military news and much more.
+
+- News - Latest news and headlines from London, UK and the world | The ...
+  https://www.standard.co.uk/news
+  All the latest news in London, around the UK and the world from The Standard
+  LinkedPageStatus: ok (https://www.standard.co.uk/news)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Trump announces new 10% global tariff as he hits out at Supreme Court Chaos online as Cloudflare outage crashes dozens of major websites Millionaire Asos founder dies in Thailand balcony fall Moment drink-driving gunman flees police through London nightclub Jersey Shore star Snooki reveals cervical cancer diagnosis Alan Carr buys £3m Scottish castle with 16 bedrooms and turret Jonathan Rhys Meyers on ‘cathartic’ loss of home during California wildfires Liam and Noel Gallagher's daughters unite at Topshop bash Katie Price reacts to claims husband punched Kerry Katona's boyfriend Wet winter to make way for ‘glimmers of sunshine’ over the weekend Searches expected to continue at Andrew Mountbatten-Windsor’s former home Bishop of Lincoln arrested on suspicion of sexual assault Council's Euston HS2 vision: reward residents after decade of chaos Police release footage of teen on moped hours before Peckham murder William and Kate have task of rebuilding royal family’s integrity, says PR guru Sir Ed Davey to warn that Trump’s America ‘cannot become Farage’s Britain’ Clinical trial into puberty blockers paused after ‘new concerns’ Aldi and Asda issue urgent recall for toys containing asbestos We can win again, Badenoch tells Scottish Tories Care worker who recorded himself raping vulnerable women jailed
+
+

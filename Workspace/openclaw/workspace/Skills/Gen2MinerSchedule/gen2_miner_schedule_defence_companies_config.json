@@ -1,0 +1,167 @@
+{
+  "default_domain": "DefenceNews",
+  "tasks": [
+    {
+      "name": "BAE Systems Company News",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "BAESystems",
+      "query": "BAE Systems latest company news",
+      "max": 8
+    },
+    {
+      "name": "BAE Systems Contract Awards",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "BAESystems",
+      "query": "BAE Systems latest contract awards",
+      "max": 8
+    },
+    {
+      "name": "Lockheed Martin Company News",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "LockheedMartin",
+      "query": "Lockheed Martin latest company news",
+      "max": 8
+    },
+    {
+      "name": "Lockheed Martin Contract Awards",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "LockheedMartin",
+      "query": "Lockheed Martin latest contract awards",
+      "max": 8
+    },
+    {
+      "name": "SAAB Company News",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "SAAB",
+      "query": "SAAB latest company news defence",
+      "max": 8
+    },
+    {
+      "name": "SAAB Contract Awards",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "SAAB",
+      "query": "SAAB latest contract awards defence",
+      "max": 8
+    },
+    {
+      "name": "Raytheon Company News",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "Raytheon",
+      "query": "Raytheon latest company news",
+      "max": 8
+    },
+    {
+      "name": "Raytheon Contract Awards",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "Raytheon",
+      "query": "Raytheon latest contract awards",
+      "max": 8
+    },
+    {
+      "name": "Boeing Company News",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "Boeing",
+      "query": "Boeing defense latest company news",
+      "max": 8
+    },
+    {
+      "name": "Boeing Contract Awards",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "Boeing",
+      "query": "Boeing defense latest contract awards",
+      "max": 8
+    },
+    {
+      "name": "Northrop Grumman Company News",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "NorthropGrumman",
+      "query": "Northrop Grumman latest company news",
+      "max": 8
+    },
+    {
+      "name": "Northrop Grumman Contract Awards",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "NorthropGrumman",
+      "query": "Northrop Grumman latest contract awards",
+      "max": 8
+    },
+    {
+      "name": "General Dynamics Company News",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "GeneralDynamics",
+      "query": "General Dynamics latest company news",
+      "max": 8
+    },
+    {
+      "name": "General Dynamics Contract Awards",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "GeneralDynamics",
+      "query": "General Dynamics latest contract awards",
+      "max": 8
+    },
+    {
+      "name": "Thales Company News",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "Thales",
+      "query": "Thales latest defence company news",
+      "max": 8
+    },
+    {
+      "name": "Thales Contract Awards",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "Thales",
+      "query": "Thales latest defence contract awards",
+      "max": 8
+    },
+    {
+      "name": "Leonardo Company News",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "Leonardo",
+      "query": "Leonardo defence latest company news",
+      "max": 8
+    },
+    {
+      "name": "Leonardo Contract Awards",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "Leonardo",
+      "query": "Leonardo defence latest contract awards",
+      "max": 8
+    }
+  ]
+}

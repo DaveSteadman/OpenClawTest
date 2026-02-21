@@ -1,0 +1,63 @@
+Domain: Raytheon
+Query: Raytheon latest company news
+Timestamp: 2026-02-21T15:12:21
+PerPageSummaryWords: 200
+- RTX Weighs New Defense Contract And Vietjet Deal For Future Growth
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb2d37cd4ad0aad171e3aee5e9b7&url=https%3a%2f%2ffinance.yahoo.com%2fnews%2frtx-weighs-defense-contract-vietjet-141030101.html&c=5803825035913062352&mkt=en-us
+  RTX, secured a new contract to establish domestic thin film lithium niobate wafer production for secure communications and sensing in the U.S. Pratt & Whitney, also under RTX, agreed a major engine ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_cd37de23-559b-4b8b-b1e4-be6374d99214)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Defense contractor Raytheon agrees to pay $252M penalty to resolve Qatar bribery charges
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb2d37cd4ad0aad171e3aee5e9b7&url=https%3a%2f%2fwww.wbur.org%2fnews%2f2024%2f10%2f16%2frtx-corp-raytheon-bribes-foreign-corruption-violations&c=3179172215528519067&mkt=en-us
+  RTX Corporation, the defense contractor formerly known as Raytheon, has agreed to pay the U.S. government $252 million to resolve criminal charges alleging it paid bribes to secure contracts with ...
+  LinkedPageStatus: ok (https://www.wbur.org/news/2024/10/16/rtx-corp-raytheon-bribes-foreign-corruption-violations)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  RTX Corporation, the defense contractor formerly known as Raytheon , has agreed to pay the U.S. government $252 million to resolve criminal charges alleging it paid bribes to secure contracts with Qatar , federal prosecutors said Wednesday. The company entered into a deferred prosecution agreement on charges of violating the anti-bribery provision of the Foreign Corruption Practices Act and the Arms Export Control Act. It also agreed to pay a $52.5 million civil penalty to resolve a parallel Securities and Exchange Commission investigation and must forfeit at least $37 million to satisfy both probes. At a brief hearing in federal court in Brooklyn, lawyers for RTX waived their right to an indictment and pleaded not guilty to both counts. They did not object to any of the allegations in court documents filed in conjunction with the agreement. Under the agreement, the company will have to demonstrate good conduct for the next 3½ years and foster a culture of ethics and compliance with anti-corruption laws. Messages seeking comment were left for RTX Corporation and the Qatari embassy in Washington. RTX said in a July regulatory filing that it set aside $1.24 billion to resolve pending legal and regulatory matters. The company's
+
+- Raytheon, G&H to develop US source for key material for defence applications
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb2d37cd4ad0aad171e3aee5e9b7&url=https%3a%2f%2fwww.janes.com%2fosint-insights%2fdefence-news%2fc4isr%2fraytheon-gh-to-develop-us-source-for-key-material-for-defence-applications&c=6087222154440403863&mkt=en-us
+  Raytheon, an RTX company, has been tapped by the Air Force Research Laboratory (AFRL) to “develop a domestic production capability for thin-film lithium niobate ...
+  LinkedPageStatus: ok (https://www.janes.com/osint-insights/defence-news/c4isr/raytheon-gh-to-develop-us-source-for-key-material-for-defence-applications)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A gallium nitride wafer at Raytheon's foundry in Massachusetts. Raytheon is leveraging its expertise with materials like this to develop the process for manufacturing TFLN wafers under the Mastermind programme. (RTX) Raytheon, an RTX company, has been tapped by the Air Force Research Laboratory (AFRL) to “develop a domestic production capability for thin-film lithium niobate (TFLN) wafers, a material essential to high‑speed, secure communications and advanced sensing systems” under the Mastermind programme, according to an RTX statement on 17 February. The value of the contract has not been made public. “TFLN is used in next-generation photonics” for a variety of commercial and defence applications, such as artificial intelligence (AI) and computing technologies, data centres, and telecommunications, the statement said. “TFLN wafers have become foundational in high-performance communications and sensing technology,” Jack Holloway, senior technical fellow and director, strategic growth for Raytheon's Advanced Technology business, told Janes on 13 February. He added, “They provide a platform for compact, fast, low-loss, low-power, high-bandwidth photonic components – especially modulators – that are critical for modern optical networks and precision sensing applications.” A single Chinese TFLN wafer manufacturer currently dominates the international market, he said, noting that RTX currently sources these materials through intermediaries
+
+- RTX subsidiary Raytheon to pay more than $950 million to settle foreign bribery, export control fraud probes
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb2d37cd4ad0aad171e3aee5e9b7&url=https%3a%2f%2fwww.nbcdfw.com%2fnews%2fbusiness%2fmoney-report%2frtx-subsidiary-raytheon-to-pay-more-than-950-million-to-settle-foreign-bribery-export-control-fraud-probes%2f3672739%2f&c=16485732431944631266&mkt=en-us
+  The Raytheon subsidiary of defense contractor RTX agreed to pay more than $950 million to settle U.S. Department of Justice investigations. Raytheon was charged in New York federal court with a scheme ...
+  LinkedPageStatus: ok (https://www.nbcdfw.com/news/business/money-report/rtx-subsidiary-raytheon-to-pay-more-than-950-million-to-settle-foreign-bribery-export-control-fraud-probes/3672739/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The Raytheon subsidiary of defense contractor RTX agreed Wednesday to pay more than $950 million to settle U.S. Department of Justice investigations into an alleged government contract fraud scheme, violations of foreign bribery laws and the Arms Export Control Act. Raytheon also agreed to pay more than $124 million to settle charges filed by the U.S. Securities and Exchange Commission that it violated the Foreign Corrupt Practices Act in connection with paying bribes of more than $32 million to a relative of the emir of Qatar and to military and government officials in that country in exchange for obtaining defense contracts there. More than $22 million of that settlement will be offset by Raytheon's settlement with the DOJ. The company as part of the DOJ settlement also agreed to enter into deferred prosecution agreements involving that conduct in federal district courts in Brooklyn, New York, and Massachusetts. The company was charged in the Brooklyn case with conspiracy to violate anti-bribery laws in a scheme to bribe a high-level government official in Qatar and with failing to disclose the bribes in export licensing applications with the State Department as legally required. In the Massachusetts case, Raytheon admitted to engaging in two
+
+- NASA Selects Raytheon Company to Build Landsat Next Instruments
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb2d37cd4ad0aad171e3aee5e9b7&url=https%3a%2f%2fseekingalpha.com%2fpr%2f19756852-nasa-selects-raytheon-company-to-build-landsat-next-instruments&c=18285966811129335205&mkt=en-us
+  WASHINGTON, June 12, 2024 /PRNewswire/ -- NASA selects Raytheon Company to provide three instruments and related services, with an option for one additional instrument, in support of the Landsat Next ...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://seekingalpha.com/pr/19756852-nasa-selects-raytheon-company-to-build-landsat-next-instruments
+  LinkedPageSummaryWords: 0
+
+- Raytheon completes ballistic test for Army’s next-gen interceptor
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb2d37cd4ad0aad171e3aee5e9b7&url=https%3a%2f%2fwww.investing.com%2fnews%2fcompany-news%2fraytheon-completes-ballistic-test-for-armys-nextgen-interceptor-93CH-4479182&c=8573895161166911033&mkt=en-us
+  TUCSON - Raytheon, an RTX (NYSE:RTX) business, has successfully completed a ballistic test for the U.S. Army’s Next Generation Short Range Interceptor (NGSRI), the company announced Monday. RTX, a ...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.investing.com/news/company-news/raytheon-completes-ballistic-test-for-armys-nextgen-interceptor-93CH-4479182
+  LinkedPageSummaryWords: 0
+
+- Raytheon Company News
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb2d37cd4ad0aad171e3aee5e9b7&url=https%3a%2f%2fwww.marinelink.com%2fnews%2fmaritime%2fraytheon-company&c=4754878061981559522&mkt=en-us
+  The Department of the Navy (DoN) Forum for SBIR/STTR Transition (FST) will be held April 10-11, 2019 at the Tsongas Center in Lowell, Mass., co-hosted by the UMass Lowell Research Institute (UML ...
+  LinkedPageStatus: ok (https://www.marinelink.com/news/maritime/raytheon-company)
+  LinkedPageSummaryWords: 90
+  LinkedPageSummary:
+  Raytheon says it has appointed Thomas A. Vecchiolla as president, Raytheon International, Inc., effective immediately. In his new role, Vecchiolla will be responsible for leading Raytheon's international business team worldwide. Vecchiolla will report to John Harris, vice president, business development, Raytheon Company, and CEO, Raytheon International, Inc. and will be based in Washington, DC. "Tom's impressive depth of industry knowledge and strong customer relationships, combined with his political expertise and military background, provide him with a strong foundation to advance Raytheon's focus on global growth and customer success," said Harris.
+
+- Defense contractor Raytheon agrees to pay $252M penalty to resolve Qatar bribery charges
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb2d37cd4ad0aad171e3aee5e9b7&url=https%3a%2f%2fwww.wpri.com%2fbusiness-news%2fdefense-contractor-raytheon-agrees-to-pay-252m-penalty-to-resolve-qatar-bribery-charges%2f&c=11881669648451921517&mkt=en-us
+  NEW YORK (AP) — RTX Corporation, the defense contractor formerly known as Raytheon, agreed Wednesday to pay $950 million to resolve allegations that it defrauded the government and paid bribes to ...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.wpri.com/business-news/defense-contractor-raytheon-agrees-to-pay-252m-penalty-to-resolve-qatar-bribery-charges/
+  LinkedPageSummaryWords: 0
+
+

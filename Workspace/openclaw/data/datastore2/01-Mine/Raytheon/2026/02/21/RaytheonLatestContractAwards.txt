@@ -1,0 +1,13 @@
+Domain: Raytheon
+Query: Raytheon latest contract awards
+Timestamp: 2026-02-21T15:12:37
+PerPageSummaryWords: 200
+- Raytheon Receives $1B Army Contract Modification for LTAMDS Production
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb5e992f4c789fe9de817828a4c6&url=https%3a%2f%2fwww.govconwire.com%2farticles%2fraytheon-army-ltamds-contract&c=7599779659902586997&mkt=en-us
+  Raytheon has received a $1.03 billion contract modification from the U.S. Army to support year two production of the Lower Tier Air and Missile Defense Sensor, or LTAMDS. Get insights into the U.S.
+  LinkedPageStatus: ok (https://www.govconwire.com/articles/raytheon-army-ltamds-contract)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Raytheon has received a $1.03 billion contract modification from the U.S. Army to support year two production of the Lower Tier Air and Missile Defense Sensor , or LTAMDS. Get insights into the U.S. Army’s modernization efforts and progress toward its 2030 goals at the Potomac Officers Club’s 2026 Army Summit on June 18. Click here to save your seat . The Department of Defense said Thursday that work under the contract will be performed by the RTX business unit in Andover, Massachusetts, and is expected to be completed by March 31, 2030. The Army Contracting Command will obligate $254.6 million from the service’s fiscal 2026 other procurement funds at the time of award. LTAMDS is an advanced radar built to counter hypersonic weapons and other modern threats. It uses three antenna arrays to provide full 360-degree coverage and track multiple targets simultaneously. Designed for the Army’s Integrated Air and Missile Defense system, LTAMDS offers significantly greater power than the Patriot radar while remaining compatible with existing Patriot infrastructure. The recent award builds on a $2.1 billion base contract that Raytheon received in August 2024 for low-rate initial production of the sensor. That previous contract was followed by a $1.7
+
+

@@ -1,0 +1,112 @@
+{
+  "default_domain": "GeneralNews",
+  "tasks": [
+    {
+      "name": "UK Headlines",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "query": "latest UK news headlines",
+      "max": 8
+    },
+    {
+      "name": "US Headlines",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "query": "latest US news headlines",
+      "max": 8
+    },
+    {
+      "name": "India Headlines",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "query": "latest India news headlines",
+      "max": 8
+    },
+    {
+      "name": "EU Headlines",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "query": "latest EU news headlines",
+      "max": 8
+    },
+    {
+      "name": "France Headlines",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "query": "latest France news headlines",
+      "max": 8
+    },
+    {
+      "name": "Germany Headlines",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "query": "latest Germany news headlines",
+      "max": 8
+    },
+    {
+      "name": "Sweden Headlines",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "query": "latest Sweden news headlines",
+      "max": 8
+    },
+    {
+      "name": "Norway Headlines",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "query": "latest Norway news headlines",
+      "max": 8
+    },
+    {
+      "name": "Denmark Headlines",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "query": "latest Denmark news headlines",
+      "max": 8
+    },
+    {
+      "name": "Finland Headlines",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "query": "latest Finland news headlines",
+      "max": 8
+    },
+    {
+      "name": "BBC News Front Page",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "webtext",
+      "url": "https://www.bbc.com/news",
+      "max_links": 8,
+      "words": 220
+    },
+    {
+      "name": "BBC Business",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "webtext",
+      "url": "https://www.bbc.com/news/business",
+      "max_links": 8,
+      "words": 220
+    },
+    {
+      "name": "Monthly Global Geopolitics Headlines",
+      "enabled": true,
+      "cadence": "monthly",
+      "day_of_month": 1,
+      "type": "websearch",
+      "query": "global geopolitics news headlines",
+      "max": 10
+    }
+  ]
+}

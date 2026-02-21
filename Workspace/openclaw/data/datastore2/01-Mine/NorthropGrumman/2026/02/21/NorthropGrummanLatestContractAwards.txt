@@ -1,0 +1,58 @@
+Domain: NorthropGrumman
+Query: Northrop Grumman latest contract awards
+Timestamp: 2026-02-21T15:11:10
+PerPageSummaryWords: 200
+- Northrop Grumman’s New Defense Deals Deepen Semiconductor And Training Exposure
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999caffb7e44c49ae1aeb87d804d7ed&url=https%3a%2f%2ffinance.yahoo.com%2fnews%2fnorthrop-grumman-defense-deals-deepen-151146976.html&c=9468943501652291071&mkt=en-us
+  Northrop Grumman (NYSE:NOC) secured a new U.S. defense contract with a ceiling of up to $25b to accelerate military grade semiconductor technology. The company also won a separate $249m contract to ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_48dc1eb0-0055-4775-82a6-791e44138705)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Germany set to award €1.2B Eurofighter upgrade contract to Saab, Northrop Grumman
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999caffb7e44c49ae1aeb87d804d7ed&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2fgermany-set-to-award-12b-eurofighter-upgrade-contract-to-saab-northrop-grumman%2far-AA1N41F4&c=2314297799407603724&mkt=en-us
+  Germany is preparing to grant Saab (OTCPK:SAABF) (OTCPK:SAABY) and Northrop Grumman (NYSE:NOC) a €1.2 billion ($1.41 billion) contract to equip its Eurofighter jets with systems enabling them to ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/companies/germany-set-to-award-12b-eurofighter-upgrade-contract-to-saab-northrop-grumman/ar-AA1N41F4)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Northrop Grumman to develop uncrewed fighter for US Marine Corps based on Kratos XQ-58 Valkyrie
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999caffb7e44c49ae1aeb87d804d7ed&url=https%3a%2f%2fwww.flightglobal.com%2ffixed-wing%2fnorthrop-to-develop-uncrewed-fighter-for-usmc-based-on-kratos-xq-58%2f165887.article&c=11784423050394573628&mkt=en-us
+  Military aircraft manufacturer Northrop Grumman has been selected by the US Marine Corps (USMC) to develop an uncrewed fighter jet based on the Kratos XQ-58A Valkyrie. Northrop confirmed the award ...
+  LinkedPageStatus: ok (https://www.flightglobal.com/fixed-wing/northrop-to-develop-uncrewed-fighter-for-usmc-based-on-kratos-xq-58/165887.article)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Military aircraft manufacturer Northrop Grumman has been selected by the US Marine Corps (USMC) to develop an uncrewed fighter jet based on the Kratos XQ-58A Valkyrie. Northrop confirmed the award under the Marine Air-Ground Task Force Uncrewed Expeditionary Tactical Aircraft (MUX TACAIR) programme on 8 January – a significant win that throws more momentum behind its autonomous fighter efforts. The USMC award will see Northrop acting as the prime contractor to integrate its autonomous flight capabilities into the uncrewed XQ-58A. Both the USMC and the US Air Force (USAF) have used the Kratos jet to evaluate the potential of pilotless fighters, which are known Collaborative Combat Aircraft (CCAs). Northrop says its yet-unnamed XQ-58 derivative will work alongside crewed tactical aircraft to provide air dominance in high-threat environments. “Northrop Grumman remains at the forefront of advanced sensing capabilities, delivering innovative solutions that meet the needs of the warfighter with unmatched speed and reliability,” says Krys Moen, the company’s vice-president of advanced mission capabilities. “This enhanced capability set ensures optimal performance for both crewed and uncrewed platforms.” The USMC began flight testing the XQ-58 for potential operational roles in 2023, with a total of six test events funded, according to service planning
+
+
+Domain: NorthropGrumman
+Query: Northrop Grumman latest contract awards
+Timestamp: 2026-02-21T15:15:11
+PerPageSummaryWords: 200
+- Northrop Grumman’s New Defense Deals Deepen Semiconductor And Training Exposure
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cbeefc1c454cae237ae7c568f041&url=https%3a%2f%2ffinance.yahoo.com%2fnews%2fnorthrop-grumman-defense-deals-deepen-151146976.html&c=9468943501652291071&mkt=en-us
+  Northrop Grumman (NYSE:NOC) secured a new U.S. defense contract with a ceiling of up to $25b to accelerate military grade semiconductor technology. The company also won a separate $249m contract to ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_dfba49ed-fc48-41b5-88fd-1ec6a18d4f0d)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Germany set to award €1.2B Eurofighter upgrade contract to Saab, Northrop Grumman
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cbeefc1c454cae237ae7c568f041&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2fgermany-set-to-award-12b-eurofighter-upgrade-contract-to-saab-northrop-grumman%2far-AA1N41F4&c=2314297799407603724&mkt=en-us
+  Germany is preparing to grant Saab (OTCPK:SAABF) (OTCPK:SAABY) and Northrop Grumman (NYSE:NOC) a €1.2 billion ($1.41 billion) contract to equip its Eurofighter jets with systems enabling them to ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/companies/germany-set-to-award-12b-eurofighter-upgrade-contract-to-saab-northrop-grumman/ar-AA1N41F4)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Northrop Grumman to develop uncrewed fighter for US Marine Corps based on Kratos XQ-58 Valkyrie
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cbeefc1c454cae237ae7c568f041&url=https%3a%2f%2fwww.flightglobal.com%2ffixed-wing%2fnorthrop-to-develop-uncrewed-fighter-for-usmc-based-on-kratos-xq-58%2f165887.article&c=11784423050394573628&mkt=en-us
+  Military aircraft manufacturer Northrop Grumman has been selected by the US Marine Corps (USMC) to develop an uncrewed fighter jet based on the Kratos XQ-58A Valkyrie. Northrop confirmed the award ...
+  LinkedPageStatus: ok (https://www.flightglobal.com/fixed-wing/northrop-to-develop-uncrewed-fighter-for-usmc-based-on-kratos-xq-58/165887.article)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Military aircraft manufacturer Northrop Grumman has been selected by the US Marine Corps (USMC) to develop an uncrewed fighter jet based on the Kratos XQ-58A Valkyrie. Northrop confirmed the award under the Marine Air-Ground Task Force Uncrewed Expeditionary Tactical Aircraft (MUX TACAIR) programme on 8 January – a significant win that throws more momentum behind its autonomous fighter efforts. The USMC award will see Northrop acting as the prime contractor to integrate its autonomous flight capabilities into the uncrewed XQ-58A. Both the USMC and the US Air Force (USAF) have used the Kratos jet to evaluate the potential of pilotless fighters, which are known Collaborative Combat Aircraft (CCAs). Northrop says its yet-unnamed XQ-58 derivative will work alongside crewed tactical aircraft to provide air dominance in high-threat environments. “Northrop Grumman remains at the forefront of advanced sensing capabilities, delivering innovative solutions that meet the needs of the warfighter with unmatched speed and reliability,” says Krys Moen, the company’s vice-president of advanced mission capabilities. “This enhanced capability set ensures optimal performance for both crewed and uncrewed platforms.” The USMC began flight testing the XQ-58 for potential operational roles in 2023, with a total of six test events funded, according to service planning
+
+

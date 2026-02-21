@@ -1,0 +1,333 @@
+Domain: LockheedMartin
+Query: Lockheed Martin latest company news
+Timestamp: 2026-02-21T13:25:50
+PerPageSummaryWords: 200
+- News & Events - Lockheed Martin
+  https://news.lockheedmartin.com/
+  Lockheed Martin and Fujitsu Formalize Industrial Collaboration for Japan Defense Lockheed Martin and Fujitsu Limited, a Japanese multinational leader in information technology solutions, finalized the first purchase order for a critical component of Japan's Aegis System Equipped Vessel (ASEV)'s SPY-7 radar antenna.
+  LinkedPageStatus: ok (https://news.lockheedmartin.com/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  ORLANDO, Fla., Feb. 18, 2026 – Lockheed Martin (NYSE: LMT) announced today that it has been awarded a foreign military sale contract through Wright-Patterson Air Force Base to deliver C-130J... DALLAS, Feb. 12, 2026 – Lockheed Martin (NYSE:LMT) conducted a successful 112-km flight test of its Extended‑Range GMLRS (ER GMLRS) at White Sands Missile Range, New Mexico. For the first... Lockheed Martin and Fujitsu Limited, a Japanese multinational leader in information technology solutions, finalized the first purchase order for a critical component of Japan’s Aegis System Equipped Vessel (ASEV)’s SPY-7 radar antenna. Lockheed Martin (NYSE: LMT) Chairman, President and CEO Jim Taiclet and Chief Financial Officer Evan Scott will participate in a fireside chat at Citi's 2026 Global Industrial Tech and Mobility... FLORENCE, Ala., Feb. 10, 2026 – Lockheed Martin (NYSE:LMT) inaugurated the Manufacturing Basic Skills+ (MBS+) program at the newly opened Launch Career Technical Specialized Education (CTSE)... Today Lockheed Martin unveils the Lamprey Multi‑Mission Autonomous Undersea Vehicle (MMAUV), a breakthrough “plug-and‑play” submersible that gives U.S. and allied warfighters technological and strategic advantage ... The Lockheed Martin Corporation (NYSE: LMT) board of directors has authorized a first quarter 2026 dividend of $3.45 per share. The dividend is payable on March
+
+- Lockheed Martin News Room - Latest news and breaking stories ...
+  https://www.aviation24.be/category/manufacturers/lockheed-martin/
+  All the latest breaking news on Lockheed Martin . Browse Aviation24.be's complete collection of articles and commentary on Lockheed Martin .
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.aviation24.be/category/manufacturers/lockheed-martin/
+  LinkedPageSummaryWords: 0
+
+- Lockheed Martin News | Latest News - NewsNow
+  https://www.newsnow.com/us/Business/Aerospace+and+Defense/Lockheed+Martin
+  About our Lockheed Martin news Latest news on Lockheed Martin , an American aerospace, defense, arms, security, and advanced technologies company with worldwide interests. It is headquartered in Bethesda, Maryland, and employs approximately 114,000 people worldwide. It is the world's largest defense contractor by revenue.
+  LinkedPageStatus: ok (https://www.newsnow.com/us/Business/Aerospace+and+Defense/Lockheed+Martin)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest news on Lockheed Martin, an American aerospace, defense, arms, security, and advanced technologies company with worldwide interests. It is headquartered in Bethesda, Maryland, and employs approximately 114,000 people worldwide. It is the world's largest defense contractor by revenue. Lockheed Martin was formed in 1995 by the merger of Lockheed Corporation and Martin Marietta, two major aerospace and defense companies. Lockheed Corporation was founded in 1926 as Lockheed Aircraft Company and produced many famous aircraft, such as the P-38 Lightning, the U-2 spy plane, the SR-71 Blackbird, and the F-117 Nighthawk. It also established a secret division called "Skunk Works" that became the leading U.S. developer of military aircraft. Martin Marietta was formed in 1961 by the merger of Martin Company and American-Marietta Company. Martin Company was a pioneer in rocket and missile development, producing the Titan family of launch vehicles and the Polaris, Poseidon, and Trident submarine-launched ballistic missiles. It also built the Viking Mars landers and the Magellan spacecraft to Venus. Since its formation in 1995, Lockheed Martin has made a number of acquisitions, such as United Defense, Sandia National Laboratories, Sikorsky Aircraft, and Aerojet Rocketdyne. It has also sold or spun off some of its businesses, such
+
+- lockheed martin News and Press Releases | PR Newswire
+  https://www.prnewswire.com/news/lockheed-martin/
+  news News from lockheed martin A wide array of domestic and global news stories; news topics include politics/government, business, technology, religion, sports/entertainment, science/nature, and ...
+  LinkedPageStatus: ok (https://www.prnewswire.com/news/lockheed-martin/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin (NYSE: LMT) Chairman, President and CEO Jim Taiclet and Chief Financial Officer Evan Scott will participate in a fireside chat at... The Lockheed Martin Corporation (NYSE: LMT) board of directors has authorized a first quarter 2026 dividend of $3.45 per share. The dividend is... Lockheed Martin Corporation [NYSE: LMT] today reported fourth quarter 2025 sales of $20.3 billion, compared to $18.6 billion in the fourth quarter of ... Lockheed Martin (NYSE: LMT) signed a framework agreement with the Department of War (DoW) to quadruple the production of Terminal High Altitude Area... Every day, Lockheed Martin (NYSE: LMT) delivers capabilities that strengthen and transform our world. On Tuesday night, the company's ninth GPS III... Today, Lockheed Martin (NYSE:LMT), PG&E Corporation (NYSE:PCG), Salesforce (NYSE:CRM) and Wells Fargo (NYSE:WFC) announced the launch of... Lockheed Martin (NYSE: LMT) signed a landmark framework agreement with the U.S. Department of War to rapidly accelerate the production and delivery... Lockheed Martin (NYSE: LMT) will webcast live its fourth-quarter and full-year 2025 earnings results conference call (listen-only mode) on Thursday,... The Space Development Agency (SDA) has awarded Lockheed Martin (NYSE: LMT) a contract for 18 space vehicles for its Tranche 3 Tracking Layer (TRKT3)... Astris AI,
+
+- Lockheed Martin rapidly developed Lamprey drone, new ... - Naval News
+  https://www.navalnews.com/naval-news/2026/02/lockheed-martin-rapidly-developed-lamprey-drone-new-variants-on-the-way/
+  SAN DIEGO — Lockheed Martin rapidly developed its new Lamprey multi-mission autonomous undersea vehicle: The company took just 14 months to develop Lamprey, with future plans to field larger variants and another drone by the end of the year. Lockheed Martin showcased a model of Lamprey for the first time at WEST 2026.
+  LinkedPageStatus: ok (https://www.navalnews.com/naval-news/2026/02/lockheed-martin-rapidly-developed-lamprey-drone-new-variants-on-the-way/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  SAN DIEGO — Lockheed Martin rapidly developed its new Lamprey multi-mission autonomous undersea vehicle: The company took just 14 months to develop Lamprey, with future plans to field larger variants and another drone by the end of the year. Lockheed Martin showcased a model of Lamprey for the first time at WEST 2026. Mark Johnson, program director for unmanned maritime solutions division, discussed the highlights and future iterations of the multi-mission system with Naval News . Named after the Lamprey, a fish that latches onto others with its sucking mouth, the drone combines numerous features that the company claims could achieve various tailored missions in support of covert surveillance and sea denial. Given the drone’s namesake, Johnson explained Lamprey comes with this unique ability to latch onto submarines, warships and the seabed. This brings many key implications for operational use. “This thing has suction cups on the top that basically can autonomously navigate to a sub, a ship, and it swims up and suctions on to the bottom of that vehicle,” said Johnson. “So it can hitch your ride into whatever theater it’s going to, because if you think about one of the restrictions or constraints of UUVs, it’s battery
+
+- Lockheed Martin - latest news, breaking stories and comment - The ...
+  https://www.independent.co.uk/topic/lockheed-martin
+  The latest breaking news , comment and features from The Independent.
+  LinkedPageStatus: ok (https://www.independent.co.uk/topic/lockheed-martin)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin Business World’s biggest arms manufacturer sees profits soar as conflict rages News How Trump shook up defense stocks this week News Trump proposes massive increase in 2027 defense spending to $1.5T, citing 'dangerous times' News Report says world's biggest arms producers increased revenue by 5.9% last year to record level News With their government contracts in limbo, small businesses await a historic shutdown's end News & Advice NASA tests ‘quiet’ supersonic jet X-59 News NASA takes one step closer to launching quiet supersonic jets US politics Tech moguls cozy up to Trump at fundraiser for White House ballroom News Ukrainian officials meet with US weapons manufacturers before Trump-Zelenskyy talks Americas Black Hebrew fighter pilot claims boss tried repeatedly to convert him News These neurodivergent students are helping each other build more inclusive schools US politics Trump team discussing ownership stakes in defense contractors Japan British F-35 jet makes emergency landing in Japan after malfunction News Japan deploys its first F-35B fighter jets to bolster defenses in the south Americas Stealth fighter jet pilot ejects from $100M jet in California News A British F35 fighter jet stranded in India may finally fly back home after inspiring memes India Repairs
+
+- Lockheed Martin News & Latest Pictures From Newsweek.com
+  https://www.newsweek.com/topic/lockheed-martin
+  Articles about Lockheed Martin
+  LinkedPageStatus: error: 406 Client Error: Not Acceptable for url: https://www.newsweek.com/topic/lockheed-martin
+  LinkedPageSummaryWords: 0
+
+- Lamprey Undersea Vehicle Puts Lockheed Martin Autonomy Focus In Spotlight
+  https://finance.yahoo.com/news/lamprey-undersea-vehicle-puts-lockheed-230832661.html
+  Lockheed Martin (NYSE:LMT) has introduced the Lamprey Multi-Mission Autonomous Undersea Vehicle, a new unmanned undersea platform. The Lamprey is designed for covert, autonomous underwater ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_205591d2-e909-48b8-8055-1fc035a6734d)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+
+Domain: LockheedMartin
+Query: Lockheed Martin latest company news
+Timestamp: 2026-02-21T13:44:25
+PerPageSummaryWords: 200
+- News & Events - Lockheed Martin
+  https://news.lockheedmartin.com/
+  Lockheed Martin and Fujitsu Formalize Industrial Collaboration for Japan Defense Lockheed Martin and Fujitsu Limited, a Japanese multinational leader in information technology solutions, finalized the first purchase order for a critical component of Japan's Aegis System Equipped Vessel (ASEV)'s SPY-7 radar antenna.
+  LinkedPageStatus: ok (https://news.lockheedmartin.com/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  ORLANDO, Fla., Feb. 18, 2026 – Lockheed Martin (NYSE: LMT) announced today that it has been awarded a foreign military sale contract through Wright-Patterson Air Force Base to deliver C-130J... DALLAS, Feb. 12, 2026 – Lockheed Martin (NYSE:LMT) conducted a successful 112-km flight test of its Extended‑Range GMLRS (ER GMLRS) at White Sands Missile Range, New Mexico. For the first... Lockheed Martin and Fujitsu Limited, a Japanese multinational leader in information technology solutions, finalized the first purchase order for a critical component of Japan’s Aegis System Equipped Vessel (ASEV)’s SPY-7 radar antenna. Lockheed Martin (NYSE: LMT) Chairman, President and CEO Jim Taiclet and Chief Financial Officer Evan Scott will participate in a fireside chat at Citi's 2026 Global Industrial Tech and Mobility... FLORENCE, Ala., Feb. 10, 2026 – Lockheed Martin (NYSE:LMT) inaugurated the Manufacturing Basic Skills+ (MBS+) program at the newly opened Launch Career Technical Specialized Education (CTSE)... Today Lockheed Martin unveils the Lamprey Multi‑Mission Autonomous Undersea Vehicle (MMAUV), a breakthrough “plug-and‑play” submersible that gives U.S. and allied warfighters technological and strategic advantage ... The Lockheed Martin Corporation (NYSE: LMT) board of directors has authorized a first quarter 2026 dividend of $3.45 per share. The dividend is payable on March
+
+- Lockheed Martin News | Latest News - NewsNow
+  https://www.newsnow.com/us/Business/Aerospace+and+Defense/Lockheed+Martin
+  About our Lockheed Martin news Latest news on Lockheed Martin , an American aerospace, defense, arms, security, and advanced technologies company with worldwide interests. It is headquartered in Bethesda, Maryland, and employs approximately 114,000 people worldwide. It is the world's largest defense contractor by revenue.
+  LinkedPageStatus: ok (https://www.newsnow.com/us/Business/Aerospace+and+Defense/Lockheed+Martin)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest news on Lockheed Martin, an American aerospace, defense, arms, security, and advanced technologies company with worldwide interests. It is headquartered in Bethesda, Maryland, and employs approximately 114,000 people worldwide. It is the world's largest defense contractor by revenue. Lockheed Martin was formed in 1995 by the merger of Lockheed Corporation and Martin Marietta, two major aerospace and defense companies. Lockheed Corporation was founded in 1926 as Lockheed Aircraft Company and produced many famous aircraft, such as the P-38 Lightning, the U-2 spy plane, the SR-71 Blackbird, and the F-117 Nighthawk. It also established a secret division called "Skunk Works" that became the leading U.S. developer of military aircraft. Martin Marietta was formed in 1961 by the merger of Martin Company and American-Marietta Company. Martin Company was a pioneer in rocket and missile development, producing the Titan family of launch vehicles and the Polaris, Poseidon, and Trident submarine-launched ballistic missiles. It also built the Viking Mars landers and the Magellan spacecraft to Venus. Since its formation in 1995, Lockheed Martin has made a number of acquisitions, such as United Defense, Sandia National Laboratories, Sikorsky Aircraft, and Aerojet Rocketdyne. It has also sold or spun off some of its businesses, such
+
+- lockheed martin News and Press Releases | PR Newswire
+  https://www.prnewswire.com/news/lockheed-martin/
+  news News from lockheed martin A wide array of domestic and global news stories; news topics include politics/government, business, technology, religion, sports/entertainment, science/nature, and ...
+  LinkedPageStatus: ok (https://www.prnewswire.com/news/lockheed-martin/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin (NYSE: LMT) Chairman, President and CEO Jim Taiclet and Chief Financial Officer Evan Scott will participate in a fireside chat at... The Lockheed Martin Corporation (NYSE: LMT) board of directors has authorized a first quarter 2026 dividend of $3.45 per share. The dividend is... Lockheed Martin Corporation [NYSE: LMT] today reported fourth quarter 2025 sales of $20.3 billion, compared to $18.6 billion in the fourth quarter of ... Lockheed Martin (NYSE: LMT) signed a framework agreement with the Department of War (DoW) to quadruple the production of Terminal High Altitude Area... Every day, Lockheed Martin (NYSE: LMT) delivers capabilities that strengthen and transform our world. On Tuesday night, the company's ninth GPS III... Today, Lockheed Martin (NYSE:LMT), PG&E Corporation (NYSE:PCG), Salesforce (NYSE:CRM) and Wells Fargo (NYSE:WFC) announced the launch of... Lockheed Martin (NYSE: LMT) signed a landmark framework agreement with the U.S. Department of War to rapidly accelerate the production and delivery... Lockheed Martin (NYSE: LMT) will webcast live its fourth-quarter and full-year 2025 earnings results conference call (listen-only mode) on Thursday,... The Space Development Agency (SDA) has awarded Lockheed Martin (NYSE: LMT) a contract for 18 space vehicles for its Tranche 3 Tracking Layer (TRKT3)... Astris AI,
+
+- Lockheed Martin News Room - Latest news and breaking stories ...
+  https://www.aviation24.be/category/manufacturers/lockheed-martin/
+  All the latest breaking news on Lockheed Martin . Browse Aviation24.be's complete collection of articles and commentary on Lockheed Martin .
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.aviation24.be/category/manufacturers/lockheed-martin/
+  LinkedPageSummaryWords: 0
+
+- Lockheed Martin rapidly developed Lamprey drone, new ... - Naval News
+  https://www.navalnews.com/naval-news/2026/02/lockheed-martin-rapidly-developed-lamprey-drone-new-variants-on-the-way/
+  SAN DIEGO — Lockheed Martin rapidly developed its new Lamprey multi-mission autonomous undersea vehicle: The company took just 14 months to develop Lamprey, with future plans to field larger variants and another drone by the end of the year. Lockheed Martin showcased a model of Lamprey for the first time at WEST 2026.
+  LinkedPageStatus: ok (https://www.navalnews.com/naval-news/2026/02/lockheed-martin-rapidly-developed-lamprey-drone-new-variants-on-the-way/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  SAN DIEGO — Lockheed Martin rapidly developed its new Lamprey multi-mission autonomous undersea vehicle: The company took just 14 months to develop Lamprey, with future plans to field larger variants and another drone by the end of the year. Lockheed Martin showcased a model of Lamprey for the first time at WEST 2026. Mark Johnson, program director for unmanned maritime solutions division, discussed the highlights and future iterations of the multi-mission system with Naval News . Named after the Lamprey, a fish that latches onto others with its sucking mouth, the drone combines numerous features that the company claims could achieve various tailored missions in support of covert surveillance and sea denial. Given the drone’s namesake, Johnson explained Lamprey comes with this unique ability to latch onto submarines, warships and the seabed. This brings many key implications for operational use. “This thing has suction cups on the top that basically can autonomously navigate to a sub, a ship, and it swims up and suctions on to the bottom of that vehicle,” said Johnson. “So it can hitch your ride into whatever theater it’s going to, because if you think about one of the restrictions or constraints of UUVs, it’s battery
+
+- Lamprey Undersea Vehicle Puts Lockheed Martin Autonomy Focus In Spotlight
+  https://finance.yahoo.com/news/lamprey-undersea-vehicle-puts-lockheed-230832661.html
+  Lockheed Martin (NYSE:LMT) has introduced the Lamprey Multi-Mission Autonomous Undersea Vehicle, a new unmanned undersea platform. The Lamprey is designed for covert, autonomous underwater ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_ee4f1eb3-4d42-4ab0-bd4b-82d7b6fb6d80)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- United Kingdom News Releases
+  https://lockheedmartinuk.mediaroom.com/
+  Get articles on the innovative projects Lockheed Martin scientists and engineers are working on right now.
+  LinkedPageStatus: ok (https://lockheedmartinuk.mediaroom.com/)
+  LinkedPageSummaryWords: 118
+  LinkedPageSummary:
+  Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa Nov 6, 2025 Building Resilience in Space Seen as Key to UK’s Future Prosperity Data capture attempts magnify need for survivable space systems Feb 4, 2025 Lockheed Martin Transfers Apprenticeship Levy Funds to Support Skills Development in the Supply Chain AQ Wiring Systems Rockford supported by Lockheed Martin UK to develop five of its employees through an Apprenticeship programme. Nov 7, 2024 Lockheed Martin Receives Two-Year Combined Arms Tactical Trainer Extension Contract Nov 5, 2024 Lockheed Martin UK Hosts Over 100 SMEs at Third Annual SMEUNITE® Ecosystem Conference Aug 27, 2024 Lockheed Martin donate £10,000 worth of Prepar3D® Academic Licences to Air Cadet Charity
+
+- Why Lockheed Martin Stock Took Off Today - The Motley Fool
+  https://www.fool.com/investing/2026/02/19/why-lockheed-martin-stock-took-off-today/
+  Is Lockheed Martin stock a buy? With roughly 20 countries worldwide flying it, the F-35 has become the world's most popular fifth-generation stealth fighter.
+  LinkedPageStatus: ok (https://www.fool.com/investing/2026/02/19/why-lockheed-martin-stock-took-off-today/)
+  LinkedPageSummaryWords: 19
+  LinkedPageSummary:
+  Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+
+
+Domain: LockheedMartin
+Query: Lockheed Martin latest company news
+Timestamp: 2026-02-21T13:59:08
+PerPageSummaryWords: 200
+- News & Events - Lockheed Martin
+  https://news.lockheedmartin.com/
+  Lockheed Martin and Fujitsu Formalize Industrial Collaboration for Japan Defense Lockheed Martin and Fujitsu Limited, a Japanese multinational leader in information technology solutions, finalized the first purchase order for a critical component of Japan's Aegis System Equipped Vessel (ASEV)'s SPY-7 radar antenna.
+  LinkedPageStatus: ok (https://news.lockheedmartin.com/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  ORLANDO, Fla., Feb. 18, 2026 – Lockheed Martin (NYSE: LMT) announced today that it has been awarded a foreign military sale contract through Wright-Patterson Air Force Base to deliver C-130J... DALLAS, Feb. 12, 2026 – Lockheed Martin (NYSE:LMT) conducted a successful 112-km flight test of its Extended‑Range GMLRS (ER GMLRS) at White Sands Missile Range, New Mexico. For the first... Lockheed Martin and Fujitsu Limited, a Japanese multinational leader in information technology solutions, finalized the first purchase order for a critical component of Japan’s Aegis System Equipped Vessel (ASEV)’s SPY-7 radar antenna. Lockheed Martin (NYSE: LMT) Chairman, President and CEO Jim Taiclet and Chief Financial Officer Evan Scott will participate in a fireside chat at Citi's 2026 Global Industrial Tech and Mobility... FLORENCE, Ala., Feb. 10, 2026 – Lockheed Martin (NYSE:LMT) inaugurated the Manufacturing Basic Skills+ (MBS+) program at the newly opened Launch Career Technical Specialized Education (CTSE)... Today Lockheed Martin unveils the Lamprey Multi‑Mission Autonomous Undersea Vehicle (MMAUV), a breakthrough “plug-and‑play” submersible that gives U.S. and allied warfighters technological and strategic advantage ... The Lockheed Martin Corporation (NYSE: LMT) board of directors has authorized a first quarter 2026 dividend of $3.45 per share. The dividend is payable on March
+
+- Lockheed Martin News Room - Latest news and breaking stories ...
+  https://www.aviation24.be/category/manufacturers/lockheed-martin/
+  All the latest breaking news on Lockheed Martin . Browse Aviation24.be's complete collection of articles and commentary on Lockheed Martin .
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.aviation24.be/category/manufacturers/lockheed-martin/
+  LinkedPageSummaryWords: 0
+
+- Lockheed Martin News | Latest News - NewsNow
+  https://www.newsnow.com/us/Business/Aerospace+and+Defense/Lockheed+Martin
+  About our Lockheed Martin news Latest news on Lockheed Martin , an American aerospace, defense, arms, security, and advanced technologies company with worldwide interests. It is headquartered in Bethesda, Maryland, and employs approximately 114,000 people worldwide. It is the world's largest defense contractor by revenue.
+  LinkedPageStatus: ok (https://www.newsnow.com/us/Business/Aerospace+and+Defense/Lockheed+Martin)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest news on Lockheed Martin, an American aerospace, defense, arms, security, and advanced technologies company with worldwide interests. It is headquartered in Bethesda, Maryland, and employs approximately 114,000 people worldwide. It is the world's largest defense contractor by revenue. Lockheed Martin was formed in 1995 by the merger of Lockheed Corporation and Martin Marietta, two major aerospace and defense companies. Lockheed Corporation was founded in 1926 as Lockheed Aircraft Company and produced many famous aircraft, such as the P-38 Lightning, the U-2 spy plane, the SR-71 Blackbird, and the F-117 Nighthawk. It also established a secret division called "Skunk Works" that became the leading U.S. developer of military aircraft. Martin Marietta was formed in 1961 by the merger of Martin Company and American-Marietta Company. Martin Company was a pioneer in rocket and missile development, producing the Titan family of launch vehicles and the Polaris, Poseidon, and Trident submarine-launched ballistic missiles. It also built the Viking Mars landers and the Magellan spacecraft to Venus. Since its formation in 1995, Lockheed Martin has made a number of acquisitions, such as United Defense, Sandia National Laboratories, Sikorsky Aircraft, and Aerojet Rocketdyne. It has also sold or spun off some of its businesses, such
+
+- lockheed martin News and Press Releases | PR Newswire
+  https://www.prnewswire.com/news/lockheed-martin/
+  news News from lockheed martin A wide array of domestic and global news stories; news topics include politics/government, business, technology, religion, sports/entertainment, science/nature, and ...
+  LinkedPageStatus: ok (https://www.prnewswire.com/news/lockheed-martin/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin (NYSE: LMT) Chairman, President and CEO Jim Taiclet and Chief Financial Officer Evan Scott will participate in a fireside chat at... The Lockheed Martin Corporation (NYSE: LMT) board of directors has authorized a first quarter 2026 dividend of $3.45 per share. The dividend is... Lockheed Martin Corporation [NYSE: LMT] today reported fourth quarter 2025 sales of $20.3 billion, compared to $18.6 billion in the fourth quarter of ... Lockheed Martin (NYSE: LMT) signed a framework agreement with the Department of War (DoW) to quadruple the production of Terminal High Altitude Area... Every day, Lockheed Martin (NYSE: LMT) delivers capabilities that strengthen and transform our world. On Tuesday night, the company's ninth GPS III... Today, Lockheed Martin (NYSE:LMT), PG&E Corporation (NYSE:PCG), Salesforce (NYSE:CRM) and Wells Fargo (NYSE:WFC) announced the launch of... Lockheed Martin (NYSE: LMT) signed a landmark framework agreement with the U.S. Department of War to rapidly accelerate the production and delivery... Lockheed Martin (NYSE: LMT) will webcast live its fourth-quarter and full-year 2025 earnings results conference call (listen-only mode) on Thursday,... The Space Development Agency (SDA) has awarded Lockheed Martin (NYSE: LMT) a contract for 18 space vehicles for its Tranche 3 Tracking Layer (TRKT3)... Astris AI,
+
+- Lockheed Martin rapidly developed Lamprey drone, new ... - Naval News
+  https://www.navalnews.com/naval-news/2026/02/lockheed-martin-rapidly-developed-lamprey-drone-new-variants-on-the-way/
+  SAN DIEGO — Lockheed Martin rapidly developed its new Lamprey multi-mission autonomous undersea vehicle: The company took just 14 months to develop Lamprey, with future plans to field larger variants and another drone by the end of the year. Lockheed Martin showcased a model of Lamprey for the first time at WEST 2026.
+  LinkedPageStatus: ok (https://www.navalnews.com/naval-news/2026/02/lockheed-martin-rapidly-developed-lamprey-drone-new-variants-on-the-way/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  SAN DIEGO — Lockheed Martin rapidly developed its new Lamprey multi-mission autonomous undersea vehicle: The company took just 14 months to develop Lamprey, with future plans to field larger variants and another drone by the end of the year. Lockheed Martin showcased a model of Lamprey for the first time at WEST 2026. Mark Johnson, program director for unmanned maritime solutions division, discussed the highlights and future iterations of the multi-mission system with Naval News . Named after the Lamprey, a fish that latches onto others with its sucking mouth, the drone combines numerous features that the company claims could achieve various tailored missions in support of covert surveillance and sea denial. Given the drone’s namesake, Johnson explained Lamprey comes with this unique ability to latch onto submarines, warships and the seabed. This brings many key implications for operational use. “This thing has suction cups on the top that basically can autonomously navigate to a sub, a ship, and it swims up and suctions on to the bottom of that vehicle,” said Johnson. “So it can hitch your ride into whatever theater it’s going to, because if you think about one of the restrictions or constraints of UUVs, it’s battery
+
+- Lockheed Martin - latest news, breaking stories and comment - The ...
+  https://www.independent.co.uk/topic/lockheed-martin
+  The latest breaking news , comment and features from The Independent.
+  LinkedPageStatus: ok (https://www.independent.co.uk/topic/lockheed-martin)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin Business World’s biggest arms manufacturer sees profits soar as conflict rages News How Trump shook up defense stocks this week News Trump proposes massive increase in 2027 defense spending to $1.5T, citing 'dangerous times' News Report says world's biggest arms producers increased revenue by 5.9% last year to record level News With their government contracts in limbo, small businesses await a historic shutdown's end News & Advice NASA tests ‘quiet’ supersonic jet X-59 News NASA takes one step closer to launching quiet supersonic jets US politics Tech moguls cozy up to Trump at fundraiser for White House ballroom News Ukrainian officials meet with US weapons manufacturers before Trump-Zelenskyy talks Americas Black Hebrew fighter pilot claims boss tried repeatedly to convert him News These neurodivergent students are helping each other build more inclusive schools US politics Trump team discussing ownership stakes in defense contractors Japan British F-35 jet makes emergency landing in Japan after malfunction News Japan deploys its first F-35B fighter jets to bolster defenses in the south Americas Stealth fighter jet pilot ejects from $100M jet in California News A British F35 fighter jet stranded in India may finally fly back home after inspiring memes India Repairs
+
+- Lockheed Martin News & Latest Pictures From Newsweek.com
+  https://www.newsweek.com/topic/lockheed-martin
+  Articles about Lockheed Martin
+  LinkedPageStatus: error: 406 Client Error: Not Acceptable for url: https://www.newsweek.com/topic/lockheed-martin
+  LinkedPageSummaryWords: 0
+
+- Lamprey Undersea Vehicle Puts Lockheed Martin Autonomy Focus In Spotlight
+  https://finance.yahoo.com/news/lamprey-undersea-vehicle-puts-lockheed-230832661.html
+  Lockheed Martin (NYSE:LMT) has introduced the Lamprey Multi-Mission Autonomous Undersea Vehicle, a new unmanned undersea platform. The Lamprey is designed for covert, autonomous underwater ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_8ccad086-7349-42b3-a092-8c7057150a37)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+
+Domain: LockheedMartin
+Query: Lockheed Martin latest company news
+Timestamp: 2026-02-21T15:08:19
+PerPageSummaryWords: 200
+- Why Lockheed Martin Stock Took Off Today
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca3dd81547bd89ebc72e871c4d53&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftopstocks%2fwhy-lockheed-martin-stock-took-off-today%2far-AA1WGOpe&c=4533354926139478496&mkt=en-us
+  Germany just gave Lockheed's F-35 stealth fighter the thumbs up.
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/topstocks/why-lockheed-martin-stock-took-off-today/ar-AA1WGOpe)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Lockheed Martin rapidly developed Lamprey drone, new variants on the way
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca3dd81547bd89ebc72e871c4d53&url=https%3a%2f%2fwww.navalnews.com%2fnaval-news%2f2026%2f02%2flockheed-martin-rapidly-developed-lamprey-drone-new-variants-on-the-way%2f&c=16369528151280805050&mkt=en-us
+  Lockheed Martin has rapidly developed the Lamprey drone, an undersea vehicle designed to address U.S. Navy covert and sea denial needs.
+  LinkedPageStatus: ok (https://www.navalnews.com/naval-news/2026/02/lockheed-martin-rapidly-developed-lamprey-drone-new-variants-on-the-way/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  SAN DIEGO — Lockheed Martin rapidly developed its new Lamprey multi-mission autonomous undersea vehicle: The company took just 14 months to develop Lamprey, with future plans to field larger variants and another drone by the end of the year. Lockheed Martin showcased a model of Lamprey for the first time at WEST 2026. Mark Johnson, program director for unmanned maritime solutions division, discussed the highlights and future iterations of the multi-mission system with Naval News . Named after the Lamprey, a fish that latches onto others with its sucking mouth, the drone combines numerous features that the company claims could achieve various tailored missions in support of covert surveillance and sea denial. Given the drone’s namesake, Johnson explained Lamprey comes with this unique ability to latch onto submarines, warships and the seabed. This brings many key implications for operational use. “This thing has suction cups on the top that basically can autonomously navigate to a sub, a ship, and it swims up and suctions on to the bottom of that vehicle,” said Johnson. “So it can hitch your ride into whatever theater it’s going to, because if you think about one of the restrictions or constraints of UUVs, it’s battery
+
+- Lockheed Martin unveils unmanned undersea vehicle for naval missions
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca3dd81547bd89ebc72e871c4d53&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4549099-lockheed-martin-unveils-unmanned-undersea-vehicle-for-naval-missions&c=9447042602091506014&mkt=en-us
+  Lockheed Martin ( LMT) on Monday unveiled a new autonomous undersea vehicle designed to support a wide range of naval missions, as the U.S. military and its allies expand their use of unmanned systems ...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://seekingalpha.com/news/4549099-lockheed-martin-unveils-unmanned-undersea-vehicle-for-naval-missions
+  LinkedPageSummaryWords: 0
+
+- Is Lockheed Martin a Buy After Investment Company Paradiem Initiated a Big Position in the Stock?
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca3dd81547bd89ebc72e871c4d53&url=https%3a%2f%2fwww.nasdaq.com%2farticles%2flockheed-martin-buy-after-investment-company-paradiem-initiated-big-position-stock&c=16700550143066705422&mkt=en-us
+  Paradiem bought 32,302 shares of Lockheed Martin; estimated trade value of ~$16.13 million as of September 30, 2025. The transaction represented a 3.76% change in Paradiem's AUM as of September 30, ...
+  LinkedPageStatus: ok (https://www.nasdaq.com/articles/lockheed-martin-buy-after-investment-company-paradiem-initiated-big-position-stock)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Paradiem bought 32,302 shares of Lockheed Martin; estimated trade value of ~$16.13 million as of September 30, 2025. The transaction represented a 3.76% change in Paradiem's AUM as of September 30, 2025. Post-trade, the Lockheed Martin stake was 32,302 shares valued at $16.13 million at the end of Q3 2025. This new position is now Paradiem's fourth-largest holding as of September 30, 2025. According to a filing with the Securities and Exchange Commission dated October 17, 2025, financial advisory company Paradiem, LLC reported a new position in Lockheed Martin (NYSE:LMT) , purchasing 32,302 shares. The estimated value of the trade, based on the quarterly average price, was approximately $16.13 million for Q3 2025. This addition brings the fund’s total reportable U.S. equity holdings to 68 positions. This was a new position for Paradiem, representing 3.76% of its reportable U.S. equity assets under management as of September 30, 2025. As of October 17, 2025, shares were priced at $495.15, down 19.07% over the past year, underperforming the S&P 500 by 30.57 percentage points during the same period. The stock was 20% below its 52-week high as of October 17, 2025 and offered a 2.79% dividend yield as of October 17, 2025.
+
+- Lockheed Martin Invests In Portable Nuclear Power For Future Growth Potential
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca3dd81547bd89ebc72e871c4d53&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2flockheed-martin-invests-portable-nuclear-081927710.html&c=3639837040096241732&mkt=en-us
+  LMT, has invested in Radiant, a company developing portable nuclear microreactors. The partnership focuses on next generation energy systems designed for defense and critical infrastructure uses, ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_729d664c-d4ed-4f04-9728-c3682dcbae97)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- St. Paul City Council rejects grant extension for Lockheed Martin subsidiary
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca3dd81547bd89ebc72e871c4d53&url=https%3a%2f%2fwww.yahoo.com%2fnews%2farticles%2fst-paul-city-council-rejects-180600011.html&c=16453546742545172704&mkt=en-us
+  Swayed by public outcry, the St. Paul City Council recently voted to decline to extend the terms of a state grant awarded to a three-year-old microelectronics subsidiary of Lockheed Martin, the ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_a06d4e0a-ad0a-4d59-a9ee-2adb82db80eb)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Lockheed Martin Balances Defense Growth And New Wildfire Technology Venture
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca3dd81547bd89ebc72e871c4d53&url=https%3a%2f%2ffinance.yahoo.com%2fnews%2flockheed-martin-balances-defense-growth-141619427.html&c=10999422908454600463&mkt=en-us
+  Lockheed Martin (NYSE:LMT) secured a Foreign Military Sales contract to supply IRST21 Legion-ES infrared sensing systems to Taiwan's Air Force, making Taiwan the first international partner for this ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_f4ac1597-bdf4-4c0f-8cec-52f963590be8)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- What The C-130J Super Hercules Delivery Halt Means For The US Air Force & Lockheed Martin
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca3dd81547bd89ebc72e871c4d53&url=https%3a%2f%2fsimpleflying.com%2fc-130j-super-hercules-delivery-halt-us-air-force-lockheed-martin%2f&c=5295218268046648394&mkt=en-us
+  The aircraft can operate from 2,000-foot dirt strips and has a maximum payload of 42,000 pounds. Four Rolls-Royce AE 2100D3 turboprops, providing approximately 4,700 shaft horsepower each. Six-bladed ...
+  LinkedPageStatus: ok (https://simpleflying.com/c-130j-super-hercules-delivery-halt-us-air-force-lockheed-martin/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A technical hiccup with the new communications suite in the Lockheed Martin C-130J Super Hercules has brought the assembly line grinding to a halt. Lockheed Martin (LM) estimates the setback will cost the company around $140 million. Production will continue, and aircraft will be stored until issues are resolved with the problematic systems. LM anticipates delivering as many as two dozen to the United States Air Force this year despite the delay. Introduced in 2025 as an update to legacy components, testing of the new communication system revealed that there were compatibility issues requiring additional refinement. At least 154 of the total orders for 202 of the newest iteration of the tactical airlifter have already been delivered. The USAF has also received over 110 specialized variants based on the 'J' airframe , as released in a 2025 equipment report by Air & Space Forces magazine. Lockheed Martin only delivered two C-130J aircraft in 2025, with zero arriving in the last quarter of the year. This has put the brakes on a major modernization effort within the US Air Force. So far, some units have had their deliveries slide to the right by 6 months, which will require continued investment in
+
+
+Domain: LockheedMartin
+Query: Lockheed Martin latest company news
+Timestamp: 2026-02-21T15:12:18
+PerPageSummaryWords: 200
+- Radiant Adds Lockheed Martin as Strategic Investor to Oversubscribed Funding Round
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb29f73e426b84e831b076d14fd5&url=https%3a%2f%2ffinance.yahoo.com%2fnews%2fradiant-adds-lockheed-martin-strategic-190500080.html&c=18219107521272157437&mkt=en-us
+  Investment underscores growing confidence in Radiant's commercialization plan EL SEGUNDO, CALIFORNIA / ACCESS Newswire / February 17, 2026 / Radiant, a leader in portable, mass-produced nuclear ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_78ec0fa6-3d70-49a0-9fac-006d4f61358a)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Investors heavily search Lockheed Martin Corporation (LMT): Here is what you need to know
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb29f73e426b84e831b076d14fd5&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftopstocks%2finvestors-heavily-search-lockheed-martin-corporation-lmt-here-is-what-you-need-to-know%2far-AA1WiAr9&c=1968617493951119979&mkt=en-us
+  Lockheed Martin (LMT) is one of the stocks most watched by Zacks.com visitors lately. So, it might be a good idea to review some of the factors that might affect the near-term performance of the stock ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/topstocks/investors-heavily-search-lockheed-martin-corporation-lmt-here-is-what-you-need-to-know/ar-AA1WiAr9)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Here is what to know beyond why Lockheed Martin Corporation (LMT) is a trending stock
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb29f73e426b84e831b076d14fd5&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftop-stocks%2fhere-is-what-to-know-beyond-why-lockheed-martin-corporation-lmt-is-a-trending-stock%2far-AA1VuWNq&c=7113450117198132973&mkt=en-us
+  Lockheed Martin (LMT) has been one of the most searched-for stocks on Zacks.com lately. So, you might want to look at some of the facts that could shape the stock's performance in the near term.
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/top-stocks/here-is-what-to-know-beyond-why-lockheed-martin-corporation-lmt-is-a-trending-stock/ar-AA1VuWNq)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Lockheed Martin Expands Autonomy And Missile Defense Capacity As Orders Build
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb29f73e426b84e831b076d14fd5&url=https%3a%2f%2ffinance.yahoo.com%2fnews%2flockheed-martin-expands-autonomy-missile-021531761.html&c=12712561497304501138&mkt=en-us
+  Lockheed Martin (NYSE:LMT) has introduced its Lamprey Multi-Mission Autonomous Undersea Vehicle, expanding its unmanned naval systems offering. The company has signed a framework agreement that ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_54be64aa-7d7a-4806-a393-8042f13d3d9f)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Lockheed Martin Invests In Portable Nuclear Power For Future Growth Potential
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb29f73e426b84e831b076d14fd5&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2flockheed-martin-invests-portable-nuclear-081927710.html&c=3639837040096241732&mkt=en-us
+  LMT, has invested in Radiant, a company developing portable nuclear microreactors. The partnership focuses on next generation energy systems designed for defense and critical infrastructure uses, ...
+  LinkedPageStatus: ok (https://uk.finance.yahoo.com/news/lockheed-martin-invests-portable-nuclear-081927710.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Find winning stocks in any market cycle. Join 7 million investors using Simply Wall St's investing ideas for FREE. Lockheed Martin Ventures, the venture arm of NYSE:LMT, has invested in Radiant, a company developing portable nuclear microreactors. The partnership focuses on next generation energy systems designed for defense and critical infrastructure uses, including remote and austere environments. The investment is tied to Radiant's plans to progress its microreactor technology toward testing and eventual deployment. For a company best known for fighter jets, missile systems, and defense electronics, NYSE:LMT’s backing of portable nuclear microreactors broadens its exposure to advanced power technologies. Defense planners have been paying close attention to resilient, mobile energy as operations rely more on electrified platforms, sensors, and data links that must function far from traditional grids. For you as an investor, this move highlights how NYSE:LMT is positioning itself around potential future demand for reliable off grid power in defense and critical infrastructure projects. The Radiant partnership could influence how the company participates in future programs that require compact, long duration energy sources for remote bases, disaster response sites, or other hard to reach locations. Stay updated on the most important news stories for Lockheed Martin by
+
+- Lockheed Martin Earnings Call Signals Growth-Driven Reset
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb29f73e426b84e831b076d14fd5&url=https%3a%2f%2fwww.theglobeandmail.com%2finvesting%2fmarkets%2fstocks%2fLMT%2fpressreleases%2f37349348%2flockheed-martin-earnings-call-signals-growth-driven-reset%2f&c=9552193286231419738&mkt=en-us
+  Detailed price information for Lockheed Martin Corp (LMT-N) from The Globe and Mail including charting and trades.
+  LinkedPageStatus: ok (https://www.theglobeandmail.com/investing/markets/stocks/LMT/pressreleases/37349348/lockheed-martin-earnings-call-signals-growth-driven-reset/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin ( (LMT) ) has held its Q4 earnings call. Read on for the main highlights of the call. Lockheed Martin Strikes Optimistic Tone Despite Profit Headwinds Lockheed Martin’s latest earnings call carried a decidedly upbeat tone, with management emphasizing powerful demand trends, record backlog, strong cash generation, and a sharply improved 2026 outlook. While executives acknowledged pressure on current-year earnings per share and segment margins in Aeronautics and Rotary & Mission Systems (RMS), they consistently framed these as timing- and program-related headwinds against a backdrop of rising sales, expanding missile capacity, and unusually strong long-term demand visibility. Overall, the narrative was one of a company leaning into investment and production ramps to capture a multi-year upcycle, even at the cost of near-term margin volatility. Lockheed Martin ended 2025 with a record backlog of $194.0 billion, roughly 2.5 times its annual sales and up $17.3 billion, or 17%, from the prior year. A full-year book-to-bill ratio of 1.2 underscores that new orders continue to outpace revenue, signaling broad-based and durable demand across its core defense programs. Management highlighted the backlog as a key foundation for visibility into growth through the decade, with heavy contributions from missile defense, precision weapons,
+
+- 5LMT : Behind the Scenes of Lockheed Martin's Latest Options Trends
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb29f73e426b84e831b076d14fd5&url=https%3a%2f%2fwww.benzinga.com%2finsights%2foptions%2f26%2f02%2f50691474%2fbehind-the-scenes-of-lockheed-martins-latest-options-trends&c=15414574793570771511&mkt=en-us
+  Taking into account the Volume and Open Interest on these contracts, it appears that whales have been targeting a price range from $580.0 to $740.0 for Lockheed Martin over the last 3 months.
+  LinkedPageStatus: ok (https://www.benzinga.com/insights/options/26/02/50691474/behind-the-scenes-of-lockheed-martins-latest-options-trends)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Investors with a lot of money to spend have taken a bearish stance on Lockheed Martin (NYSE: LMT ). We noticed this today when the trades showed up on publicly available options history that we track here at Benzinga. Whether these are institutions or just wealthy individuals, we don't know. But when something this big happens with LMT, it often means somebody knows something is about to happen. So how do we know what these investors just did? Today, Benzinga 's options scanner spotted 9 uncommon options trades for Lockheed Martin. The overall sentiment of these big-money traders is split between 11% bullish and 44%, bearish. Out of all of the special options we uncovered, 4 are puts, for a total amount of $116,578, and 5 are calls, for a total amount of $346,485. Taking into account the Volume and Open Interest on these contracts, it appears that whales have been targeting a price range from $580.0 to $740.0 for Lockheed Martin over the last 3 months. Assessing the volume and open interest is a strategic step in options trading. These metrics shed light on the liquidity and investor interest in Lockheed Martin's options at specified strike prices. The forthcoming
+
+- Lockheed Martin, Fujitsu Sign Initial Contract for SPY-7 Radar Power Supply Units for Japan’s ASEV
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb29f73e426b84e831b076d14fd5&url=https%3a%2f%2fwww.navalnews.com%2fnaval-news%2f2026%2f02%2flockheed-martin-fujitsu-sign-initial-contract-for-spy-7-radar-power-supply-units-for-japans-asev%2f&c=15204293146267584673&mkt=en-us
+  Lockheed Martin and Japanese technology company Fujitsu signed a contract for the initial procurement of components that supply power to the modular Subarray Suite (SAS), a critical element of the SPY ...
+  LinkedPageStatus: ok (https://www.navalnews.com/naval-news/2026/02/lockheed-martin-fujitsu-sign-initial-contract-for-spy-7-radar-power-supply-units-for-japans-asev/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  On February 12, Lockheed Martin and Japanese technology company Fujitsu signed a contract for the initial procurement of components that supply power to the modular Subarray Suite (SAS), a critical element of the SPY-7 radar selected for the Japan Maritime Self-Defense Force’s (JMSDF) Aegis System Equipped Vessels (ASEV). A signing ceremony held in Tokyo formalized Fujitsu as a supplier of the SPY-7 Subarray Suite Power Supply Line Replaceable Unit (PS LRU). The PS LRU is a mission-critical naval radar assembly that delivers stable and regulated electrical power to the radar’s SAS modules, supporting reliable performance in demanding maritime operating conditions. The contract follows a Memorandum of Understanding (MOU) signed in May 2025 covering supplier selection and industrial partnership arrangements for the SPY-7 program. Under that framework, this marks the first procurement agreement between the two companies. The SPY-7 radar, developed by Lockheed Martin, is based on a scalable gallium nitride (GaN) Active Electronically Scanned Array (AESA) architecture designed to support ballistic missile defense (BMD) and integrated air and missile defense (IAMD) missions. The ASEV program is expected to serve as a core maritime component of Japan’s layered missile defense architecture. “Fujitsu is honored to commence mass production of the PS
+
+

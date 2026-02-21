@@ -1,0 +1,688 @@
+Domain: Boeing
+Query: Boeing defense latest company news
+Timestamp: 2026-02-21T13:58:14
+PerPageSummaryWords: 200
+- Boeing Defense, Space & Security headquarters returns to St. Louis
+  https://www.boeing.com/features/2026/02/boeing-defense-space-and-security-headquarters-returns-to-st-louis
+  Boeing named its St. Louis site the headquarters of the Boeing Defense , Space & Security (BDS) business. The move emphasizes company leadership's commitment to being present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities for customers in the U.S. and around the world.
+  LinkedPageStatus: ok (https://www.boeing.com/features/2026/02/boeing-defense-space-and-security-headquarters-returns-to-st-louis)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing named its St. Louis site the headquarters of the Boeing Defense, Space & Security (BDS) business. The move emphasizes company leadership’s commitment to being present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities for customers in the U.S. and around the world. Employees in the St. Louis area also support Boeing Global Services, Boeing Commercial Airplanes and enterprise functions. “It’s important for leaders to be side-by-side with our teammates, listening to their feedback and acting to remove obstacles as we continue to stabilize and strengthen our business,” said Steve Parker, Boeing Defense, Space & Security CEO. “The headquarters move, coupled with our senior leaders being based at and spending their time at major engineering, production and manufacturing centers across the U.S., reflects our continued focus on disciplined performance across our business.” The change moves the defense headquarters from Arlington, Virginia back to St. Louis, Missouri, where it was located from 1997 to 2017. Boeing is progressing on a multi-year, multi-billion-dollar investment in the world’s most advanced combat aircraft production facilities, including in St. Louis. The site has a rich history designing and manufacturing some of the world’s most innovative spacecraft
+
+- Boeing relocates defense HQ to American heartland, leaving ... - Fox News
+  https://www.foxnews.com/politics/top-defense-contractor-announces-major-move-weeks-after-dem-governor-takes-office-win-heartland
+  Boeing announced it is moving its defense headquarters out of Virginia back to St. Louis, just weeks after newly elected Democratic Gov. Abigail Spanberger took office.
+  LinkedPageStatus: ok (https://www.foxnews.com/politics/top-defense-contractor-announces-major-move-weeks-after-dem-governor-takes-office-win-heartland)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Former special assistant to President Biden Michael LaRosa and Washington Times editor-at-large Alex Swoyer join 'America Reports' to react to Virginia Democrat Gov. Abigail Spanberger's controversial start to her term. NEW You can now listen to Fox News articles! After nearly a decade in Virginia, Boeing announced on Wednesday that it is moving its Defense, Space & Security headquarters out of the state back to St. Louis. This comes just weeks after new Democratic Gov. Abigail Spanberger took office, replacing Republican Gov. Glenn Youngkin. In a Wednesday statement, Boeing said its decision to move its defense headquarters to St. Louis emphasizes company leadership’s "commitment to being present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities for customers in the U.S. and around the world." The company said it is progressing on a multibillion-dollar investment in "the world’s most advanced combat aircraft production facilities," including in St. Louis. The change moves the defense headquarters from Arlington, Virginia , back to its former site in St. Louis, where much of the company’s products are designed and manufactured. Boeing’s headquarters was in Arlington, a suburb of Washington, D.C., for nearly a decade, with the
+
+- News Releases | Boeing Newsroom
+  https://boeing.mediaroom.com/news-releases-statements
+  The Boeing Company [NYSE: BA] announced today major program deliveries across its commercial and defense operations for the fourth quarter of 2025 as follows: Major Programs 4th Quarter 2025 Full Year
+  LinkedPageStatus: ok (https://boeing.mediaroom.com/news-releases-statements)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  We’re grateful to NASA for its thorough investigation and the opportunity to contribute to it. In the 18 months since our test flight, Boeing has made substantial progress on corrective actions... Federal Aviation Administration (FAA) and European Union Aviation Safety Agency (EASA) approve simulator devices for airline pilot training GATWICK, United Kingdom, Feb. 19, 2026 /PRNewswire/ --... New luxury airline makes first direct jet purchase to grow tourism and economy on Vietnam's largest island WASHINGTON, Feb. 18, 2026 /PRNewswire/ -- Boeing [NYSE: BA] and Sun PhuQuoc Airways today... 787 Dreamliner operator places first Boeing single-aisle order as part of its growth strategy Versatile 737-8 jets will expand Vietnam's short- and medium-haul network amid rising travel demand... SEATTLE, Feb. 17, 2026 — Boeing and Air Astana JSC announced today the Kazakhstan flag carrier has finalized an order for up to 15 787 Dreamliner jets to grow and modernize its Boeing widebody... LONG BEACH, Calif. — February 9, 2026 — The Boeing Company today announced a contract award from the U.S. Air Force that will keep the C‑17A Globemaster flying and mission-ready for decades... SINGAPORE, Feb. 4, 2026 — Boeing [NYSE: BA] successfully completed its 100th 787 Landing Gear Exchange (LGE) delivery,
+
+- Boeing defense workers on strike in the Midwest reject the company's ...
+  https://www.independent.co.uk/news/boeing-midwest-illinois-missouri-b2852568.html
+  Boeing workers at three Midwest plants where military aircraft and weapons are developed have voted to reject the company's latest contract offer and to continue a strike that started almost ...
+  LinkedPageStatus: ok (https://www.independent.co.uk/news/boeing-midwest-illinois-missouri-b2852568.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing workers at three Midwest plants where military aircraft and weapons are developed voted Sunday to reject the company’s latest contract offer and to continue a strike that started almost three months ago. The strike by about 3,200 machinists at the plants in the Missouri cities of St. Louis and St. Charles, and in Mascoutah, Illinois , is smaller in scale than a walkout last year by 33,000 Boeing workers who assemble commercial jetliners but threatens to complicate the aerospace company’s progress in regaining its financial footing. “Boeing claimed they listened to their employees – the result of today’s vote proves they have not,” Brian Bryant, president of the International Association of Machinists union, said in a statement. Union leaders say talks have stalled over issues such as wages and retirement benefits, while Boeing has argued that workers’ demands exceed the cost of living in the Midwest. Ahead of Sunday’s vote, the union told its members that it did not recommend approval of the company’s latest offer, which it said “had no meaningful improvements” to retirement benefits and wage increases for workers with more seniority. Negotiations escalated over the summer in the days leading up to the strike, with the
+
+- News Releases - Boeing UK
+  https://www.boeing.co.uk/news-releases
+  10/06/2024 Boeing -supported Newton Room Opens in North Somerset 14/05/2024 Boeing Strengthens Presence in Bristol with New UK Defence Headquarters 11/04/2024 Moray Steel Supplier Supports Construction of UK E-7 Wedgetail Facilities 21/02/2024
+  LinkedPageStatus: ok (https://www.boeing.co.uk/news-releases)
+  LinkedPageSummaryWords: 41
+  LinkedPageSummary:
+  Dan Mosely Head of Communications, Boeing UK, Ireland & the Nordics +44 7825 898594 daniel.mosely@boeing.com Georgina Ramin Boeing UK & Ireland Defence Communications Specialist +44 (0) 7552 254770 georgina.ramin@boeing.com Hannah Shroot Boeing UK & Ireland Communications +44 (0) 7775 225695 hannah.l.shroot@boeing.com
+
+- Arlington loses Boeing's defense HQ to St. Louis | ARLnow.com
+  https://www.arlnow.com/2026/02/19/arlington-loses-boeings-defense-hq-to-st-louis/
+  Boeing's Defense , Space and Security headquarters is leaving Crystal City after nine years. The aerospace and defense company announced the move Wednesday, citing a desire to be "present and ...
+  LinkedPageStatus: ok (https://www.arlnow.com/2026/02/19/arlington-loses-boeings-defense-hq-to-st-louis/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing’s Defense, Space and Security headquarters is leaving Crystal City after nine years. The aerospace and defense company announced the move Wednesday, citing a desire to be “present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities.” The St. Louis region is home to about 18,000 Boeing employees. The company did not say how many employees, if any, would relocate from here. According to Defense One , Boeing plans to keep its global headquarters in Arlington, where it has been based since 2022 . “It’s important for leaders to be side-by-side with our teammates, listening to their feedback and acting to remove obstacles as we continue to stabilize and strengthen our business,” said Steve Parker, Boeing Defense, Space & Security CEO. “The headquarters move, coupled with our senior leaders being based at and spending their time at major engineering, production and manufacturing centers across the U.S., reflects our continued focus on disciplined performance across our business.” Boeing moved its defense headquarters to Crystal City in early 2017 , seeking closer proximity to federal decision-makers. Its Crystal City office complex, approved in 2011 , was originally a regional headquarters. The relocation won’t affect
+
+- Boeing's defense unit logs massive $2 billion in losses for third ...
+  https://breakingdefense.com/2024/10/boeings-defense-unit-logs-massive-2-billion-in-losses-for-third-quarter/
+  The financial bleeding on in Boeing's defense unit was replicated in its commercial business, which will declare $3 billion in losses for the quarter.
+  LinkedPageStatus: ok (https://breakingdefense.com/2024/10/boeings-defense-unit-logs-massive-2-billion-in-losses-for-third-quarter/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  WASHINGTON — Boeing’s defense unit will take $2 billion in losses on fixed-price contracts when it reports its third quarter results later this month, the company disclosed today, bringing total defense-related charges for the company up to $3.2 billion this year. The wider company also announced plans to slash 10 percent of its total workforce. The charges to its defense arm come as the US planemaker hemorrhages money amid an ongoing strike by its Seattle-area machinists union and as it announced the conclusion of its 767 freighter production — both factors the company states contributed to losses on the T-7A trainer, MQ-25 tanker drone, KC-46 tanker and NASA’s Starliner in the most recent financial quarter. The T-7 trainer logged the largest charge, worth $900 million, due to what the company said were higher estimated costs for production in 2026 and beyond. Behind it, the KC-46 logged a $700 million loss due to Boeing’s decision to end production of the 767 freighter, the commercial aircraft on which the militarized tanker is based. The company also pointed the finger at the ongoing machinists union strike , which has paused production of commercial airplanes, such as the 767 made in the company’s Seattle
+
+- Boeing Defense plans to replace striking workers with new hires
+  https://www.reuters.com/business/world-at-work/boeing-defense-plans-replace-striking-workers-with-new-hires-2025-09-04/
+  Sept 4 (Reuters) - Boeing Defense (BA.N) plans to hire new workers to replace striking members of the International Association of Machinists and Aerospace Workers (IAM) who assemble munitions ...
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/world-at-work/boeing-defense-plans-replace-striking-workers-with-new-hires-2025-09-04/
+  LinkedPageSummaryWords: 0
+
+
+Domain: Boeing
+Query: Boeing defense latest company news
+Timestamp: 2026-02-21T13:59:18
+PerPageSummaryWords: 200
+
+Domain: Boeing
+Query: Boeing defense latest company news
+Timestamp: 2026-02-21T13:59:21
+PerPageSummaryWords: 200
+- Boeing Defense, Space & Security headquarters returns to St. Louis
+  https://www.boeing.com/features/2026/02/boeing-defense-space-and-security-headquarters-returns-to-st-louis
+  Boeing named its St. Louis site the headquarters of the Boeing Defense , Space & Security (BDS) business. The move emphasizes company leadership's commitment to being present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities for customers in the U.S. and around the world.
+  LinkedPageStatus: ok (https://www.boeing.com/features/2026/02/boeing-defense-space-and-security-headquarters-returns-to-st-louis)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing named its St. Louis site the headquarters of the Boeing Defense, Space & Security (BDS) business. The move emphasizes company leadership’s commitment to being present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities for customers in the U.S. and around the world. Employees in the St. Louis area also support Boeing Global Services, Boeing Commercial Airplanes and enterprise functions. “It’s important for leaders to be side-by-side with our teammates, listening to their feedback and acting to remove obstacles as we continue to stabilize and strengthen our business,” said Steve Parker, Boeing Defense, Space & Security CEO. “The headquarters move, coupled with our senior leaders being based at and spending their time at major engineering, production and manufacturing centers across the U.S., reflects our continued focus on disciplined performance across our business.” The change moves the defense headquarters from Arlington, Virginia back to St. Louis, Missouri, where it was located from 1997 to 2017. Boeing is progressing on a multi-year, multi-billion-dollar investment in the world’s most advanced combat aircraft production facilities, including in St. Louis. The site has a rich history designing and manufacturing some of the world’s most innovative spacecraft
+
+- Boeing relocates defense HQ to American heartland, leaving ... - Fox News
+  https://www.foxnews.com/politics/top-defense-contractor-announces-major-move-weeks-after-dem-governor-takes-office-win-heartland
+  Boeing announced it is moving its defense headquarters out of Virginia back to St. Louis, just weeks after newly elected Democratic Gov. Abigail Spanberger took office.
+  LinkedPageStatus: ok (https://www.foxnews.com/politics/top-defense-contractor-announces-major-move-weeks-after-dem-governor-takes-office-win-heartland)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Former special assistant to President Biden Michael LaRosa and Washington Times editor-at-large Alex Swoyer join 'America Reports' to react to Virginia Democrat Gov. Abigail Spanberger's controversial start to her term. NEW You can now listen to Fox News articles! After nearly a decade in Virginia, Boeing announced on Wednesday that it is moving its Defense, Space & Security headquarters out of the state back to St. Louis. This comes just weeks after new Democratic Gov. Abigail Spanberger took office, replacing Republican Gov. Glenn Youngkin. In a Wednesday statement, Boeing said its decision to move its defense headquarters to St. Louis emphasizes company leadership’s "commitment to being present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities for customers in the U.S. and around the world." The company said it is progressing on a multibillion-dollar investment in "the world’s most advanced combat aircraft production facilities," including in St. Louis. The change moves the defense headquarters from Arlington, Virginia , back to its former site in St. Louis, where much of the company’s products are designed and manufactured. Boeing’s headquarters was in Arlington, a suburb of Washington, D.C., for nearly a decade, with the
+
+- Arlington loses Boeing's defense HQ to St. Louis | ARLnow.com
+  https://www.arlnow.com/2026/02/19/arlington-loses-boeings-defense-hq-to-st-louis/
+  Boeing's Defense , Space and Security headquarters is leaving Crystal City after nine years. The aerospace and defense company announced the move Wednesday, citing a desire to be "present and ...
+  LinkedPageStatus: ok (https://www.arlnow.com/2026/02/19/arlington-loses-boeings-defense-hq-to-st-louis/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing’s Defense, Space and Security headquarters is leaving Crystal City after nine years. The aerospace and defense company announced the move Wednesday, citing a desire to be “present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities.” The St. Louis region is home to about 18,000 Boeing employees. The company did not say how many employees, if any, would relocate from here. According to Defense One , Boeing plans to keep its global headquarters in Arlington, where it has been based since 2022 . “It’s important for leaders to be side-by-side with our teammates, listening to their feedback and acting to remove obstacles as we continue to stabilize and strengthen our business,” said Steve Parker, Boeing Defense, Space & Security CEO. “The headquarters move, coupled with our senior leaders being based at and spending their time at major engineering, production and manufacturing centers across the U.S., reflects our continued focus on disciplined performance across our business.” Boeing moved its defense headquarters to Crystal City in early 2017 , seeking closer proximity to federal decision-makers. Its Crystal City office complex, approved in 2011 , was originally a regional headquarters. The relocation won’t affect
+
+- News Releases | Boeing Newsroom
+  https://boeing.mediaroom.com/news-releases-statements
+  The Boeing Company [NYSE: BA] announced today major program deliveries across its commercial and defense operations for the fourth quarter of 2025 as follows: Major Programs 4th Quarter 2025 Full Year
+  LinkedPageStatus: ok (https://boeing.mediaroom.com/news-releases-statements)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  We’re grateful to NASA for its thorough investigation and the opportunity to contribute to it. In the 18 months since our test flight, Boeing has made substantial progress on corrective actions... Federal Aviation Administration (FAA) and European Union Aviation Safety Agency (EASA) approve simulator devices for airline pilot training GATWICK, United Kingdom, Feb. 19, 2026 /PRNewswire/ --... New luxury airline makes first direct jet purchase to grow tourism and economy on Vietnam's largest island WASHINGTON, Feb. 18, 2026 /PRNewswire/ -- Boeing [NYSE: BA] and Sun PhuQuoc Airways today... 787 Dreamliner operator places first Boeing single-aisle order as part of its growth strategy Versatile 737-8 jets will expand Vietnam's short- and medium-haul network amid rising travel demand... SEATTLE, Feb. 17, 2026 — Boeing and Air Astana JSC announced today the Kazakhstan flag carrier has finalized an order for up to 15 787 Dreamliner jets to grow and modernize its Boeing widebody... LONG BEACH, Calif. — February 9, 2026 — The Boeing Company today announced a contract award from the U.S. Air Force that will keep the C‑17A Globemaster flying and mission-ready for decades... SINGAPORE, Feb. 4, 2026 — Boeing [NYSE: BA] successfully completed its 100th 787 Landing Gear Exchange (LGE) delivery,
+
+- News Releases - Boeing UK
+  https://www.boeing.co.uk/news-releases
+  10/06/2024 Boeing -supported Newton Room Opens in North Somerset 14/05/2024 Boeing Strengthens Presence in Bristol with New UK Defence Headquarters 11/04/2024 Moray Steel Supplier Supports Construction of UK E-7 Wedgetail Facilities 21/02/2024
+  LinkedPageStatus: ok (https://www.boeing.co.uk/news-releases)
+  LinkedPageSummaryWords: 41
+  LinkedPageSummary:
+  Dan Mosely Head of Communications, Boeing UK, Ireland & the Nordics +44 7825 898594 daniel.mosely@boeing.com Georgina Ramin Boeing UK & Ireland Defence Communications Specialist +44 (0) 7552 254770 georgina.ramin@boeing.com Hannah Shroot Boeing UK & Ireland Communications +44 (0) 7775 225695 hannah.l.shroot@boeing.com
+
+- Boeing defense workers on strike in the Midwest reject the company's ...
+  https://www.independent.co.uk/news/boeing-midwest-illinois-missouri-b2852568.html
+  Boeing workers at three Midwest plants where military aircraft and weapons are developed have voted to reject the company's latest contract offer and to continue a strike that started almost ...
+  LinkedPageStatus: ok (https://www.independent.co.uk/news/boeing-midwest-illinois-missouri-b2852568.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing workers at three Midwest plants where military aircraft and weapons are developed voted Sunday to reject the company’s latest contract offer and to continue a strike that started almost three months ago. The strike by about 3,200 machinists at the plants in the Missouri cities of St. Louis and St. Charles, and in Mascoutah, Illinois , is smaller in scale than a walkout last year by 33,000 Boeing workers who assemble commercial jetliners but threatens to complicate the aerospace company’s progress in regaining its financial footing. “Boeing claimed they listened to their employees – the result of today’s vote proves they have not,” Brian Bryant, president of the International Association of Machinists union, said in a statement. Union leaders say talks have stalled over issues such as wages and retirement benefits, while Boeing has argued that workers’ demands exceed the cost of living in the Midwest. Ahead of Sunday’s vote, the union told its members that it did not recommend approval of the company’s latest offer, which it said “had no meaningful improvements” to retirement benefits and wage increases for workers with more seniority. Negotiations escalated over the summer in the days leading up to the strike, with the
+
+- Boeing Defense plans to replace striking workers with new hires
+  https://www.reuters.com/business/world-at-work/boeing-defense-plans-replace-striking-workers-with-new-hires-2025-09-04/
+  Sept 4 (Reuters) - Boeing Defense (BA.N) plans to hire new workers to replace striking members of the International Association of Machinists and Aerospace Workers (IAM) who assemble munitions ...
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/world-at-work/boeing-defense-plans-replace-striking-workers-with-new-hires-2025-09-04/
+  LinkedPageSummaryWords: 0
+
+- Boeing's defense unit logs massive $2 billion in losses for third ...
+  https://breakingdefense.com/2024/10/boeings-defense-unit-logs-massive-2-billion-in-losses-for-third-quarter/
+  The financial bleeding on in Boeing's defense unit was replicated in its commercial business, which will declare $3 billion in losses for the quarter.
+  LinkedPageStatus: ok (https://breakingdefense.com/2024/10/boeings-defense-unit-logs-massive-2-billion-in-losses-for-third-quarter/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  WASHINGTON — Boeing’s defense unit will take $2 billion in losses on fixed-price contracts when it reports its third quarter results later this month, the company disclosed today, bringing total defense-related charges for the company up to $3.2 billion this year. The wider company also announced plans to slash 10 percent of its total workforce. The charges to its defense arm come as the US planemaker hemorrhages money amid an ongoing strike by its Seattle-area machinists union and as it announced the conclusion of its 767 freighter production — both factors the company states contributed to losses on the T-7A trainer, MQ-25 tanker drone, KC-46 tanker and NASA’s Starliner in the most recent financial quarter. The T-7 trainer logged the largest charge, worth $900 million, due to what the company said were higher estimated costs for production in 2026 and beyond. Behind it, the KC-46 logged a $700 million loss due to Boeing’s decision to end production of the 767 freighter, the commercial aircraft on which the militarized tanker is based. The company also pointed the finger at the ongoing machinists union strike , which has paused production of commercial airplanes, such as the 767 made in the company’s Seattle
+
+
+Domain: Boeing
+Query: Boeing defense latest company news
+Timestamp: 2026-02-21T14:17:27
+PerPageSummaryWords: 120
+
+Domain: Boeing
+Query: Boeing defense latest company news
+Timestamp: 2026-02-21T14:23:18
+PerPageSummaryWords: 220
+- Boeing Defense Headquarters Moving Back to St. Louis
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999bfcf6b1e4f1e9a04bd5cc497b28e&url=https%3a%2f%2fwww.aviationpros.com%2faircraft-maintenance-technology%2faircraft-technology%2fdefense%2fnews%2f55358599%2fboeing-defense-headquarters-moving-back-to-st-louis&c=15214865212107592916&mkt=en-us
+  The relocation is effective as of Wednesday, and there is not a specific number of jobs associated with the move, according to a company spokesperson.
+  LinkedPageStatus: ok (https://www.aviationpros.com/aircraft-maintenance-technology/aircraft-technology/defense/news/55358599/boeing-defense-headquarters-moving-back-to-st-louis)
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  ST. LOUIS — The Boeing Co.'s defense, space and security division headquarters is moving back to St. Louis, the company said in a news release Wednesday. The division operated out of St. Louis from 1997 to 2017 when Boeing moved the defense headquarters to Arlington, Virginia. The relocation is effective as of Wednesday, and there is not a specific number of jobs associated with the move, according to a company spokesperson. Steve Parker, CEO for Boeing's defense, space and security division, said in a statement that "it's important for leaders to be side-by-side with our teammates, listening to their feedback and acting to remove obstacles as we continue to stabilize and strengthen our business. “The headquarters move, coupled with our senior leaders being based at and spending their time at major engineering, production and manufacturing centers across the U.S., reflects our continued focus on disciplined performance across our business," Parker said. The defense headquarters' previous move to the Washington, D.C., area, announced in late 2016, reflected the aerospace giant's desire to be closer to the levers of power in the nation’s capital. The company expected about 50 positions to eventually relocate to the Virginia headquarters. Boeing said Wednesday it employs 18,000+ workers in St. Louis. U.S. Sen. Eric Schmitt, R-Mo., cheered the news. "This announcement helps to reinforce the great
+
+- Boeing’s Regional Director on F-15EX for Saudi Arabia, localizing production
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999bfcf6b1e4f1e9a04bd5cc497b28e&url=https%3a%2f%2fwww.aerotime.aero%2farticles%2fboeings-regional-director-on-f-15ex-for-saudi-arabia-localizing-production&c=5537440330562786149&mkt=en-us
+  Boeing was among the most prominent exhibitors at the World Defense Show (WDS) 2026, held in Riyadh, Saudi Arabia, from February 8-12, 2026. The US manufacturer demonstrated its strong presence within ...
+  LinkedPageStatus: ok (https://www.aerotime.aero/articles/boeings-regional-director-on-f-15ex-for-saudi-arabia-localizing-production)
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  Boeing was among the most prominent exhibitors at the World Defense Show (WDS) 2026 , held in Riyadh, Saudi Arabia, from February 8-12, 2026. The US manufacturer demonstrated its strong presence within a market in which it maintains a significant footprint across both civilian and military sectors. Saudi Arabia is one of the few countries in the world to host a dedicated Boeing office, a fact that underscores the strategic importance that Boeing gives to its relationship with the Middle Eastern Kingdom. To learn more about Boeing’s regional footprint and its plans for the Middle East in the field of defense and space, AeroTime spoke with Kirk Schultz, Regional Director for International Business Development at Boeing Defense, Space and Security, during WDS. Schultz began by emphasizing the importance of WDS as a platform to showcase the company’s broad portfolio of solutions. “If you had the chance to go out on the ramp, you could see some of our fantastic flagship products—the AH-64, the CH-47, F-15s, and a KC-46 – on display,” he noted. A Saudi-operated F-15 also participated in the show’s flying display. In fact, Saudi Arabia operates nearly 400 military aircraft made by Boeing, making it one of the largest operators of the firm’s defense systems outside the United States. “We’re just really happy to be here at WDS,”
+
+- Boeing Orders And Defense Wins Test Valuation Gap And Labor Risks
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999bfcf6b1e4f1e9a04bd5cc497b28e&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2fboeing-orders-defense-wins-test-080828299.html&c=859529808765875&mkt=en-us
+  In January, Boeing reported one of its strongest recent months for aircraft orders and deliveries, including a substantial widebody order from Delta Air Lines. The company secured significant long ...
+  LinkedPageStatus: ok (https://uk.finance.yahoo.com/news/boeing-orders-defense-wins-test-080828299.html)
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  Find winning stocks in any market cycle. Join 7 million investors using Simply Wall St's investing ideas for FREE. In January, Boeing reported one of its strongest recent months for aircraft orders and deliveries, including a substantial widebody order from Delta Air Lines. The company secured significant long term U.S. Air Force contracts tied to C-17A fleet upgrades. Boeing announced plans for a new 737 Max assembly line while unions raised concerns about potential job relocations to South Carolina. Boeing (NYSE:BA) enters this news cycle with its shares at $236.26 and a 1 year return of 26.9%. Over 3 and 5 years, returns of 8.7% and 9.6% respectively suggest a mixed but positive longer term picture. This context can shape how investors interpret these new commercial, defense, and operational developments. For investors, the combination of strong January activity, new defense contracts, and production changes raises questions about Boeing’s capacity, margins, and labor risk in the coming years. These types of business shifts can influence how stable future cash flows may be, so they are worth monitoring alongside the share price and individual risk tolerance. Stay updated on the most important news stories for Boeing by adding it to your watchlist or portfolio . Alternatively, explore our Community to discover new perspectives on Boeing. 3 things going right for Boeing that
+
+- Boeing defense workers ratify contract to end 3-month strike in the Midwest
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999bfcf6b1e4f1e9a04bd5cc497b28e&url=https%3a%2f%2fwww.vindy.com%2fnews%2fbusiness-news%2f2025%2f11%2fboeing-defense-workers-ratify-contract-to-end-3-month-strike-in-the-midwest%2f&c=8058337083678561729&mkt=en-us
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier ...
+  LinkedPageStatus: ok (https://www.vindy.com/news/business-news/2025/11/boeing-defense-workers-ratify-contract-to-end-3-month-strike-in-the-midwest/)
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier offers from the company. The breakthrough five-year labor agreement includes a 24% wage hike across the life of the contract and a $6,000 signing bonus, according to the union representing the 3,200 workers who walked off the job Aug. 4. “We’re proud of what our members have fought for together and are ready to get back to building the world’s most advanced military aircraft,” the International Association of Machinists and Aerospace Workers said in a statement. With their new contract in hand, the machinists are set to return to work Sunday at manufacturing plants in the Missouri cities of St. Louis and St. Charles, as well as in Mascoutah, Illinois. The workers build fighter jets, weapons systems and the U.S. Navy’s first carrier-based unmanned aircraft at those facilities. Boeing said in a statement that it looks forward to “bringing our full team back together.” While the strike was smaller than last year’s walkout by 33,000 Boeing workers who build commercial jetliners, it still threatened to slow the aerospace company’s efforts to regain its financial footing. Boeing’s Defense, Space & Security division makes up more than a third of its revenue.
+
+- Pentagon Issues $930M to Boeing for F/A-18 Updates
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999bfcf6b1e4f1e9a04bd5cc497b28e&url=https%3a%2f%2fwww.americanmachinist.com%2fnews%2fnews%2f55338878%2fpentagon-issues-930m-for-f-a-18-updates-boeing-defense&c=14666530926983791326&mkt=en-us
+  F/A-18 Super Hornet Block III avionics include a 10x19-inch touchscreen display in place of multiple smaller screens for pilots to monitor. Boeing Defense was awarded $930.8 million in a new U.S. Navy ...
+  LinkedPageStatus: ok (https://www.americanmachinist.com/news/news/55338878/pentagon-issues-930m-for-f-a-18-updates-boeing-defense)
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  Boeing Defense was awarded $930.8 million in a new U.S. Navy contract to provide “service life modifications” for up to 60 F/A-18 E/F Super Hornet fighter jets. The goal is to extend the service life for the aircraft from 6,000 to 10,000 flight hours, and also to integrate Block III avionics capabilities. The F/A-18E and F/A-18F Super Hornets are twin-engine multi-role aircraft in service to the U.S. Navy and several allied defense forces. The F/A-18 program has been in place since 1995, but Boeing is due to end the series production this year. The Navy operates several hundred of the fighters, most of which are dated to Block II of the series. Block III was introduced in 2020 , and incorporates multiple improvements in networking capabilities, data processing power, range, and fuel capacity. The latest series has a service life of 10,000 flight hours as a standard. F/18 Block III avionics present a significant upgrade over Block II, and include an Advanced Cockpit System with a 10x19-inch touchscreen display in place of multiple smaller screens; a distributed targeting processor network for faster data processing; and the tactical targeting network technology that boosts data sharing; and an open mission systems architecture for future upgrades. The Boeing Defense explained that “Block III transforms the Super Hornet into a more connected, aware, and
+
+- Boeing Defense Workers Reject Latest Contract
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999bfcf6b1e4f1e9a04bd5cc497b28e&url=https%3a%2f%2fwww.msn.com%2fen-us%2fpolitics%2fgovernment%2fboeing-defense-workers-reject-latest-contract%2far-AA1PdLwE&c=15874628172246491323&mkt=en-us
+  Roughly 3,200 striking St. Louis-area Boeing workers will stay on the picket line after members rejected a modified contract proposal for a fourth time. The local IAM 837 union said its members voted ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/politics/government/boeing-defense-workers-reject-latest-contract/ar-AA1PdLwE)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Boeing defense workers ratify new contract, ending three-month strike
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999bfcf6b1e4f1e9a04bd5cc497b28e&url=https%3a%2f%2fwww.newstribune.com%2fnews%2f2025%2fnov%2f14%2fboeing-defense-workers-ratify-new-contract-ending%2f&c=1808799943555702137&mkt=en-us
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier ...
+  LinkedPageStatus: ok (https://www.newstribune.com/news/2025/nov/14/boeing-defense-workers-ratify-new-contract-ending/)
+  LinkedPageSummaryWords: 34
+  LinkedPageSummary:
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier offers from the company.
+
+- The Boeing Company (BA) Secures $4.7 Billion Contract To Build AH-64E Apache Helicopters For International Clients
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999bfcf6b1e4f1e9a04bd5cc497b28e&url=https%3a%2f%2fwww.insidermonkey.com%2fblog%2fthe-boeing-company-ba-secures-4-7-billion-contract-to-build-ah-64e-apache-helicopters-for-international-clients-1652567%2f&c=6509270220043897655&mkt=en-us
+  The Boeing Company (NYSE:BA) is among the 10 Best Drone Stocks to Buy Right Now. On November 26, the company announced that it had secured a contract worth $4.7 billion from the U.S. Army to ...
+  LinkedPageStatus: ok (https://www.insidermonkey.com/blog/the-boeing-company-ba-secures-4-7-billion-contract-to-build-ah-64e-apache-helicopters-for-international-clients-1652567/)
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described generative AI as a “once-in-a-lifetime” technology that is already being used across Amazon to reinvent customer experiences. At the 8th Future Investment Initiative conference, Elon Musk predicted that by 2040 there would be at least 10 billion humanoid robots , with each priced between $20,000 and $25,000 . Do the math. According to Musk, this technology could be worth $250 trillion by 2040. And here’s the wild part — this $250 trillion wave isn’t tied to one company, but to an entire ecosystem of AI innovators set to reshape the global economy. It’s a leap so massive, it could reshape how businesses, governments, and consumers operate worldwide. Even if that $250 trillion figure sounds ambitious, major firms like PwC and McKinsey still see AI unlocking multi-trillion-dollar potential. The answer lies in a breakthrough so powerful it’s redefining how humanity works, learns, and creates. And this breakthrough has already set off a frenzy among hedge funds and Wall Street’s top investors. What most investors don’t realize is that one under-owned company holds the key to this $250 trillion revolution. In fact, Verge argues this company’s supercheap AI technology should
+
+
+Domain: Boeing
+Query: Boeing defense latest company news
+Timestamp: 2026-02-21T14:25:46
+PerPageSummaryWords: 200
+- Boeing relocates defense HQ to American heartland, leaving ... - Fox News
+  https://www.foxnews.com/politics/top-defense-contractor-announces-major-move-weeks-after-dem-governor-takes-office-win-heartland
+  Boeing announced it is moving its defense headquarters out of Virginia back to St. Louis, just weeks after newly elected Democratic Gov. Abigail Spanberger took office.
+  LinkedPageStatus: ok (https://www.foxnews.com/politics/top-defense-contractor-announces-major-move-weeks-after-dem-governor-takes-office-win-heartland)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Former special assistant to President Biden Michael LaRosa and Washington Times editor-at-large Alex Swoyer join 'America Reports' to react to Virginia Democrat Gov. Abigail Spanberger's controversial start to her term. NEW You can now listen to Fox News articles! After nearly a decade in Virginia, Boeing announced on Wednesday that it is moving its Defense, Space & Security headquarters out of the state back to St. Louis. This comes just weeks after new Democratic Gov. Abigail Spanberger took office, replacing Republican Gov. Glenn Youngkin. In a Wednesday statement, Boeing said its decision to move its defense headquarters to St. Louis emphasizes company leadership’s "commitment to being present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities for customers in the U.S. and around the world." The company said it is progressing on a multibillion-dollar investment in "the world’s most advanced combat aircraft production facilities," including in St. Louis. The change moves the defense headquarters from Arlington, Virginia , back to its former site in St. Louis, where much of the company’s products are designed and manufactured. Boeing’s headquarters was in Arlington, a suburb of Washington, D.C., for nearly a decade, with the
+
+- Boeing Defense, Space & Security headquarters returns to St. Louis
+  https://www.boeing.com/features/2026/02/boeing-defense-space-and-security-headquarters-returns-to-st-louis
+  Boeing named its St. Louis site the headquarters of the Boeing Defense , Space & Security (BDS) business. The move emphasizes company leadership's commitment to being present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities for customers in the U.S. and around the world.
+  LinkedPageStatus: ok (https://www.boeing.com/features/2026/02/boeing-defense-space-and-security-headquarters-returns-to-st-louis)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing named its St. Louis site the headquarters of the Boeing Defense, Space & Security (BDS) business. The move emphasizes company leadership’s commitment to being present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities for customers in the U.S. and around the world. Employees in the St. Louis area also support Boeing Global Services, Boeing Commercial Airplanes and enterprise functions. “It’s important for leaders to be side-by-side with our teammates, listening to their feedback and acting to remove obstacles as we continue to stabilize and strengthen our business,” said Steve Parker, Boeing Defense, Space & Security CEO. “The headquarters move, coupled with our senior leaders being based at and spending their time at major engineering, production and manufacturing centers across the U.S., reflects our continued focus on disciplined performance across our business.” The change moves the defense headquarters from Arlington, Virginia back to St. Louis, Missouri, where it was located from 1997 to 2017. Boeing is progressing on a multi-year, multi-billion-dollar investment in the world’s most advanced combat aircraft production facilities, including in St. Louis. The site has a rich history designing and manufacturing some of the world’s most innovative spacecraft
+
+- News Releases - Boeing UK
+  https://www.boeing.co.uk/news-releases
+  10/06/2024 Boeing -supported Newton Room Opens in North Somerset 14/05/2024 Boeing Strengthens Presence in Bristol with New UK Defence Headquarters 11/04/2024 Moray Steel Supplier Supports Construction of UK E-7 Wedgetail Facilities 21/02/2024
+  LinkedPageStatus: ok (https://www.boeing.co.uk/news-releases)
+  LinkedPageSummaryWords: 41
+  LinkedPageSummary:
+  Dan Mosely Head of Communications, Boeing UK, Ireland & the Nordics +44 7825 898594 daniel.mosely@boeing.com Georgina Ramin Boeing UK & Ireland Defence Communications Specialist +44 (0) 7552 254770 georgina.ramin@boeing.com Hannah Shroot Boeing UK & Ireland Communications +44 (0) 7775 225695 hannah.l.shroot@boeing.com
+
+- Boeing Defense plans to replace striking workers with new hires
+  https://www.reuters.com/business/world-at-work/boeing-defense-plans-replace-striking-workers-with-new-hires-2025-09-04/
+  Sept 4 (Reuters) - Boeing Defense (BA.N) plans to hire new workers to replace striking members of the International Association of Machinists and Aerospace Workers (IAM) who assemble munitions ...
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/world-at-work/boeing-defense-plans-replace-striking-workers-with-new-hires-2025-09-04/
+  LinkedPageSummaryWords: 0
+
+- News Releases | Boeing Newsroom
+  https://boeing.mediaroom.com/news-releases-statements
+  The Boeing Company [NYSE: BA] announced today major program deliveries across its commercial and defense operations for the fourth quarter of 2025 as follows: Major Programs 4th Quarter 2025 Full Year
+  LinkedPageStatus: ok (https://boeing.mediaroom.com/news-releases-statements)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  We’re grateful to NASA for its thorough investigation and the opportunity to contribute to it. In the 18 months since our test flight, Boeing has made substantial progress on corrective actions... Federal Aviation Administration (FAA) and European Union Aviation Safety Agency (EASA) approve simulator devices for airline pilot training GATWICK, United Kingdom, Feb. 19, 2026 /PRNewswire/ --... New luxury airline makes first direct jet purchase to grow tourism and economy on Vietnam's largest island WASHINGTON, Feb. 18, 2026 /PRNewswire/ -- Boeing [NYSE: BA] and Sun PhuQuoc Airways today... 787 Dreamliner operator places first Boeing single-aisle order as part of its growth strategy Versatile 737-8 jets will expand Vietnam's short- and medium-haul network amid rising travel demand... SEATTLE, Feb. 17, 2026 — Boeing and Air Astana JSC announced today the Kazakhstan flag carrier has finalized an order for up to 15 787 Dreamliner jets to grow and modernize its Boeing widebody... LONG BEACH, Calif. — February 9, 2026 — The Boeing Company today announced a contract award from the U.S. Air Force that will keep the C‑17A Globemaster flying and mission-ready for decades... SINGAPORE, Feb. 4, 2026 — Boeing [NYSE: BA] successfully completed its 100th 787 Landing Gear Exchange (LGE) delivery,
+
+- Arlington loses Boeing's defense HQ to St. Louis | ARLnow.com
+  https://www.arlnow.com/2026/02/19/arlington-loses-boeings-defense-hq-to-st-louis/
+  Boeing's Defense , Space and Security headquarters is leaving Crystal City after nine years. The aerospace and defense company announced the move Wednesday, citing a desire to be "present and ...
+  LinkedPageStatus: ok (https://www.arlnow.com/2026/02/19/arlington-loses-boeings-defense-hq-to-st-louis/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing’s Defense, Space and Security headquarters is leaving Crystal City after nine years. The aerospace and defense company announced the move Wednesday, citing a desire to be “present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities.” The St. Louis region is home to about 18,000 Boeing employees. The company did not say how many employees, if any, would relocate from here. According to Defense One , Boeing plans to keep its global headquarters in Arlington, where it has been based since 2022 . “It’s important for leaders to be side-by-side with our teammates, listening to their feedback and acting to remove obstacles as we continue to stabilize and strengthen our business,” said Steve Parker, Boeing Defense, Space & Security CEO. “The headquarters move, coupled with our senior leaders being based at and spending their time at major engineering, production and manufacturing centers across the U.S., reflects our continued focus on disciplined performance across our business.” Boeing moved its defense headquarters to Crystal City in early 2017 , seeking closer proximity to federal decision-makers. Its Crystal City office complex, approved in 2011 , was originally a regional headquarters. The relocation won’t affect
+
+- Boeing Defense News Room - Latest news and breaking stories - Aviation24.be
+  https://www.aviation24.be/category/manufacturers/boeing/boeing-defense/
+  All the latest breaking news on Boeing Defense . Browse Aviation24.be's complete collection of articles and commentary on Boeing Defense .
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.aviation24.be/category/manufacturers/boeing/boeing-defense/
+  LinkedPageSummaryWords: 0
+
+- Boeing's Defense Unit Steers to New Heights on Expanding Backlog
+  https://finance.yahoo.com/news/boeings-defense-unit-steers-heights-135400635.html
+  The Boeing Company's (BA) defense business has been a stabilizing pillar for the aerospace giant as its commercial division, despite showing growth traits lately, continues to face supply-chain ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_ccf48367-eb57-4174-93e3-0c1aea4d164f)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+
+Domain: Boeing
+Query: Boeing defense latest company news
+Timestamp: 2026-02-21T14:26:52
+PerPageSummaryWords: 220
+- Boeing Defense, Space & Security headquarters returns to St. Louis
+  https://www.boeing.com/features/2026/02/boeing-defense-space-and-security-headquarters-returns-to-st-louis
+  Boeing named its St. Louis site the headquarters of the Boeing Defense , Space & Security (BDS) business. The move emphasizes company leadership's commitment to being present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities for customers in the U.S. and around the world.
+  LinkedPageStatus: ok (https://www.boeing.com/features/2026/02/boeing-defense-space-and-security-headquarters-returns-to-st-louis)
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  Boeing named its St. Louis site the headquarters of the Boeing Defense, Space & Security (BDS) business. The move emphasizes company leadership’s commitment to being present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities for customers in the U.S. and around the world. Employees in the St. Louis area also support Boeing Global Services, Boeing Commercial Airplanes and enterprise functions. “It’s important for leaders to be side-by-side with our teammates, listening to their feedback and acting to remove obstacles as we continue to stabilize and strengthen our business,” said Steve Parker, Boeing Defense, Space & Security CEO. “The headquarters move, coupled with our senior leaders being based at and spending their time at major engineering, production and manufacturing centers across the U.S., reflects our continued focus on disciplined performance across our business.” The change moves the defense headquarters from Arlington, Virginia back to St. Louis, Missouri, where it was located from 1997 to 2017. Boeing is progressing on a multi-year, multi-billion-dollar investment in the world’s most advanced combat aircraft production facilities, including in St. Louis. The site has a rich history designing and manufacturing some of the world’s most innovative spacecraft and most advanced and innovative tactical aircraft. By aligning leadership with the workforce and investing in state-of-the-art facilities, Boeing is
+
+- Boeing relocates defense HQ to American heartland, leaving ... - Fox News
+  https://www.foxnews.com/politics/top-defense-contractor-announces-major-move-weeks-after-dem-governor-takes-office-win-heartland
+  Boeing announced it is moving its defense headquarters out of Virginia back to St. Louis, just weeks after newly elected Democratic Gov. Abigail Spanberger took office.
+  LinkedPageStatus: ok (https://www.foxnews.com/politics/top-defense-contractor-announces-major-move-weeks-after-dem-governor-takes-office-win-heartland)
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  Former special assistant to President Biden Michael LaRosa and Washington Times editor-at-large Alex Swoyer join 'America Reports' to react to Virginia Democrat Gov. Abigail Spanberger's controversial start to her term. NEW You can now listen to Fox News articles! After nearly a decade in Virginia, Boeing announced on Wednesday that it is moving its Defense, Space & Security headquarters out of the state back to St. Louis. This comes just weeks after new Democratic Gov. Abigail Spanberger took office, replacing Republican Gov. Glenn Youngkin. In a Wednesday statement, Boeing said its decision to move its defense headquarters to St. Louis emphasizes company leadership’s "commitment to being present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities for customers in the U.S. and around the world." The company said it is progressing on a multibillion-dollar investment in "the world’s most advanced combat aircraft production facilities," including in St. Louis. The change moves the defense headquarters from Arlington, Virginia , back to its former site in St. Louis, where much of the company’s products are designed and manufactured. Boeing’s headquarters was in Arlington, a suburb of Washington, D.C., for nearly a decade, with the company moving in 2017. ICE nabs Iranian national with rape, sodomy convictions after Virginia Democrats move to curb cooperation Boeing
+
+- Arlington loses Boeing's defense HQ to St. Louis | ARLnow.com
+  https://www.arlnow.com/2026/02/19/arlington-loses-boeings-defense-hq-to-st-louis/
+  Boeing's Defense , Space and Security headquarters is leaving Crystal City after nine years. The aerospace and defense company announced the move Wednesday, citing a desire to be "present and ...
+  LinkedPageStatus: ok (https://www.arlnow.com/2026/02/19/arlington-loses-boeings-defense-hq-to-st-louis/)
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  Boeing’s Defense, Space and Security headquarters is leaving Crystal City after nine years. The aerospace and defense company announced the move Wednesday, citing a desire to be “present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities.” The St. Louis region is home to about 18,000 Boeing employees. The company did not say how many employees, if any, would relocate from here. According to Defense One , Boeing plans to keep its global headquarters in Arlington, where it has been based since 2022 . “It’s important for leaders to be side-by-side with our teammates, listening to their feedback and acting to remove obstacles as we continue to stabilize and strengthen our business,” said Steve Parker, Boeing Defense, Space & Security CEO. “The headquarters move, coupled with our senior leaders being based at and spending their time at major engineering, production and manufacturing centers across the U.S., reflects our continued focus on disciplined performance across our business.” Boeing moved its defense headquarters to Crystal City in early 2017 , seeking closer proximity to federal decision-makers. Its Crystal City office complex, approved in 2011 , was originally a regional headquarters. The relocation won’t affect daily operations, and the defense and space division will still have a presence in Virginia, according to Defense One. The
+
+- News Releases | Boeing Newsroom
+  https://boeing.mediaroom.com/news-releases-statements
+  The Boeing Company [NYSE: BA] announced today major program deliveries across its commercial and defense operations for the fourth quarter of 2025 as follows: Major Programs 4th Quarter 2025 Full Year
+  LinkedPageStatus: ok (https://boeing.mediaroom.com/news-releases-statements)
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  We’re grateful to NASA for its thorough investigation and the opportunity to contribute to it. In the 18 months since our test flight, Boeing has made substantial progress on corrective actions... Federal Aviation Administration (FAA) and European Union Aviation Safety Agency (EASA) approve simulator devices for airline pilot training GATWICK, United Kingdom, Feb. 19, 2026 /PRNewswire/ --... New luxury airline makes first direct jet purchase to grow tourism and economy on Vietnam's largest island WASHINGTON, Feb. 18, 2026 /PRNewswire/ -- Boeing [NYSE: BA] and Sun PhuQuoc Airways today... 787 Dreamliner operator places first Boeing single-aisle order as part of its growth strategy Versatile 737-8 jets will expand Vietnam's short- and medium-haul network amid rising travel demand... SEATTLE, Feb. 17, 2026 — Boeing and Air Astana JSC announced today the Kazakhstan flag carrier has finalized an order for up to 15 787 Dreamliner jets to grow and modernize its Boeing widebody... LONG BEACH, Calif. — February 9, 2026 — The Boeing Company today announced a contract award from the U.S. Air Force that will keep the C‑17A Globemaster flying and mission-ready for decades... SINGAPORE, Feb. 4, 2026 — Boeing [NYSE: BA] successfully completed its 100th 787 Landing Gear Exchange (LGE) delivery, highlighting its commitment to innovative solutions that enhance... SINGAPORE, Feb. 4, 2026 — Boeing [NYSE: BA] announced the largest landing
+
+- News Releases - Boeing UK
+  https://www.boeing.co.uk/news-releases
+  10/06/2024 Boeing -supported Newton Room Opens in North Somerset 14/05/2024 Boeing Strengthens Presence in Bristol with New UK Defence Headquarters 11/04/2024 Moray Steel Supplier Supports Construction of UK E-7 Wedgetail Facilities 21/02/2024
+  LinkedPageStatus: ok (https://www.boeing.co.uk/news-releases)
+  LinkedPageSummaryWords: 41
+  LinkedPageSummary:
+  Dan Mosely Head of Communications, Boeing UK, Ireland & the Nordics +44 7825 898594 daniel.mosely@boeing.com Georgina Ramin Boeing UK & Ireland Defence Communications Specialist +44 (0) 7552 254770 georgina.ramin@boeing.com Hannah Shroot Boeing UK & Ireland Communications +44 (0) 7775 225695 hannah.l.shroot@boeing.com
+
+- Boeing defense workers on strike in the Midwest reject the company's ...
+  https://www.independent.co.uk/news/boeing-midwest-illinois-missouri-b2852568.html
+  Boeing workers at three Midwest plants where military aircraft and weapons are developed have voted to reject the company's latest contract offer and to continue a strike that started almost ...
+  LinkedPageStatus: ok (https://www.independent.co.uk/news/boeing-midwest-illinois-missouri-b2852568.html)
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  Boeing workers at three Midwest plants where military aircraft and weapons are developed voted Sunday to reject the company’s latest contract offer and to continue a strike that started almost three months ago. The strike by about 3,200 machinists at the plants in the Missouri cities of St. Louis and St. Charles, and in Mascoutah, Illinois , is smaller in scale than a walkout last year by 33,000 Boeing workers who assemble commercial jetliners but threatens to complicate the aerospace company’s progress in regaining its financial footing. “Boeing claimed they listened to their employees – the result of today’s vote proves they have not,” Brian Bryant, president of the International Association of Machinists union, said in a statement. Union leaders say talks have stalled over issues such as wages and retirement benefits, while Boeing has argued that workers’ demands exceed the cost of living in the Midwest. Ahead of Sunday’s vote, the union told its members that it did not recommend approval of the company’s latest offer, which it said “had no meaningful improvements” to retirement benefits and wage increases for workers with more seniority. Negotiations escalated over the summer in the days leading up to the strike, with the workers rejecting an earlier proposed agreement that included a 20% wage hike over the life of the five-year contract. Boeing
+
+- Boeing Defense plans to replace striking workers with new hires
+  https://www.reuters.com/business/world-at-work/boeing-defense-plans-replace-striking-workers-with-new-hires-2025-09-04/
+  Sept 4 (Reuters) - Boeing Defense (BA.N) plans to hire new workers to replace striking members of the International Association of Machinists and Aerospace Workers (IAM) who assemble munitions ...
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/world-at-work/boeing-defense-plans-replace-striking-workers-with-new-hires-2025-09-04/
+  LinkedPageSummaryWords: 0
+
+- Boeing Defense News Room - Latest news and breaking stories - Aviation24.be
+  https://www.aviation24.be/category/manufacturers/boeing/boeing-defense/
+  All the latest breaking news on Boeing Defense . Browse Aviation24.be's complete collection of articles and commentary on Boeing Defense .
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.aviation24.be/category/manufacturers/boeing/boeing-defense/
+  LinkedPageSummaryWords: 0
+
+
+Domain: Boeing
+Query: Boeing defense latest company news
+Timestamp: 2026-02-21T14:27:48
+PerPageSummaryWords: 200
+- Boeing Defense Headquarters Moving Back to St. Louis
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c0de621046d7896b2fc4fbe76ec7&url=https%3a%2f%2fwww.aviationpros.com%2faircraft-maintenance-technology%2faircraft-technology%2fdefense%2fnews%2f55358599%2fboeing-defense-headquarters-moving-back-to-st-louis&c=15214865212107592916&mkt=en-us
+  The relocation is effective as of Wednesday, and there is not a specific number of jobs associated with the move, according to a company spokesperson.
+  LinkedPageStatus: ok (https://www.aviationpros.com/aircraft-maintenance-technology/aircraft-technology/defense/news/55358599/boeing-defense-headquarters-moving-back-to-st-louis)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  ST. LOUIS — The Boeing Co.'s defense, space and security division headquarters is moving back to St. Louis, the company said in a news release Wednesday. The division operated out of St. Louis from 1997 to 2017 when Boeing moved the defense headquarters to Arlington, Virginia. The relocation is effective as of Wednesday, and there is not a specific number of jobs associated with the move, according to a company spokesperson. Steve Parker, CEO for Boeing's defense, space and security division, said in a statement that "it's important for leaders to be side-by-side with our teammates, listening to their feedback and acting to remove obstacles as we continue to stabilize and strengthen our business. “The headquarters move, coupled with our senior leaders being based at and spending their time at major engineering, production and manufacturing centers across the U.S., reflects our continued focus on disciplined performance across our business," Parker said. The defense headquarters' previous move to the Washington, D.C., area, announced in late 2016, reflected the aerospace giant's desire to be closer to the levers of power in the nation’s capital. The company expected about 50 positions to eventually relocate to the Virginia headquarters. Boeing said Wednesday it employs
+
+- Boeing’s Regional Director on F-15EX for Saudi Arabia, localizing production
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c0de621046d7896b2fc4fbe76ec7&url=https%3a%2f%2fwww.aerotime.aero%2farticles%2fboeings-regional-director-on-f-15ex-for-saudi-arabia-localizing-production&c=5537440330562786149&mkt=en-us
+  Boeing was among the most prominent exhibitors at the World Defense Show (WDS) 2026, held in Riyadh, Saudi Arabia, from February 8-12, 2026. The US manufacturer demonstrated its strong presence within ...
+  LinkedPageStatus: ok (https://www.aerotime.aero/articles/boeings-regional-director-on-f-15ex-for-saudi-arabia-localizing-production)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing was among the most prominent exhibitors at the World Defense Show (WDS) 2026 , held in Riyadh, Saudi Arabia, from February 8-12, 2026. The US manufacturer demonstrated its strong presence within a market in which it maintains a significant footprint across both civilian and military sectors. Saudi Arabia is one of the few countries in the world to host a dedicated Boeing office, a fact that underscores the strategic importance that Boeing gives to its relationship with the Middle Eastern Kingdom. To learn more about Boeing’s regional footprint and its plans for the Middle East in the field of defense and space, AeroTime spoke with Kirk Schultz, Regional Director for International Business Development at Boeing Defense, Space and Security, during WDS. Schultz began by emphasizing the importance of WDS as a platform to showcase the company’s broad portfolio of solutions. “If you had the chance to go out on the ramp, you could see some of our fantastic flagship products—the AH-64, the CH-47, F-15s, and a KC-46 – on display,” he noted. A Saudi-operated F-15 also participated in the show’s flying display. In fact, Saudi Arabia operates nearly 400 military aircraft made by Boeing, making it one of the
+
+- Boeing Orders And Defense Wins Test Valuation Gap And Labor Risks
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c0de621046d7896b2fc4fbe76ec7&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2fboeing-orders-defense-wins-test-080828299.html&c=859529808765875&mkt=en-us
+  In January, Boeing reported one of its strongest recent months for aircraft orders and deliveries, including a substantial widebody order from Delta Air Lines. The company secured significant long ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_a9994971-0a8c-4887-a5a0-d01e6ceb5eb8)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Boeing defense workers ratify contract to end 3-month strike in the Midwest
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c0de621046d7896b2fc4fbe76ec7&url=https%3a%2f%2fwww.vindy.com%2fnews%2fbusiness-news%2f2025%2f11%2fboeing-defense-workers-ratify-contract-to-end-3-month-strike-in-the-midwest%2f&c=8058337083678561729&mkt=en-us
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier ...
+  LinkedPageStatus: ok (https://www.vindy.com/news/business-news/2025/11/boeing-defense-workers-ratify-contract-to-end-3-month-strike-in-the-midwest/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier offers from the company. The breakthrough five-year labor agreement includes a 24% wage hike across the life of the contract and a $6,000 signing bonus, according to the union representing the 3,200 workers who walked off the job Aug. 4. “We’re proud of what our members have fought for together and are ready to get back to building the world’s most advanced military aircraft,” the International Association of Machinists and Aerospace Workers said in a statement. With their new contract in hand, the machinists are set to return to work Sunday at manufacturing plants in the Missouri cities of St. Louis and St. Charles, as well as in Mascoutah, Illinois. The workers build fighter jets, weapons systems and the U.S. Navy’s first carrier-based unmanned aircraft at those facilities. Boeing said in a statement that it looks forward to “bringing our full team back together.” While the strike was smaller than last year’s walkout by 33,000 Boeing workers who build commercial jetliners, it still threatened to slow the aerospace company’s efforts
+
+- Pentagon Issues $930M to Boeing for F/A-18 Updates
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c0de621046d7896b2fc4fbe76ec7&url=https%3a%2f%2fwww.americanmachinist.com%2fnews%2fnews%2f55338878%2fpentagon-issues-930m-for-f-a-18-updates-boeing-defense&c=14666530926983791326&mkt=en-us
+  F/A-18 Super Hornet Block III avionics include a 10x19-inch touchscreen display in place of multiple smaller screens for pilots to monitor. Boeing Defense was awarded $930.8 million in a new U.S. Navy ...
+  LinkedPageStatus: ok (https://www.americanmachinist.com/news/news/55338878/pentagon-issues-930m-for-f-a-18-updates-boeing-defense)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing Defense was awarded $930.8 million in a new U.S. Navy contract to provide “service life modifications” for up to 60 F/A-18 E/F Super Hornet fighter jets. The goal is to extend the service life for the aircraft from 6,000 to 10,000 flight hours, and also to integrate Block III avionics capabilities. The F/A-18E and F/A-18F Super Hornets are twin-engine multi-role aircraft in service to the U.S. Navy and several allied defense forces. The F/A-18 program has been in place since 1995, but Boeing is due to end the series production this year. The Navy operates several hundred of the fighters, most of which are dated to Block II of the series. Block III was introduced in 2020 , and incorporates multiple improvements in networking capabilities, data processing power, range, and fuel capacity. The latest series has a service life of 10,000 flight hours as a standard. F/18 Block III avionics present a significant upgrade over Block II, and include an Advanced Cockpit System with a 10x19-inch touchscreen display in place of multiple smaller screens; a distributed targeting processor network for faster data processing; and the tactical targeting network technology that boosts data sharing; and an open mission systems architecture
+
+- Boeing Defense Workers Reject Latest Contract
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c0de621046d7896b2fc4fbe76ec7&url=https%3a%2f%2fwww.msn.com%2fen-us%2fpolitics%2fgovernment%2fboeing-defense-workers-reject-latest-contract%2far-AA1PdLwE&c=15874628172246491323&mkt=en-us
+  Roughly 3,200 striking St. Louis-area Boeing workers will stay on the picket line after members rejected a modified contract proposal for a fourth time. The local IAM 837 union said its members voted ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/politics/government/boeing-defense-workers-reject-latest-contract/ar-AA1PdLwE)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Boeing defense workers ratify new contract, ending three-month strike
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c0de621046d7896b2fc4fbe76ec7&url=https%3a%2f%2fwww.newstribune.com%2fnews%2f2025%2fnov%2f14%2fboeing-defense-workers-ratify-new-contract-ending%2f&c=1808799943555702137&mkt=en-us
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier ...
+  LinkedPageStatus: ok (https://www.newstribune.com/news/2025/nov/14/boeing-defense-workers-ratify-new-contract-ending/)
+  LinkedPageSummaryWords: 34
+  LinkedPageSummary:
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier offers from the company.
+
+- The Boeing Company (BA) Secures $4.7 Billion Contract To Build AH-64E Apache Helicopters For International Clients
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c0de621046d7896b2fc4fbe76ec7&url=https%3a%2f%2fwww.insidermonkey.com%2fblog%2fthe-boeing-company-ba-secures-4-7-billion-contract-to-build-ah-64e-apache-helicopters-for-international-clients-1652567%2f&c=6509270220043897655&mkt=en-us
+  The Boeing Company (NYSE:BA) is among the 10 Best Drone Stocks to Buy Right Now. On November 26, the company announced that it had secured a contract worth $4.7 billion from the U.S. Army to ...
+  LinkedPageStatus: ok (https://www.insidermonkey.com/blog/the-boeing-company-ba-secures-4-7-billion-contract-to-build-ah-64e-apache-helicopters-for-international-clients-1652567/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described generative AI as a “once-in-a-lifetime” technology that is already being used across Amazon to reinvent customer experiences. At the 8th Future Investment Initiative conference, Elon Musk predicted that by 2040 there would be at least 10 billion humanoid robots , with each priced between $20,000 and $25,000 . Do the math. According to Musk, this technology could be worth $250 trillion by 2040. And here’s the wild part — this $250 trillion wave isn’t tied to one company, but to an entire ecosystem of AI innovators set to reshape the global economy. It’s a leap so massive, it could reshape how businesses, governments, and consumers operate worldwide. Even if that $250 trillion figure sounds ambitious, major firms like PwC and McKinsey still see AI unlocking multi-trillion-dollar potential. The answer lies in a breakthrough so powerful it’s redefining how humanity works, learns, and creates. And this breakthrough has already set off a frenzy among hedge funds and Wall Street’s top investors. What most investors don’t realize is that one
+
+
+Domain: Boeing
+Query: Boeing defense latest company news
+Timestamp: 2026-02-21T14:36:11
+PerPageSummaryWords: 200
+- Boeing Defense Headquarters Moving Back to St. Louis
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2d670d244b6a2487d53e456a352&url=https%3a%2f%2fwww.aviationpros.com%2faircraft-maintenance-technology%2faircraft-technology%2fdefense%2fnews%2f55358599%2fboeing-defense-headquarters-moving-back-to-st-louis&c=15214865212107592916&mkt=en-us
+  The relocation is effective as of Wednesday, and there is not a specific number of jobs associated with the move, according to a company spokesperson.
+  LinkedPageStatus: ok (https://www.aviationpros.com/aircraft-maintenance-technology/aircraft-technology/defense/news/55358599/boeing-defense-headquarters-moving-back-to-st-louis)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  ST. LOUIS — The Boeing Co.'s defense, space and security division headquarters is moving back to St. Louis, the company said in a news release Wednesday. The division operated out of St. Louis from 1997 to 2017 when Boeing moved the defense headquarters to Arlington, Virginia. The relocation is effective as of Wednesday, and there is not a specific number of jobs associated with the move, according to a company spokesperson. Steve Parker, CEO for Boeing's defense, space and security division, said in a statement that "it's important for leaders to be side-by-side with our teammates, listening to their feedback and acting to remove obstacles as we continue to stabilize and strengthen our business. “The headquarters move, coupled with our senior leaders being based at and spending their time at major engineering, production and manufacturing centers across the U.S., reflects our continued focus on disciplined performance across our business," Parker said. The defense headquarters' previous move to the Washington, D.C., area, announced in late 2016, reflected the aerospace giant's desire to be closer to the levers of power in the nation’s capital. The company expected about 50 positions to eventually relocate to the Virginia headquarters. Boeing said Wednesday it employs
+
+- Boeing’s Regional Director on F-15EX for Saudi Arabia, localizing production
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2d670d244b6a2487d53e456a352&url=https%3a%2f%2fwww.aerotime.aero%2farticles%2fboeings-regional-director-on-f-15ex-for-saudi-arabia-localizing-production&c=5537440330562786149&mkt=en-us
+  Boeing was among the most prominent exhibitors at the World Defense Show (WDS) 2026, held in Riyadh, Saudi Arabia, from February 8-12, 2026. The US manufacturer demonstrated its strong presence within ...
+  LinkedPageStatus: ok (https://www.aerotime.aero/articles/boeings-regional-director-on-f-15ex-for-saudi-arabia-localizing-production)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing was among the most prominent exhibitors at the World Defense Show (WDS) 2026 , held in Riyadh, Saudi Arabia, from February 8-12, 2026. The US manufacturer demonstrated its strong presence within a market in which it maintains a significant footprint across both civilian and military sectors. Saudi Arabia is one of the few countries in the world to host a dedicated Boeing office, a fact that underscores the strategic importance that Boeing gives to its relationship with the Middle Eastern Kingdom. To learn more about Boeing’s regional footprint and its plans for the Middle East in the field of defense and space, AeroTime spoke with Kirk Schultz, Regional Director for International Business Development at Boeing Defense, Space and Security, during WDS. Schultz began by emphasizing the importance of WDS as a platform to showcase the company’s broad portfolio of solutions. “If you had the chance to go out on the ramp, you could see some of our fantastic flagship products—the AH-64, the CH-47, F-15s, and a KC-46 – on display,” he noted. A Saudi-operated F-15 also participated in the show’s flying display. In fact, Saudi Arabia operates nearly 400 military aircraft made by Boeing, making it one of the
+
+- Boeing Orders And Defense Wins Test Valuation Gap And Labor Risks
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2d670d244b6a2487d53e456a352&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2fboeing-orders-defense-wins-test-080828299.html&c=859529808765875&mkt=en-us
+  In January, Boeing reported one of its strongest recent months for aircraft orders and deliveries, including a substantial widebody order from Delta Air Lines. The company secured significant long ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_7224acad-f8dc-44af-84fc-872c9df02960)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Boeing defense workers ratify contract to end 3-month strike in the Midwest
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2d670d244b6a2487d53e456a352&url=https%3a%2f%2fwww.vindy.com%2fnews%2fbusiness-news%2f2025%2f11%2fboeing-defense-workers-ratify-contract-to-end-3-month-strike-in-the-midwest%2f&c=8058337083678561729&mkt=en-us
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier ...
+  LinkedPageStatus: ok (https://www.vindy.com/news/business-news/2025/11/boeing-defense-workers-ratify-contract-to-end-3-month-strike-in-the-midwest/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier offers from the company. The breakthrough five-year labor agreement includes a 24% wage hike across the life of the contract and a $6,000 signing bonus, according to the union representing the 3,200 workers who walked off the job Aug. 4. “We’re proud of what our members have fought for together and are ready to get back to building the world’s most advanced military aircraft,” the International Association of Machinists and Aerospace Workers said in a statement. With their new contract in hand, the machinists are set to return to work Sunday at manufacturing plants in the Missouri cities of St. Louis and St. Charles, as well as in Mascoutah, Illinois. The workers build fighter jets, weapons systems and the U.S. Navy’s first carrier-based unmanned aircraft at those facilities. Boeing said in a statement that it looks forward to “bringing our full team back together.” While the strike was smaller than last year’s walkout by 33,000 Boeing workers who build commercial jetliners, it still threatened to slow the aerospace company’s efforts
+
+- Pentagon Issues $930M to Boeing for F/A-18 Updates
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2d670d244b6a2487d53e456a352&url=https%3a%2f%2fwww.americanmachinist.com%2fnews%2fnews%2f55338878%2fpentagon-issues-930m-for-f-a-18-updates-boeing-defense&c=14666530926983791326&mkt=en-us
+  F/A-18 Super Hornet Block III avionics include a 10x19-inch touchscreen display in place of multiple smaller screens for pilots to monitor. Boeing Defense was awarded $930.8 million in a new U.S. Navy ...
+  LinkedPageStatus: ok (https://www.americanmachinist.com/news/news/55338878/pentagon-issues-930m-for-f-a-18-updates-boeing-defense)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing Defense was awarded $930.8 million in a new U.S. Navy contract to provide “service life modifications” for up to 60 F/A-18 E/F Super Hornet fighter jets. The goal is to extend the service life for the aircraft from 6,000 to 10,000 flight hours, and also to integrate Block III avionics capabilities. The F/A-18E and F/A-18F Super Hornets are twin-engine multi-role aircraft in service to the U.S. Navy and several allied defense forces. The F/A-18 program has been in place since 1995, but Boeing is due to end the series production this year. The Navy operates several hundred of the fighters, most of which are dated to Block II of the series. Block III was introduced in 2020 , and incorporates multiple improvements in networking capabilities, data processing power, range, and fuel capacity. The latest series has a service life of 10,000 flight hours as a standard. F/18 Block III avionics present a significant upgrade over Block II, and include an Advanced Cockpit System with a 10x19-inch touchscreen display in place of multiple smaller screens; a distributed targeting processor network for faster data processing; and the tactical targeting network technology that boosts data sharing; and an open mission systems architecture
+
+- Boeing Defense Workers Reject Latest Contract
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2d670d244b6a2487d53e456a352&url=https%3a%2f%2fwww.msn.com%2fen-us%2fpolitics%2fgovernment%2fboeing-defense-workers-reject-latest-contract%2far-AA1PdLwE&c=15874628172246491323&mkt=en-us
+  Roughly 3,200 striking St. Louis-area Boeing workers will stay on the picket line after members rejected a modified contract proposal for a fourth time. The local IAM 837 union said its members voted ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/politics/government/boeing-defense-workers-reject-latest-contract/ar-AA1PdLwE)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Boeing defense workers ratify new contract, ending three-month strike
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2d670d244b6a2487d53e456a352&url=https%3a%2f%2fwww.newstribune.com%2fnews%2f2025%2fnov%2f14%2fboeing-defense-workers-ratify-new-contract-ending%2f&c=1808799943555702137&mkt=en-us
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier ...
+  LinkedPageStatus: ok (https://www.newstribune.com/news/2025/nov/14/boeing-defense-workers-ratify-new-contract-ending/)
+  LinkedPageSummaryWords: 34
+  LinkedPageSummary:
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier offers from the company.
+
+- The Boeing Company (BA) Secures $4.7 Billion Contract To Build AH-64E Apache Helicopters For International Clients
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2d670d244b6a2487d53e456a352&url=https%3a%2f%2fwww.insidermonkey.com%2fblog%2fthe-boeing-company-ba-secures-4-7-billion-contract-to-build-ah-64e-apache-helicopters-for-international-clients-1652567%2f&c=6509270220043897655&mkt=en-us
+  The Boeing Company (NYSE:BA) is among the 10 Best Drone Stocks to Buy Right Now. On November 26, the company announced that it had secured a contract worth $4.7 billion from the U.S. Army to ...
+  LinkedPageStatus: ok (https://www.insidermonkey.com/blog/the-boeing-company-ba-secures-4-7-billion-contract-to-build-ah-64e-apache-helicopters-for-international-clients-1652567/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described generative AI as a “once-in-a-lifetime” technology that is already being used across Amazon to reinvent customer experiences. At the 8th Future Investment Initiative conference, Elon Musk predicted that by 2040 there would be at least 10 billion humanoid robots , with each priced between $20,000 and $25,000 . Do the math. According to Musk, this technology could be worth $250 trillion by 2040. And here’s the wild part — this $250 trillion wave isn’t tied to one company, but to an entire ecosystem of AI innovators set to reshape the global economy. It’s a leap so massive, it could reshape how businesses, governments, and consumers operate worldwide. Even if that $250 trillion figure sounds ambitious, major firms like PwC and McKinsey still see AI unlocking multi-trillion-dollar potential. The answer lies in a breakthrough so powerful it’s redefining how humanity works, learns, and creates. And this breakthrough has already set off a frenzy among hedge funds and Wall Street’s top investors. What most investors don’t realize is that one
+
+
+Domain: Boeing
+Query: Boeing defense latest company news
+Timestamp: 2026-02-21T14:53:21
+PerPageSummaryWords: 200
+- Boeing Defense Headquarters Moving Back to St. Louis
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c6baea6e4c7084256d5dcea662c5&url=https%3a%2f%2fwww.aviationpros.com%2faircraft-maintenance-technology%2faircraft-technology%2fdefense%2fnews%2f55358599%2fboeing-defense-headquarters-moving-back-to-st-louis&c=15214865212107592916&mkt=en-us
+  The relocation is effective as of Wednesday, and there is not a specific number of jobs associated with the move, according to a company spokesperson.
+  LinkedPageStatus: ok (https://www.aviationpros.com/aircraft-maintenance-technology/aircraft-technology/defense/news/55358599/boeing-defense-headquarters-moving-back-to-st-louis)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  ST. LOUIS — The Boeing Co.'s defense, space and security division headquarters is moving back to St. Louis, the company said in a news release Wednesday. The division operated out of St. Louis from 1997 to 2017 when Boeing moved the defense headquarters to Arlington, Virginia. The relocation is effective as of Wednesday, and there is not a specific number of jobs associated with the move, according to a company spokesperson. Steve Parker, CEO for Boeing's defense, space and security division, said in a statement that "it's important for leaders to be side-by-side with our teammates, listening to their feedback and acting to remove obstacles as we continue to stabilize and strengthen our business. “The headquarters move, coupled with our senior leaders being based at and spending their time at major engineering, production and manufacturing centers across the U.S., reflects our continued focus on disciplined performance across our business," Parker said. The defense headquarters' previous move to the Washington, D.C., area, announced in late 2016, reflected the aerospace giant's desire to be closer to the levers of power in the nation’s capital. The company expected about 50 positions to eventually relocate to the Virginia headquarters. Boeing said Wednesday it employs
+
+- Boeing’s Regional Director on F-15EX for Saudi Arabia, localizing production
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c6baea6e4c7084256d5dcea662c5&url=https%3a%2f%2fwww.aerotime.aero%2farticles%2fboeings-regional-director-on-f-15ex-for-saudi-arabia-localizing-production&c=5537440330562786149&mkt=en-us
+  Boeing was among the most prominent exhibitors at the World Defense Show (WDS) 2026, held in Riyadh, Saudi Arabia, from February 8-12, 2026. The US manufacturer demonstrated its strong presence within ...
+  LinkedPageStatus: ok (https://www.aerotime.aero/articles/boeings-regional-director-on-f-15ex-for-saudi-arabia-localizing-production)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing was among the most prominent exhibitors at the World Defense Show (WDS) 2026 , held in Riyadh, Saudi Arabia, from February 8-12, 2026. The US manufacturer demonstrated its strong presence within a market in which it maintains a significant footprint across both civilian and military sectors. Saudi Arabia is one of the few countries in the world to host a dedicated Boeing office, a fact that underscores the strategic importance that Boeing gives to its relationship with the Middle Eastern Kingdom. To learn more about Boeing’s regional footprint and its plans for the Middle East in the field of defense and space, AeroTime spoke with Kirk Schultz, Regional Director for International Business Development at Boeing Defense, Space and Security, during WDS. Schultz began by emphasizing the importance of WDS as a platform to showcase the company’s broad portfolio of solutions. “If you had the chance to go out on the ramp, you could see some of our fantastic flagship products—the AH-64, the CH-47, F-15s, and a KC-46 – on display,” he noted. A Saudi-operated F-15 also participated in the show’s flying display. In fact, Saudi Arabia operates nearly 400 military aircraft made by Boeing, making it one of the
+
+- Boeing Orders And Defense Wins Test Valuation Gap And Labor Risks
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c6baea6e4c7084256d5dcea662c5&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2fboeing-orders-defense-wins-test-080828299.html&c=859529808765875&mkt=en-us
+  In January, Boeing reported one of its strongest recent months for aircraft orders and deliveries, including a substantial widebody order from Delta Air Lines. The company secured significant long ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_29fc49a4-43f1-4152-96bc-15d9d23db014)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Boeing defense workers ratify contract to end 3-month strike in the Midwest
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c6baea6e4c7084256d5dcea662c5&url=https%3a%2f%2fwww.vindy.com%2fnews%2fbusiness-news%2f2025%2f11%2fboeing-defense-workers-ratify-contract-to-end-3-month-strike-in-the-midwest%2f&c=8058337083678561729&mkt=en-us
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier ...
+  LinkedPageStatus: ok (https://www.vindy.com/news/business-news/2025/11/boeing-defense-workers-ratify-contract-to-end-3-month-strike-in-the-midwest/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier offers from the company. The breakthrough five-year labor agreement includes a 24% wage hike across the life of the contract and a $6,000 signing bonus, according to the union representing the 3,200 workers who walked off the job Aug. 4. “We’re proud of what our members have fought for together and are ready to get back to building the world’s most advanced military aircraft,” the International Association of Machinists and Aerospace Workers said in a statement. With their new contract in hand, the machinists are set to return to work Sunday at manufacturing plants in the Missouri cities of St. Louis and St. Charles, as well as in Mascoutah, Illinois. The workers build fighter jets, weapons systems and the U.S. Navy’s first carrier-based unmanned aircraft at those facilities. Boeing said in a statement that it looks forward to “bringing our full team back together.” While the strike was smaller than last year’s walkout by 33,000 Boeing workers who build commercial jetliners, it still threatened to slow the aerospace company’s efforts
+
+- Pentagon Issues $930M to Boeing for F/A-18 Updates
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c6baea6e4c7084256d5dcea662c5&url=https%3a%2f%2fwww.americanmachinist.com%2fnews%2fnews%2f55338878%2fpentagon-issues-930m-for-f-a-18-updates-boeing-defense&c=14666530926983791326&mkt=en-us
+  F/A-18 Super Hornet Block III avionics include a 10x19-inch touchscreen display in place of multiple smaller screens for pilots to monitor. Boeing Defense was awarded $930.8 million in a new U.S. Navy ...
+  LinkedPageStatus: ok (https://www.americanmachinist.com/news/news/55338878/pentagon-issues-930m-for-f-a-18-updates-boeing-defense)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing Defense was awarded $930.8 million in a new U.S. Navy contract to provide “service life modifications” for up to 60 F/A-18 E/F Super Hornet fighter jets. The goal is to extend the service life for the aircraft from 6,000 to 10,000 flight hours, and also to integrate Block III avionics capabilities. The F/A-18E and F/A-18F Super Hornets are twin-engine multi-role aircraft in service to the U.S. Navy and several allied defense forces. The F/A-18 program has been in place since 1995, but Boeing is due to end the series production this year. The Navy operates several hundred of the fighters, most of which are dated to Block II of the series. Block III was introduced in 2020 , and incorporates multiple improvements in networking capabilities, data processing power, range, and fuel capacity. The latest series has a service life of 10,000 flight hours as a standard. F/18 Block III avionics present a significant upgrade over Block II, and include an Advanced Cockpit System with a 10x19-inch touchscreen display in place of multiple smaller screens; a distributed targeting processor network for faster data processing; and the tactical targeting network technology that boosts data sharing; and an open mission systems architecture
+
+- Boeing Defense Workers Reject Latest Contract
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c6baea6e4c7084256d5dcea662c5&url=https%3a%2f%2fwww.msn.com%2fen-us%2fpolitics%2fgovernment%2fboeing-defense-workers-reject-latest-contract%2far-AA1PdLwE&c=15874628172246491323&mkt=en-us
+  Roughly 3,200 striking St. Louis-area Boeing workers will stay on the picket line after members rejected a modified contract proposal for a fourth time. The local IAM 837 union said its members voted ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/politics/government/boeing-defense-workers-reject-latest-contract/ar-AA1PdLwE)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Boeing defense workers ratify new contract, ending three-month strike
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c6baea6e4c7084256d5dcea662c5&url=https%3a%2f%2fwww.newstribune.com%2fnews%2f2025%2fnov%2f14%2fboeing-defense-workers-ratify-new-contract-ending%2f&c=1808799943555702137&mkt=en-us
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier ...
+  LinkedPageStatus: ok (https://www.newstribune.com/news/2025/nov/14/boeing-defense-workers-ratify-new-contract-ending/)
+  LinkedPageSummaryWords: 34
+  LinkedPageSummary:
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier offers from the company.
+
+- The Boeing Company (BA) Secures $4.7 Billion Contract To Build AH-64E Apache Helicopters For International Clients
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c6baea6e4c7084256d5dcea662c5&url=https%3a%2f%2fwww.insidermonkey.com%2fblog%2fthe-boeing-company-ba-secures-4-7-billion-contract-to-build-ah-64e-apache-helicopters-for-international-clients-1652567%2f&c=6509270220043897655&mkt=en-us
+  The Boeing Company (NYSE:BA) is among the 10 Best Drone Stocks to Buy Right Now. On November 26, the company announced that it had secured a contract worth $4.7 billion from the U.S. Army to ...
+  LinkedPageStatus: ok (https://www.insidermonkey.com/blog/the-boeing-company-ba-secures-4-7-billion-contract-to-build-ah-64e-apache-helicopters-for-international-clients-1652567/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described generative AI as a “once-in-a-lifetime” technology that is already being used across Amazon to reinvent customer experiences. At the 8th Future Investment Initiative conference, Elon Musk predicted that by 2040 there would be at least 10 billion humanoid robots , with each priced between $20,000 and $25,000 . Do the math. According to Musk, this technology could be worth $250 trillion by 2040. And here’s the wild part — this $250 trillion wave isn’t tied to one company, but to an entire ecosystem of AI innovators set to reshape the global economy. It’s a leap so massive, it could reshape how businesses, governments, and consumers operate worldwide. Even if that $250 trillion figure sounds ambitious, major firms like PwC and McKinsey still see AI unlocking multi-trillion-dollar potential. The answer lies in a breakthrough so powerful it’s redefining how humanity works, learns, and creates. And this breakthrough has already set off a frenzy among hedge funds and Wall Street’s top investors. What most investors don’t realize is that one
+
+
+Domain: Boeing
+Query: Boeing defense latest company news
+Timestamp: 2026-02-21T15:03:31
+PerPageSummaryWords: 200
+- Boeing Defense Headquarters Moving Back to St. Louis
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c91c5b724d07ace4ab38400bfe27&url=https%3a%2f%2fwww.aviationpros.com%2faircraft-maintenance-technology%2faircraft-technology%2fdefense%2fnews%2f55358599%2fboeing-defense-headquarters-moving-back-to-st-louis&c=15214865212107592916&mkt=en-us
+  The relocation is effective as of Wednesday, and there is not a specific number of jobs associated with the move, according to a company spokesperson.
+  LinkedPageStatus: ok (https://www.aviationpros.com/aircraft-maintenance-technology/aircraft-technology/defense/news/55358599/boeing-defense-headquarters-moving-back-to-st-louis)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  ST. LOUIS — The Boeing Co.'s defense, space and security division headquarters is moving back to St. Louis, the company said in a news release Wednesday. The division operated out of St. Louis from 1997 to 2017 when Boeing moved the defense headquarters to Arlington, Virginia. The relocation is effective as of Wednesday, and there is not a specific number of jobs associated with the move, according to a company spokesperson. Steve Parker, CEO for Boeing's defense, space and security division, said in a statement that "it's important for leaders to be side-by-side with our teammates, listening to their feedback and acting to remove obstacles as we continue to stabilize and strengthen our business. “The headquarters move, coupled with our senior leaders being based at and spending their time at major engineering, production and manufacturing centers across the U.S., reflects our continued focus on disciplined performance across our business," Parker said. The defense headquarters' previous move to the Washington, D.C., area, announced in late 2016, reflected the aerospace giant's desire to be closer to the levers of power in the nation’s capital. The company expected about 50 positions to eventually relocate to the Virginia headquarters. Boeing said Wednesday it employs
+
+- Boeing’s Regional Director on F-15EX for Saudi Arabia, localizing production
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c91c5b724d07ace4ab38400bfe27&url=https%3a%2f%2fwww.aerotime.aero%2farticles%2fboeings-regional-director-on-f-15ex-for-saudi-arabia-localizing-production&c=5537440330562786149&mkt=en-us
+  Boeing was among the most prominent exhibitors at the World Defense Show (WDS) 2026, held in Riyadh, Saudi Arabia, from February 8-12, 2026. The US manufacturer demonstrated its strong presence within ...
+  LinkedPageStatus: ok (https://www.aerotime.aero/articles/boeings-regional-director-on-f-15ex-for-saudi-arabia-localizing-production)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing was among the most prominent exhibitors at the World Defense Show (WDS) 2026 , held in Riyadh, Saudi Arabia, from February 8-12, 2026. The US manufacturer demonstrated its strong presence within a market in which it maintains a significant footprint across both civilian and military sectors. Saudi Arabia is one of the few countries in the world to host a dedicated Boeing office, a fact that underscores the strategic importance that Boeing gives to its relationship with the Middle Eastern Kingdom. To learn more about Boeing’s regional footprint and its plans for the Middle East in the field of defense and space, AeroTime spoke with Kirk Schultz, Regional Director for International Business Development at Boeing Defense, Space and Security, during WDS. Schultz began by emphasizing the importance of WDS as a platform to showcase the company’s broad portfolio of solutions. “If you had the chance to go out on the ramp, you could see some of our fantastic flagship products—the AH-64, the CH-47, F-15s, and a KC-46 – on display,” he noted. A Saudi-operated F-15 also participated in the show’s flying display. In fact, Saudi Arabia operates nearly 400 military aircraft made by Boeing, making it one of the
+
+- Boeing Orders And Defense Wins Test Valuation Gap And Labor Risks
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c91c5b724d07ace4ab38400bfe27&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2fboeing-orders-defense-wins-test-080828299.html&c=859529808765875&mkt=en-us
+  In January, Boeing reported one of its strongest recent months for aircraft orders and deliveries, including a substantial widebody order from Delta Air Lines. The company secured significant long ...
+  LinkedPageStatus: ok (https://uk.finance.yahoo.com/news/boeing-orders-defense-wins-test-080828299.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Find winning stocks in any market cycle. Join 7 million investors using Simply Wall St's investing ideas for FREE. In January, Boeing reported one of its strongest recent months for aircraft orders and deliveries, including a substantial widebody order from Delta Air Lines. The company secured significant long term U.S. Air Force contracts tied to C-17A fleet upgrades. Boeing announced plans for a new 737 Max assembly line while unions raised concerns about potential job relocations to South Carolina. Boeing (NYSE:BA) enters this news cycle with its shares at $236.26 and a 1 year return of 26.9%. Over 3 and 5 years, returns of 8.7% and 9.6% respectively suggest a mixed but positive longer term picture. This context can shape how investors interpret these new commercial, defense, and operational developments. For investors, the combination of strong January activity, new defense contracts, and production changes raises questions about Boeing’s capacity, margins, and labor risk in the coming years. These types of business shifts can influence how stable future cash flows may be, so they are worth monitoring alongside the share price and individual risk tolerance. Stay updated on the most important news stories for Boeing by adding it to your watchlist
+
+- Boeing defense workers ratify contract to end 3-month strike in the Midwest
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c91c5b724d07ace4ab38400bfe27&url=https%3a%2f%2fwww.vindy.com%2fnews%2fbusiness-news%2f2025%2f11%2fboeing-defense-workers-ratify-contract-to-end-3-month-strike-in-the-midwest%2f&c=8058337083678561729&mkt=en-us
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier ...
+  LinkedPageStatus: ok (https://www.vindy.com/news/business-news/2025/11/boeing-defense-workers-ratify-contract-to-end-3-month-strike-in-the-midwest/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier offers from the company. The breakthrough five-year labor agreement includes a 24% wage hike across the life of the contract and a $6,000 signing bonus, according to the union representing the 3,200 workers who walked off the job Aug. 4. “We’re proud of what our members have fought for together and are ready to get back to building the world’s most advanced military aircraft,” the International Association of Machinists and Aerospace Workers said in a statement. With their new contract in hand, the machinists are set to return to work Sunday at manufacturing plants in the Missouri cities of St. Louis and St. Charles, as well as in Mascoutah, Illinois. The workers build fighter jets, weapons systems and the U.S. Navy’s first carrier-based unmanned aircraft at those facilities. Boeing said in a statement that it looks forward to “bringing our full team back together.” While the strike was smaller than last year’s walkout by 33,000 Boeing workers who build commercial jetliners, it still threatened to slow the aerospace company’s efforts
+
+- Pentagon Issues $930M to Boeing for F/A-18 Updates
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c91c5b724d07ace4ab38400bfe27&url=https%3a%2f%2fwww.americanmachinist.com%2fnews%2fnews%2f55338878%2fpentagon-issues-930m-for-f-a-18-updates-boeing-defense&c=14666530926983791326&mkt=en-us
+  F/A-18 Super Hornet Block III avionics include a 10x19-inch touchscreen display in place of multiple smaller screens for pilots to monitor. Boeing Defense was awarded $930.8 million in a new U.S. Navy ...
+  LinkedPageStatus: ok (https://www.americanmachinist.com/news/news/55338878/pentagon-issues-930m-for-f-a-18-updates-boeing-defense)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing Defense was awarded $930.8 million in a new U.S. Navy contract to provide “service life modifications” for up to 60 F/A-18 E/F Super Hornet fighter jets. The goal is to extend the service life for the aircraft from 6,000 to 10,000 flight hours, and also to integrate Block III avionics capabilities. The F/A-18E and F/A-18F Super Hornets are twin-engine multi-role aircraft in service to the U.S. Navy and several allied defense forces. The F/A-18 program has been in place since 1995, but Boeing is due to end the series production this year. The Navy operates several hundred of the fighters, most of which are dated to Block II of the series. Block III was introduced in 2020 , and incorporates multiple improvements in networking capabilities, data processing power, range, and fuel capacity. The latest series has a service life of 10,000 flight hours as a standard. F/18 Block III avionics present a significant upgrade over Block II, and include an Advanced Cockpit System with a 10x19-inch touchscreen display in place of multiple smaller screens; a distributed targeting processor network for faster data processing; and the tactical targeting network technology that boosts data sharing; and an open mission systems architecture
+
+- Boeing Defense Workers Reject Latest Contract
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c91c5b724d07ace4ab38400bfe27&url=https%3a%2f%2fwww.msn.com%2fen-us%2fpolitics%2fgovernment%2fboeing-defense-workers-reject-latest-contract%2far-AA1PdLwE&c=15874628172246491323&mkt=en-us
+  Roughly 3,200 striking St. Louis-area Boeing workers will stay on the picket line after members rejected a modified contract proposal for a fourth time. The local IAM 837 union said its members voted ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/politics/government/boeing-defense-workers-reject-latest-contract/ar-AA1PdLwE)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Boeing defense workers ratify new contract, ending three-month strike
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c91c5b724d07ace4ab38400bfe27&url=https%3a%2f%2fwww.newstribune.com%2fnews%2f2025%2fnov%2f14%2fboeing-defense-workers-ratify-new-contract-ending%2f&c=1808799943555702137&mkt=en-us
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier ...
+  LinkedPageStatus: ok (https://www.newstribune.com/news/2025/nov/14/boeing-defense-workers-ratify-new-contract-ending/)
+  LinkedPageSummaryWords: 34
+  LinkedPageSummary:
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier offers from the company.
+
+- The Boeing Company (BA) Secures $4.7 Billion Contract To Build AH-64E Apache Helicopters For International Clients
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c91c5b724d07ace4ab38400bfe27&url=https%3a%2f%2fwww.insidermonkey.com%2fblog%2fthe-boeing-company-ba-secures-4-7-billion-contract-to-build-ah-64e-apache-helicopters-for-international-clients-1652567%2f&c=6509270220043897655&mkt=en-us
+  The Boeing Company (NYSE:BA) is among the 10 Best Drone Stocks to Buy Right Now. On November 26, the company announced that it had secured a contract worth $4.7 billion from the U.S. Army to ...
+  LinkedPageStatus: ok (https://www.insidermonkey.com/blog/the-boeing-company-ba-secures-4-7-billion-contract-to-build-ah-64e-apache-helicopters-for-international-clients-1652567/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described generative AI as a “once-in-a-lifetime” technology that is already being used across Amazon to reinvent customer experiences. At the 8th Future Investment Initiative conference, Elon Musk predicted that by 2040 there would be at least 10 billion humanoid robots , with each priced between $20,000 and $25,000 . Do the math. According to Musk, this technology could be worth $250 trillion by 2040. And here’s the wild part — this $250 trillion wave isn’t tied to one company, but to an entire ecosystem of AI innovators set to reshape the global economy. It’s a leap so massive, it could reshape how businesses, governments, and consumers operate worldwide. Even if that $250 trillion figure sounds ambitious, major firms like PwC and McKinsey still see AI unlocking multi-trillion-dollar potential. The answer lies in a breakthrough so powerful it’s redefining how humanity works, learns, and creates. And this breakthrough has already set off a frenzy among hedge funds and Wall Street’s top investors. What most investors don’t realize is that one
+
+
+Domain: Boeing
+Query: Boeing defense latest company news
+Timestamp: 2026-02-21T15:08:33
+PerPageSummaryWords: 200
+- Boeing Defense Headquarters Moving Back to St. Louis
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca4afb874373912de60c90f6bcbd&url=https%3a%2f%2fwww.aviationpros.com%2faircraft-maintenance-technology%2faircraft-technology%2fdefense%2fnews%2f55358599%2fboeing-defense-headquarters-moving-back-to-st-louis&c=15214865212107592916&mkt=en-us
+  The relocation is effective as of Wednesday, and there is not a specific number of jobs associated with the move, according to a company spokesperson.
+  LinkedPageStatus: ok (https://www.aviationpros.com/aircraft-maintenance-technology/aircraft-technology/defense/news/55358599/boeing-defense-headquarters-moving-back-to-st-louis)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  ST. LOUIS — The Boeing Co.'s defense, space and security division headquarters is moving back to St. Louis, the company said in a news release Wednesday. The division operated out of St. Louis from 1997 to 2017 when Boeing moved the defense headquarters to Arlington, Virginia. The relocation is effective as of Wednesday, and there is not a specific number of jobs associated with the move, according to a company spokesperson. Steve Parker, CEO for Boeing's defense, space and security division, said in a statement that "it's important for leaders to be side-by-side with our teammates, listening to their feedback and acting to remove obstacles as we continue to stabilize and strengthen our business. “The headquarters move, coupled with our senior leaders being based at and spending their time at major engineering, production and manufacturing centers across the U.S., reflects our continued focus on disciplined performance across our business," Parker said. The defense headquarters' previous move to the Washington, D.C., area, announced in late 2016, reflected the aerospace giant's desire to be closer to the levers of power in the nation’s capital. The company expected about 50 positions to eventually relocate to the Virginia headquarters. Boeing said Wednesday it employs
+
+- Boeing’s Regional Director on F-15EX for Saudi Arabia, localizing production
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca4afb874373912de60c90f6bcbd&url=https%3a%2f%2fwww.aerotime.aero%2farticles%2fboeings-regional-director-on-f-15ex-for-saudi-arabia-localizing-production&c=5537440330562786149&mkt=en-us
+  Boeing was among the most prominent exhibitors at the World Defense Show (WDS) 2026, held in Riyadh, Saudi Arabia, from February 8-12, 2026. The US manufacturer demonstrated its strong presence within ...
+  LinkedPageStatus: ok (https://www.aerotime.aero/articles/boeings-regional-director-on-f-15ex-for-saudi-arabia-localizing-production)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing was among the most prominent exhibitors at the World Defense Show (WDS) 2026 , held in Riyadh, Saudi Arabia, from February 8-12, 2026. The US manufacturer demonstrated its strong presence within a market in which it maintains a significant footprint across both civilian and military sectors. Saudi Arabia is one of the few countries in the world to host a dedicated Boeing office, a fact that underscores the strategic importance that Boeing gives to its relationship with the Middle Eastern Kingdom. To learn more about Boeing’s regional footprint and its plans for the Middle East in the field of defense and space, AeroTime spoke with Kirk Schultz, Regional Director for International Business Development at Boeing Defense, Space and Security, during WDS. Schultz began by emphasizing the importance of WDS as a platform to showcase the company’s broad portfolio of solutions. “If you had the chance to go out on the ramp, you could see some of our fantastic flagship products—the AH-64, the CH-47, F-15s, and a KC-46 – on display,” he noted. A Saudi-operated F-15 also participated in the show’s flying display. In fact, Saudi Arabia operates nearly 400 military aircraft made by Boeing, making it one of the
+
+- Boeing Orders And Defense Wins Test Valuation Gap And Labor Risks
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca4afb874373912de60c90f6bcbd&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2fboeing-orders-defense-wins-test-080828299.html&c=859529808765875&mkt=en-us
+  In January, Boeing reported one of its strongest recent months for aircraft orders and deliveries, including a substantial widebody order from Delta Air Lines. The company secured significant long ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_df8db18c-17b1-4fd0-8c24-05d843c8675b)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Boeing defense workers ratify contract to end 3-month strike in the Midwest
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca4afb874373912de60c90f6bcbd&url=https%3a%2f%2fwww.vindy.com%2fnews%2fbusiness-news%2f2025%2f11%2fboeing-defense-workers-ratify-contract-to-end-3-month-strike-in-the-midwest%2f&c=8058337083678561729&mkt=en-us
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier ...
+  LinkedPageStatus: ok (https://www.vindy.com/news/business-news/2025/11/boeing-defense-workers-ratify-contract-to-end-3-month-strike-in-the-midwest/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier offers from the company. The breakthrough five-year labor agreement includes a 24% wage hike across the life of the contract and a $6,000 signing bonus, according to the union representing the 3,200 workers who walked off the job Aug. 4. “We’re proud of what our members have fought for together and are ready to get back to building the world’s most advanced military aircraft,” the International Association of Machinists and Aerospace Workers said in a statement. With their new contract in hand, the machinists are set to return to work Sunday at manufacturing plants in the Missouri cities of St. Louis and St. Charles, as well as in Mascoutah, Illinois. The workers build fighter jets, weapons systems and the U.S. Navy’s first carrier-based unmanned aircraft at those facilities. Boeing said in a statement that it looks forward to “bringing our full team back together.” While the strike was smaller than last year’s walkout by 33,000 Boeing workers who build commercial jetliners, it still threatened to slow the aerospace company’s efforts
+
+- Pentagon Issues $930M to Boeing for F/A-18 Updates
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca4afb874373912de60c90f6bcbd&url=https%3a%2f%2fwww.americanmachinist.com%2fnews%2fnews%2f55338878%2fpentagon-issues-930m-for-f-a-18-updates-boeing-defense&c=14666530926983791326&mkt=en-us
+  F/A-18 Super Hornet Block III avionics include a 10x19-inch touchscreen display in place of multiple smaller screens for pilots to monitor. Boeing Defense was awarded $930.8 million in a new U.S. Navy ...
+  LinkedPageStatus: ok (https://www.americanmachinist.com/news/news/55338878/pentagon-issues-930m-for-f-a-18-updates-boeing-defense)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing Defense was awarded $930.8 million in a new U.S. Navy contract to provide “service life modifications” for up to 60 F/A-18 E/F Super Hornet fighter jets. The goal is to extend the service life for the aircraft from 6,000 to 10,000 flight hours, and also to integrate Block III avionics capabilities. The F/A-18E and F/A-18F Super Hornets are twin-engine multi-role aircraft in service to the U.S. Navy and several allied defense forces. The F/A-18 program has been in place since 1995, but Boeing is due to end the series production this year. The Navy operates several hundred of the fighters, most of which are dated to Block II of the series. Block III was introduced in 2020 , and incorporates multiple improvements in networking capabilities, data processing power, range, and fuel capacity. The latest series has a service life of 10,000 flight hours as a standard. F/18 Block III avionics present a significant upgrade over Block II, and include an Advanced Cockpit System with a 10x19-inch touchscreen display in place of multiple smaller screens; a distributed targeting processor network for faster data processing; and the tactical targeting network technology that boosts data sharing; and an open mission systems architecture
+
+- Boeing Defense Workers Reject Latest Contract
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca4afb874373912de60c90f6bcbd&url=https%3a%2f%2fwww.msn.com%2fen-us%2fpolitics%2fgovernment%2fboeing-defense-workers-reject-latest-contract%2far-AA1PdLwE&c=15874628172246491323&mkt=en-us
+  Roughly 3,200 striking St. Louis-area Boeing workers will stay on the picket line after members rejected a modified contract proposal for a fourth time. The local IAM 837 union said its members voted ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/politics/government/boeing-defense-workers-reject-latest-contract/ar-AA1PdLwE)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Boeing defense workers ratify new contract, ending three-month strike
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca4afb874373912de60c90f6bcbd&url=https%3a%2f%2fwww.newstribune.com%2fnews%2f2025%2fnov%2f14%2fboeing-defense-workers-ratify-new-contract-ending%2f&c=1808799943555702137&mkt=en-us
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier ...
+  LinkedPageStatus: ok (https://www.newstribune.com/news/2025/nov/14/boeing-defense-workers-ratify-new-contract-ending/)
+  LinkedPageSummaryWords: 34
+  LinkedPageSummary:
+  Several thousand Boeing machinists in the Midwest who assemble military aircraft and weapons voted Thursday to approve a new contract, ending a three-month strike that saw them reject four earlier offers from the company.
+
+- The Boeing Company (BA) Secures $4.7 Billion Contract To Build AH-64E Apache Helicopters For International Clients
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca4afb874373912de60c90f6bcbd&url=https%3a%2f%2fwww.insidermonkey.com%2fblog%2fthe-boeing-company-ba-secures-4-7-billion-contract-to-build-ah-64e-apache-helicopters-for-international-clients-1652567%2f&c=6509270220043897655&mkt=en-us
+  The Boeing Company (NYSE:BA) is among the 10 Best Drone Stocks to Buy Right Now. On November 26, the company announced that it had secured a contract worth $4.7 billion from the U.S. Army to ...
+  LinkedPageStatus: ok (https://www.insidermonkey.com/blog/the-boeing-company-ba-secures-4-7-billion-contract-to-build-ah-64e-apache-helicopters-for-international-clients-1652567/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described generative AI as a “once-in-a-lifetime” technology that is already being used across Amazon to reinvent customer experiences. At the 8th Future Investment Initiative conference, Elon Musk predicted that by 2040 there would be at least 10 billion humanoid robots , with each priced between $20,000 and $25,000 . Do the math. According to Musk, this technology could be worth $250 trillion by 2040. And here’s the wild part — this $250 trillion wave isn’t tied to one company, but to an entire ecosystem of AI innovators set to reshape the global economy. It’s a leap so massive, it could reshape how businesses, governments, and consumers operate worldwide. Even if that $250 trillion figure sounds ambitious, major firms like PwC and McKinsey still see AI unlocking multi-trillion-dollar potential. The answer lies in a breakthrough so powerful it’s redefining how humanity works, learns, and creates. And this breakthrough has already set off a frenzy among hedge funds and Wall Street’s top investors. What most investors don’t realize is that one
+
+

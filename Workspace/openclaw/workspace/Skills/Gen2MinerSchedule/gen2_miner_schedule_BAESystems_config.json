@@ -1,0 +1,23 @@
+{
+  "default_domain": "BAESystems",
+  "tasks": [
+    {
+      "name": "BAE Systems Company News",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "BAESystems",
+      "query": "BAE Systems latest company news",
+      "max": 8
+    },
+    {
+      "name": "BAE Systems Contract Awards",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "BAESystems",
+      "query": "BAE Systems latest contract awards",
+      "max": 8
+    }
+  ]
+}

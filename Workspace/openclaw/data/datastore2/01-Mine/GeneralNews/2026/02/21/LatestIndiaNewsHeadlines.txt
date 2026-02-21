@@ -1,0 +1,67 @@
+Domain: GeneralNews
+Query: latest India news headlines
+Timestamp: 2026-02-21T11:35:22
+PerPageSummaryWords: 200
+- India News | Today's latest updates and breaking news from India, Live ...
+  https://www.ndtv.com/india
+  Get the latest updates and breaking news from India , including politics, elections, government, business, technology, and Bollywood.
+  LinkedPageStatus: ok (https://www.ndtv.com/india)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The Delhi Police said three police personnel were injured while attempting to stop the protest. India is studying the developments of the US Supreme Court striking down tariffs as illegal, the Commerce Ministry said. Five people were killed, and six sustained serious injuries after a speeding bus crashed into their van on a national highway in Madhya Pradesh's Bhind district in the early hours of Saturday, police said. Rohit Pawar, nephew of former Maharashtra Deputy Chief Minister Ajit Pawar, has questioned the ongoing investigation into the plane crash that killed his uncle, raising concerns about potential conflicts of interest and irregularities. A major focus of the India AI Impact Summit was to democratise artificial intelligence (AI), and the country has achieved that goal, S Krishnan, Secretary, Ministry of Electronics and Information Technology (MeitY), told NDTV. Hailing "win-win partnership" between India and Brazil, PM Narendra Modi emphasised that both countries remain dedicated to enhancing their relationship across all sectors and are committed to increasing bilateral trade to over $20 billion BJP maintains that both the CBI and the CBFC function as independent statutory bodies and that there is no political interference. In a significant development in the nearly $2 billion Punjab
+
+- News, Today's News Headlines, Breaking News and Live News from India ...
+  https://timesofindia.indiatimes.com/home/headlines
+  Headlines today: Get news headlines from India and around the world. Today's breaking news on politics, sports, entertainment, business, life style and many more on Times of India
+  LinkedPageStatus: ok (https://timesofindia.indiatimes.com/home/headlines)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  News Headlines Trump slams US Supreme Court over ‘foreign sway,’ targets India-linked firms & attorneys 21 Feb 2026, 1531 hrs IST ‘Noted the judgement’: Govt says India studying US top court ruling on Trump tariffs The six biggest impacts of the Supreme Court striking down Trump's tariffs 14-year-old Dalit girl dies by suicide after molester gets bail 'He covered for us all year, now it's our turn': SKY backs Abhishek after three ducks ‘Inspired by Nepal’s Gen-Z protests’: 4 Youth Congress workers sent to 5-day custody for 'topless' protest Why is my blood sugar worsening after stopping some exercise? Top doctors answer 21 Feb 2026, 1229 hrs IST Microsoft responds to report that US ICE uses company's tech for mass spying of civilians Meet Asha Sharma: Indian-origin executive named CEO of Microsoft Gaming PM Modi, Brazil President Lula sign rare earths deal; aim for trade beyond $20 bn 'Aap har venue mein pahunch jaate ho': Gambhir's exchange with fan goes viral - Watch Infosys CEO Salil Parekh talks about AI tools replacing engineers Rajpal Yadav shares about the 'most difficult part' of being in Tihar jail after securing bail IND vs SA: Ahmedabad stadium stats, h2h, weather forecast and more
+
+- India News, Latest Breaking News Headlines from India, Live News Updates
+  https://www.indiatoday.in/india
+  India News Today: Read latest and breaking news headlines from India . Top India News , Current headlines , videos, photos and live india news updates at India Today
+  LinkedPageStatus: ok (https://www.indiatoday.in/india)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The poll body has published the updated voter list for Rajasthan, recording a substantial number of deletions and additions as part of its Special Intensive Revision exercise. The process is part of a nationwide effort to ensure accuracy and inclusivity in electoral rolls. The Government of India is reviewing the implications of the US Supreme Court's ruling that termed President Donald Trump's sweeping tariffs illegal. Prime Minister Narendra Modi on Saturday held bilateral talks with Luiz Inácio Lula da Silva in New Delhi, marking his first bilateral engagement with the Brazilian President in this phase of ties. The discussions focused on deepening cooperation between the two major democracies of the Global South, spanning trade, technology, innovation, renewable energy and critical minerals. The development comes on the heels of security agencies warning of a possible terror plot by Pakistan-based Lashkar targeting religious and tourist spots in Delhi. Two people were arrested after police busted an investment and cricket betting racket in Andhra Pradesh's Nellore district and assets worth nearly Rs 2 crore were seized. Police said the accused allegedly lured the woman on the pretext of eloping before strangling her and disposing of the body in a well to destroy evidence.
+
+- India News, Latest India News, Today's Breaking News Headlines from ...
+  https://indianexpress.com/section/india/
+  India News , Latest India News : Read Live Breaking News from India along with Latest News and Today's Top Headlines Online in Bharat. Stay Up-to-date with Top news in India , current headlines , photos & videos online, live coverage on entertainment, business, politics, sports, technology and more at indianexpress.com.
+  LinkedPageStatus: ok (https://indianexpress.com/section/india/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Buddhist Circuit Tourist train: Launched in 2007, the train offers tour itineraries for both domestic and international travellers, covering key destinations on the Buddhist Circuit. India's first private train Tejas Express: Indian Railways is operating a wide range of train services to meet the needs of passengers. Maharaja Express route and price: Introduced in 2010, the train has become as one of the world’s leading luxury train with comparisons to the Royal Scotsman and the Eastern and Oriental Express. Prime Minister Narendra Modi met Brazilian President Luiz Inácio Lula da Silva at Hyderabad House during Lula’s state visit to India, with trade, investment and AI cooperation high on the agenda. Gandhi has been criticising the Centre over the interim India-US trade agreement framework, with his Budget speech in the Lok Sabha revolving around the specifics, or the lack of it, of the deal. Rohit Pawar further said there could be two possible angles behind the incident, political or commercial, and that his party was trying to determine which was involved. Members of the BJP and its youth wing staged a protest across the country on Saturday against the “shirtless protest” by Indian Youth Congress (IYC) workers at the AI Impact
+
+- Google News - India - Latest
+  https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE?hl=en-IN&ceid=IN%3Aen
+  Stay updated with the latest news and events from India on Google News .
+  LinkedPageStatus: ok (https://consent.google.com/ml?continue=https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE?hl%3Den-IN%26ceid%3DIN:en&gl=GB&hl=en-IN&cm=2&pc=n&src=1&escs=AZ8E49Ag4pZcUeZH6ZNuoHjtOoy4UQduGErUWGbQVJ0KYcdx4FUSMm8qHeHFZTXlo8NcRDiFI6Rm_KLBqyDQA5pXEyebOiH4mjj-)
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  Select 'More options' to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+- Latest News Today, Top Headlines & Live Updates - News24
+  https://news24online.com/latest-news/
+  Stay informed with the latest news today. Get breaking news , live updates, and top headlines from India and around the world on News24
+  LinkedPageStatus: ok (https://news24online.com/latest-news/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Southampton | 11.31 °C | AQI 27 English हिन्दी E24 Isomes News24 Sports Saturday, 21 February, 2026 Latest News Today, Top Headlines & Live Updates World 7,00,00,000 dying of hunger, Pakistan’s poverty rates top 11 year old highs, minister reveals how helpless citizens seek ….. Published on Feb 21, 2026 05:01 PM India 25% to 50%, then 18%…; how much tariff will India pay after US Supreme Court ruling? What we know so far Published on Feb 21, 2026 04:45 PM Entertainment Malaika Arora’s photo celebrating Valentine’s Day with her 19-year-younger boyfriend goes viral, his name is… Published on Feb 21, 2026 04:29 PM Sports This star batter may replace Abhishek Sharma in playing XI against South Africa in T20 World Cup 2026 Super 8 clash Published on Feb 21, 2026 04:19 PM India Not just Meerut Metro! Delhi-NCR set to receive four big gifts, these are… Published on Feb 21, 2026 04:18 PM World US-Iran war: Khamenei sends chilling ‘FINAL’ warning to US, says American aircraft carriers will witness…; which deadly weapons give Iran edge over US? Published on Feb 21, 2026 04:14 PM Cricket England skipper Harry Brook comes in support of Pakistan players for…, says… Published on
+
+- India News | Today's Top Stories | Reuters
+  https://www.reuters.com/world/india/
+  Reuters.com is your online source for the latest India news stories and current events, ensuring our readers up to date with any breaking news developments
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/world/india/
+  LinkedPageSummaryWords: 0
+
+- India | Latest News & Updates - BBC
+  https://www.bbc.com/news/world/asia/india
+  Get all the latest news , live updates and content about India from across the BBC.
+  LinkedPageStatus: ok (https://www.bbc.com/news/world/asia/india)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A new exhibition in Delhi showcases 200 rare photographs that fixed identities in colonial India. Countries that struck trade deals with the US - including India - will now face a global 10% tariff, replacing their previously negotiated rates. Sangram Patil is accused of posting "objectionable content" about a top Indian leader. He denies the allegation. The Gates Foundation said the decision was made to "ensure the focus remains on the summit's key priorities". England skipper Harry Brook says it would be "a shame" if Pakistan players were excluded from playing in The Hundred, and confirms he will not captain Sunrisers Leeds this year. India’s real philanthropy engine isn’t billionaires - it’s everyday household giving, a new survey finds. Eyewitnesses say a mob stormed the woman's home after rumours spread that she was practising witchcraft. Rouble Nagi has spent the last three decades promoting learning among India's marginalised communities. India's mango farmers are being urged to innovate as climate change makes cultivation "unpredictable". In December, Hindu factory worker Dipu Das was lynched in Bangladesh, igniting global outrage. A reset of the frayed relationship is possible, say analysts. But it will require restraint - and reciprocity. India has signed a string
+
+

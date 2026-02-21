@@ -1,0 +1,58 @@
+Domain: Leonardo
+Query: Leonardo defence latest company news
+Timestamp: 2026-02-21T15:06:01
+PerPageSummaryWords: 200
+- Adani Defence partners with Italian defence major Leonardo to set up helicopter manufacturing facility
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c9c738ff464d9ef843669487f08a&url=https%3a%2f%2fwww.financialexpress.com%2fbusiness%2findustry-adani-defence-partners-with-italian-defence-major-leonardo-to-set-up-helicopter-manufacturing-facility-4129694%2f&c=14800623633584532264&mkt=en-us
+  Adani Defence and Italy’s Leonardo have partnered to build an integrated helicopter manufacturing ecosystem in India, targeting military demand and advancing Make in India goals ...
+  LinkedPageStatus: ok (https://www.financialexpress.com/business/industry-adani-defence-partners-with-italian-defence-major-leonardo-to-set-up-helicopter-manufacturing-facility-4129694/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Adani Group and Italian major Leonardo announced a strategic partnership to establish an integrated helicopter manufacturing ecosystem in India. The partnership will target the Indian Armed Forces’ requirements, particularly for Leonardo’s advanced AW169M and AW109 TrekkerM helicopters. Adani Defence & Aerospace and Leonardo inked a Memorandum of Understanding for the partnership at an event in the national capital. The move will be a significant boost for the ‘Make In India’ efforts and to make the country more self-reliant. The manufacturing ecosystem will look to address military demands and boost India’s self-reliance in helicopter production. “The collaboration will deliver phased indigenization, robust maintenance, repair, and overhaul (MRO) capabilities, and comprehensive pilot training,”, the company said in a statement. India has a low helicopter penetration rate of fewer than 250 helicopters per 100,000 people, and the country will need around 100 helicopters annually over the next 10 years. Adani Defence & Aerospace Director Jeet Adani said it was laying the foundation for an aviation ecosystem that serves the nation across civil and defence needs. “Together, we will build an ecosystem on Indian soil that brings manufacturing, assembly, training, and world-class support into one cohesive whole,” he added. Adani Defence & Aerospace CEO
+
+- Adani–Leonardo Pact Signals New Flight Path for Defence Manufacturing
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c9c738ff464d9ef843669487f08a&url=https%3a%2f%2ftechstory.in%2fadani-leonardo-pact-signals-new-flight-path-for-defence-manufacturing%2f&c=7298948469097721629&mkt=en-us
+  India’s defence ambitions are steadily rising, mirroring the controlled ascent of a helicopter lifting into strategic skies.
+  LinkedPageStatus: ok (https://techstory.in/adani-leonardo-pact-signals-new-flight-path-for-defence-manufacturing/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  India’s defence ambitions are steadily rising, mirroring the controlled ascent of a helicopter lifting into strategic skies. In a significant move to strengthen domestic aerospace capabilities, Adani Defence & Aerospace has signed a memorandum of understanding (MoU) with Italian aerospace giant Leonardo to develop a comprehensive helicopter manufacturing ecosystem in India. The partnership reflects the country’s accelerating push towards defence self-reliance under the Atmanirbhar Bharat initiative. The collaboration will focus on manufacturing advanced rotary-wing platforms, including Leonardo’s AW169M and AW109 TrekkerM helicopters. These helicopters are expected to play a crucial role in meeting the evolving operational demands of the Indian armed forces, particularly in areas such as light utility, medium-lift operations, and maritime multi-role missions. The partnership goes beyond just manufacturing helicopters. Both companies aim to create an end-to-end aerospace ecosystem covering production, phased indigenisation, maintenance, repair and overhaul (MRO) services, and advanced pilot training programmes. By gradually increasing local sourcing and manufacturing, the initiative is expected to reduce India’s dependence on foreign imports while boosting domestic technological expertise. The MoU was signed in the presence of senior government officials, including Defence Secretary Rajesh Kumar Singh and Director General (Acquisition) A Anbarasu. Their presence underscores the strategic importance of the
+
+- Strike dates set in union’s pay dispute with defence company Leonardo
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c9c738ff464d9ef843669487f08a&url=https%3a%2f%2fwww.msn.com%2fen-gb%2fmoney%2fother%2fstrike-dates-set-in-union-s-pay-dispute-with-defence-company-leonardo%2far-AA1P6tkp&c=9441113229825410961&mkt=en-us
+  Workers at a leading defence and aerospace company are set to go on strike in November in a dispute over pay. Unite says more than 3000 workers at Leonardo UK’s facilities in Scotland and England will ...
+  LinkedPageStatus: ok (https://www.msn.com/en-gb/money/other/strike-dates-set-in-union-s-pay-dispute-with-defence-company-leonardo/ar-AA1P6tkp)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+
+Domain: Leonardo
+Query: Leonardo defence latest company news
+Timestamp: 2026-02-21T15:10:45
+PerPageSummaryWords: 200
+- Adani Defence partners with Italian defence major Leonardo to set up helicopter manufacturing facility
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cae6133a41a6adb117b8b74aa9ad&url=https%3a%2f%2fwww.financialexpress.com%2fbusiness%2findustry-adani-defence-partners-with-italian-defence-major-leonardo-to-set-up-helicopter-manufacturing-facility-4129694%2f&c=14800623633584532264&mkt=en-us
+  Adani Defence and Italy’s Leonardo have partnered to build an integrated helicopter manufacturing ecosystem in India, targeting military demand and advancing Make in India goals ...
+  LinkedPageStatus: ok (https://www.financialexpress.com/business/industry-adani-defence-partners-with-italian-defence-major-leonardo-to-set-up-helicopter-manufacturing-facility-4129694/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Adani Group and Italian major Leonardo announced a strategic partnership to establish an integrated helicopter manufacturing ecosystem in India. The partnership will target the Indian Armed Forces’ requirements, particularly for Leonardo’s advanced AW169M and AW109 TrekkerM helicopters. Adani Defence & Aerospace and Leonardo inked a Memorandum of Understanding for the partnership at an event in the national capital. The move will be a significant boost for the ‘Make In India’ efforts and to make the country more self-reliant. The manufacturing ecosystem will look to address military demands and boost India’s self-reliance in helicopter production. “The collaboration will deliver phased indigenization, robust maintenance, repair, and overhaul (MRO) capabilities, and comprehensive pilot training,”, the company said in a statement. India has a low helicopter penetration rate of fewer than 250 helicopters per 100,000 people, and the country will need around 100 helicopters annually over the next 10 years. Adani Defence & Aerospace Director Jeet Adani said it was laying the foundation for an aviation ecosystem that serves the nation across civil and defence needs. “Together, we will build an ecosystem on Indian soil that brings manufacturing, assembly, training, and world-class support into one cohesive whole,” he added. Adani Defence & Aerospace CEO
+
+- Adani–Leonardo Pact Signals New Flight Path for Defence Manufacturing
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cae6133a41a6adb117b8b74aa9ad&url=https%3a%2f%2ftechstory.in%2fadani-leonardo-pact-signals-new-flight-path-for-defence-manufacturing%2f&c=7298948469097721629&mkt=en-us
+  India’s defence ambitions are steadily rising, mirroring the controlled ascent of a helicopter lifting into strategic skies.
+  LinkedPageStatus: ok (https://techstory.in/adani-leonardo-pact-signals-new-flight-path-for-defence-manufacturing/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  India’s defence ambitions are steadily rising, mirroring the controlled ascent of a helicopter lifting into strategic skies. In a significant move to strengthen domestic aerospace capabilities, Adani Defence & Aerospace has signed a memorandum of understanding (MoU) with Italian aerospace giant Leonardo to develop a comprehensive helicopter manufacturing ecosystem in India. The partnership reflects the country’s accelerating push towards defence self-reliance under the Atmanirbhar Bharat initiative. The collaboration will focus on manufacturing advanced rotary-wing platforms, including Leonardo’s AW169M and AW109 TrekkerM helicopters. These helicopters are expected to play a crucial role in meeting the evolving operational demands of the Indian armed forces, particularly in areas such as light utility, medium-lift operations, and maritime multi-role missions. The partnership goes beyond just manufacturing helicopters. Both companies aim to create an end-to-end aerospace ecosystem covering production, phased indigenisation, maintenance, repair and overhaul (MRO) services, and advanced pilot training programmes. By gradually increasing local sourcing and manufacturing, the initiative is expected to reduce India’s dependence on foreign imports while boosting domestic technological expertise. The MoU was signed in the presence of senior government officials, including Defence Secretary Rajesh Kumar Singh and Director General (Acquisition) A Anbarasu. Their presence underscores the strategic importance of the
+
+- Strike dates set in union’s pay dispute with defence company Leonardo
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cae6133a41a6adb117b8b74aa9ad&url=https%3a%2f%2fwww.msn.com%2fen-gb%2fmoney%2fother%2fstrike-dates-set-in-union-s-pay-dispute-with-defence-company-leonardo%2far-AA1P6tkp&c=9441113229825410961&mkt=en-us
+  Workers at a leading defence and aerospace company are set to go on strike in November in a dispute over pay. Unite says more than 3000 workers at Leonardo UK’s facilities in Scotland and England will ...
+  LinkedPageStatus: ok (https://www.msn.com/en-gb/money/other/strike-dates-set-in-union-s-pay-dispute-with-defence-company-leonardo/ar-AA1P6tkp)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+

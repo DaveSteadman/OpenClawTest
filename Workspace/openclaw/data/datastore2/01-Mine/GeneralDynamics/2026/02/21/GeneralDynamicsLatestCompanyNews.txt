@@ -1,0 +1,469 @@
+Domain: GeneralDynamics
+Query: General Dynamics latest company news
+Timestamp: 2026-02-21T14:26:25
+PerPageSummaryWords: 200
+- News - General Dynamics
+  https://www.gd.com/news
+  Your source for General Dynamics news , events and media. Read on for the latest on our products, services and financial performance.
+  LinkedPageStatus: ok (https://www.gd.com/news)
+  LinkedPageSummaryWords: 56
+  LinkedPageSummary:
+  Press Releases | Media Gallery | Media Contacts View our Corporate Sustainability Report to see more stories about how we are working to reduce our environmental impact, protect human rights, promote a diverse and inclusive workforce, and support the communities in which our 100,000 employees live and work. Find the best media contact for your request.
+
+- General Dynamics Secures Major Defense Contract as Analysts Lift Stock ...
+  https://finance.yahoo.com/news/general-dynamics-secures-major-defense-213431346.html
+  General Dynamics Corporation (NYSE:GD) is one of the 12 Set-It-and-Forget-It Stocks to Buy Now. The company's rating was upgraded to Buy after being awarded a $1.5 billion contract. The second ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_dff3f1f9-34d0-46eb-8aba-9b7b491060f7)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- General Dynamics Corp | Reuters
+  https://www.reuters.com/company/general-dynamics-corp/
+  The latest international General Dynamics Corp news and views from Reuters - one of the world's largest news agencies
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/company/general-dynamics-corp/
+  LinkedPageSummaryWords: 0
+
+- general dynamics News and Press Releases | PR Newswire
+  https://www.prnewswire.com/news/general-dynamics/
+  news News from general dynamics A wide array of domestic and global news stories; news topics include politics/government, business, technology, religion, sports/entertainment, science/nature, and ...
+  LinkedPageStatus: ok (https://www.prnewswire.com/news/general-dynamics/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  General Dynamics (NYSE: GD) today reported quarterly net earnings of $1.1 billion on revenue of $14.4 billion. Diluted earnings per share (EPS) was... General Dynamics (NYSE: GD) will webcast its fourth-quarter and full-year financial results conference call on Wednesday, January 28, beginning at 9... The board of directors of General Dynamics (NYSE: GD) today declared a regular quarterly dividend of $1.50 per share on the company's common stock,... General Dynamics NASSCO, a business unit of General Dynamics (NYSE:GD), announced today that it has been awarded $1.7 billion for the construction of ... General Dynamics (NYSE: GD) today reported third-quarter 2025 operating earnings of $1.3 billion, or $3.88 per diluted share (EPS), on revenue of $12.... General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today that it was awarded the Enterprise... General Dynamics (NYSE: GD) will webcast its third-quarter financial results conference call on Friday, October 24, beginning at 9 a.m. EDT. The live ... General Dynamics Electric Boat, a business unit of General Dynamics (NYSE: GD), announced today it has been awarded a $642 million contract... General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today that it was awarded an
+
+- General Dynamics news | Breaking News
+  https://www.newsnow.com/us/Business/Aerospace+and+Defense/Corporations/General+Dynamics
+  Get the latest General Dynamics news , all in one place. Comprehensive General Dynamics news aggregated from over 14,000 sources from around the world.
+  LinkedPageStatus: ok (https://www.newsnow.com/us/Business/Aerospace+and+Defense/Corporations/General+Dynamics)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  General Dynamics Top Stories Latest News Most Read General Dynamics tests MEDUSA unmanned submarine for rapid mine delivery for U.S. Navy Army Recognition 08:18 Military (World) Arms Trade Aerospace and Defense General Dynamics testing MEDUSA submarine launched mine warfare drone Naval News 04:31 Sea Defense Military (World) Arms Trade Trident missile fire control contract awarded UK Defence Journal 09:07 Military (World) Arms Trade Aerospace and Defense Is General Dynamics stock a 2026 buy after its 2025 earnings beat? The Motley Fool 07:35 Arms Trade Aerospace and Defense L3Harris to deliver communications systems for US Navy submarines Naval Technology 11:33 L3Harris Technologies Virginia Sea Defense L3Harris wins major submarine comms contract UK Defence Journal 11:05 L3Harris Technologies Sea Defense Arms Trade Do Wall Street analysts like General Dynamics stock? Barchart 09:12 Wall Street Arms Trade Aerospace and Defense Rhode Island hockey arena shooting suspect Robert Dorgan wore miniskirts and heels to work,… The Times of India 12:20 Indian Employment Arms Trade Aerospace and Defense Biw confirms Rhode Island hockey arena shooter was active employee Maine Public 17:04 Rhode Island Rhode Island Shooting Maine Shooting Secretary of War, Pete Hegseth, begins the “Arsenal of Freedom Tour” in Rhode Island RINewsToday.com 02:51 Rhode
+
+- General Dynamics News | Markets Insider
+  https://markets.businessinsider.com/news/gd?op=1
+  General Dynamics News : This is the News -site for the company General Dynamics on Markets Insider
+  LinkedPageStatus: ok (https://markets.businessinsider.com/news/gd?op=1)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  TipRanks 20d General Dynamics price target raised to $385 from $360 at Jefferies TipRanks 20d Jefferies Remains a Hold on General Dynamics (GD) Seeking Alpha 20d S&P 500 industrials deliver clean sweep of earnings beats TipRanks 22d General Dynamics awarded $255.13M Navy contract Seeking Alpha 23d York Space Systems jumps after $629M IPO prices above range TipRanks 23d Morgan Stanley Keeps Their Buy Rating on General Dynamics (GD) TipRanks 23d Analysts Offer Insights on Industrial Goods Companies: General Dynamics (GD), CH Robinson (CHRW) and Lennox International (LII) TipRanks 23d General Dynamics (GD) Receives a Rating Update from a Top Analyst TipRanks 23d Analysts Offer Insights on Industrial Goods Companies: General Dynamics (GD), JetBlue Airways (JBLU) and BELIMO Holding AG (OtherBLHWF) TipRanks 23d General Dynamics price target raised to $393 from $388 at UBS TipRanks 23d Analysts Offer Insights on Industrial Goods Companies: General Dynamics (GD) and GE Vernova Inc. (GEV) TipRanks 24d Analysts Have Conflicting Sentiments on These Industrial Goods Companies: General Dynamics (GD) and Lennox International (LII) TipRanks 24d 3 Best Dividend Aristocrat Stocks to Buy Now, 01/28/2026 TipRanks 24d General Dynamics sees improved pricing, margins in FY26 TipRanks 24d General Dynamics says ‘Q4 was strong, bordering on exceptional’
+
+- GD - General Dynamics Corp Latest Stock News & Market Updates
+  https://www.stocktitan.net/news/GD/
+  Browse the latest General Dynamics (GD) news , from defense contracts and shipbuilding awards to GDIT technology programs, earnings releases and dividend updates.
+  LinkedPageStatus: ok (https://www.stocktitan.net/news/GD/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Welcome to our dedicated page for General Dynamics news (Ticker: GD ), a resource for investors and traders seeking the latest updates and insights on General Dynamics stock. General Dynamics Corporation (NYSE: GD) is a global aerospace and defense company with operations spanning business aviation, naval ship construction and repair, land combat systems, weapons systems and munitions, and technology products and services. This news page focuses on company developments that relate directly to these activities and to the four reported segments: Aerospace, Marine Systems, Combat Systems and Technologies. News about General Dynamics often includes contract awards and program milestones across its defense and government customer base. For example, public announcements from its General Dynamics Information Technology (GDIT) business unit describe large task orders and contracts to modernize U.S. Navy C5ISR systems and to provide enterprise mission IT services for U.S. Army Europe and Africa. These updates highlight how the Technologies segment supports mission command, secure communications, AI, cloud, cybersecurity and data analytics for defense and government agencies. Another key news theme involves shipbuilding and marine programs within the Marine Systems segment. Releases from General Dynamics NASSCO describe awards to construct additional John Lewis-class fleet replenishment oilers and collaborations with international
+
+- News Feed - General Dynamics
+  https://www.gd.com/news/news-feed
+  General Dynamics is a global aerospace and defense company . Our broad portfolio of products and services includes business aviation; combat vehicles, weapons systems and munitions; C4ISR and IT solutions; and shipbuilding.
+  LinkedPageStatus: ok (https://www.gd.com/news/news-feed)
+  LinkedPageSummaryWords: 4
+  LinkedPageSummary:
+  News Feed Load More
+
+
+Domain: GeneralDynamics
+Query: General Dynamics latest company news
+Timestamp: 2026-02-21T14:27:07
+PerPageSummaryWords: 220
+- General Dynamics paid investors $1.50: Here’s what the dividend reveals
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c0b207804be687bff93575353f18&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2finvestment%2fgeneral-dynamics-paid-investors-1-50-here-s-what-the-dividend-reveals%2far-AA1Wiwdz&c=14199749812083997983&mkt=en-us
+  Quick Read General Dynamics (GD) increased its quarterly dividend 5.6% to $1.50 per share extending a 27-year consecutive payment streak. General Dynamics closed 2025 with a record $118B backlog up 30 ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/investment/general-dynamics-paid-investors-1-50-here-s-what-the-dividend-reveals/ar-AA1Wiwdz)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- General Dynamics (GD) Receives a Rating Update from a Top Analyst
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c0b207804be687bff93575353f18&url=https%3a%2f%2fwww.theglobeandmail.com%2finvesting%2fmarkets%2fstocks%2fGD%2fpressreleases%2f37319583%2fgeneral-dynamics-gd-receives-a-rating-update-from-a-top-analyst%2f&c=4758760453407494435&mkt=en-us
+  Detailed price information for General Dynamics Corp (GD-N) from The Globe and Mail including charting and trades.
+  LinkedPageStatus: ok (https://www.theglobeandmail.com/investing/markets/stocks/GD/pressreleases/37319583/general-dynamics-gd-receives-a-rating-update-from-a-top-analyst/)
+  LinkedPageSummaryWords: 219
+  LinkedPageSummary:
+  RBC Capital analyst Kenneth Herbert maintained a Hold rating on General Dynamics yesterday and set a price target of $385.00. The company’s shares closed yesterday at $356.68. Herbert covers the Industrials sector, focusing on stocks such as Boeing, Airbus Group SE, and FTAI Aviation. According to TipRanks , Herbert has an average return of 27.9% and a 71.69% success rate on recommended stocks. The word on The Street in general, suggests a Moderate Buy analyst consensus rating for General Dynamics with a $398.50 average price target, an 11.72% upside from current levels. In a report released today, UBS also maintained a Hold rating on the stock with a $393.00 price target. Based on General Dynamics’ latest earnings release for the quarter ending December 31, the company reported a quarterly revenue of $14.38 billion and a net profit of $1.14 billion. In comparison, last year the company earned a revenue of $13.34 billion and had a net profit of $1.15 billion Based on the recent corporate insider activity of 125 insiders, corporate insider sentiment is negative on the stock. This means that over the past quarter there has been an increase of insiders selling their shares of GD in relation to earlier this year. Last month, David Paddock, the VP of GD sold 20,360.00 shares for a total of $6,818,819.45.
+
+- Is General Dynamics Corporation's (NYSE:GD) Latest Stock Performance Being Led By Its Strong Fundamentals?
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c0b207804be687bff93575353f18&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2fgeneral-dynamics-corporations-nyse-gd-110112409.html&c=4663612903942093821&mkt=en-us
+  Most readers would already know that General Dynamics' (NYSE:GD) stock increased by 2.7% over the past three months. Given its impressive performance, we decided to study the company's key financial ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_7fa4e932-138d-4901-b53b-cf8d699c565a)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- General Dynamics (NYSE:GD) reports strong Q4 CY2025
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c0b207804be687bff93575353f18&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftopstocks%2fgeneral-dynamics-nysegd-reports-strong-q4-cy2025%2far-AA1VawRw&c=13907725519221748069&mkt=en-us
+  Aerospace and defense company General Dynamics (NYSE:GD) in Q4 CY2025, with sales up 7.8% year on year to $14.38 billion. Its GAAP profit of $4.17 per share was 1.5% above analysts’ consensus ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/topstocks/general-dynamics-nysegd-reports-strong-q4-cy2025/ar-AA1VawRw)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Institutional investors in General Dynamics Corporation (NYSE:GD) lost 3.5% last week but have reaped the benefits of longer-term growth
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c0b207804be687bff93575353f18&url=https%3a%2f%2ffinance.yahoo.com%2fnews%2finstitutional-investors-general-dynamics-corporation-110033603.html&c=2001235737242097013&mkt=en-us
+  Key Insights Institutions' substantial holdings in General Dynamics implies that they have significant influence ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_9b2a456b-dcf8-492b-bdfa-7408244e3858)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- General Dynamics tops Q4 profit and revenue estimates as backlog climbs
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c0b207804be687bff93575353f18&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4543425-general-dynamics-tops-q4-profit-and-revenue-estimates-as-backlog-climbs&c=7324523760898032631&mkt=en-us
+  General Dynamics (GD) reported higher revenue and a sharply larger backlog in the fourth quarter as rising defense spending worldwide and ongoing geopolitical tensions supported demand across its ...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://seekingalpha.com/news/4543425-general-dynamics-tops-q4-profit-and-revenue-estimates-as-backlog-climbs
+  LinkedPageSummaryWords: 0
+
+- Citigroup Initiates Coverage of General Dynamics (GD) with Neutral Recommendation
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c0b207804be687bff93575353f18&url=https%3a%2f%2fwww.nasdaq.com%2farticles%2fcitigroup-initiates-coverage-general-dynamics-gd-neutral-recommendation&c=3313316489715344804&mkt=en-us
+  As of December 5, 2025, the average one-year price target for General Dynamics is $387.34/share. The forecasts range from a low of $303.00 to a high of $435.75. The average price target represents an ...
+  LinkedPageStatus: ok (https://www.nasdaq.com/articles/citigroup-initiates-coverage-general-dynamics-gd-neutral-recommendation)
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  Fintel reports that on December 12, 2025, Citigroup initiated coverage of General Dynamics ( NYSE:GD ) with a Neutral recommendation. As of December 5, 2025, the average one-year price target for General Dynamics is $387.34/share. The forecasts range from a low of $303.00 to a high of $435.75. The average price target represents an increase of 14.73% from its latest reported closing price of $337.62 / share. See our leaderboard of companies with the largest price target upside. The projected annual revenue for General Dynamics is 46,261MM, a decrease of 10.19%. The projected annual non-GAAP EPS is 17.93. There are 2,881 funds or institutions reporting positions in General Dynamics. This is an increase of 105 owner(s) or 3.78% in the last quarter. Average portfolio weight of all funds dedicated to GD is 0.37%, an increase of 1.12%. Total shares owned by institutions decreased in the last three months by 1.12% to 268,642K shares. The put/call ratio of GD is 0.63, indicating a bullish outlook. Longview Asset Management holds 27,307K shares representing 10.12% ownership of the company. In its prior filing, the firm reported owning 28,034K shares , representing a decrease of 2.66%. The firm increased its portfolio allocation in GD by 1.06% over the last quarter. Newport Trust holds 13,959K shares representing 5.18% ownership of the company. In its prior
+
+- General Dynamics Q4, Full Fiscal 2025 Financial Results Show Revenue, Backlog Growth
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c0b207804be687bff93575353f18&url=https%3a%2f%2fwww.govconwire.com%2farticles%2fgeneral-dynamics-fy-2025-financial-report&c=6438524236641883053&mkt=en-us
+  General Dynamics has recorded fourth-quarter net earnings of $1.1 billion and a revenue of $14.38 billion, with full fiscal year 2025 net earnings of $4.2 billion, an 11.3 percent year-over-year ...
+  LinkedPageStatus: ok (https://www.govconwire.com/articles/general-dynamics-fy-2025-financial-report)
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  General Dynamics has recorded fourth-quarter net earnings of $1.1 billion and a revenue of $14.38 billion, with full fiscal year 2025 net earnings of $4.2 billion, an 11.3 percent year-over-year increase, and revenue of $52.55 billion, a 10.1 percent growth compared to fiscal 2024. Phebe N. Novakovic , the company’s chairperson and CEO and a nine-time Wash100 recipient, said in a statement Wednesday that the company also saw a 30 percent growth in company-wide backlog . “As we focus on execution of programs for our customers, we are also preparing aggressively for future growth, investing nearly $1.2 billion in capital expenditures in 2025 — with even more investments planned in the year ahead,” she added. According to Novakovic, all four of the company’s segments saw revenue growth and earnings in Q4 and the whole fiscal year. General Dynamics’ aerospace business logged in $3.788 billion and earnings of $481 million in the quarter ending on Dec. 31. For the full fiscal year, the segment generated revenue of $13.1 billion and earnings of $1.75 billion. During the company’s recent financial results conference call, Novakovic shared that Gulfstream aircraft and service business continues to see strong demand, while Jet Aviation had an improved performance in the quarter. The segment’s book-to-bill “was a strong quarter bordering on exceptional,” according to the CEO. Gulfstream alone
+
+
+Domain: GeneralDynamics
+Query: General Dynamics latest company news
+Timestamp: 2026-02-21T14:28:28
+PerPageSummaryWords: 200
+- General Dynamics paid investors $1.50: Here’s what the dividend reveals
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c103481345f9ba3a03a6c6a194ed&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2finvestment%2fgeneral-dynamics-paid-investors-1-50-here-s-what-the-dividend-reveals%2far-AA1Wiwdz&c=14199749812083997983&mkt=en-us
+  Quick Read General Dynamics (GD) increased its quarterly dividend 5.6% to $1.50 per share extending a 27-year consecutive payment streak. General Dynamics closed 2025 with a record $118B backlog up 30 ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/investment/general-dynamics-paid-investors-1-50-here-s-what-the-dividend-reveals/ar-AA1Wiwdz)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- General Dynamics (GD) Receives a Rating Update from a Top Analyst
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c103481345f9ba3a03a6c6a194ed&url=https%3a%2f%2fwww.theglobeandmail.com%2finvesting%2fmarkets%2fstocks%2fGD%2fpressreleases%2f37319583%2fgeneral-dynamics-gd-receives-a-rating-update-from-a-top-analyst%2f&c=4758760453407494435&mkt=en-us
+  Detailed price information for General Dynamics Corp (GD-N) from The Globe and Mail including charting and trades.
+  LinkedPageStatus: ok (https://www.theglobeandmail.com/investing/markets/stocks/GD/pressreleases/37319583/general-dynamics-gd-receives-a-rating-update-from-a-top-analyst/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  RBC Capital analyst Kenneth Herbert maintained a Hold rating on General Dynamics yesterday and set a price target of $385.00. The company’s shares closed yesterday at $356.68. Herbert covers the Industrials sector, focusing on stocks such as Boeing, Airbus Group SE, and FTAI Aviation. According to TipRanks , Herbert has an average return of 27.9% and a 71.69% success rate on recommended stocks. The word on The Street in general, suggests a Moderate Buy analyst consensus rating for General Dynamics with a $398.50 average price target, an 11.72% upside from current levels. In a report released today, UBS also maintained a Hold rating on the stock with a $393.00 price target. Based on General Dynamics’ latest earnings release for the quarter ending December 31, the company reported a quarterly revenue of $14.38 billion and a net profit of $1.14 billion. In comparison, last year the company earned a revenue of $13.34 billion and had a net profit of $1.15 billion Based on the recent corporate insider activity of 125 insiders, corporate insider sentiment is negative on the stock. This means that over the past quarter there has been an increase of insiders selling their shares of GD in relation to
+
+- Is General Dynamics Corporation's (NYSE:GD) Latest Stock Performance Being Led By Its Strong Fundamentals?
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c103481345f9ba3a03a6c6a194ed&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2fgeneral-dynamics-corporations-nyse-gd-110112409.html&c=4663612903942093821&mkt=en-us
+  Most readers would already know that General Dynamics' (NYSE:GD) stock increased by 2.7% over the past three months. Given its impressive performance, we decided to study the company's key financial ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_4cf4b224-87e5-4c69-b4f8-da3cba724bf0)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- General Dynamics (NYSE:GD) reports strong Q4 CY2025
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c103481345f9ba3a03a6c6a194ed&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftopstocks%2fgeneral-dynamics-nysegd-reports-strong-q4-cy2025%2far-AA1VawRw&c=13907725519221748069&mkt=en-us
+  Aerospace and defense company General Dynamics (NYSE:GD) in Q4 CY2025, with sales up 7.8% year on year to $14.38 billion. Its GAAP profit of $4.17 per share was 1.5% above analysts’ consensus ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/topstocks/general-dynamics-nysegd-reports-strong-q4-cy2025/ar-AA1VawRw)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Institutional investors in General Dynamics Corporation (NYSE:GD) lost 3.5% last week but have reaped the benefits of longer-term growth
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c103481345f9ba3a03a6c6a194ed&url=https%3a%2f%2ffinance.yahoo.com%2fnews%2finstitutional-investors-general-dynamics-corporation-110033603.html&c=2001235737242097013&mkt=en-us
+  Key Insights Institutions' substantial holdings in General Dynamics implies that they have significant influence ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_963a0c17-20cf-4fe9-932d-885ab9498c66)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- General Dynamics tops Q4 profit and revenue estimates as backlog climbs
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c103481345f9ba3a03a6c6a194ed&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4543425-general-dynamics-tops-q4-profit-and-revenue-estimates-as-backlog-climbs&c=7324523760898032631&mkt=en-us
+  General Dynamics (GD) reported higher revenue and a sharply larger backlog in the fourth quarter as rising defense spending worldwide and ongoing geopolitical tensions supported demand across its ...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://seekingalpha.com/news/4543425-general-dynamics-tops-q4-profit-and-revenue-estimates-as-backlog-climbs
+  LinkedPageSummaryWords: 0
+
+- Citigroup Initiates Coverage of General Dynamics (GD) with Neutral Recommendation
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c103481345f9ba3a03a6c6a194ed&url=https%3a%2f%2fwww.nasdaq.com%2farticles%2fcitigroup-initiates-coverage-general-dynamics-gd-neutral-recommendation&c=3313316489715344804&mkt=en-us
+  As of December 5, 2025, the average one-year price target for General Dynamics is $387.34/share. The forecasts range from a low of $303.00 to a high of $435.75. The average price target represents an ...
+  LinkedPageStatus: ok (https://www.nasdaq.com/articles/citigroup-initiates-coverage-general-dynamics-gd-neutral-recommendation)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Fintel reports that on December 12, 2025, Citigroup initiated coverage of General Dynamics ( NYSE:GD ) with a Neutral recommendation. As of December 5, 2025, the average one-year price target for General Dynamics is $387.34/share. The forecasts range from a low of $303.00 to a high of $435.75. The average price target represents an increase of 14.73% from its latest reported closing price of $337.62 / share. See our leaderboard of companies with the largest price target upside. The projected annual revenue for General Dynamics is 46,261MM, a decrease of 10.19%. The projected annual non-GAAP EPS is 17.93. There are 2,881 funds or institutions reporting positions in General Dynamics. This is an increase of 105 owner(s) or 3.78% in the last quarter. Average portfolio weight of all funds dedicated to GD is 0.37%, an increase of 1.12%. Total shares owned by institutions decreased in the last three months by 1.12% to 268,642K shares. The put/call ratio of GD is 0.63, indicating a bullish outlook. Longview Asset Management holds 27,307K shares representing 10.12% ownership of the company. In its prior filing, the firm reported owning 28,034K shares , representing a decrease of 2.66%. The firm increased its portfolio allocation in GD
+
+- General Dynamics Q4, Full Fiscal 2025 Financial Results Show Revenue, Backlog Growth
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c103481345f9ba3a03a6c6a194ed&url=https%3a%2f%2fwww.govconwire.com%2farticles%2fgeneral-dynamics-fy-2025-financial-report&c=6438524236641883053&mkt=en-us
+  General Dynamics has recorded fourth-quarter net earnings of $1.1 billion and a revenue of $14.38 billion, with full fiscal year 2025 net earnings of $4.2 billion, an 11.3 percent year-over-year ...
+  LinkedPageStatus: ok (https://www.govconwire.com/articles/general-dynamics-fy-2025-financial-report)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  General Dynamics has recorded fourth-quarter net earnings of $1.1 billion and a revenue of $14.38 billion, with full fiscal year 2025 net earnings of $4.2 billion, an 11.3 percent year-over-year increase, and revenue of $52.55 billion, a 10.1 percent growth compared to fiscal 2024. Phebe N. Novakovic , the company’s chairperson and CEO and a nine-time Wash100 recipient, said in a statement Wednesday that the company also saw a 30 percent growth in company-wide backlog . “As we focus on execution of programs for our customers, we are also preparing aggressively for future growth, investing nearly $1.2 billion in capital expenditures in 2025 — with even more investments planned in the year ahead,” she added. According to Novakovic, all four of the company’s segments saw revenue growth and earnings in Q4 and the whole fiscal year. General Dynamics’ aerospace business logged in $3.788 billion and earnings of $481 million in the quarter ending on Dec. 31. For the full fiscal year, the segment generated revenue of $13.1 billion and earnings of $1.75 billion. During the company’s recent financial results conference call, Novakovic shared that Gulfstream aircraft and service business continues to see strong demand, while Jet Aviation had an improved
+
+
+Domain: GeneralDynamics
+Query: General Dynamics latest company news
+Timestamp: 2026-02-21T14:36:25
+PerPageSummaryWords: 200
+- General Dynamics paid investors $1.50: Here’s what the dividend reveals
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2ddce33492bb07fa553ca050dc5&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2finvestment%2fgeneral-dynamics-paid-investors-1-50-here-s-what-the-dividend-reveals%2far-AA1Wiwdz&c=14199749812083997983&mkt=en-us
+  Quick Read General Dynamics (GD) increased its quarterly dividend 5.6% to $1.50 per share extending a 27-year consecutive payment streak. General Dynamics closed 2025 with a record $118B backlog up 30 ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/investment/general-dynamics-paid-investors-1-50-here-s-what-the-dividend-reveals/ar-AA1Wiwdz)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- General Dynamics (GD) Receives a Rating Update from a Top Analyst
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2ddce33492bb07fa553ca050dc5&url=https%3a%2f%2fwww.theglobeandmail.com%2finvesting%2fmarkets%2fstocks%2fGD%2fpressreleases%2f37319583%2fgeneral-dynamics-gd-receives-a-rating-update-from-a-top-analyst%2f&c=4758760453407494435&mkt=en-us
+  Detailed price information for General Dynamics Corp (GD-N) from The Globe and Mail including charting and trades.
+  LinkedPageStatus: ok (https://www.theglobeandmail.com/investing/markets/stocks/GD/pressreleases/37319583/general-dynamics-gd-receives-a-rating-update-from-a-top-analyst/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  RBC Capital analyst Kenneth Herbert maintained a Hold rating on General Dynamics yesterday and set a price target of $385.00. The company’s shares closed yesterday at $356.68. Herbert covers the Industrials sector, focusing on stocks such as Boeing, Airbus Group SE, and FTAI Aviation. According to TipRanks , Herbert has an average return of 27.9% and a 71.69% success rate on recommended stocks. The word on The Street in general, suggests a Moderate Buy analyst consensus rating for General Dynamics with a $398.50 average price target, an 11.72% upside from current levels. In a report released today, UBS also maintained a Hold rating on the stock with a $393.00 price target. Based on General Dynamics’ latest earnings release for the quarter ending December 31, the company reported a quarterly revenue of $14.38 billion and a net profit of $1.14 billion. In comparison, last year the company earned a revenue of $13.34 billion and had a net profit of $1.15 billion Based on the recent corporate insider activity of 125 insiders, corporate insider sentiment is negative on the stock. This means that over the past quarter there has been an increase of insiders selling their shares of GD in relation to
+
+- Is General Dynamics Corporation's (NYSE:GD) Latest Stock Performance Being Led By Its Strong Fundamentals?
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2ddce33492bb07fa553ca050dc5&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2fgeneral-dynamics-corporations-nyse-gd-110112409.html&c=4663612903942093821&mkt=en-us
+  Most readers would already know that General Dynamics' (NYSE:GD) stock increased by 2.7% over the past three months. Given its impressive performance, we decided to study the company's key financial ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_8ac409a5-4509-4526-b165-d95bbc824a18)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- General Dynamics (NYSE:GD) reports strong Q4 CY2025
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2ddce33492bb07fa553ca050dc5&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftopstocks%2fgeneral-dynamics-nysegd-reports-strong-q4-cy2025%2far-AA1VawRw&c=13907725519221748069&mkt=en-us
+  Aerospace and defense company General Dynamics (NYSE:GD) in Q4 CY2025, with sales up 7.8% year on year to $14.38 billion. Its GAAP profit of $4.17 per share was 1.5% above analysts’ consensus ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/topstocks/general-dynamics-nysegd-reports-strong-q4-cy2025/ar-AA1VawRw)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Institutional investors in General Dynamics Corporation (NYSE:GD) lost 3.5% last week but have reaped the benefits of longer-term growth
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2ddce33492bb07fa553ca050dc5&url=https%3a%2f%2ffinance.yahoo.com%2fnews%2finstitutional-investors-general-dynamics-corporation-110033603.html&c=2001235737242097013&mkt=en-us
+  Key Insights Institutions' substantial holdings in General Dynamics implies that they have significant influence ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_46913156-e944-441b-9795-7f522433ad1e)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- General Dynamics tops Q4 profit and revenue estimates as backlog climbs
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2ddce33492bb07fa553ca050dc5&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4543425-general-dynamics-tops-q4-profit-and-revenue-estimates-as-backlog-climbs&c=7324523760898032631&mkt=en-us
+  General Dynamics (GD) reported higher revenue and a sharply larger backlog in the fourth quarter as rising defense spending worldwide and ongoing geopolitical tensions supported demand across its ...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://seekingalpha.com/news/4543425-general-dynamics-tops-q4-profit-and-revenue-estimates-as-backlog-climbs
+  LinkedPageSummaryWords: 0
+
+- Citigroup Initiates Coverage of General Dynamics (GD) with Neutral Recommendation
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2ddce33492bb07fa553ca050dc5&url=https%3a%2f%2fwww.nasdaq.com%2farticles%2fcitigroup-initiates-coverage-general-dynamics-gd-neutral-recommendation&c=3313316489715344804&mkt=en-us
+  As of December 5, 2025, the average one-year price target for General Dynamics is $387.34/share. The forecasts range from a low of $303.00 to a high of $435.75. The average price target represents an ...
+  LinkedPageStatus: ok (https://www.nasdaq.com/articles/citigroup-initiates-coverage-general-dynamics-gd-neutral-recommendation)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Fintel reports that on December 12, 2025, Citigroup initiated coverage of General Dynamics ( NYSE:GD ) with a Neutral recommendation. As of December 5, 2025, the average one-year price target for General Dynamics is $387.34/share. The forecasts range from a low of $303.00 to a high of $435.75. The average price target represents an increase of 14.73% from its latest reported closing price of $337.62 / share. See our leaderboard of companies with the largest price target upside. The projected annual revenue for General Dynamics is 46,261MM, a decrease of 10.19%. The projected annual non-GAAP EPS is 17.93. There are 2,881 funds or institutions reporting positions in General Dynamics. This is an increase of 105 owner(s) or 3.78% in the last quarter. Average portfolio weight of all funds dedicated to GD is 0.37%, an increase of 1.12%. Total shares owned by institutions decreased in the last three months by 1.12% to 268,642K shares. The put/call ratio of GD is 0.63, indicating a bullish outlook. Longview Asset Management holds 27,307K shares representing 10.12% ownership of the company. In its prior filing, the firm reported owning 28,034K shares , representing a decrease of 2.66%. The firm increased its portfolio allocation in GD
+
+- General Dynamics Q4, Full Fiscal 2025 Financial Results Show Revenue, Backlog Growth
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2ddce33492bb07fa553ca050dc5&url=https%3a%2f%2fwww.govconwire.com%2farticles%2fgeneral-dynamics-fy-2025-financial-report&c=6438524236641883053&mkt=en-us
+  General Dynamics has recorded fourth-quarter net earnings of $1.1 billion and a revenue of $14.38 billion, with full fiscal year 2025 net earnings of $4.2 billion, an 11.3 percent year-over-year ...
+  LinkedPageStatus: ok (https://www.govconwire.com/articles/general-dynamics-fy-2025-financial-report)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  General Dynamics has recorded fourth-quarter net earnings of $1.1 billion and a revenue of $14.38 billion, with full fiscal year 2025 net earnings of $4.2 billion, an 11.3 percent year-over-year increase, and revenue of $52.55 billion, a 10.1 percent growth compared to fiscal 2024. Phebe N. Novakovic , the company’s chairperson and CEO and a nine-time Wash100 recipient, said in a statement Wednesday that the company also saw a 30 percent growth in company-wide backlog . “As we focus on execution of programs for our customers, we are also preparing aggressively for future growth, investing nearly $1.2 billion in capital expenditures in 2025 — with even more investments planned in the year ahead,” she added. According to Novakovic, all four of the company’s segments saw revenue growth and earnings in Q4 and the whole fiscal year. General Dynamics’ aerospace business logged in $3.788 billion and earnings of $481 million in the quarter ending on Dec. 31. For the full fiscal year, the segment generated revenue of $13.1 billion and earnings of $1.75 billion. During the company’s recent financial results conference call, Novakovic shared that Gulfstream aircraft and service business continues to see strong demand, while Jet Aviation had an improved
+
+
+Domain: GeneralDynamics
+Query: General Dynamics latest company news
+Timestamp: 2026-02-21T14:54:50
+PerPageSummaryWords: 200
+- Is General Dynamics Corporation's (NYSE:GD) Latest Stock Performance Being Led By Its Strong Fundamentals?
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c710664346ed93ce7e342f4d207c&url=https%3a%2f%2ffinance.yahoo.com%2fnews%2fgeneral-dynamics-corporations-nyse-gd-110112409.html&c=5682149930576725434&mkt=en-us
+  Most readers would already know that General Dynamics' (NYSE:GD) stock increased by 2.7% over the past three months. Given its impressive performance, we decided to study the company's key financial ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_4adde2fe-6315-4715-97a5-9414b416ef54)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- General Dynamics paid investors $1.50: Here’s what the dividend reveals
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c710664346ed93ce7e342f4d207c&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2finvestment%2fgeneral-dynamics-paid-investors-1-50-here-s-what-the-dividend-reveals%2far-AA1Wiwdz&c=14199749812083997983&mkt=en-us
+  Quick Read General Dynamics (GD) increased its quarterly dividend 5.6% to $1.50 per share extending a 27-year consecutive payment streak. General Dynamics closed 2025 with a record $118B backlog up 30 ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/investment/general-dynamics-paid-investors-1-50-here-s-what-the-dividend-reveals/ar-AA1Wiwdz)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- General Dynamics (GD) Receives a Rating Update from a Top Analyst
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c710664346ed93ce7e342f4d207c&url=https%3a%2f%2fwww.theglobeandmail.com%2finvesting%2fmarkets%2fstocks%2fGD%2fpressreleases%2f37319583%2fgeneral-dynamics-gd-receives-a-rating-update-from-a-top-analyst%2f&c=4758760453407494435&mkt=en-us
+  Detailed price information for General Dynamics Corp (GD-N) from The Globe and Mail including charting and trades.
+  LinkedPageStatus: ok (https://www.theglobeandmail.com/investing/markets/stocks/GD/pressreleases/37319583/general-dynamics-gd-receives-a-rating-update-from-a-top-analyst/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  RBC Capital analyst Kenneth Herbert maintained a Hold rating on General Dynamics yesterday and set a price target of $385.00. The company’s shares closed yesterday at $356.68. Herbert covers the Industrials sector, focusing on stocks such as Boeing, Airbus Group SE, and FTAI Aviation. According to TipRanks , Herbert has an average return of 27.9% and a 71.69% success rate on recommended stocks. The word on The Street in general, suggests a Moderate Buy analyst consensus rating for General Dynamics with a $398.50 average price target, an 11.72% upside from current levels. In a report released today, UBS also maintained a Hold rating on the stock with a $393.00 price target. Based on General Dynamics’ latest earnings release for the quarter ending December 31, the company reported a quarterly revenue of $14.38 billion and a net profit of $1.14 billion. In comparison, last year the company earned a revenue of $13.34 billion and had a net profit of $1.15 billion Based on the recent corporate insider activity of 125 insiders, corporate insider sentiment is negative on the stock. This means that over the past quarter there has been an increase of insiders selling their shares of GD in relation to
+
+- Institutional investors in General Dynamics Corporation (NYSE:GD) lost 3.5% last week but have reaped the benefits of longer-term growth
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c710664346ed93ce7e342f4d207c&url=https%3a%2f%2ffinance.yahoo.com%2fnews%2finstitutional-investors-general-dynamics-corporation-110033603.html&c=2001235737242097013&mkt=en-us
+  Key Insights Institutions' substantial holdings in General Dynamics implies that they have significant influence ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_04cce5eb-e28c-4413-b016-bcfb4f12a0f5)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- General Dynamics (NYSE:GD) reports strong Q4 CY2025
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c710664346ed93ce7e342f4d207c&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftopstocks%2fgeneral-dynamics-nysegd-reports-strong-q4-cy2025%2far-AA1VawRw&c=13907725519221748069&mkt=en-us
+  Aerospace and defense company General Dynamics (NYSE:GD) in Q4 CY2025, with sales up 7.8% year on year to $14.38 billion. Its GAAP profit of $4.17 per share was 1.5% above analysts’ consensus ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/topstocks/general-dynamics-nysegd-reports-strong-q4-cy2025/ar-AA1VawRw)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- General Dynamics tops Q4 profit and revenue estimates as backlog climbs
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c710664346ed93ce7e342f4d207c&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4543425-general-dynamics-tops-q4-profit-and-revenue-estimates-as-backlog-climbs&c=7324523760898032631&mkt=en-us
+  General Dynamics (GD) reported higher revenue and a sharply larger backlog in the fourth quarter as rising defense spending worldwide and ongoing geopolitical tensions supported demand across its ...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://seekingalpha.com/news/4543425-general-dynamics-tops-q4-profit-and-revenue-estimates-as-backlog-climbs
+  LinkedPageSummaryWords: 0
+
+- Citigroup Initiates Coverage of General Dynamics (GD) with Neutral Recommendation
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c710664346ed93ce7e342f4d207c&url=https%3a%2f%2fwww.nasdaq.com%2farticles%2fcitigroup-initiates-coverage-general-dynamics-gd-neutral-recommendation&c=3313316489715344804&mkt=en-us
+  As of December 5, 2025, the average one-year price target for General Dynamics is $387.34/share. The forecasts range from a low of $303.00 to a high of $435.75. The average price target represents an ...
+  LinkedPageStatus: ok (https://www.nasdaq.com/articles/citigroup-initiates-coverage-general-dynamics-gd-neutral-recommendation)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Fintel reports that on December 12, 2025, Citigroup initiated coverage of General Dynamics ( NYSE:GD ) with a Neutral recommendation. As of December 5, 2025, the average one-year price target for General Dynamics is $387.34/share. The forecasts range from a low of $303.00 to a high of $435.75. The average price target represents an increase of 14.73% from its latest reported closing price of $337.62 / share. See our leaderboard of companies with the largest price target upside. The projected annual revenue for General Dynamics is 46,261MM, a decrease of 10.19%. The projected annual non-GAAP EPS is 17.93. There are 2,881 funds or institutions reporting positions in General Dynamics. This is an increase of 105 owner(s) or 3.78% in the last quarter. Average portfolio weight of all funds dedicated to GD is 0.37%, an increase of 1.12%. Total shares owned by institutions decreased in the last three months by 1.12% to 268,642K shares. The put/call ratio of GD is 0.63, indicating a bullish outlook. Longview Asset Management holds 27,307K shares representing 10.12% ownership of the company. In its prior filing, the firm reported owning 28,034K shares , representing a decrease of 2.66%. The firm increased its portfolio allocation in GD
+
+- General Dynamics Gears Up For Q3 Print; Here Are The Recent Forecast Changes From Wall Street's Most Accurate Analysts
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c710664346ed93ce7e342f4d207c&url=https%3a%2f%2fwww.benzinga.com%2fanalyst-stock-ratings%2fprice-target%2f25%2f10%2f48398510%2fgeneral-dynamics-gears-up-for-q3-print-here-are-the-recent-forecast-changes-from-wall-streets-most-accurate-analysts&c=4028006973419767669&mkt=en-us
+  General Dynamics Corporation (NYSE:GD) will release earnings results for the third quarter, before the opening bell on Friday, Oct. 24. Analysts expect the Reston, Virginia-based company to report ...
+  LinkedPageStatus: ok (https://www.benzinga.com/analyst-stock-ratings/price-target/25/10/48398510/general-dynamics-gears-up-for-q3-print-here-are-the-recent-forecast-changes-from-wall-streets-most-accurate-analysts)
+  LinkedPageSummaryWords: 189
+  LinkedPageSummary:
+  General Dynamics Corporation (NYSE: GD ) will release earnings results for the third quarter, before the opening bell on Friday, Oct. 24. Analysts expect the Reston, Virginia-based company to report quarterly earnings at $3.71 per share, up from $3.35 per share in the year-ago period. The consensus estimate for General Dynamics' quarterly revenue is $12.53 billion, compared to $11.67 billion a year earlier, according to data from Benzinga Pro . On Oct. 13, General Dynamics Land Systems, a subsidiary of General Dynamics, and Parry Labs announced a strategic teaming agreement aimed at accelerating digital integration across combat platforms. Shares of General Dynamics rose 1% to close at $341.50 on Thursday. Benzinga readers can access the latest analyst ratings on the Analyst Stock Ratings page. Readers can sort by stock ticker, company name, analyst firm, rating change or other variables. Let's have a look at how Benzinga's most-accurate analysts have rated the company in the recent period. Considering buying GD stock? Here’s what analysts think: © 2026 Benzinga.com. Benzinga does not provide investment advice. All rights reserved. To add Benzinga News as your preferred source on Google, click here .
+
+
+Domain: GeneralDynamics
+Query: General Dynamics latest company news
+Timestamp: 2026-02-21T15:05:08
+PerPageSummaryWords: 200
+- General Dynamics paid investors $1.50: Here’s what the dividend reveals
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c96c4656431aaa78449fd6e86598&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2finvestment%2fgeneral-dynamics-paid-investors-1-50-here-s-what-the-dividend-reveals%2far-AA1Wiwdz&c=14199749812083997983&mkt=en-us
+  Quick Read General Dynamics (GD) increased its quarterly dividend 5.6% to $1.50 per share extending a 27-year consecutive payment streak. General Dynamics closed 2025 with a record $118B backlog up 30 ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/investment/general-dynamics-paid-investors-1-50-here-s-what-the-dividend-reveals/ar-AA1Wiwdz)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- General Dynamics (GD) Receives a Rating Update from a Top Analyst
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c96c4656431aaa78449fd6e86598&url=https%3a%2f%2fwww.theglobeandmail.com%2finvesting%2fmarkets%2fstocks%2fGD%2fpressreleases%2f37319583%2fgeneral-dynamics-gd-receives-a-rating-update-from-a-top-analyst%2f&c=4758760453407494435&mkt=en-us
+  Detailed price information for General Dynamics Corp (GD-N) from The Globe and Mail including charting and trades.
+  LinkedPageStatus: ok (https://www.theglobeandmail.com/investing/markets/stocks/GD/pressreleases/37319583/general-dynamics-gd-receives-a-rating-update-from-a-top-analyst/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  RBC Capital analyst Kenneth Herbert maintained a Hold rating on General Dynamics yesterday and set a price target of $385.00. The company’s shares closed yesterday at $356.68. Herbert covers the Industrials sector, focusing on stocks such as Boeing, Airbus Group SE, and FTAI Aviation. According to TipRanks , Herbert has an average return of 27.9% and a 71.69% success rate on recommended stocks. The word on The Street in general, suggests a Moderate Buy analyst consensus rating for General Dynamics with a $398.50 average price target, an 11.72% upside from current levels. In a report released today, UBS also maintained a Hold rating on the stock with a $393.00 price target. Based on General Dynamics’ latest earnings release for the quarter ending December 31, the company reported a quarterly revenue of $14.38 billion and a net profit of $1.14 billion. In comparison, last year the company earned a revenue of $13.34 billion and had a net profit of $1.15 billion Based on the recent corporate insider activity of 125 insiders, corporate insider sentiment is negative on the stock. This means that over the past quarter there has been an increase of insiders selling their shares of GD in relation to
+
+- Is General Dynamics Corporation's (NYSE:GD) Latest Stock Performance Being Led By Its Strong Fundamentals?
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c96c4656431aaa78449fd6e86598&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2fgeneral-dynamics-corporations-nyse-gd-110112409.html&c=4663612903942093821&mkt=en-us
+  Most readers would already know that General Dynamics' (NYSE:GD) stock increased by 2.7% over the past three months. Given its impressive performance, we decided to study the company's key financial ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_e0042aec-9b8f-48b7-8f2a-aee735826a9e)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- General Dynamics (NYSE:GD) reports strong Q4 CY2025
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c96c4656431aaa78449fd6e86598&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftopstocks%2fgeneral-dynamics-nysegd-reports-strong-q4-cy2025%2far-AA1VawRw&c=13907725519221748069&mkt=en-us
+  Aerospace and defense company General Dynamics (NYSE:GD) in Q4 CY2025, with sales up 7.8% year on year to $14.38 billion. Its GAAP profit of $4.17 per share was 1.5% above analysts’ consensus ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/topstocks/general-dynamics-nysegd-reports-strong-q4-cy2025/ar-AA1VawRw)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Institutional investors in General Dynamics Corporation (NYSE:GD) lost 3.5% last week but have reaped the benefits of longer-term growth
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c96c4656431aaa78449fd6e86598&url=https%3a%2f%2ffinance.yahoo.com%2fnews%2finstitutional-investors-general-dynamics-corporation-110033603.html&c=2001235737242097013&mkt=en-us
+  Key Insights Institutions' substantial holdings in General Dynamics implies that they have significant influence ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_7f1d93dd-3526-421a-82a6-d4670aa49755)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- General Dynamics tops Q4 profit and revenue estimates as backlog climbs
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c96c4656431aaa78449fd6e86598&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4543425-general-dynamics-tops-q4-profit-and-revenue-estimates-as-backlog-climbs&c=7324523760898032631&mkt=en-us
+  General Dynamics (GD) reported higher revenue and a sharply larger backlog in the fourth quarter as rising defense spending worldwide and ongoing geopolitical tensions supported demand across its ...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://seekingalpha.com/news/4543425-general-dynamics-tops-q4-profit-and-revenue-estimates-as-backlog-climbs
+  LinkedPageSummaryWords: 0
+
+- Citigroup Initiates Coverage of General Dynamics (GD) with Neutral Recommendation
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c96c4656431aaa78449fd6e86598&url=https%3a%2f%2fwww.nasdaq.com%2farticles%2fcitigroup-initiates-coverage-general-dynamics-gd-neutral-recommendation&c=3313316489715344804&mkt=en-us
+  As of December 5, 2025, the average one-year price target for General Dynamics is $387.34/share. The forecasts range from a low of $303.00 to a high of $435.75. The average price target represents an ...
+  LinkedPageStatus: ok (https://www.nasdaq.com/articles/citigroup-initiates-coverage-general-dynamics-gd-neutral-recommendation)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Fintel reports that on December 12, 2025, Citigroup initiated coverage of General Dynamics ( NYSE:GD ) with a Neutral recommendation. As of December 5, 2025, the average one-year price target for General Dynamics is $387.34/share. The forecasts range from a low of $303.00 to a high of $435.75. The average price target represents an increase of 14.73% from its latest reported closing price of $337.62 / share. See our leaderboard of companies with the largest price target upside. The projected annual revenue for General Dynamics is 46,261MM, a decrease of 10.19%. The projected annual non-GAAP EPS is 17.93. There are 2,881 funds or institutions reporting positions in General Dynamics. This is an increase of 105 owner(s) or 3.78% in the last quarter. Average portfolio weight of all funds dedicated to GD is 0.37%, an increase of 1.12%. Total shares owned by institutions decreased in the last three months by 1.12% to 268,642K shares. The put/call ratio of GD is 0.63, indicating a bullish outlook. Longview Asset Management holds 27,307K shares representing 10.12% ownership of the company. In its prior filing, the firm reported owning 28,034K shares , representing a decrease of 2.66%. The firm increased its portfolio allocation in GD
+
+- General Dynamics Q4, Full Fiscal 2025 Financial Results Show Revenue, Backlog Growth
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c96c4656431aaa78449fd6e86598&url=https%3a%2f%2fwww.govconwire.com%2farticles%2fgeneral-dynamics-fy-2025-financial-report&c=6438524236641883053&mkt=en-us
+  General Dynamics has recorded fourth-quarter net earnings of $1.1 billion and a revenue of $14.38 billion, with full fiscal year 2025 net earnings of $4.2 billion, an 11.3 percent year-over-year ...
+  LinkedPageStatus: ok (https://www.govconwire.com/articles/general-dynamics-fy-2025-financial-report)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  General Dynamics has recorded fourth-quarter net earnings of $1.1 billion and a revenue of $14.38 billion, with full fiscal year 2025 net earnings of $4.2 billion, an 11.3 percent year-over-year increase, and revenue of $52.55 billion, a 10.1 percent growth compared to fiscal 2024. Phebe N. Novakovic , the company’s chairperson and CEO and a nine-time Wash100 recipient, said in a statement Wednesday that the company also saw a 30 percent growth in company-wide backlog . “As we focus on execution of programs for our customers, we are also preparing aggressively for future growth, investing nearly $1.2 billion in capital expenditures in 2025 — with even more investments planned in the year ahead,” she added. According to Novakovic, all four of the company’s segments saw revenue growth and earnings in Q4 and the whole fiscal year. General Dynamics’ aerospace business logged in $3.788 billion and earnings of $481 million in the quarter ending on Dec. 31. For the full fiscal year, the segment generated revenue of $13.1 billion and earnings of $1.75 billion. During the company’s recent financial results conference call, Novakovic shared that Gulfstream aircraft and service business continues to see strong demand, while Jet Aviation had an improved
+
+
+Domain: GeneralDynamics
+Query: General Dynamics latest company news
+Timestamp: 2026-02-21T15:09:58
+PerPageSummaryWords: 200
+- General Dynamics paid investors $1.50: Here’s what the dividend reveals
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca9b864f4ee780bce9e541151709&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2finvestment%2fgeneral-dynamics-paid-investors-1-50-here-s-what-the-dividend-reveals%2far-AA1Wiwdz&c=14199749812083997983&mkt=en-us
+  Quick Read General Dynamics (GD) increased its quarterly dividend 5.6% to $1.50 per share extending a 27-year consecutive payment streak. General Dynamics closed 2025 with a record $118B backlog up 30 ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/investment/general-dynamics-paid-investors-1-50-here-s-what-the-dividend-reveals/ar-AA1Wiwdz)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- General Dynamics (GD) Receives a Rating Update from a Top Analyst
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca9b864f4ee780bce9e541151709&url=https%3a%2f%2fwww.theglobeandmail.com%2finvesting%2fmarkets%2fstocks%2fGD%2fpressreleases%2f37319583%2fgeneral-dynamics-gd-receives-a-rating-update-from-a-top-analyst%2f&c=4758760453407494435&mkt=en-us
+  Detailed price information for General Dynamics Corp (GD-N) from The Globe and Mail including charting and trades.
+  LinkedPageStatus: ok (https://www.theglobeandmail.com/investing/markets/stocks/GD/pressreleases/37319583/general-dynamics-gd-receives-a-rating-update-from-a-top-analyst/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  RBC Capital analyst Kenneth Herbert maintained a Hold rating on General Dynamics yesterday and set a price target of $385.00. The company’s shares closed yesterday at $356.68. Herbert covers the Industrials sector, focusing on stocks such as Boeing, Airbus Group SE, and FTAI Aviation. According to TipRanks , Herbert has an average return of 27.9% and a 71.69% success rate on recommended stocks. The word on The Street in general, suggests a Moderate Buy analyst consensus rating for General Dynamics with a $398.50 average price target, an 11.72% upside from current levels. In a report released today, UBS also maintained a Hold rating on the stock with a $393.00 price target. Based on General Dynamics’ latest earnings release for the quarter ending December 31, the company reported a quarterly revenue of $14.38 billion and a net profit of $1.14 billion. In comparison, last year the company earned a revenue of $13.34 billion and had a net profit of $1.15 billion Based on the recent corporate insider activity of 125 insiders, corporate insider sentiment is negative on the stock. This means that over the past quarter there has been an increase of insiders selling their shares of GD in relation to
+
+- Is General Dynamics Corporation's (NYSE:GD) Latest Stock Performance Being Led By Its Strong Fundamentals?
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca9b864f4ee780bce9e541151709&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2fgeneral-dynamics-corporations-nyse-gd-110112409.html&c=4663612903942093821&mkt=en-us
+  Most readers would already know that General Dynamics' (NYSE:GD) stock increased by 2.7% over the past three months. Given its impressive performance, we decided to study the company's key financial ...
+  LinkedPageStatus: ok (https://uk.finance.yahoo.com/news/general-dynamics-corporations-nyse-gd-110112409.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Most readers would already know that General Dynamics' (NYSE:GD) stock increased by 2.7% over the past three months. Given its impressive performance, we decided to study the company's key financial indicators as a company's long-term fundamentals usually dictate market outcomes. Specifically, we decided to study General Dynamics' ROE in this article. Return on Equity or ROE is a test of how effectively a company is growing its value and managing investors’ money. Put another way, it reveals the company's success at turning shareholder investments into profits. AI is about to change healthcare. These 20 stocks are working on everything from early diagnostics to drug discovery. The best part - they are all under $10bn in marketcap - there is still time to get in early. ROE can be calculated by using the formula: Return on Equity = Net Profit (from continuing operations) ÷ Shareholders' Equity So, based on the above formula, the ROE for General Dynamics is: 16% = US$4.2b ÷ US$26b (Based on the trailing twelve months to December 2025). The 'return' is the income the business earned over the last year. One way to conceptualize this is that for each $1 of shareholders' capital it has, the company
+
+- General Dynamics (NYSE:GD) reports strong Q4 CY2025
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca9b864f4ee780bce9e541151709&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftopstocks%2fgeneral-dynamics-nysegd-reports-strong-q4-cy2025%2far-AA1VawRw&c=13907725519221748069&mkt=en-us
+  Aerospace and defense company General Dynamics (NYSE:GD) in Q4 CY2025, with sales up 7.8% year on year to $14.38 billion. Its GAAP profit of $4.17 per share was 1.5% above analysts’ consensus ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/topstocks/general-dynamics-nysegd-reports-strong-q4-cy2025/ar-AA1VawRw)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Institutional investors in General Dynamics Corporation (NYSE:GD) lost 3.5% last week but have reaped the benefits of longer-term growth
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca9b864f4ee780bce9e541151709&url=https%3a%2f%2ffinance.yahoo.com%2fnews%2finstitutional-investors-general-dynamics-corporation-110033603.html&c=2001235737242097013&mkt=en-us
+  Key Insights Institutions' substantial holdings in General Dynamics implies that they have significant influence ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_4f6e1016-641b-4bd9-a7ce-29d4ded1280a)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- General Dynamics tops Q4 profit and revenue estimates as backlog climbs
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca9b864f4ee780bce9e541151709&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4543425-general-dynamics-tops-q4-profit-and-revenue-estimates-as-backlog-climbs&c=7324523760898032631&mkt=en-us
+  General Dynamics (GD) reported higher revenue and a sharply larger backlog in the fourth quarter as rising defense spending worldwide and ongoing geopolitical tensions supported demand across its ...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://seekingalpha.com/news/4543425-general-dynamics-tops-q4-profit-and-revenue-estimates-as-backlog-climbs
+  LinkedPageSummaryWords: 0
+
+- Citigroup Initiates Coverage of General Dynamics (GD) with Neutral Recommendation
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca9b864f4ee780bce9e541151709&url=https%3a%2f%2fwww.nasdaq.com%2farticles%2fcitigroup-initiates-coverage-general-dynamics-gd-neutral-recommendation&c=3313316489715344804&mkt=en-us
+  As of December 5, 2025, the average one-year price target for General Dynamics is $387.34/share. The forecasts range from a low of $303.00 to a high of $435.75. The average price target represents an ...
+  LinkedPageStatus: ok (https://www.nasdaq.com/articles/citigroup-initiates-coverage-general-dynamics-gd-neutral-recommendation)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Fintel reports that on December 12, 2025, Citigroup initiated coverage of General Dynamics ( NYSE:GD ) with a Neutral recommendation. As of December 5, 2025, the average one-year price target for General Dynamics is $387.34/share. The forecasts range from a low of $303.00 to a high of $435.75. The average price target represents an increase of 14.73% from its latest reported closing price of $337.62 / share. See our leaderboard of companies with the largest price target upside. The projected annual revenue for General Dynamics is 46,261MM, a decrease of 10.19%. The projected annual non-GAAP EPS is 17.93. There are 2,881 funds or institutions reporting positions in General Dynamics. This is an increase of 105 owner(s) or 3.78% in the last quarter. Average portfolio weight of all funds dedicated to GD is 0.37%, an increase of 1.12%. Total shares owned by institutions decreased in the last three months by 1.12% to 268,642K shares. The put/call ratio of GD is 0.63, indicating a bullish outlook. Longview Asset Management holds 27,307K shares representing 10.12% ownership of the company. In its prior filing, the firm reported owning 28,034K shares , representing a decrease of 2.66%. The firm increased its portfolio allocation in GD
+
+- General Dynamics Q4, Full Fiscal 2025 Financial Results Show Revenue, Backlog Growth
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca9b864f4ee780bce9e541151709&url=https%3a%2f%2fwww.govconwire.com%2farticles%2fgeneral-dynamics-fy-2025-financial-report&c=6438524236641883053&mkt=en-us
+  General Dynamics has recorded fourth-quarter net earnings of $1.1 billion and a revenue of $14.38 billion, with full fiscal year 2025 net earnings of $4.2 billion, an 11.3 percent year-over-year ...
+  LinkedPageStatus: ok (https://www.govconwire.com/articles/general-dynamics-fy-2025-financial-report)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  General Dynamics has recorded fourth-quarter net earnings of $1.1 billion and a revenue of $14.38 billion, with full fiscal year 2025 net earnings of $4.2 billion, an 11.3 percent year-over-year increase, and revenue of $52.55 billion, a 10.1 percent growth compared to fiscal 2024. Phebe N. Novakovic , the company’s chairperson and CEO and a nine-time Wash100 recipient, said in a statement Wednesday that the company also saw a 30 percent growth in company-wide backlog . “As we focus on execution of programs for our customers, we are also preparing aggressively for future growth, investing nearly $1.2 billion in capital expenditures in 2025 — with even more investments planned in the year ahead,” she added. According to Novakovic, all four of the company’s segments saw revenue growth and earnings in Q4 and the whole fiscal year. General Dynamics’ aerospace business logged in $3.788 billion and earnings of $481 million in the quarter ending on Dec. 31. For the full fiscal year, the segment generated revenue of $13.1 billion and earnings of $1.75 billion. During the company’s recent financial results conference call, Novakovic shared that Gulfstream aircraft and service business continues to see strong demand, while Jet Aviation had an improved
+
+

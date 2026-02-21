@@ -1,0 +1,60 @@
+Domain: SAAB
+Query: SAAB defense latest contract awards
+Timestamp: 2026-02-21T14:33:09
+PerPageSummaryWords: 200
+
+Domain: SAAB
+Query: SAAB defense latest contract awards
+Timestamp: 2026-02-21T14:34:25
+PerPageSummaryWords: 200
+- FMV awards Saab $219.8m contract for air defence systems
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c26e0324446c85a6d49b001dd518&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fworld%2ffmv-awards-saab-219-8m-contract-for-air-defence-systems%2far-AA1RdIuO&c=6021144920911342072&mkt=en-us
+  The Swedish Defence Materiel Administration (FMV) has awarded Saab a contract worth around Skr2.1bn ($219.8m) to supply brigades with sensors and command-and-control systems for ground-based air ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/news/world/fmv-awards-saab-219-8m-contract-for-air-defence-systems/ar-AA1RdIuO)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Saab Receives French Contract for two GlobalEye AEW&C Aircraft
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c26e0324446c85a6d49b001dd518&url=https%3a%2f%2ftheaviationist.com%2f2025%2f12%2f31%2ffrance-globaeye-contract%2f&c=1668443351905246143&mkt=en-us
+  The French government is acquiring two Saab GlobalEye platforms, with an option for two more, to maintain a credible and deterrent airborne radar capability. Saab announced on Dec. 30, 2025, that it ...
+  LinkedPageStatus: ok (https://theaviationist.com/2025/12/31/france-globaeye-contract/)
+  LinkedPageSummaryWords: 107
+  LinkedPageSummary:
+  A Saab GlobalEye AEW&C aircraft. (Image credit: Saab) TAGGED: Airborne Early Warning & Control E-3F France French Air and Space Force SAAB Saab GlobalEye Parth Satam's career spans a decade and a half between two dailies and two defense publications. He believes war, as a human activity, has causes and results that go far beyond which missile and jet flies the fastest. He therefore loves analyzing military affairs at their intersection with foreign policy, economics, technology, society and history. The body of his work spans the entire breadth from defense aerospace, tactics, military doctrine and theory, personnel issues, West Asian, Eurasian affairs, the energy sector and Space.
+
+
+Domain: SAAB
+Query: SAAB defense latest contract awards
+Timestamp: 2026-02-21T14:42:24
+PerPageSummaryWords: 120
+- FMV awards Saab $219.8m contract for air defence systems
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c44aeb6f4906947cdcb285fa6b4d&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fworld%2ffmv-awards-saab-219-8m-contract-for-air-defence-systems%2far-AA1RdIuO&c=6021144920911342072&mkt=en-us
+  The Swedish Defence Materiel Administration (FMV) has awarded Saab a contract worth around Skr2.1bn ($219.8m) to supply brigades with sensors and command-and-control systems for ground-based air ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/news/world/fmv-awards-saab-219-8m-contract-for-air-defence-systems/ar-AA1RdIuO)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+
+Domain: SAAB
+Query: SAAB defense latest contract awards
+Timestamp: 2026-02-21T15:14:08
+PerPageSummaryWords: 200
+- FMV awards Saab $219.8m contract for air defence systems
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cbae8a7246099b60a76db6734abf&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fworld%2ffmv-awards-saab-219-8m-contract-for-air-defence-systems%2far-AA1RdIuO&c=6021144920911342072&mkt=en-us
+  The Swedish Defence Materiel Administration (FMV) has awarded Saab a contract worth around Skr2.1bn ($219.8m) to supply brigades with sensors and command-and-control systems for ground-based air ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/news/world/fmv-awards-saab-219-8m-contract-for-air-defence-systems/ar-AA1RdIuO)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Saab Receives French Contract for two GlobalEye AEW&C Aircraft
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cbae8a7246099b60a76db6734abf&url=https%3a%2f%2ftheaviationist.com%2f2025%2f12%2f31%2ffrance-globaeye-contract%2f&c=1668443351905246143&mkt=en-us
+  The French government is acquiring two Saab GlobalEye platforms, with an option for two more, to maintain a credible and deterrent airborne radar capability. Saab announced on Dec. 30, 2025, that it ...
+  LinkedPageStatus: ok (https://theaviationist.com/2025/12/31/france-globaeye-contract/)
+  LinkedPageSummaryWords: 107
+  LinkedPageSummary:
+  A Saab GlobalEye AEW&C aircraft. (Image credit: Saab) TAGGED: Airborne Early Warning & Control E-3F France French Air and Space Force SAAB Saab GlobalEye Parth Satam's career spans a decade and a half between two dailies and two defense publications. He believes war, as a human activity, has causes and results that go far beyond which missile and jet flies the fastest. He therefore loves analyzing military affairs at their intersection with foreign policy, economics, technology, society and history. The body of his work spans the entire breadth from defense aerospace, tactics, military doctrine and theory, personnel issues, West Asian, Eurasian affairs, the energy sector and Space.
+
+

@@ -1,0 +1,27 @@
+Domain: Thales
+Query: Thales latest defence contract awards
+Timestamp: 2026-02-21T15:15:12
+PerPageSummaryWords: 200
+- Probe into Thales defence group looking at Indonesian contract
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cbeffc7c43348984476151147ca0&url=https%3a%2f%2fwww.khq.com%2fnational%2fprobe-into-thales-defence-group-looking-at-indonesian-contract%2farticle_0aa9338a-b840-5a8d-b1a4-5d647b76ecdd.html&c=7913484509917784900&mkt=en-us
+  A French-British investigation into alleged bribery at France-based defence giant Thales is examining a contract with Indonesia, an AFP investigation has showed. In November last year, Britain's ...
+  LinkedPageStatus: error: 451 Client Error: Unavailable For Legal Reasons for url: https://www.khq.com/national/probe-into-thales-defence-group-looking-at-indonesian-contract/article_0aa9338a-b840-5a8d-b1a4-5d647b76ecdd.html
+  LinkedPageSummaryWords: 0
+
+- Probe into Thales defence group looking at Indonesian contract
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cbeffc7c43348984476151147ca0&url=https%3a%2f%2fwww.al-monitor.com%2foriginals%2f2025%2f11%2fprobe-thales-defence-group-looking-indonesian-contract&c=855025757854675735&mkt=en-us
+  British and French serious fraud officials are investigating alleged bribery at Thales, which denies any wrongdoing — Fred TANNEAU A French-British investigation into alleged bribery at France-based ...
+  LinkedPageStatus: ok (https://www.al-monitor.com/originals/2025/11/probe-thales-defence-group-looking-indonesian-contract)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A French-British investigation into alleged bribery at France-based defence giant Thales is examining a contract with Indonesia, an AFP investigation has showed. In November last year, Britain's Serious Fraud Office (SFO) said it had launched a joint investigation with its French counterparts into "suspected bribery and corruption" at the multinational, which denies any wrongdoing. A 41-year-old management controller, who worked at the company between August 2018 and June 2023, was the whistleblower who alerted the authorities and caused the probe to be opened, according to two sources following the case who requested not to be named because not allowed to speak to the press. The former member of staff, who wishes to remain anonymous and who AFP reached through his lawyer, said he started asking colleagues questions after he noticed suspicious orders on the margins of big air defence deals with Indonesia and Saudi Arabia. He said that in late 2018 he noticed a curious payment order for a service worth £400,000 ($520,000 at today's rate) on the sidelines of a deal between Thales UK and Indonesia. He said he grew suspicious when someone asked him for a retroactive approval of the order with incoherent documents produced after it was
+
+- Probe into Thales defence group looking at Indonesian contract
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cbeffc7c43348984476151147ca0&url=https%3a%2f%2fwww.digitaljournal.com%2fworld%2fprobe-into-thales-defence-group-looking-at-indonesian-contract%2farticle&c=4551269132677610606&mkt=en-us
+  British and French serious fraud officials are investigating alleged bribery at Thales, which denies any wrongdoing - Copyright AFP Miguel J. Rodriguez Carrillo ...
+  LinkedPageStatus: ok (https://www.digitaljournal.com/world/probe-into-thales-defence-group-looking-at-indonesian-contract/article)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  British and French serious fraud officials are investigating alleged bribery at Thales, which denies any wrongdoing - Copyright AFP Miguel J. Rodriguez Carrillo A French-British investigation into alleged bribery at France-based defence giant Thales is examining a contract with Indonesia, an AFP investigation has showed. In November last year, Britain’s Serious Fraud Office (SFO) said it had launched a joint investigation with its French counterparts into “suspected bribery and corruption” at the multinational, which denies any wrongdoing. A 41-year-old management controller, who worked at the company between August 2018 and June 2023, was the whistleblower who alerted the authorities and caused the probe to be opened, according to two sources following the case who requested not to be named because not allowed to speak to the press. The former member of staff, who wishes to remain anonymous and who AFP reached through his lawyer, said he started asking colleagues questions after he noticed suspicious orders on the margins of big air defence deals with Indonesia and Saudi Arabia. He said that in late 2018 he noticed a curious payment order for a service worth £400,000 ($520,000 at today’s rate) on the sidelines of a deal between Thales UK and Indonesia.
+
+

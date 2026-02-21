@@ -1,0 +1,13 @@
+Domain: Thales
+Query: Thales latest defence company news
+Timestamp: 2026-02-21T15:14:32
+PerPageSummaryWords: 200
+- AI Magazine’s Latest Issue Features Ajay Chakravarthy, CAIO at Thales on Frugal AI, Quantum Computng and Human-Machine Teaming
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cbd10f65484fa1ba0895dc63e393&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2fai-magazine-latest-issue-features-161800441.html&c=10711340937192761354&mkt=en-us
+  The latest issue spotlights global leaders, breakthrough technologies and strategies shaping the future of technology, cybersecurity, digital transformation and much more London - 11 February 2026- ...
+  LinkedPageStatus: ok (https://uk.finance.yahoo.com/news/ai-magazine-latest-issue-features-161800441.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The latest issue spotlights global leaders, breakthrough technologies and strategies shaping the future of technology, cybersecurity, digital transformation and much more London - 11 February 2026- BizClik, a global B2B media and events company, has released the latest issue of AI Magazine. Ajay Chakravarthy leads AI at Thales, focusing on frugal AI systems designed to operate in resource-constrained, disconnected and harsh environments for defence and security applications. Drawing on two decades in research, government and counter-terrorism roles, he emphasises moving beyond prototypes to trusted, frontline deployments. "Moving from minimum viable product or proof of concept through to taking it to the frontline is a completely different process,” Ajay Chakravarthy, Head of AI at Thales. Through Thales’s cortAIx accelerator, Ajay drives AI across five strategic areas, from enhancing decision-making in fighter jets to biometric security, cybersecurity, maritime operations, enterprise co-pilots and quantum AI research. He champions diverse, multidisciplinary teams, human-in-the-loop accountability and problem-centric AI adoption, balancing rapid development with assurance, trust and ethical, mission-critical outcomes. Jerry Ting: How Workday’s Agent Builder Platform Lets Organisations Create Custom Agents For Payroll and HR Jerry Ting leads Workday’s agentic AI strategy, guiding the company’s evolution from feature-based generative AI to role-based and ambient agents
+
+

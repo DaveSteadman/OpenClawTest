@@ -1,0 +1,289 @@
+Domain: Boeing
+Query: Boeing defense latest contract awards
+Timestamp: 2026-02-21T13:58:27
+PerPageSummaryWords: 200
+- Just in Time for 2026, Boeing Wins $12.8 Billion in 2 Big Defense Contracts
+  https://www.fool.com/investing/2026/01/10/2026-boeing-wins-billion-defense-contract/
+  $12.8 billion for Boeing -- or with luck, $17.5 billion And boy, oh boy, did Boeing ever cash in last month. On Dec. 29, Boeing won each of the two biggest Pentagon contracts awarded.
+  LinkedPageStatus: ok (https://www.fool.com/investing/2026/01/10/2026-boeing-wins-billion-defense-contract/)
+  LinkedPageSummaryWords: 19
+  LinkedPageSummary:
+  Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+
+- Boeing Awarded Approximately $2.7 Billion in Multiyear Contracts for ...
+  https://investors.boeing.com/investors/news/press-release-details/2025/Boeing-Awarded-Approximately-2-7-Billion-in-Multiyear-Contracts-for-PAC3-Seeker-Production/default.aspx
+  Boeing [NYSE: BA] has been awarded a combination of multiyear contracts valued at approximately $2.7 billion to produce additional Patriot Advanced Capability‑3 (PAC‑3) seekers. Under the agreements, Boeing will deliver more than 3,000 seekers at rates of up to 750 units per year through 2030. Boeing is working closely with prime contractor Lockheed Martin and the U.S. Army to further ...
+  LinkedPageStatus: ok (https://investors.boeing.com/investors/news/press-release-details/2025/Boeing-Awarded-Approximately-2-7-Billion-in-Multiyear-Contracts-for-PAC3-Seeker-Production/default.aspx)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  HUNTSVILLE, Ala. , Oct. 14, 2025 /PRNewswire/ -- Boeing [NYSE: BA] has been awarded a combination of multiyear contracts valued at approximately $2.7 billion to produce additional Patriot Advanced Capability‑3 (PAC‑3) seekers. Under the agreements, Boeing will deliver more than 3,000 seekers at rates of up to 750 units per year through 2030. Boeing is working closely with prime contractor Lockheed Martin and the U.S. Army to further increase production rates and meet new targets for the PAC‑3 interceptor. Scaling seeker output is critical to ensuring the Patriot system can continue to defend service members, civilians and critical infrastructure worldwide as threats proliferate. "Our team has never been better positioned to answer the nation's call for greater air and missile defense," said Jim Bryan, executive director of Boeing Integrated Air & Missile Defense. "These multiyear awards recognize the progress we've made and will allow us to meet growing global demand for the PAC‑3 seeker." Boeing‑built PAC‑3 seekers enable Patriot interceptors to identify, track and defeat advanced threats, including hypersonic threats, hostile aircraft, and ballistic and cruise missiles. Demand for PAC‑3 interceptors has grown in response to recent conflicts and rapidly changing threat environments in Ukraine, the Middle East and the
+
+- Boeing Awarded $2 Billion Contract to Continue Work on B-52's New ...
+  https://theaviationist.com/2025/12/24/boeing-contract-continue-work-b-52-cerp/
+  The U.S. Department of War awarded on Dec. 23, 2025 a $2.04 billion task order to Boeing Defense Systems to continue the work on the B-52 Commercial Engine Replacement Program (CERP).
+  LinkedPageStatus: ok (https://theaviationist.com/2025/12/24/boeing-contract-continue-work-b-52-cerp/)
+  LinkedPageSummaryWords: 110
+  LinkedPageSummary:
+  Concept rendition of a Rolls-Royce F130 on a B-52 bomber. (Image credit: Rolls-Royce) TAGGED: B-52 Stratofortress B-52J Boeing Defense and Space F130 Rolls Royce U.S. Air Force Parth Satam's career spans a decade and a half between two dailies and two defense publications. He believes war, as a human activity, has causes and results that go far beyond which missile and jet flies the fastest. He therefore loves analyzing military affairs at their intersection with foreign policy, economics, technology, society and history. The body of his work spans the entire breadth from defense aerospace, tactics, military doctrine and theory, personnel issues, West Asian, Eurasian affairs, the energy sector and Space.
+
+- Pentagon says Boeing awarded more than $7 billion in military contracts
+  https://www.reuters.com/business/aerospace-defense/pentagon-says-boeing-awarded-more-than-7-billion-military-contracts-2025-11-25/
+  A nearly $4.7 billion Army contract was awarded for new build Apache AH-64E attack helicopters, Longbow crew trainers, and related accessories, according to the Pentagon.
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/aerospace-defense/pentagon-says-boeing-awarded-more-than-7-billion-military-contracts-2025-11-25/
+  LinkedPageSummaryWords: 0
+
+- Boeing Scores $110M in US, Allied Military Aircraft Contracts
+  https://thedefensepost.com/2025/09/23/boeing-us-allied-aircraft/
+  The US Department of Defense has awarded Boeing $110.2 million in contracts to support US and allied military aircraft. The deals cover upgrades to Qatar's F-15 fighter jets, software work for the V-22 Osprey tiltrotor, support for Germany's P-8A Poseidon patrol planes, and new equipment for Kuwait's Apache attack helicopters.
+  LinkedPageStatus: ok (https://thedefensepost.com/2025/09/23/boeing-us-allied-aircraft/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The US Department of Defense has awarded Boeing $110.2 million in contracts to support US and allied military aircraft. The deals cover upgrades to Qatar’s F-15 fighter jets, software work for the V-22 Osprey tiltrotor, support for Germany’s P-8A Poseidon patrol planes, and new equipment for Kuwait’s Apache attack helicopters. The contracts come as the US Air Force announced Boeing has started building the F-47 , a next-generation stealth fighter set to replace the F-22 Raptor. As part of Washington, DC’s latest contracts, Boeing received $55.8 million to modernize Qatar’s F-15 fighter jets with new electronic warfare systems. The work will be carried out in St. Louis, Missouri, and is scheduled to run through August 2027. About $28.3 million of the funding comes through the US foreign military sales program, which helps partner nations buy American defense equipment. Currently, the Qatar Emiri Air Force operates 36 F-15 fighter jets. Meanwhile, Boeing’s joint venture with Bell picked up a $16.5-million contract to keep the V-22 Osprey’s software running smoothly for the US Air Force, US Marine Corps, and US Navy. Most of the work will take place in Ridley Park, Pennsylvania, and wrap up by December 2028. About $12 million in
+
+- Unleashing Boeing's Defense Dominance: Inside the Megabeast Contracts ...
+  https://aptraining.csc.com/boeing-defense-contracts
+  The F-15EX contract , valued at 22.9 billion, is one of the largest defense contracts awarded in recent years, with Boeing set to deliver 76 aircraft to the US Air Force. The MH-139A Grey Wolf helicopter contract , valued at 2.4 billion, will see Boeing deliver 84 aircraft to the US Air Force, which will be used for security and support missions.
+  LinkedPageStatus: ok (https://aptraining.csc.com/boeing-defense-contracts)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The aerospace and defense industry has long been dominated by a handful of key players, with Boeing standing tall as one of the most influential and successful companies in the sector. With a rich history dating back to 1916, Boeing has evolved to become a megabeast in the industry, securing some of the most lucrative and high-profile defense contracts in the world. In this article, we will delve into the world of Boeing's defense dominance, exploring the company's rise to prominence, its current contract portfolio, and the future prospects for this aerospace giant. Boeing's journey to becoming a defense industry leader began during World War II, when the company started producing aircraft for the US military. The B-17 Flying Fortress and B-29 Superfortress bombers were two of the most notable planes produced by Boeing during this period, with over 12,000 units manufactured. This early success laid the foundation for Boeing's future growth, as the company continued to innovate and expand its product line to meet the evolving needs of the US military. Today, Boeing is one of the largest defense contractors in the world, with a diverse portfolio of products and services that include fighter jets, helicopters, satellites, and cybersecurity
+
+- Boeing Wins $2.8B US Strategic Satellite Contract | Defence Agenda
+  https://defenceagenda.com/boeing-28b-us-strategic-satellite-contract/
+  Washington, D.C., July 3, 2025 — In a landmark development for national security and space defense , Boeing has been awarded a $2.8 billion contract by the United States Space Force. The contract aims to develop and deliver a new constellation of military communications satellites.
+  LinkedPageStatus: ok (https://defenceagenda.com/boeing-28b-us-strategic-satellite-contract/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Washington, D.C., July 3, 2025 — In a landmark development for national security and space defense, Boeing has been awarded a $2.8 billion contract by the United States Space Force. The contract aims to develop and deliver a new constellation of military communications satellites . Consequently , this initiative marks a pivotal step in reinforcing the resilience of U.S. orbital infrastructure. The awarded contract covers the entire lifecycle: design, production, launch, and long-term support of nuclear-survivable, anti-jam communication satellites . As a result , U.S. military communications will be better protected during nuclear or electronic warfare scenarios. Furthermore , the program is part of the U.S. Space Force’s broader Protected Tactical SATCOM (PTS) strategy. It aims to modernize satellite systems and ensure robust interoperability across allied forces. In contrast to legacy systems, these new satellites will incorporate AI-driven features and laser-based inter-satellite links. Boeing’s selection over rival contractors reaffirms its leading role in secure communications technologies. Moreover , the company emphasized that the satellite architecture would be modular, allowing for future upgrades and threat adaptation. Boeing spokesperson said: “This contract reflects the Department of Defense’s trust in our ability to deliver resilient satellite architectures that are survivable in the most
+
+- Pentagon Hands Lockheed, Boeing New Contracts - Benzinga
+  https://www.benzinga.com/news/contracts/26/01/49665879/pentagon-hands-lockheed-boeing-new-contracts
+  Pentagon awards new contracts to Lockheed Martin and Boeing , totaling $3.1 billion, underscoring sustained momentum in US defense spending.
+  LinkedPageStatus: ok (https://www.benzinga.com/news/contracts/26/01/49665879/pentagon-hands-lockheed-boeing-new-contracts)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The Pentagon closed out 2025 with new contracts for Lockheed Martin Corporation (NYSE: LMT ) and Boeing Company (NYSE: BA ), awarding $328.5 million for Taiwan-focused sensor systems to Lockheed and $2.73 billion in Apache support work to Boeing, underscoring the sustained momentum in U.S. defense spending. Lockheed Martin has received a $328.5 million undefinitized letter contract from the U.S. Department of Defense to supply infrared targeting and sensor hardware for Taiwan under the Foreign Military Sales program. The contract covers the production and delivery of 55 Infrared Search and Track Legion Enhanced Sensor pods, along with related equipment, to meet the urgent operational needs of the Taiwan Air Force. Work will be performed in Orlando, Florida, and is expected to be completed by June 30, 2031. An initial $157.3 million in FMS funds has been obligated. Boeing has been awarded a $2.73 billion firm-fixed-price contract for Apache helicopter post-production support services. The contract runs through Dec. 31, 2030, with work locations and funding to be determined per order. Meanwhile, the Pentagon significantly expanded an existing deal with Lockheed Martin, raising its value from $15 billion to $25 billion, underscoring sustained momentum in U.S. defense procurement. Price Action: Boeing shares
+
+
+Domain: Boeing
+Query: Boeing defense latest contract awards
+Timestamp: 2026-02-21T13:59:19
+PerPageSummaryWords: 200
+
+Domain: Boeing
+Query: Boeing defense latest contract awards
+Timestamp: 2026-02-21T13:59:21
+PerPageSummaryWords: 200
+
+Domain: Boeing
+Query: Boeing defense latest contract awards
+Timestamp: 2026-02-21T14:25:55
+PerPageSummaryWords: 200
+- Just in Time for 2026, Boeing Wins $12.8 Billion in 2 Big Defense Contracts
+  https://www.fool.com/investing/2026/01/10/2026-boeing-wins-billion-defense-contract/
+  $12.8 billion for Boeing -- or with luck, $17.5 billion And boy, oh boy, did Boeing ever cash in last month. On Dec. 29, Boeing won each of the two biggest Pentagon contracts awarded.
+  LinkedPageStatus: ok (https://www.fool.com/investing/2026/01/10/2026-boeing-wins-billion-defense-contract/)
+  LinkedPageSummaryWords: 19
+  LinkedPageSummary:
+  Invest better with The Motley Fool. Get stock recommendations, portfolio guidance, and more from The Motley Fool's premium services.
+
+- Boeing Awarded Approximately $2.7 Billion in Multiyear Contracts for ...
+  https://investors.boeing.com/investors/news/press-release-details/2025/Boeing-Awarded-Approximately-2-7-Billion-in-Multiyear-Contracts-for-PAC3-Seeker-Production/default.aspx
+  Boeing [NYSE: BA] has been awarded a combination of multiyear contracts valued at approximately $2.7 billion to produce additional Patriot Advanced Capability‑3 (PAC‑3) seekers. Under the agreements, Boeing will deliver more than 3,000 seekers at rates of up to 750 units per year through 2030. Boeing is working closely with prime contractor Lockheed Martin and the U.S. Army to further ...
+  LinkedPageStatus: ok (https://investors.boeing.com/investors/news/press-release-details/2025/Boeing-Awarded-Approximately-2-7-Billion-in-Multiyear-Contracts-for-PAC3-Seeker-Production/default.aspx)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  HUNTSVILLE, Ala. , Oct. 14, 2025 /PRNewswire/ -- Boeing [NYSE: BA] has been awarded a combination of multiyear contracts valued at approximately $2.7 billion to produce additional Patriot Advanced Capability‑3 (PAC‑3) seekers. Under the agreements, Boeing will deliver more than 3,000 seekers at rates of up to 750 units per year through 2030. Boeing is working closely with prime contractor Lockheed Martin and the U.S. Army to further increase production rates and meet new targets for the PAC‑3 interceptor. Scaling seeker output is critical to ensuring the Patriot system can continue to defend service members, civilians and critical infrastructure worldwide as threats proliferate. "Our team has never been better positioned to answer the nation's call for greater air and missile defense," said Jim Bryan, executive director of Boeing Integrated Air & Missile Defense. "These multiyear awards recognize the progress we've made and will allow us to meet growing global demand for the PAC‑3 seeker." Boeing‑built PAC‑3 seekers enable Patriot interceptors to identify, track and defeat advanced threats, including hypersonic threats, hostile aircraft, and ballistic and cruise missiles. Demand for PAC‑3 interceptors has grown in response to recent conflicts and rapidly changing threat environments in Ukraine, the Middle East and the
+
+- Boeing Awarded $2 Billion Contract to Continue Work on B-52's New ...
+  https://theaviationist.com/2025/12/24/boeing-contract-continue-work-b-52-cerp/
+  The U.S. Department of War awarded on Dec. 23, 2025 a $2.04 billion task order to Boeing Defense Systems to continue the work on the B-52 Commercial Engine Replacement Program (CERP).
+  LinkedPageStatus: ok (https://theaviationist.com/2025/12/24/boeing-contract-continue-work-b-52-cerp/)
+  LinkedPageSummaryWords: 110
+  LinkedPageSummary:
+  Concept rendition of a Rolls-Royce F130 on a B-52 bomber. (Image credit: Rolls-Royce) TAGGED: B-52 Stratofortress B-52J Boeing Defense and Space F130 Rolls Royce U.S. Air Force Parth Satam's career spans a decade and a half between two dailies and two defense publications. He believes war, as a human activity, has causes and results that go far beyond which missile and jet flies the fastest. He therefore loves analyzing military affairs at their intersection with foreign policy, economics, technology, society and history. The body of his work spans the entire breadth from defense aerospace, tactics, military doctrine and theory, personnel issues, West Asian, Eurasian affairs, the energy sector and Space.
+
+- Pentagon says Boeing awarded more than $7 billion in military contracts
+  https://www.reuters.com/business/aerospace-defense/pentagon-says-boeing-awarded-more-than-7-billion-military-contracts-2025-11-25/
+  A nearly $4.7 billion Army contract was awarded for new build Apache AH-64E attack helicopters, Longbow crew trainers, and related accessories, according to the Pentagon.
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/aerospace-defense/pentagon-says-boeing-awarded-more-than-7-billion-military-contracts-2025-11-25/
+  LinkedPageSummaryWords: 0
+
+- Boeing Scores $110M in US, Allied Military Aircraft Contracts
+  https://thedefensepost.com/2025/09/23/boeing-us-allied-aircraft/
+  The US Department of Defense has awarded Boeing $110.2 million in contracts to support US and allied military aircraft. The deals cover upgrades to Qatar's F-15 fighter jets, software work for the V-22 Osprey tiltrotor, support for Germany's P-8A Poseidon patrol planes, and new equipment for Kuwait's Apache attack helicopters.
+  LinkedPageStatus: ok (https://thedefensepost.com/2025/09/23/boeing-us-allied-aircraft/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The US Department of Defense has awarded Boeing $110.2 million in contracts to support US and allied military aircraft. The deals cover upgrades to Qatar’s F-15 fighter jets, software work for the V-22 Osprey tiltrotor, support for Germany’s P-8A Poseidon patrol planes, and new equipment for Kuwait’s Apache attack helicopters. The contracts come as the US Air Force announced Boeing has started building the F-47 , a next-generation stealth fighter set to replace the F-22 Raptor. As part of Washington, DC’s latest contracts, Boeing received $55.8 million to modernize Qatar’s F-15 fighter jets with new electronic warfare systems. The work will be carried out in St. Louis, Missouri, and is scheduled to run through August 2027. About $28.3 million of the funding comes through the US foreign military sales program, which helps partner nations buy American defense equipment. Currently, the Qatar Emiri Air Force operates 36 F-15 fighter jets. Meanwhile, Boeing’s joint venture with Bell picked up a $16.5-million contract to keep the V-22 Osprey’s software running smoothly for the US Air Force, US Marine Corps, and US Navy. Most of the work will take place in Ridley Park, Pennsylvania, and wrap up by December 2028. About $12 million in
+
+- Unleashing Boeing's Defense Dominance: Inside the Megabeast Contracts ...
+  https://aptraining.csc.com/boeing-defense-contracts
+  The F-15EX contract , valued at 22.9 billion, is one of the largest defense contracts awarded in recent years, with Boeing set to deliver 76 aircraft to the US Air Force. The MH-139A Grey Wolf helicopter contract , valued at 2.4 billion, will see Boeing deliver 84 aircraft to the US Air Force, which will be used for security and support missions.
+  LinkedPageStatus: ok (https://aptraining.csc.com/boeing-defense-contracts)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The aerospace and defense industry has long been dominated by a handful of key players, with Boeing standing tall as one of the most influential and successful companies in the sector. With a rich history dating back to 1916, Boeing has evolved to become a megabeast in the industry, securing some of the most lucrative and high-profile defense contracts in the world. In this article, we will delve into the world of Boeing's defense dominance, exploring the company's rise to prominence, its current contract portfolio, and the future prospects for this aerospace giant. Boeing's journey to becoming a defense industry leader began during World War II, when the company started producing aircraft for the US military. The B-17 Flying Fortress and B-29 Superfortress bombers were two of the most notable planes produced by Boeing during this period, with over 12,000 units manufactured. This early success laid the foundation for Boeing's future growth, as the company continued to innovate and expand its product line to meet the evolving needs of the US military. Today, Boeing is one of the largest defense contractors in the world, with a diverse portfolio of products and services that include fighter jets, helicopters, satellites, and cybersecurity
+
+- Boeing Wins $2.8B US Strategic Satellite Contract | Defence Agenda
+  https://defenceagenda.com/boeing-28b-us-strategic-satellite-contract/
+  Washington, D.C., July 3, 2025 — In a landmark development for national security and space defense , Boeing has been awarded a $2.8 billion contract by the United States Space Force. The contract aims to develop and deliver a new constellation of military communications satellites.
+  LinkedPageStatus: ok (https://defenceagenda.com/boeing-28b-us-strategic-satellite-contract/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Washington, D.C., July 3, 2025 — In a landmark development for national security and space defense, Boeing has been awarded a $2.8 billion contract by the United States Space Force. The contract aims to develop and deliver a new constellation of military communications satellites . Consequently , this initiative marks a pivotal step in reinforcing the resilience of U.S. orbital infrastructure. The awarded contract covers the entire lifecycle: design, production, launch, and long-term support of nuclear-survivable, anti-jam communication satellites . As a result , U.S. military communications will be better protected during nuclear or electronic warfare scenarios. Furthermore , the program is part of the U.S. Space Force’s broader Protected Tactical SATCOM (PTS) strategy. It aims to modernize satellite systems and ensure robust interoperability across allied forces. In contrast to legacy systems, these new satellites will incorporate AI-driven features and laser-based inter-satellite links. Boeing’s selection over rival contractors reaffirms its leading role in secure communications technologies. Moreover , the company emphasized that the satellite architecture would be modular, allowing for future upgrades and threat adaptation. Boeing spokesperson said: “This contract reflects the Department of Defense’s trust in our ability to deliver resilient satellite architectures that are survivable in the most
+
+- Pentagon Hands Lockheed, Boeing New Contracts - Benzinga
+  https://www.benzinga.com/news/contracts/26/01/49665879/pentagon-hands-lockheed-boeing-new-contracts
+  Pentagon awards new contracts to Lockheed Martin and Boeing , totaling $3.1 billion, underscoring sustained momentum in US defense spending.
+  LinkedPageStatus: ok (https://www.benzinga.com/news/contracts/26/01/49665879/pentagon-hands-lockheed-boeing-new-contracts)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The Pentagon closed out 2025 with new contracts for Lockheed Martin Corporation (NYSE: LMT ) and Boeing Company (NYSE: BA ), awarding $328.5 million for Taiwan-focused sensor systems to Lockheed and $2.73 billion in Apache support work to Boeing, underscoring the sustained momentum in U.S. defense spending. Lockheed Martin has received a $328.5 million undefinitized letter contract from the U.S. Department of Defense to supply infrared targeting and sensor hardware for Taiwan under the Foreign Military Sales program. The contract covers the production and delivery of 55 Infrared Search and Track Legion Enhanced Sensor pods, along with related equipment, to meet the urgent operational needs of the Taiwan Air Force. Work will be performed in Orlando, Florida, and is expected to be completed by June 30, 2031. An initial $157.3 million in FMS funds has been obligated. Boeing has been awarded a $2.73 billion firm-fixed-price contract for Apache helicopter post-production support services. The contract runs through Dec. 31, 2030, with work locations and funding to be determined per order. Meanwhile, the Pentagon significantly expanded an existing deal with Lockheed Martin, raising its value from $15 billion to $25 billion, underscoring sustained momentum in U.S. defense procurement. Price Action: Boeing shares
+
+
+Domain: Boeing
+Query: Boeing defense latest contract awards
+Timestamp: 2026-02-21T14:27:51
+PerPageSummaryWords: 200
+- DOD Awards Boeing $8.6B Contract For Israeli F-15IAs
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c0e4e2b54beb835d4f62317d3087&url=https%3a%2f%2faviationweek.com%2fdefense%2faircraft-propulsion%2fdod-awards-boeing-86b-contract-israeli-f-15ias&c=11250635418861352465&mkt=en-us
+  The Pentagon has awarded Boeing a contract valued at up to $8.6 billion for 25 F-15IA fighters for Israel with a potential to double the figure. The contract, awarded Dec. 29, comes more than a year ...
+  LinkedPageStatus: ok (https://aviationweek.com/defense/aircraft-propulsion/dod-awards-boeing-86b-contract-israeli-f-15ias)
+  LinkedPageSummaryWords: 155
+  LinkedPageSummary:
+  a contract valued at up to $8.6 billion for 25 F-15IA fighters for Israel with a potential to double the figure. The contract, awarded Dec. 29, comes more than a year after Israel confirmed plans to buy additional F-15s. Deliveries, Israel said at the time, should... Robert Wall is Executive Editor for Defense and Space. Based in London, he directs a team of military and space journalists across the U.S., Europe and Asia-Pacific. DOD Awards Boeing $8.6B Contract For Israeli F-15IAs is published in Aerospace Daily & Defense Report , an Aviation Week Intelligence Network (AWIN) Market Briefing and is included with your AWIN membership. Already a member of AWIN or subscribe to Aerospace Daily & Defense Report through your company? Login with your existing email and password. Not a member? Learn how you can access the market intelligence and data you need to stay abreast of what's happening in the aerospace and defense community.
+
+- Boeing wins $8B Israel F-15 deal: Defense ETFs to watch for gains
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c0e4e2b54beb835d4f62317d3087&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2fboeing-wins-8b-israel-f-15-deal-defense-etfs-to-watch-for-gains%2far-AA1TsuWQ&c=1110270116876219481&mkt=en-us
+  The Pentagon has officially cleared a massive $8.6 billion contract for Boeing BA to provide the Israeli Air Force with advanced F-15IA fighter jets. While this multi-billion-dollar deal reinforces ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/companies/boeing-wins-8b-israel-f-15-deal-defense-etfs-to-watch-for-gains/ar-AA1TsuWQ)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Another defense win: Boeing (BA) lands $2 billion B-52 engine contract
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c0e4e2b54beb835d4f62317d3087&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftopstocks%2fanother-defense-win-boeing-ba-lands-2-billion-b-52-engine-contract%2far-AA1SWpmP&c=4593284025629851486&mkt=en-us
+  Aerospace stock Boeing (BA) has been awarded a $2 billion U.S. military contract tied to work on the Air Force’s B-52 bomber fleet, according to a notice from the Defense Department. The award relates ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/topstocks/another-defense-win-boeing-ba-lands-2-billion-b-52-engine-contract/ar-AA1SWpmP)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+
+Domain: Boeing
+Query: Boeing defense latest contract awards
+Timestamp: 2026-02-21T14:36:13
+PerPageSummaryWords: 200
+- DOD Awards Boeing $8.6B Contract For Israeli F-15IAs
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2db78a84379abcfd86c5e622961&url=https%3a%2f%2faviationweek.com%2fdefense%2faircraft-propulsion%2fdod-awards-boeing-86b-contract-israeli-f-15ias&c=11250635418861352465&mkt=en-us
+  The Pentagon has awarded Boeing a contract valued at up to $8.6 billion for 25 F-15IA fighters for Israel with a potential to double the figure. The contract, awarded Dec. 29, comes more than a year ...
+  LinkedPageStatus: ok (https://aviationweek.com/defense/aircraft-propulsion/dod-awards-boeing-86b-contract-israeli-f-15ias)
+  LinkedPageSummaryWords: 155
+  LinkedPageSummary:
+  a contract valued at up to $8.6 billion for 25 F-15IA fighters for Israel with a potential to double the figure. The contract, awarded Dec. 29, comes more than a year after Israel confirmed plans to buy additional F-15s. Deliveries, Israel said at the time, should... Robert Wall is Executive Editor for Defense and Space. Based in London, he directs a team of military and space journalists across the U.S., Europe and Asia-Pacific. DOD Awards Boeing $8.6B Contract For Israeli F-15IAs is published in Aerospace Daily & Defense Report , an Aviation Week Intelligence Network (AWIN) Market Briefing and is included with your AWIN membership. Already a member of AWIN or subscribe to Aerospace Daily & Defense Report through your company? Login with your existing email and password. Not a member? Learn how you can access the market intelligence and data you need to stay abreast of what's happening in the aerospace and defense community.
+
+- Boeing wins $8B Israel F-15 deal: Defense ETFs to watch for gains
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2db78a84379abcfd86c5e622961&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2fboeing-wins-8b-israel-f-15-deal-defense-etfs-to-watch-for-gains%2far-AA1TsuWQ&c=1110270116876219481&mkt=en-us
+  The Pentagon has officially cleared a massive $8.6 billion contract for Boeing BA to provide the Israeli Air Force with advanced F-15IA fighter jets. While this multi-billion-dollar deal reinforces ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/companies/boeing-wins-8b-israel-f-15-deal-defense-etfs-to-watch-for-gains/ar-AA1TsuWQ)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Another defense win: Boeing (BA) lands $2 billion B-52 engine contract
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c2db78a84379abcfd86c5e622961&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftopstocks%2fanother-defense-win-boeing-ba-lands-2-billion-b-52-engine-contract%2far-AA1SWpmP&c=4593284025629851486&mkt=en-us
+  Aerospace stock Boeing (BA) has been awarded a $2 billion U.S. military contract tied to work on the Air Force’s B-52 bomber fleet, according to a notice from the Defense Department. The award relates ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/topstocks/another-defense-win-boeing-ba-lands-2-billion-b-52-engine-contract/ar-AA1SWpmP)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+
+Domain: Boeing
+Query: Boeing defense latest contract awards
+Timestamp: 2026-02-21T14:53:51
+PerPageSummaryWords: 200
+- DOD Awards Boeing $8.6B Contract For Israeli F-15IAs
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c6ee9cce4c1fbfe4c3fddcf073a5&url=https%3a%2f%2faviationweek.com%2fdefense%2faircraft-propulsion%2fdod-awards-boeing-86b-contract-israeli-f-15ias&c=11250635418861352465&mkt=en-us
+  The Pentagon has awarded Boeing a contract valued at up to $8.6 billion for 25 F-15IA fighters for Israel with a potential to double the figure. The contract, awarded Dec. 29, comes more than a year ...
+  LinkedPageStatus: ok (https://aviationweek.com/defense/aircraft-propulsion/dod-awards-boeing-86b-contract-israeli-f-15ias)
+  LinkedPageSummaryWords: 155
+  LinkedPageSummary:
+  a contract valued at up to $8.6 billion for 25 F-15IA fighters for Israel with a potential to double the figure. The contract, awarded Dec. 29, comes more than a year after Israel confirmed plans to buy additional F-15s. Deliveries, Israel said at the time, should... Robert Wall is Executive Editor for Defense and Space. Based in London, he directs a team of military and space journalists across the U.S., Europe and Asia-Pacific. DOD Awards Boeing $8.6B Contract For Israeli F-15IAs is published in Aerospace Daily & Defense Report , an Aviation Week Intelligence Network (AWIN) Market Briefing and is included with your AWIN membership. Already a member of AWIN or subscribe to Aerospace Daily & Defense Report through your company? Login with your existing email and password. Not a member? Learn how you can access the market intelligence and data you need to stay abreast of what's happening in the aerospace and defense community.
+
+- Boeing wins $8B Israel F-15 deal: Defense ETFs to watch for gains
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c6ee9cce4c1fbfe4c3fddcf073a5&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2fboeing-wins-8b-israel-f-15-deal-defense-etfs-to-watch-for-gains%2far-AA1TsuWQ&c=1110270116876219481&mkt=en-us
+  The Pentagon has officially cleared a massive $8.6 billion contract for Boeing BA to provide the Israeli Air Force with advanced F-15IA fighter jets. While this multi-billion-dollar deal reinforces ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/companies/boeing-wins-8b-israel-f-15-deal-defense-etfs-to-watch-for-gains/ar-AA1TsuWQ)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Another defense win: Boeing (BA) lands $2 billion B-52 engine contract
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c6ee9cce4c1fbfe4c3fddcf073a5&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftopstocks%2fanother-defense-win-boeing-ba-lands-2-billion-b-52-engine-contract%2far-AA1SWpmP&c=4593284025629851486&mkt=en-us
+  Aerospace stock Boeing (BA) has been awarded a $2 billion U.S. military contract tied to work on the Air Force’s B-52 bomber fleet, according to a notice from the Defense Department. The award relates ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/topstocks/another-defense-win-boeing-ba-lands-2-billion-b-52-engine-contract/ar-AA1SWpmP)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+
+Domain: Boeing
+Query: Boeing defense latest contract awards
+Timestamp: 2026-02-21T15:03:53
+PerPageSummaryWords: 200
+- DOD Awards Boeing $8.6B Contract For Israeli F-15IAs
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c94b33ed4f93a76cda0836105771&url=https%3a%2f%2faviationweek.com%2fdefense%2faircraft-propulsion%2fdod-awards-boeing-86b-contract-israeli-f-15ias&c=11250635418861352465&mkt=en-us
+  The Pentagon has awarded Boeing a contract valued at up to $8.6 billion for 25 F-15IA fighters for Israel with a potential to double the figure. The contract, awarded Dec. 29, comes more than a year ...
+  LinkedPageStatus: ok (https://aviationweek.com/defense/aircraft-propulsion/dod-awards-boeing-86b-contract-israeli-f-15ias)
+  LinkedPageSummaryWords: 155
+  LinkedPageSummary:
+  a contract valued at up to $8.6 billion for 25 F-15IA fighters for Israel with a potential to double the figure. The contract, awarded Dec. 29, comes more than a year after Israel confirmed plans to buy additional F-15s. Deliveries, Israel said at the time, should... Robert Wall is Executive Editor for Defense and Space. Based in London, he directs a team of military and space journalists across the U.S., Europe and Asia-Pacific. DOD Awards Boeing $8.6B Contract For Israeli F-15IAs is published in Aerospace Daily & Defense Report , an Aviation Week Intelligence Network (AWIN) Market Briefing and is included with your AWIN membership. Already a member of AWIN or subscribe to Aerospace Daily & Defense Report through your company? Login with your existing email and password. Not a member? Learn how you can access the market intelligence and data you need to stay abreast of what's happening in the aerospace and defense community.
+
+- Boeing wins $8B Israel F-15 deal: Defense ETFs to watch for gains
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c94b33ed4f93a76cda0836105771&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2fboeing-wins-8b-israel-f-15-deal-defense-etfs-to-watch-for-gains%2far-AA1TsuWQ&c=1110270116876219481&mkt=en-us
+  The Pentagon has officially cleared a massive $8.6 billion contract for Boeing BA to provide the Israeli Air Force with advanced F-15IA fighter jets. While this multi-billion-dollar deal reinforces ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/companies/boeing-wins-8b-israel-f-15-deal-defense-etfs-to-watch-for-gains/ar-AA1TsuWQ)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Another defense win: Boeing (BA) lands $2 billion B-52 engine contract
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999c94b33ed4f93a76cda0836105771&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftopstocks%2fanother-defense-win-boeing-ba-lands-2-billion-b-52-engine-contract%2far-AA1SWpmP&c=4593284025629851486&mkt=en-us
+  Aerospace stock Boeing (BA) has been awarded a $2 billion U.S. military contract tied to work on the Air Force’s B-52 bomber fleet, according to a notice from the Defense Department. The award relates ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/topstocks/another-defense-win-boeing-ba-lands-2-billion-b-52-engine-contract/ar-AA1SWpmP)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+
+Domain: Boeing
+Query: Boeing defense latest contract awards
+Timestamp: 2026-02-21T15:08:58
+PerPageSummaryWords: 200
+- DOD Awards Boeing $8.6B Contract For Israeli F-15IAs
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca7bbf21480cb8e1219ea46dc65a&url=https%3a%2f%2faviationweek.com%2fdefense%2faircraft-propulsion%2fdod-awards-boeing-86b-contract-israeli-f-15ias&c=11250635418861352465&mkt=en-us
+  The Pentagon has awarded Boeing a contract valued at up to $8.6 billion for 25 F-15IA fighters for Israel with a potential to double the figure. The contract, awarded Dec. 29, comes more than a year ...
+  LinkedPageStatus: ok (https://aviationweek.com/defense/aircraft-propulsion/dod-awards-boeing-86b-contract-israeli-f-15ias)
+  LinkedPageSummaryWords: 155
+  LinkedPageSummary:
+  a contract valued at up to $8.6 billion for 25 F-15IA fighters for Israel with a potential to double the figure. The contract, awarded Dec. 29, comes more than a year after Israel confirmed plans to buy additional F-15s. Deliveries, Israel said at the time, should... Robert Wall is Executive Editor for Defense and Space. Based in London, he directs a team of military and space journalists across the U.S., Europe and Asia-Pacific. DOD Awards Boeing $8.6B Contract For Israeli F-15IAs is published in Aerospace Daily & Defense Report , an Aviation Week Intelligence Network (AWIN) Market Briefing and is included with your AWIN membership. Already a member of AWIN or subscribe to Aerospace Daily & Defense Report through your company? Login with your existing email and password. Not a member? Learn how you can access the market intelligence and data you need to stay abreast of what's happening in the aerospace and defense community.
+
+- Boeing wins $8B Israel F-15 deal: Defense ETFs to watch for gains
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca7bbf21480cb8e1219ea46dc65a&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2fboeing-wins-8b-israel-f-15-deal-defense-etfs-to-watch-for-gains%2far-AA1TsuWQ&c=1110270116876219481&mkt=en-us
+  The Pentagon has officially cleared a massive $8.6 billion contract for Boeing BA to provide the Israeli Air Force with advanced F-15IA fighter jets. While this multi-billion-dollar deal reinforces ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/companies/boeing-wins-8b-israel-f-15-deal-defense-etfs-to-watch-for-gains/ar-AA1TsuWQ)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Another defense win: Boeing (BA) lands $2 billion B-52 engine contract
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca7bbf21480cb8e1219ea46dc65a&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2ftopstocks%2fanother-defense-win-boeing-ba-lands-2-billion-b-52-engine-contract%2far-AA1SWpmP&c=4593284025629851486&mkt=en-us
+  Aerospace stock Boeing (BA) has been awarded a $2 billion U.S. military contract tied to work on the Air Force’s B-52 bomber fleet, according to a notice from the Defense Department. The award relates ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/topstocks/another-defense-win-boeing-ba-lands-2-billion-b-52-engine-contract/ar-AA1SWpmP)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+

@@ -1,0 +1,23 @@
+{
+  "default_domain": "NorthropGrumman",
+  "tasks": [
+    {
+      "name": "Northrop Grumman Company News",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "NorthropGrumman",
+      "query": "Northrop Grumman latest company news",
+      "max": 8
+    },
+    {
+      "name": "Northrop Grumman Contract Awards",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "NorthropGrumman",
+      "query": "Northrop Grumman latest contract awards",
+      "max": 8
+    }
+  ]
+}

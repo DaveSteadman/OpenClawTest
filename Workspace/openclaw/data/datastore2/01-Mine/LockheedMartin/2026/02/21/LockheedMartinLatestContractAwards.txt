@@ -1,0 +1,208 @@
+Domain: LockheedMartin
+Query: Lockheed Martin latest contract awards
+Timestamp: 2026-02-21T13:44:40
+PerPageSummaryWords: 200
+- Media - Lockheed Martin - Releases
+  https://news.lockheedmartin.com/news-releases?l=100
+  ORLANDO, Fla., Oct. 20, 2025 - Lockheed Martin (NYSE: LMT) has been awarded a $233 million firm-fixed-price contract to deliver IRST21® Block II systems and initial spares to the U.S. Navy and...
+  LinkedPageStatus: ok (https://news.lockheedmartin.com/news-releases?l=100)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  In this section of the Lockheed Martin Newsroom, you'll find our news releases. The releases are listed in chronological order and are archived by year. Advanced simulators will expand training capacity for the RAAF’s growing C-130J fleet and leverage Lockheed Martin’s Original Equipment Manufacturer expertise. ORLANDO, Fla., Feb. 18, 2026 – Lockheed Martin (NYSE: LMT) announced today that it has been awarded a foreign military sale contract through Wright-Patterson Air Force Base to deliver C-130J... DALLAS, Feb. 12, 2026 – Lockheed Martin (NYSE:LMT) conducted a successful 112-km flight test of its Extended‑Range GMLRS (ER GMLRS) at White Sands Missile Range, New Mexico. For the first... Lockheed Martin and Fujitsu Limited, a Japanese multinational leader in information technology solutions, finalized the first purchase order for a critical component of Japan’s Aegis System Equipped Vessel (ASEV)’s SPY-7 radar antenna. Lockheed Martin (NYSE: LMT) Chairman, President and CEO Jim Taiclet and Chief Financial Officer Evan Scott will participate in a fireside chat at Citi's 2026 Global Industrial Tech and Mobility... FLORENCE, Ala., Feb. 10, 2026 – Lockheed Martin (NYSE:LMT) inaugurated the Manufacturing Basic Skills+ (MBS+) program at the newly opened Launch Career Technical Specialized Education (CTSE)... Today Lockheed Martin unveils the Lamprey Multi‑Mission
+
+- Air Force Awards Lockheed Martin $56M for B-2 Bomber Upgrades
+  https://aeronauticsmagazine.com/news/military-aviation/air-force-awards-lockheed-martin-56m-for-b-2-bomber-upgrades
+  Defense contractor receives six-year contract to enhance stealth bomber's electronic countermeasure systems The U.S. Air Force has awarded Lockheed Martin a $56.4 million contract to upgrade electronic countermeasure receivers on the B-2 Spirit stealth bomber fleet, the Department of War announced Tuesday.
+  LinkedPageStatus: ok (https://aeronauticsmagazine.com/news/military-aviation/air-force-awards-lockheed-martin-56m-for-b-2-bomber-upgrades)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The U.S. Air Force has awarded Lockheed Martin a $56.4 million contract to upgrade electronic countermeasure receivers on the B-2 Spirit stealth bomber fleet, the Department of War announced Tuesday. The firm-fixed-price contract, officially granted Sept. 2, covers countermeasure receiver improvements designed to strengthen the bomber’s ability to operate in contested airspace against advanced air defense systems. Work will be performed primarily at Lockheed Martin’s facility in Owego, New York. The six-year program carries no option periods and is scheduled for completion by Aug. 31, 2031. Performance is expected to begin at the end of September, according to Defense Logistics Agency Aviation in Oklahoma City, which manages the contract on behalf of the Air Force. “This is another major win for Lockheed Martin Owego, and a significant investment in the safety and effectiveness of our B-2 fleet,” said Congressman Nick Langworth. “I am proud to see the hard-working men and women right here in my district ensure the continued success of the B-2 stealth bomber, one of the most cutting-edge aircraft in our nation’s arsenal.” The contract addresses the need to modernize the B-2’s electronic warfare capabilities as adversaries develop more sophisticated radar systems capable of tracking stealth aircraft. While
+
+- Lockheed Martin wins $9.8 billion Patriot missile contract
+  https://www.reuters.com/business/aerospace-defense/lockheed-martin-wins-98-billion-patriot-missile-contract-2025-09-03/
+  The U.S. Army awarded Lockheed Martin a $9.8 billion contract for Patriot missiles, the company said on Wednesday, as demand for the missile defense interceptor from the U.S. and foreign ...
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/aerospace-defense/lockheed-martin-wins-98-billion-patriot-missile-contract-2025-09-03/
+  LinkedPageSummaryWords: 0
+
+- Lockheed Martin Corporation (LMT) Wins Two U.S. Department of Defense ...
+  https://finance.yahoo.com/news/lockheed-martin-corporation-lmt-wins-143145265.html
+  The second adjustment, worth $19.2 million, is tied to Lockheed Martin Corporation (NYSE:LMT)'s GPS III follow-on Award Fee Period Six, raising the contract's value to $4.12 billion. The ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_87f03ecc-7211-4ae2-bd43-5d98ba6b8fdf)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Lockheed Martin wins deals for missiles and systems worth $5 billion
+  https://www.shephardmedia.com/news/landwarfareintl/lockheed-martin-wins-deals-for-missiles-and-systems-worth-5-billion/
+  The GMLRS brings the total contract value to $13.7 billion and will see the company continue manufacturing the precision-guided rocket systems until October 2027. Lockheed Martin was previously awarded a $3.43 billion contract modification in September 2024 to produce the surface-to-surface weapon systems.
+  LinkedPageStatus: ok (https://www.shephardmedia.com/news/landwarfareintl/lockheed-martin-wins-deals-for-missiles-and-systems-worth-5-billion/)
+  LinkedPageSummaryWords: 100
+  LinkedPageSummary:
+  Lockheed Martin has been awarded two contracts, a US$4.2 billion contract modification for the production of Guided Multiple Launch Rocket System ( GMLRS ) and a $720.1 million contract modification to produce air-to-ground missiles (ATGM). The GMLRS brings the total contract value to $13.7 billion and will see the company continue manufacturing the precision-guided rocket systems until October 2027. Lockheed Martin was previously awarded a $3.43 billion contract modification in September 2024 to produce the surface-to-surface weapon systems. In May this year, the company secured two contract modifications worth a combined $553 million with the first contract covering the production
+
+- Pentagon Hands Lockheed, Boeing New Contracts - Benzinga
+  https://www.benzinga.com/news/contracts/26/01/49665879/pentagon-hands-lockheed-boeing-new-contracts
+  Pentagon awards new contracts to Lockheed Martin and Boeing, totaling $3.1 billion, underscoring sustained momentum in US defense spending.
+  LinkedPageStatus: ok (https://www.benzinga.com/news/contracts/26/01/49665879/pentagon-hands-lockheed-boeing-new-contracts)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The Pentagon closed out 2025 with new contracts for Lockheed Martin Corporation (NYSE: LMT ) and Boeing Company (NYSE: BA ), awarding $328.5 million for Taiwan-focused sensor systems to Lockheed and $2.73 billion in Apache support work to Boeing, underscoring the sustained momentum in U.S. defense spending. Lockheed Martin has received a $328.5 million undefinitized letter contract from the U.S. Department of Defense to supply infrared targeting and sensor hardware for Taiwan under the Foreign Military Sales program. The contract covers the production and delivery of 55 Infrared Search and Track Legion Enhanced Sensor pods, along with related equipment, to meet the urgent operational needs of the Taiwan Air Force. Work will be performed in Orlando, Florida, and is expected to be completed by June 30, 2031. An initial $157.3 million in FMS funds has been obligated. Boeing has been awarded a $2.73 billion firm-fixed-price contract for Apache helicopter post-production support services. The contract runs through Dec. 31, 2030, with work locations and funding to be determined per order. Meanwhile, the Pentagon significantly expanded an existing deal with Lockheed Martin, raising its value from $15 billion to $25 billion, underscoring sustained momentum in U.S. defense procurement. Price Action: Boeing shares
+
+- U.S. Army Awards Lockheed Martin Record $9.8B Patriot Missile Deal
+  https://theaviationist.com/2025/09/04/us-army-lockheed-martin-record-9-8b-patriot-deal/
+  The U.S. Army has awarded Lockheed Martin a $9.8 billion multi-year contract for the production of nearly 2,000 Patriot Advanced Capability-3 Missile Segment Enhancement (PAC-3 MSE) interceptors ...
+  LinkedPageStatus: ok (https://theaviationist.com/2025/09/04/us-army-lockheed-martin-record-9-8b-patriot-deal/)
+  LinkedPageSummaryWords: 85
+  LinkedPageSummary:
+  The launch of a Patriot PAC-3 interceptor missile. (Image credit: U.S. Army) TAGGED: Lockheed Martin MIM-104 Patriot PAC-3 MSE U.S. Army Stefano D'Urso is the Deputy Editor at The Aviationist, based in Lecce, Italy. He holds a Bachelor’s Degree in Industrial Engineering and is currently pursuing a Master’s Degree in Aerospace Engineering. His areas of expertise include emerging aerospace and defense technologies, electronic warfare, unmanned and autonomous systems, loitering munitions, and the application of OSINT techniques to the analysis of military operations and contemporary conflicts.
+
+- Lockheed Martin wins $9.8bn US Army contract for PAC-3 MSE
+  https://www.army-technology.com/news/lockheed-martin-army-us/
+  Lockheed Martin has secured a $9.8bn contract from the US Army for Patriot Advanced Capability-3 Missile Segment Enhancement (PAC-3 MSE) interceptors. The deal represents the "largest" award for Lockheed Martin's Missiles and Fire Control branch, encompassing the production of 1,970 interceptors and accompanying hardware.
+  LinkedPageStatus: ok (https://www.army-technology.com/news/lockheed-martin-army-us/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin has secured a $9.8bn contract from the US Army for Patriot Advanced Capability-3 Missile Segment Enhancement (PAC-3 MSE) interceptors. The deal represents the “largest” award for Lockheed Martin’s Missiles and Fire Control branch, encompassing the production of 1,970 interceptors and accompanying hardware. Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. Lockheed Martin integrated air and missile defence vice president and general manager Jason Reynolds said: “PAC-3 MSE’s recent combat performance solidified it as a must-have capability for America and its allies around the world. With this contract, we’ll be delivering record numbers of PAC-3 MSE for years to come, ensuring our customers have the advanced missile defence solutions they need to defend what matters most.” The PAC-3 MSE interceptor is designed to destroy a variety of threats, including tactical ballistic missiles, cruise missiles, and aircraft. It has been battle-tested. It is equipped with two-pulse solid rocket motor for increased altitude and range performance. Lockheed Martin has initiated measures to escalate the production of PAC-3 interceptors in anticipation of growing demand. Don’t let policy changes catch you off guard. Stay proactive with real-time data and expert analysis. The company projects to hit
+
+
+Domain: LockheedMartin
+Query: Lockheed Martin latest contract awards
+Timestamp: 2026-02-21T13:59:17
+PerPageSummaryWords: 200
+- Media - Lockheed Martin - Releases
+  https://news.lockheedmartin.com/news-releases?l=100
+  ORLANDO, Fla., Oct. 20, 2025 - Lockheed Martin (NYSE: LMT) has been awarded a $233 million firm-fixed-price contract to deliver IRST21® Block II systems and initial spares to the U.S. Navy and...
+  LinkedPageStatus: ok (https://news.lockheedmartin.com/news-releases?l=100)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  In this section of the Lockheed Martin Newsroom, you'll find our news releases. The releases are listed in chronological order and are archived by year. Advanced simulators will expand training capacity for the RAAF’s growing C-130J fleet and leverage Lockheed Martin’s Original Equipment Manufacturer expertise. ORLANDO, Fla., Feb. 18, 2026 – Lockheed Martin (NYSE: LMT) announced today that it has been awarded a foreign military sale contract through Wright-Patterson Air Force Base to deliver C-130J... DALLAS, Feb. 12, 2026 – Lockheed Martin (NYSE:LMT) conducted a successful 112-km flight test of its Extended‑Range GMLRS (ER GMLRS) at White Sands Missile Range, New Mexico. For the first... Lockheed Martin and Fujitsu Limited, a Japanese multinational leader in information technology solutions, finalized the first purchase order for a critical component of Japan’s Aegis System Equipped Vessel (ASEV)’s SPY-7 radar antenna. Lockheed Martin (NYSE: LMT) Chairman, President and CEO Jim Taiclet and Chief Financial Officer Evan Scott will participate in a fireside chat at Citi's 2026 Global Industrial Tech and Mobility... FLORENCE, Ala., Feb. 10, 2026 – Lockheed Martin (NYSE:LMT) inaugurated the Manufacturing Basic Skills+ (MBS+) program at the newly opened Launch Career Technical Specialized Education (CTSE)... Today Lockheed Martin unveils the Lamprey Multi‑Mission
+
+- Air Force Awards Lockheed Martin $56M for B-2 Bomber Upgrades
+  https://aeronauticsmagazine.com/news/military-aviation/air-force-awards-lockheed-martin-56m-for-b-2-bomber-upgrades
+  Defense contractor receives six-year contract to enhance stealth bomber's electronic countermeasure systems The U.S. Air Force has awarded Lockheed Martin a $56.4 million contract to upgrade electronic countermeasure receivers on the B-2 Spirit stealth bomber fleet, the Department of War announced Tuesday.
+  LinkedPageStatus: ok (https://aeronauticsmagazine.com/news/military-aviation/air-force-awards-lockheed-martin-56m-for-b-2-bomber-upgrades)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The U.S. Air Force has awarded Lockheed Martin a $56.4 million contract to upgrade electronic countermeasure receivers on the B-2 Spirit stealth bomber fleet, the Department of War announced Tuesday. The firm-fixed-price contract, officially granted Sept. 2, covers countermeasure receiver improvements designed to strengthen the bomber’s ability to operate in contested airspace against advanced air defense systems. Work will be performed primarily at Lockheed Martin’s facility in Owego, New York. The six-year program carries no option periods and is scheduled for completion by Aug. 31, 2031. Performance is expected to begin at the end of September, according to Defense Logistics Agency Aviation in Oklahoma City, which manages the contract on behalf of the Air Force. “This is another major win for Lockheed Martin Owego, and a significant investment in the safety and effectiveness of our B-2 fleet,” said Congressman Nick Langworth. “I am proud to see the hard-working men and women right here in my district ensure the continued success of the B-2 stealth bomber, one of the most cutting-edge aircraft in our nation’s arsenal.” The contract addresses the need to modernize the B-2’s electronic warfare capabilities as adversaries develop more sophisticated radar systems capable of tracking stealth aircraft. While
+
+- Lockheed Martin wins $9.8 billion Patriot missile contract
+  https://www.reuters.com/business/aerospace-defense/lockheed-martin-wins-98-billion-patriot-missile-contract-2025-09-03/
+  The U.S. Army awarded Lockheed Martin a $9.8 billion contract for Patriot missiles, the company said on Wednesday, as demand for the missile defense interceptor from the U.S. and foreign ...
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/aerospace-defense/lockheed-martin-wins-98-billion-patriot-missile-contract-2025-09-03/
+  LinkedPageSummaryWords: 0
+
+- Lockheed Martin Corporation (LMT) Wins Two U.S. Department of Defense ...
+  https://finance.yahoo.com/news/lockheed-martin-corporation-lmt-wins-143145265.html
+  The second adjustment, worth $19.2 million, is tied to Lockheed Martin Corporation (NYSE:LMT)'s GPS III follow-on Award Fee Period Six, raising the contract's value to $4.12 billion. The ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_6901f6e5-539a-4b79-b878-a9855a52f24b)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Lockheed Martin wins deals for missiles and systems worth $5 billion
+  https://www.shephardmedia.com/news/landwarfareintl/lockheed-martin-wins-deals-for-missiles-and-systems-worth-5-billion/
+  The GMLRS brings the total contract value to $13.7 billion and will see the company continue manufacturing the precision-guided rocket systems until October 2027. Lockheed Martin was previously awarded a $3.43 billion contract modification in September 2024 to produce the surface-to-surface weapon systems.
+  LinkedPageStatus: ok (https://www.shephardmedia.com/news/landwarfareintl/lockheed-martin-wins-deals-for-missiles-and-systems-worth-5-billion/)
+  LinkedPageSummaryWords: 100
+  LinkedPageSummary:
+  Lockheed Martin has been awarded two contracts, a US$4.2 billion contract modification for the production of Guided Multiple Launch Rocket System ( GMLRS ) and a $720.1 million contract modification to produce air-to-ground missiles (ATGM). The GMLRS brings the total contract value to $13.7 billion and will see the company continue manufacturing the precision-guided rocket systems until October 2027. Lockheed Martin was previously awarded a $3.43 billion contract modification in September 2024 to produce the surface-to-surface weapon systems. In May this year, the company secured two contract modifications worth a combined $553 million with the first contract covering the production
+
+- Pentagon Hands Lockheed, Boeing New Contracts - Benzinga
+  https://www.benzinga.com/news/contracts/26/01/49665879/pentagon-hands-lockheed-boeing-new-contracts
+  Pentagon awards new contracts to Lockheed Martin and Boeing, totaling $3.1 billion, underscoring sustained momentum in US defense spending.
+  LinkedPageStatus: ok (https://www.benzinga.com/news/contracts/26/01/49665879/pentagon-hands-lockheed-boeing-new-contracts)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The Pentagon closed out 2025 with new contracts for Lockheed Martin Corporation (NYSE: LMT ) and Boeing Company (NYSE: BA ), awarding $328.5 million for Taiwan-focused sensor systems to Lockheed and $2.73 billion in Apache support work to Boeing, underscoring the sustained momentum in U.S. defense spending. Lockheed Martin has received a $328.5 million undefinitized letter contract from the U.S. Department of Defense to supply infrared targeting and sensor hardware for Taiwan under the Foreign Military Sales program. The contract covers the production and delivery of 55 Infrared Search and Track Legion Enhanced Sensor pods, along with related equipment, to meet the urgent operational needs of the Taiwan Air Force. Work will be performed in Orlando, Florida, and is expected to be completed by June 30, 2031. An initial $157.3 million in FMS funds has been obligated. Boeing has been awarded a $2.73 billion firm-fixed-price contract for Apache helicopter post-production support services. The contract runs through Dec. 31, 2030, with work locations and funding to be determined per order. Meanwhile, the Pentagon significantly expanded an existing deal with Lockheed Martin, raising its value from $15 billion to $25 billion, underscoring sustained momentum in U.S. defense procurement. Price Action: Boeing shares
+
+- U.S. Army Awards Lockheed Martin Record $9.8B Patriot Missile Deal
+  https://theaviationist.com/2025/09/04/us-army-lockheed-martin-record-9-8b-patriot-deal/
+  The U.S. Army has awarded Lockheed Martin a $9.8 billion multi-year contract for the production of nearly 2,000 Patriot Advanced Capability-3 Missile Segment Enhancement (PAC-3 MSE) interceptors ...
+  LinkedPageStatus: ok (https://theaviationist.com/2025/09/04/us-army-lockheed-martin-record-9-8b-patriot-deal/)
+  LinkedPageSummaryWords: 85
+  LinkedPageSummary:
+  The launch of a Patriot PAC-3 interceptor missile. (Image credit: U.S. Army) TAGGED: Lockheed Martin MIM-104 Patriot PAC-3 MSE U.S. Army Stefano D'Urso is the Deputy Editor at The Aviationist, based in Lecce, Italy. He holds a Bachelor’s Degree in Industrial Engineering and is currently pursuing a Master’s Degree in Aerospace Engineering. His areas of expertise include emerging aerospace and defense technologies, electronic warfare, unmanned and autonomous systems, loitering munitions, and the application of OSINT techniques to the analysis of military operations and contemporary conflicts.
+
+- Lockheed Martin wins $9.8bn US Army contract for PAC-3 MSE
+  https://www.army-technology.com/news/lockheed-martin-army-us/
+  Lockheed Martin has secured a $9.8bn contract from the US Army for Patriot Advanced Capability-3 Missile Segment Enhancement (PAC-3 MSE) interceptors. The deal represents the "largest" award for Lockheed Martin's Missiles and Fire Control branch, encompassing the production of 1,970 interceptors and accompanying hardware.
+  LinkedPageStatus: ok (https://www.army-technology.com/news/lockheed-martin-army-us/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin has secured a $9.8bn contract from the US Army for Patriot Advanced Capability-3 Missile Segment Enhancement (PAC-3 MSE) interceptors. The deal represents the “largest” award for Lockheed Martin’s Missiles and Fire Control branch, encompassing the production of 1,970 interceptors and accompanying hardware. Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. Lockheed Martin integrated air and missile defence vice president and general manager Jason Reynolds said: “PAC-3 MSE’s recent combat performance solidified it as a must-have capability for America and its allies around the world. With this contract, we’ll be delivering record numbers of PAC-3 MSE for years to come, ensuring our customers have the advanced missile defence solutions they need to defend what matters most.” The PAC-3 MSE interceptor is designed to destroy a variety of threats, including tactical ballistic missiles, cruise missiles, and aircraft. It has been battle-tested. It is equipped with two-pulse solid rocket motor for increased altitude and range performance. Lockheed Martin has initiated measures to escalate the production of PAC-3 interceptors in anticipation of growing demand. Don’t let policy changes catch you off guard. Stay proactive with real-time data and expert analysis. The company projects to hit
+
+
+Domain: LockheedMartin
+Query: Lockheed Martin latest contract awards
+Timestamp: 2026-02-21T15:08:49
+PerPageSummaryWords: 200
+- Lockheed Martin Lands $249M Navy Contract for Surface Electronic Warfare Support
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca6c77bb4e0f96bac28429d2a457&url=https%3a%2f%2fwww.govconwire.com%2farticles%2flockheed-martin-navy-electronic-warfare&c=12272917603755502829&mkt=en-us
+  Lockheed Martin has received a $249 million indefinite-delivery/indefinite-quantity contract from the U.S. Navy to support the Surface Electronic Warfare Improvement ...
+  LinkedPageStatus: ok (https://www.govconwire.com/articles/lockheed-martin-navy-electronic-warfare)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin has received a $249 million indefinite-delivery/indefinite-quantity contract from the U.S. Navy to support the Surface Electronic Warfare Improvement Program, or SEWIP, Block II , a system designed to counter anti-ship missile threats. Don’t miss the Potomac Officers Club’s 2026 Navy Summit on Aug. 27. Hear directly from senior Navy leaders on the future of naval innovation. Register now to be part of the conversation. The Department of War said the cost-plus-fixed-fee and firm-fixed-price contract, awarded on Tuesday, provides spares, repair services, engineering support and depot stand-up activities tied to the integration of the Electronic Support Anti-Ship Missile Defense System. Lockheed Martin will perform work for the sole-source contract in Liverpool, New York. The project is expected to be completed by February 2031. The Naval Surface Warfare Center Crane in Indiana will obligate $344,788 in fiscal year 2025 other procurement funds that will not expire at the end of the fiscal year. The Surface Electronic Warfare Improvement Program is an initiative intended to modernize the Navy’s legacy AN/SLQ-32(V) EW system as part of the service’s Cyber Strategy , specifically its electronic warfare efforts . Under the program, Lockheed received a $113.6 million contract modification in August 2024 for full-rate
+
+- US awards Lockheed Martin $328.5M Taiwan sensor pod contract
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca6c77bb4e0f96bac28429d2a457&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2ftechnology%2fus-awards-lockheed-martin-3285m-taiwan-sensor-pod-contract%2far-AA1TsVqQ&c=1950798917747293254&mkt=en-us
+  The US Department of War (DoW) has announced a contract to Lockheed Martin valued at up to $328.5m to supply advanced sensor pods and support equipment to the Taiwan Air Force. The arrangement covers ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/news/technology/us-awards-lockheed-martin-3285m-taiwan-sensor-pod-contract/ar-AA1TsVqQ)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- U.S. Air Force Awards Lockheed Martin $328.5 Mln Contract For Taiwan Sensor Systems
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca6c77bb4e0f96bac28429d2a457&url=https%3a%2f%2fwww.nasdaq.com%2farticles%2fus-air-force-awards-lockheed-martin-3285-mln-contract-taiwan-sensor-systems&c=17757273398589563201&mkt=en-us
+  (RTTNews) - Lockheed Martin Corp., based in Orlando, Florida, has been awarded an undefinitized letter contract with a ceiling value of $328,500,000 for Department of Defense and Foreign Military ...
+  LinkedPageStatus: ok (https://www.nasdaq.com/articles/us-air-force-awards-lockheed-martin-3285-mln-contract-taiwan-sensor-systems)
+  LinkedPageSummaryWords: 169
+  LinkedPageSummary:
+  (RTTNews) - Lockheed Martin Corp., based in Orlando, Florida, has been awarded an undefinitized letter contract with a ceiling value of $328,500,000 for Department of Defense and Foreign Military Sales (FMS) programs. The contract covers Sniper, Infrared Search and Track, and Low Altitude Navigation and Targeting Infrared for Night hardware production for fixed-wing aircraft. Under the agreement, Lockheed Martin will procure and deliver fifty-five Infrared Search and Track Legion Enhanced Sensor pods, processors, pod containers, and processor containers to address the urgent operational needs of the Taiwan Air Force. Work will be carried out in Orlando, Florida, with an expected completion date of June 30, 2031. This sole source acquisition involves FMS to Taiwan, with $157.30 million in FMS funds obligated at the time of award. The contracting activity is managed by the Air Force Life Cycle Management Center, Electronic Systems Contracting Branch, Warner Robins, Georgia. The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+- Lockheed Martin Expands Autonomy And Missile Defense Capacity As Orders Build
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca6c77bb4e0f96bac28429d2a457&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2flockheed-martin-expands-autonomy-missile-021531761.html&c=8760257465625359573&mkt=en-us
+  Lockheed Martin (NYSE:LMT) has introduced its Lamprey Multi-Mission Autonomous Undersea Vehicle, expanding its unmanned naval systems offering. The company has signed a framework agreement that ...
+  LinkedPageStatus: ok (https://uk.finance.yahoo.com/news/lockheed-martin-expands-autonomy-missile-021531761.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Make better investment decisions with Simply Wall St's easy, visual tools that give you a competitive edge. Lockheed Martin (NYSE:LMT) has introduced its Lamprey Multi-Mission Autonomous Undersea Vehicle, expanding its unmanned naval systems offering. The company has signed a framework agreement that targets a fourfold increase in THAAD missile interceptor production. Lockheed Martin is breaking ground on a new advanced manufacturing site, the Munitions Acceleration Center, to support higher output. For you as an investor, these moves sit at the intersection of defense technology and long cycle government programs. Lockheed Martin is a major contractor across air, land, sea and space, and the Lamprey undersea vehicle is part of a broader push toward autonomous systems and more distributed sensing in maritime defense. The THAAD agreement and new facility are directly related to demand for missile defense capabilities from government customers. Looking ahead, key considerations include how consistently these programs convert into funded orders and how efficiently the new manufacturing capacity ramps. You may want to track contract awards, backlog disclosures and any updates on production milestones, since those data points can shape expectations for revenue visibility and capital needs at NYSE:LMT. Stay updated on the most important news stories for
+
+
+Domain: LockheedMartin
+Query: Lockheed Martin latest contract awards
+Timestamp: 2026-02-21T15:12:44
+PerPageSummaryWords: 200
+- Lockheed Martin Lands $249M Navy Contract for Surface Electronic Warfare Support
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb59962546859c702fd6ddae9574&url=https%3a%2f%2fwww.govconwire.com%2farticles%2flockheed-martin-navy-electronic-warfare&c=12272917603755502829&mkt=en-us
+  Lockheed Martin has received a $249 million indefinite-delivery/indefinite-quantity contract from the U.S. Navy to support the Surface Electronic Warfare Improvement ...
+  LinkedPageStatus: ok (https://www.govconwire.com/articles/lockheed-martin-navy-electronic-warfare)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin has received a $249 million indefinite-delivery/indefinite-quantity contract from the U.S. Navy to support the Surface Electronic Warfare Improvement Program, or SEWIP, Block II , a system designed to counter anti-ship missile threats. Don’t miss the Potomac Officers Club’s 2026 Navy Summit on Aug. 27. Hear directly from senior Navy leaders on the future of naval innovation. Register now to be part of the conversation. The Department of War said the cost-plus-fixed-fee and firm-fixed-price contract, awarded on Tuesday, provides spares, repair services, engineering support and depot stand-up activities tied to the integration of the Electronic Support Anti-Ship Missile Defense System. Lockheed Martin will perform work for the sole-source contract in Liverpool, New York. The project is expected to be completed by February 2031. The Naval Surface Warfare Center Crane in Indiana will obligate $344,788 in fiscal year 2025 other procurement funds that will not expire at the end of the fiscal year. The Surface Electronic Warfare Improvement Program is an initiative intended to modernize the Navy’s legacy AN/SLQ-32(V) EW system as part of the service’s Cyber Strategy , specifically its electronic warfare efforts . Under the program, Lockheed received a $113.6 million contract modification in August 2024 for full-rate
+
+- US awards Lockheed Martin $328.5M Taiwan sensor pod contract
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb59962546859c702fd6ddae9574&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2ftechnology%2fus-awards-lockheed-martin-3285m-taiwan-sensor-pod-contract%2far-AA1TsVqQ&c=1950798917747293254&mkt=en-us
+  The US Department of War (DoW) has announced a contract to Lockheed Martin valued at up to $328.5m to supply advanced sensor pods and support equipment to the Taiwan Air Force. The arrangement covers ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/news/technology/us-awards-lockheed-martin-3285m-taiwan-sensor-pod-contract/ar-AA1TsVqQ)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- U.S. Air Force Awards Lockheed Martin $328.5 Mln Contract For Taiwan Sensor Systems
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb59962546859c702fd6ddae9574&url=https%3a%2f%2fwww.nasdaq.com%2farticles%2fus-air-force-awards-lockheed-martin-3285-mln-contract-taiwan-sensor-systems&c=17757273398589563201&mkt=en-us
+  (RTTNews) - Lockheed Martin Corp., based in Orlando, Florida, has been awarded an undefinitized letter contract with a ceiling value of $328,500,000 for Department of Defense and Foreign Military ...
+  LinkedPageStatus: ok (https://www.nasdaq.com/articles/us-air-force-awards-lockheed-martin-3285-mln-contract-taiwan-sensor-systems)
+  LinkedPageSummaryWords: 169
+  LinkedPageSummary:
+  (RTTNews) - Lockheed Martin Corp., based in Orlando, Florida, has been awarded an undefinitized letter contract with a ceiling value of $328,500,000 for Department of Defense and Foreign Military Sales (FMS) programs. The contract covers Sniper, Infrared Search and Track, and Low Altitude Navigation and Targeting Infrared for Night hardware production for fixed-wing aircraft. Under the agreement, Lockheed Martin will procure and deliver fifty-five Infrared Search and Track Legion Enhanced Sensor pods, processors, pod containers, and processor containers to address the urgent operational needs of the Taiwan Air Force. Work will be carried out in Orlando, Florida, with an expected completion date of June 30, 2031. This sole source acquisition involves FMS to Taiwan, with $157.30 million in FMS funds obligated at the time of award. The contracting activity is managed by the Air Force Life Cycle Management Center, Electronic Systems Contracting Branch, Warner Robins, Georgia. The views and opinions expressed herein are the views and opinions of the author and do not necessarily reflect those of Nasdaq, Inc.
+
+- Lockheed Martin Expands Autonomy And Missile Defense Capacity As Orders Build
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb59962546859c702fd6ddae9574&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2flockheed-martin-expands-autonomy-missile-021531761.html&c=8760257465625359573&mkt=en-us
+  Lockheed Martin (NYSE:LMT) has introduced its Lamprey Multi-Mission Autonomous Undersea Vehicle, expanding its unmanned naval systems offering. The company has signed a framework agreement that ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_b9809bd6-58bc-4641-9faa-feb85eb05b67)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+

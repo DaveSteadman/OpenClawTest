@@ -1,0 +1,126 @@
+Domain: NorthropGrumman
+Query: Northrop Grumman latest company news
+Timestamp: 2026-02-21T15:10:37
+PerPageSummaryWords: 200
+- Northrop Grumman unveils 3D-printed radar for aircraft, drones
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cac4decb4b2198251c985c25a52d&url=https%3a%2f%2fwww.al.com%2fnews%2f2026%2f02%2fnorthrop-grumman-unveils-3d-printed-radar-for-aircraft-drones.html&c=5954190455884308569&mkt=en-us
+  Northrop Grumman Corp., a global defense firm with a significant presence in Huntsville, unveiled a 3D-printed radar for aircraft and drones on Monday. “Funded entirely by Northrop Grumman, Valen ...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.al.com/news/2026/02/northrop-grumman-unveils-3d-printed-radar-for-aircraft-drones.html
+  LinkedPageSummaryWords: 0
+
+- Northrop Grumman Plans Three-Part Approach For USAF Tanker Program
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cac4decb4b2198251c985c25a52d&url=https%3a%2f%2faviationweek.com%2fdefense%2fmulti-mission-aircraft%2fnorthrop-grumman-plans-three-part-approach-usaf-tanker-program&c=6720006067423511706&mkt=en-us
+  Northrop Grumman is presenting a three-pronged approach to offer a “family of systems” for the U.S. Air Force if it progresses with that plan for future refuelers—from a large blended-wing body down ...
+  LinkedPageStatus: ok (https://aviationweek.com/defense/multi-mission-aircraft/northrop-grumman-plans-three-part-approach-usaf-tanker-program)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Northrop Grumman is presenting a three-pronged approach to the U.S. Air Force if the service progresses with its current “family of systems” framework for future refuelers—from a large blended-wing body down to a small, uncrewed tanker, according to industry sources familiar with the plans. The prime’s strategy includes both an in-house design of the smaller, low-observable aircraft along with partnerships with other companies to offer the range of options for the Next-Generation Air Refueling System (NGAS) umbrella program. Northrop Grumman’s approach comes about two decades after it initially won the U.S. Air Force KC-X program to replace the KC-135 as part of a team with Airbus, before losing bidder Boeing successfully challenged the award and walked away the winner with the KC-46. Northrop Grumman and Embraer are announcing the new partnership on Feb. 19, using the latter’s KC-390 as a midsized “tactical” tanker for the service. This would be accompanied by the large, blended-wing-body demonstrator Northrop and partner JetZero are working on, bolstered by funding from the U.S. Air Force. The three-pronged approach would be presented as a package of options to the Air Force, allowing the service to pick and choose numbers of each option if it selects Northrop
+
+- Northrop Grumman Board Refresh Sparks Questions On Governance And Valuation
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cac4decb4b2198251c985c25a52d&url=https%3a%2f%2ffinance.yahoo.com%2fnews%2fnorthrop-grumman-board-refresh-sparks-110822484.html&c=3494591897642947104&mkt=en-us
+  Northrop Grumman (NYSE:NOC) has appointed Admiral Christopher W. Grady, former vice chairman of the Joint Chiefs of Staff, to its Board of Directors. James S. Turley has been named Lead Independent ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_e8080bad-cff8-4a4a-9a66-52dd738e31d1)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Northrop Grumman Corp. (NOC) secures $100M missile weapon system contract as analyst optimism grows
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cac4decb4b2198251c985c25a52d&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2fnorthrop-grumman-corp-noc-secures-100m-missile-weapon-system-contract-as-analyst-optimism-grows%2far-AA1SM86a&c=10742827432846092980&mkt=en-us
+  Northrop Grumman Corporation (NYSE:NOC) is one of the best aerospace and defense stocks to buy, according to Wall Street analysts. On December 12, Citi initiated coverage of Northrop Grumman with a ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/companies/northrop-grumman-corp-noc-secures-100m-missile-weapon-system-contract-as-analyst-optimism-grows/ar-AA1SM86a)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- A Look At Northrop Grumman (NOC) Valuation After New Japan Contract And Ongoing Growth Optimism
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cac4decb4b2198251c985c25a52d&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2flook-northrop-grumman-noc-valuation-141012039.html&c=17248465202886937875&mkt=en-us
+  Northrop Grumman (NOC) is back in focus after a new US$198 million contract to supply E-2D Advanced Hawkeye components to Japan, along with Army scrutiny over artillery delivery delays tied to Ukraine ...
+  LinkedPageStatus: ok (https://uk.finance.yahoo.com/news/look-northrop-grumman-noc-valuation-141012039.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Get insights on thousands of stocks from the global community of over 7 million individual investors at Simply Wall St. Northrop Grumman (NOC) is back in focus after a new US$198 million contract to supply E-2D Advanced Hawkeye components to Japan, along with Army scrutiny over artillery delivery delays tied to Ukraine. At a share price of US$698.02, Northrop Grumman has had a 12.8% 30 day share price return and a 24.97% 90 day share price return, while its 1 year total shareholder return of 49.87% and 5 year total shareholder return of 160.57% point to momentum. Recent contracts and scrutiny around Ukraine related deliveries are helping to reframe the story more around growth potential than purely execution risk. If you are watching defense names on the move, this can be a good moment to broaden your search and check out 24 power grid technology and infrastructure stocks as another set of stocks tied to critical infrastructure themes. With the shares up strongly and trading only slightly below analyst targets while the company reports measured revenue and earnings growth, the real question is whether Northrop Grumman is mispriced today or whether the market is already pricing in future gains. With
+
+- Northrop Grumman raises profit outlook; shares fall on revenue guidance
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cac4decb4b2198251c985c25a52d&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4505903-northrop-grumman-raises-profit-outlook-shares-fall-on-revenue-guidance&c=9251869927280230139&mkt=en-us
+  Northrop Grumman (NYSE:NOC) fell 2.2% in premarket trading Tuesday after the aerospace and defense company said revenue for the third quarter came in at $10.4 billion, slightly below analyst ...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://seekingalpha.com/news/4505903-northrop-grumman-raises-profit-outlook-shares-fall-on-revenue-guidance
+  LinkedPageSummaryWords: 0
+
+- Dividend Hike Amid Softer 2026 Outlook Could Be A Game Changer For Northrop Grumman (NOC)
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cac4decb4b2198251c985c25a52d&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2fdividend-hike-amid-softer-2026-021310798.html&c=7423321813077648441&mkt=en-us
+  In early February 2026, Northrop Grumman’s board declared a quarterly dividend of US$2.31 per share, payable on March 11, 2026, to shareholders of record as of February 23, 2026. This announcement ...
+  LinkedPageStatus: ok (https://uk.finance.yahoo.com/news/dividend-hike-amid-softer-2026-021310798.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  In early February 2026, Northrop Grumman’s board declared a quarterly dividend of US$2.31 per share, payable on March 11, 2026, to shareholders of record as of February 23, 2026. This announcement followed quarterly results where the company beat earnings expectations but issued softer sales and earnings guidance for 2026 despite a record US$95.70 billion backlog. Next, we’ll examine how Northrop’s earnings beat but softer 2026 guidance may affect its investment narrative and perceived growth quality. Capitalize on the AI infrastructure supercycle with our selection of the 34 best 'picks and shovels' of the AI gold rush converting record-breaking demand into massive cash flow. To stay invested in Northrop Grumman, you need to believe that its large, long-duration defense programs and US$95.70 billion backlog can translate into resilient earnings despite program and budget risks. The latest earnings beat, muted 2026 guidance, and steady dividend do not materially change the near term story, where the key catalyst remains execution on flagship programs and the biggest risk is any disruption to major U.S. government contracts. The February 2026 dividend declaration of US$2.31 per share reinforces Northrop’s ongoing capital return pattern at a time when management is signaling only modest sales and earnings growth
+
+- Northrop Grumman Corp.
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cac4decb4b2198251c985c25a52d&url=https%3a%2f%2fwww.barrons.com%2fmarket-data%2fstocks%2fnoc%2fcompany-people%3fgaa_n%3dAWEtsqfmb5hg-WHkM6EpFBTyfX3xkE3kN7_AT-OKg0bk982wK_x76_mIQ7G-%26gaa_ts%3d697da2fa&c=3324527236170219739&mkt=en-us
+  Northrop Grumman Corp. engages in the provision of advanced aircraft systems. It operates through the following segments: Aeronautics Systems, Defense Systems, Mission Systems, and Space Systems. The ...
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.barrons.com/market-data/stocks/noc/company-people?gaa_n=AWEtsqfmb5hg-WHkM6EpFBTyfX3xkE3kN7_AT-OKg0bk982wK_x76_mIQ7G-&gaa_ts=697da2fa
+  LinkedPageSummaryWords: 0
+
+
+Domain: NorthropGrumman
+Query: Northrop Grumman latest company news
+Timestamp: 2026-02-21T15:14:38
+PerPageSummaryWords: 200
+- Northrop Grumman unveils 3D-printed radar for aircraft, drones
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cbb5ba374890b81f3acec43ceebd&url=https%3a%2f%2fwww.al.com%2fnews%2f2026%2f02%2fnorthrop-grumman-unveils-3d-printed-radar-for-aircraft-drones.html&c=5954190455884308569&mkt=en-us
+  Northrop Grumman Corp., a global defense firm with a significant presence in Huntsville, unveiled a 3D-printed radar for aircraft and drones on Monday. “Funded entirely by Northrop Grumman, Valen ...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.al.com/news/2026/02/northrop-grumman-unveils-3d-printed-radar-for-aircraft-drones.html
+  LinkedPageSummaryWords: 0
+
+- Northrop Grumman Plans Three-Part Approach For USAF Tanker Program
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cbb5ba374890b81f3acec43ceebd&url=https%3a%2f%2faviationweek.com%2fdefense%2fmulti-mission-aircraft%2fnorthrop-grumman-plans-three-part-approach-usaf-tanker-program&c=6720006067423511706&mkt=en-us
+  Northrop Grumman is presenting a three-pronged approach to offer a “family of systems” for the U.S. Air Force if it progresses with that plan for future refuelers—from a large blended-wing body down ...
+  LinkedPageStatus: ok (https://aviationweek.com/defense/multi-mission-aircraft/northrop-grumman-plans-three-part-approach-usaf-tanker-program)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Northrop Grumman is presenting a three-pronged approach to the U.S. Air Force if the service progresses with its current “family of systems” framework for future refuelers—from a large blended-wing body down to a small, uncrewed tanker, according to industry sources familiar with the plans. The prime’s strategy includes both an in-house design of the smaller, low-observable aircraft along with partnerships with other companies to offer the range of options for the Next-Generation Air Refueling System (NGAS) umbrella program. Northrop Grumman’s approach comes about two decades after it initially won the U.S. Air Force KC-X program to replace the KC-135 as part of a team with Airbus, before losing bidder Boeing successfully challenged the award and walked away the winner with the KC-46. Northrop Grumman and Embraer are announcing the new partnership on Feb. 19, using the latter’s KC-390 as a midsized “tactical” tanker for the service. This would be accompanied by the large, blended-wing-body demonstrator Northrop and partner JetZero are working on, bolstered by funding from the U.S. Air Force. The three-pronged approach would be presented as a package of options to the Air Force, allowing the service to pick and choose numbers of each option if it selects Northrop
+
+- Northrop Grumman Board Refresh Sparks Questions On Governance And Valuation
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cbb5ba374890b81f3acec43ceebd&url=https%3a%2f%2ffinance.yahoo.com%2fnews%2fnorthrop-grumman-board-refresh-sparks-110822484.html&c=3494591897642947104&mkt=en-us
+  Northrop Grumman (NYSE:NOC) has appointed Admiral Christopher W. Grady, former vice chairman of the Joint Chiefs of Staff, to its Board of Directors. James S. Turley has been named Lead Independent ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_9bda869a-11be-4b87-9eb2-f810b53bd048)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Northrop Grumman Corp. (NOC) secures $100M missile weapon system contract as analyst optimism grows
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cbb5ba374890b81f3acec43ceebd&url=https%3a%2f%2fwww.msn.com%2fen-us%2fmoney%2fcompanies%2fnorthrop-grumman-corp-noc-secures-100m-missile-weapon-system-contract-as-analyst-optimism-grows%2far-AA1SM86a&c=10742827432846092980&mkt=en-us
+  Northrop Grumman Corporation (NYSE:NOC) is one of the best aerospace and defense stocks to buy, according to Wall Street analysts. On December 12, Citi initiated coverage of Northrop Grumman with a ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/money/companies/northrop-grumman-corp-noc-secures-100m-missile-weapon-system-contract-as-analyst-optimism-grows/ar-AA1SM86a)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- A Look At Northrop Grumman (NOC) Valuation After New Japan Contract And Ongoing Growth Optimism
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cbb5ba374890b81f3acec43ceebd&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2flook-northrop-grumman-noc-valuation-141012039.html&c=17248465202886937875&mkt=en-us
+  Northrop Grumman (NOC) is back in focus after a new US$198 million contract to supply E-2D Advanced Hawkeye components to Japan, along with Army scrutiny over artillery delivery delays tied to Ukraine ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_4f060068-944f-4657-ad22-b79a71cde397)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Northrop Grumman raises profit outlook; shares fall on revenue guidance
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cbb5ba374890b81f3acec43ceebd&url=https%3a%2f%2fseekingalpha.com%2fnews%2f4505903-northrop-grumman-raises-profit-outlook-shares-fall-on-revenue-guidance&c=9251869927280230139&mkt=en-us
+  Northrop Grumman (NYSE:NOC) fell 2.2% in premarket trading Tuesday after the aerospace and defense company said revenue for the third quarter came in at $10.4 billion, slightly below analyst ...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://seekingalpha.com/news/4505903-northrop-grumman-raises-profit-outlook-shares-fall-on-revenue-guidance
+  LinkedPageSummaryWords: 0
+
+- Dividend Hike Amid Softer 2026 Outlook Could Be A Game Changer For Northrop Grumman (NOC)
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cbb5ba374890b81f3acec43ceebd&url=https%3a%2f%2fuk.finance.yahoo.com%2fnews%2fdividend-hike-amid-softer-2026-021310798.html&c=7423321813077648441&mkt=en-us
+  In early February 2026, Northrop Grumman’s board declared a quarterly dividend of US$2.31 per share, payable on March 11, 2026, to shareholders of record as of February 23, 2026. This announcement ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_8006fa76-380c-4807-bfcc-cd61ac86f7d9)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Northrop Grumman Corp.
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cbb5ba374890b81f3acec43ceebd&url=https%3a%2f%2fwww.barrons.com%2fmarket-data%2fstocks%2fnoc%2fcompany-people%3fgaa_n%3dAWEtsqfmb5hg-WHkM6EpFBTyfX3xkE3kN7_AT-OKg0bk982wK_x76_mIQ7G-%26gaa_ts%3d697da2fa&c=3324527236170219739&mkt=en-us
+  Northrop Grumman Corp. engages in the provision of advanced aircraft systems. It operates through the following segments: Aeronautics Systems, Defense Systems, Mission Systems, and Space Systems. The ...
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.barrons.com/market-data/stocks/noc/company-people?gaa_n=AWEtsqfmb5hg-WHkM6EpFBTyfX3xkE3kN7_AT-OKg0bk982wK_x76_mIQ7G-&gaa_ts=697da2fa
+  LinkedPageSummaryWords: 0
+
+

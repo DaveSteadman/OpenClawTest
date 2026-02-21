@@ -1,0 +1,33 @@
+{
+  "default_domain": "SAAB",
+  "tasks": [
+    {
+      "name": "SAAB Company News",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "SAAB",
+      "query": "SAAB defense latest company news",
+      "max": 8
+    },
+    {
+      "name": "SAAB Contract Awards",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "SAAB",
+      "query": "SAAB defense latest contract awards",
+      "max": 8
+    },
+    {
+      "name": "SAABNewsroom",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "webtext",
+      "url": "https://www.saab.com/newsroom",
+      "max_links": 8,
+      "words": 220
+    }
+
+  ]
+}

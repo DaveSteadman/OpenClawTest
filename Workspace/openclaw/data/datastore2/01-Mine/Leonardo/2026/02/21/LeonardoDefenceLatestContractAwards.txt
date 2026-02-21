@@ -1,0 +1,42 @@
+Domain: Leonardo
+Query: Leonardo defence latest contract awards
+Timestamp: 2026-02-21T15:06:53
+PerPageSummaryWords: 200
+- U.S. Navy Awards Leonardo UK Contract to Equip F-35 with BriteCloud Active Expendable Decoys
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca0190dc472090f5bd8c34a936db&url=https%3a%2f%2ftheaviationist.com%2f2025%2f12%2f26%2fus-navy-contract-f-35-britecloud-active-expendable-decoys%2f&c=17738333792918437827&mkt=en-us
+  The U.S. Navy is acquiring and undisclosed number of BriteCloud Active Expendable Decoys specifically for the F-35 Lightning II. The Naval Air Systems Command (NAVAIR) has awarded Leonardo UK a ...
+  LinkedPageStatus: ok (https://theaviationist.com/2025/12/26/us-navy-contract-f-35-britecloud-active-expendable-decoys/)
+  LinkedPageSummaryWords: 110
+  LinkedPageSummary:
+  An F-35C Lightning II, attached to Strike Fighter Squadron (VFA) 97, launches from the flight deck of the Nimitz-class aircraft carrier USS Carl Vinson (CVN 70) in the U.S. Central Command area of responsibility. (Official U.S. Navy photo) TAGGED: BriteCloud F-35 Lightning II NAVAIR U.S. Navy Stefano D'Urso is the Deputy Editor at The Aviationist, based in Lecce, Italy. He holds a Bachelor’s Degree in Industrial Engineering and is currently pursuing a Master’s Degree in Aerospace Engineering. His areas of expertise include emerging aerospace and defense technologies, electronic warfare, unmanned and autonomous systems, loitering munitions, and the application of OSINT techniques to the analysis of military operations and contemporary conflicts.
+
+- Uncertain Future for Leonardo’s UK Division Amid Contract Delays
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999ca0190dc472090f5bd8c34a936db&url=https%3a%2f%2ftheaviationist.com%2f2025%2f12%2f21%2fleonardo-uk-uncertain-future%2f&c=1908620001317118099&mkt=en-us
+  The Telegraph reports that Roberto Cingolani, CEO of Leonardo, has warned the UK Defence Secretary that further delays to contracts could threaten the company’s continued operations in the UK.
+  LinkedPageStatus: ok (https://theaviationist.com/2025/12/21/leonardo-uk-uncertain-future/)
+  LinkedPageSummaryWords: 106
+  LinkedPageSummary:
+  Leonardo's Yeovil helicopter plant, which still awaits an expected UK order for the AW149. (Image credit: Leonardo) TAGGED: AgustaWestland AW149 Leonardo Leonardo AW149 Leonardo Helicopters New Medium Helicopter United Kingdom Kai is an aviation enthusiast and freelance photographer and writer based in Cornwall, UK. They are a graduate of BA (Hons) Press & Editorial Photography at Falmouth University. Their photographic work has been featured by a number of nationally and internationally recognised organisations and news publications, and in 2022 they self-published a book focused on the history of Cornwall. They are passionate about all aspects of aviation, alongside military operations/history, international relations, politics, intelligence and space.
+
+
+Domain: Leonardo
+Query: Leonardo defence latest contract awards
+Timestamp: 2026-02-21T15:11:19
+PerPageSummaryWords: 200
+- U.S. Navy Awards Leonardo UK Contract to Equip F-35 with BriteCloud Active Expendable Decoys
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb0b38684db5837d0e5b1aa565e7&url=https%3a%2f%2ftheaviationist.com%2f2025%2f12%2f26%2fus-navy-contract-f-35-britecloud-active-expendable-decoys%2f&c=17738333792918437827&mkt=en-us
+  The U.S. Navy is acquiring and undisclosed number of BriteCloud Active Expendable Decoys specifically for the F-35 Lightning II. The Naval Air Systems Command (NAVAIR) has awarded Leonardo UK a ...
+  LinkedPageStatus: ok (https://theaviationist.com/2025/12/26/us-navy-contract-f-35-britecloud-active-expendable-decoys/)
+  LinkedPageSummaryWords: 110
+  LinkedPageSummary:
+  An F-35C Lightning II, attached to Strike Fighter Squadron (VFA) 97, launches from the flight deck of the Nimitz-class aircraft carrier USS Carl Vinson (CVN 70) in the U.S. Central Command area of responsibility. (Official U.S. Navy photo) TAGGED: BriteCloud F-35 Lightning II NAVAIR U.S. Navy Stefano D'Urso is the Deputy Editor at The Aviationist, based in Lecce, Italy. He holds a Bachelor’s Degree in Industrial Engineering and is currently pursuing a Master’s Degree in Aerospace Engineering. His areas of expertise include emerging aerospace and defense technologies, electronic warfare, unmanned and autonomous systems, loitering munitions, and the application of OSINT techniques to the analysis of military operations and contemporary conflicts.
+
+- Uncertain Future for Leonardo’s UK Division Amid Contract Delays
+  http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6999cb0b38684db5837d0e5b1aa565e7&url=https%3a%2f%2ftheaviationist.com%2f2025%2f12%2f21%2fleonardo-uk-uncertain-future%2f&c=1908620001317118099&mkt=en-us
+  The Telegraph reports that Roberto Cingolani, CEO of Leonardo, has warned the UK Defence Secretary that further delays to contracts could threaten the company’s continued operations in the UK.
+  LinkedPageStatus: ok (https://theaviationist.com/2025/12/21/leonardo-uk-uncertain-future/)
+  LinkedPageSummaryWords: 106
+  LinkedPageSummary:
+  Leonardo's Yeovil helicopter plant, which still awaits an expected UK order for the AW149. (Image credit: Leonardo) TAGGED: AgustaWestland AW149 Leonardo Leonardo AW149 Leonardo Helicopters New Medium Helicopter United Kingdom Kai is an aviation enthusiast and freelance photographer and writer based in Cornwall, UK. They are a graduate of BA (Hons) Press & Editorial Photography at Falmouth University. Their photographic work has been featured by a number of nationally and internationally recognised organisations and news publications, and in 2022 they self-published a book focused on the history of Cornwall. They are passionate about all aspects of aviation, alongside military operations/history, international relations, politics, intelligence and space.
+
+
