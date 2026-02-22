@@ -1,0 +1,14 @@
+{
+  "default_domain": "GeneralNews",
+  "tasks": [
+    {
+      "name": "GeneralNews Basic Daily Summary",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "basic",
+      "timeframe": "{today_slash}",
+      "prompt": "Summarise global headline shifts with key geopolitical and macroeconomic signals.",
+      "llm_timeout": 300
+    }
+  ]
+}

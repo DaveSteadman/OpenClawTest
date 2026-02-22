@@ -1,0 +1,65 @@
+Domain: GeneralNews
+Query: South Africa Latest News Headlines
+Timestamp: 2026-02-22T09:53:31
+PerPageSummaryWords: 200
+- South Africa stories, breaking news and comment | The Citizen
+  https://www.citizen.co.za/news/south-africa/
+  More news , your way with the latest breaking news stories and headlines from South Africa and around the world.
+  LinkedPageStatus: ok (https://www.citizen.co.za/news/south-africa/)
+  LinkedPageSummaryWords: 6
+  LinkedPageSummary:
+  Add as Preferred Source on Google
+
+- South Africa | News24
+  https://www.news24.com/SouthAfrica
+  Crime 20 Feb Murder on the decline again, but extortion, protection rackets on the rise, stats show News 20 Feb Water crisis: Mashatile, Morero confident Joburg 'out of troubled waters'
+  LinkedPageStatus: ok (https://www.news24.com/SouthAfrica)
+  LinkedPageSummaryWords: 13
+  LinkedPageSummary:
+  OPINION | Beyond boycotts: Roedean, King David, and the limits of earthly justice
+
+- TimesLIVE - Breaking news, investigations, sport and entertainment
+  https://www.timeslive.co.za/
+  Latest news from South Africa , World, Politics, Entertainment and Lifestyle. The home of The Times and Sunday Times newspaper.
+  LinkedPageStatus: ok (https://www.timeslive.co.za/)
+  LinkedPageSummaryWords: 154
+  LinkedPageSummary:
+  Reforms Ramaphosa has not fully bedded down in law by 2029 risk being reversed or enfeebled, writes Peter Bruce. Welkom plunged into crisis linked to collapsing infrastructure and billions owed to utilities Action against ‘underperforming’ red beret MMC’s was long overdue, Ekurhuleni mayor says Family members of the four MK fighters who have returned from Russia say the men described harrowing and racist treatment at the hands of Russian officers ANC’s Ekurhuleni mayor angers EFF by stripping it of posts, with repercussions for the wider balance of power in the province A R105m ICT upgrade was awarded to Solvem Consulting through a deviation process. Reforms Ramaphosa has not fully bedded down in law by 2029 risk being reversed or enfeebled While Shadrack Sibiya’s goose seems well cooked, this is an important teachable moment for many politicians and civil servants We owe it to young people, our future leaders, to revamp the entire education system
+
+- Official SABC News - SABC News - Breaking news, special reports, world ...
+  https://www.sabcnews.com/sabcnews/
+  TOP STORIES LATEST NEWS LIVE BLOG LATEST NEWS MUST WATCH SOUTH AFRICA WEATHER POLITICS BUSINESS SPORT MOST READ AFRICA WORLD NEWS
+  LinkedPageStatus: ok (https://www.sabcnews.com/sabcnews/)
+  LinkedPageSummaryWords: 42
+  LinkedPageSummary:
+  Witnesses scheduled are Lt- Gen Khomotso Phahlane, Lt- Gen Dumisani Khumalo, EMPD Deputy Chief Julius Mkhwanazi, Robert McBride, Brown Mogotsi and Paul O’Sullivan. Ad Hoc Committee looking into allegations by SAPS KZN Provincial Commissioner Lt-Gen Mkhwanazi resumes on Wednesday, 14 January 2026.
+
+- South Africa News | Latest Headlines & Stories | Reuters
+  https://www.reuters.com/world/south-africa/
+  Reuters.com is your online source for the latest Europe news stories and current events, ensuring our readers up to date with any breaking news developments
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/world/south-africa/
+  LinkedPageSummaryWords: 0
+
+- Latest South African News | IOL News
+  https://www.iol.co.za/news/south-africa/
+  Your comprehensive source for the latest and trending South African news , analysis and video content. Stay up-to-date with current affairs & events in SA!
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.iol.co.za/news/south-africa/
+  LinkedPageSummaryWords: 0
+
+- Google News - South Africa - Latest
+  https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNR2g2YkhvU0JXVnVMVWRDS0FBUAE?hl=en-US&ceid=US%3Aen
+  Read full articles, watch videos, browse thousands of titles and more on the " South Africa " topic with Google News .
+  LinkedPageStatus: ok (https://consent.google.com/ml?continue=https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNR2g2YkhvU0JXVnVMVWRDS0FBUAE?hl%3Den-US%26ceid%3DUS:en&gl=GB&hl=en-US&cm=2&pc=n&src=1&escs=AZ8E49C5Hrmk8altt9kpQgZw-N8lSL2xCxFSppFaU3-7ZSuQF5i6SsZeMkfGU8rzScPunh5Z7N5hxS4nZgIFKgCGYz4PLBiTkV12)
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  Select “More options” to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+- Top Stories | Latest News in South Africa | eNCA
+  https://www.enca.com/
+  Beyond the Headlines | Sheroes Part 2 | 15 February 2026 3 days ago Devi | Rand Hills Academy 2 | 15 February 2026 4 days ago
+  LinkedPageStatus: ok (https://www.enca.com/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  News Ekapa Mine management is not updating families on rescue efforts Ekapa Mine management is not updating families on rescue efforts 22 February 2026 NASA chief rules out March launch of Moon mission over technical issues 22 February 2026 One million foot and mouth disease vaccines arrive from Argentina 21 February 2026 Focus on Ekapa miners' rescue - Numsa 21 February 2026 Macron urges 'calm' ahead of rally for slain far-right activist 21 February 2026 'There is nothing to celebrate' - critics on crime stats 20 February 2026 Increase of child gangsters in Cape Town concern for authorities 20 February 2026 view more Sponsored Promotions Built Different: Redefining medical aid in SA Opinion Outspoken Laos lawmaker's election exit sparks rare dissent 20 February 2026 Philippines' Duterte earned global infamy, praise at home 20 February 2026 World leaders to declare shared stance on AI at India summit 20 February 2026 As European heads roll from Epstein links, US fallout muted 20 February 2026 Afghan barbers under pressure as morality police take on short beards 19 February 2026 more Sport Son's LAFC defeats Messi and Miami in MLS season opener 22 February 2026 Hurricanes rue injury to Super Rugby playmaker Cameron 21
+
+

@@ -173,6 +173,117 @@ def build_corpus(files: List[tuple[dt.date, Path]], max_chars_per_file: int, max
     return blocks
 
 
+def clean_llm_json_text(content: str) -> str:
+    cleaned = (content or "").strip()
+    if cleaned.startswith("```"):
+        cleaned = re.sub(r"^```(?:json)?", "", cleaned).strip()
+        cleaned = re.sub(r"```$", "", cleaned).strip()
+    return cleaned
+
+
+def extract_first_json_object(text: str) -> str:
+    start = text.find("{")
+    if start < 0:
+        return ""
+
+    depth = 0
+    in_string = False
+    escaped = False
+    for index in range(start, len(text)):
+        char = text[index]
+        if in_string:
+            if escaped:
+                escaped = False
+            elif char == "\\":
+                escaped = True
+            elif char == '"':
+                in_string = False
+            continue
+
+        if char == '"':
+            in_string = True
+            continue
+        if char == "{":
+            depth += 1
+            continue
+        if char == "}":
+            depth -= 1
+            if depth == 0:
+                return text[start : index + 1]
+
+    return ""
+
+
+def parse_llm_json_response(
+    content: str,
+    endpoint: str,
+    headers: dict[str, str],
+    model: str,
+    llm_timeout_seconds: int,
+) -> dict:
+    cleaned = clean_llm_json_text(content)
+    candidates = [cleaned]
+    extracted = extract_first_json_object(cleaned)
+    if extracted and extracted != cleaned:
+        candidates.append(extracted)
+
+    for candidate in candidates:
+        if not candidate:
+            continue
+        try:
+            parsed = json.loads(candidate)
+            if isinstance(parsed, dict):
+                return parsed
+        except json.JSONDecodeError:
+            continue
+
+    repair_payload = {
+        "model": model,
+        "temperature": 0,
+        "messages": [
+            {
+                "role": "system",
+                "content": "Return only valid JSON. Do not include markdown, fences, or explanation.",
+            },
+            {
+                "role": "user",
+                "content": (
+                    "Repair this into a single valid JSON object with the original intended structure. "
+                    "Output JSON only.\n\n"
+                    f"{cleaned}"
+                ),
+            },
+        ],
+    }
+
+    repair_response = requests.post(
+        endpoint,
+        headers=headers,
+        json=repair_payload,
+        timeout=max(20, min(120, llm_timeout_seconds)),
+    )
+    repair_response.raise_for_status()
+    repair_body = repair_response.json()
+    repair_content = repair_body.get("choices", [{}])[0].get("message", {}).get("content", "")
+    repaired = clean_llm_json_text(repair_content)
+    repaired_candidates = [repaired]
+    repaired_extracted = extract_first_json_object(repaired)
+    if repaired_extracted and repaired_extracted != repaired:
+        repaired_candidates.append(repaired_extracted)
+
+    for candidate in repaired_candidates:
+        if not candidate:
+            continue
+        try:
+            parsed = json.loads(candidate)
+            if isinstance(parsed, dict):
+                return parsed
+        except json.JSONDecodeError:
+            continue
+
+    raise RuntimeError("LLM response was not valid JSON")
+
+
 def call_llm_analysis(prompt_text: str, timeframe: Timeframe, domain: str, corpus_blocks, llm_timeout_seconds: int):
     api_key = os.environ.get("OPENAI_API_KEY", "").strip()
     if not api_key:
@@ -213,37 +324,43 @@ def call_llm_analysis(prompt_text: str, timeframe: Timeframe, domain: str, corpu
         ],
     }
 
+    print(
+        f"[basic:phase] llm_wait domain={domain} timeframe={timeframe.normalized} model={model} timeout_sec={max(30, llm_timeout_seconds)}",
+        flush=True,
+    )
+
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json",
+    }
+
     response = requests.post(
         endpoint,
-        headers={
-            "Authorization": f"Bearer {api_key}",
-            "Content-Type": "application/json",
-        },
+        headers=headers,
         json=payload,
         timeout=max(30, llm_timeout_seconds),
     )
     response.raise_for_status()
+    print(f"[basic:phase] llm_done status={response.status_code}", flush=True)
 
     body = response.json()
     content = body.get("choices", [{}])[0].get("message", {}).get("content", "")
     if not content:
         raise RuntimeError("LLM returned empty response")
 
-    cleaned = content.strip()
-    if cleaned.startswith("```"):
-        cleaned = re.sub(r"^```(?:json)?", "", cleaned).strip()
-        cleaned = re.sub(r"```$", "", cleaned).strip()
-
-    try:
-        parsed = json.loads(cleaned)
-    except json.JSONDecodeError as exc:
-        raise RuntimeError("LLM response was not valid JSON") from exc
+    parsed = parse_llm_json_response(
+        content=content,
+        endpoint=endpoint,
+        headers=headers,
+        model=model,
+        llm_timeout_seconds=llm_timeout_seconds,
+    )
 
     return {
         "model": model,
         "endpoint": endpoint,
         "analysis": parsed,
-        "raw_response": cleaned,
+        "raw_response": clean_llm_json_text(content),
     }
 
 
@@ -322,22 +439,29 @@ def main():
     navigator = FolderNavigator.from_fixed_point()
 
     try:
+        print(f"[basic:phase] collect_files domain={domain} timeframe={timeframe.normalized}", flush=True)
         files = collect_files(
             navigator=navigator,
             domain=domain,
             timeframe=timeframe,
             max_files=max(1, args.max_files),
         )
+        print(f"[basic:phase] files_found count={len(files)}", flush=True)
         if not files:
             raise FileNotFoundError(
                 f"No input .txt files found for domain '{domain}' and timeframe '{timeframe.normalized}'"
             )
 
+        print(
+            f"[basic:phase] build_corpus max_chars_per_file={max(500, args.max_chars_per_file)} max_total_chars={max(2000, args.max_total_chars)}",
+            flush=True,
+        )
         corpus_blocks = build_corpus(
             files=files,
             max_chars_per_file=max(500, args.max_chars_per_file),
             max_total_chars=max(2000, args.max_total_chars),
         )
+        print(f"[basic:phase] corpus_ready files_in_corpus={len(corpus_blocks)}", flush=True)
         if not corpus_blocks:
             raise RuntimeError("No readable corpus content after bounds were applied")
 
@@ -349,6 +473,7 @@ def main():
             llm_timeout_seconds=args.llm_timeout,
         )
 
+        print("[basic:phase] write_output", flush=True)
         out_path = write_output(
             navigator=navigator,
             domain=domain,
@@ -358,6 +483,7 @@ def main():
             corpus_blocks=corpus_blocks,
             llm_result=llm_result,
         )
+        print(f"[basic:phase] done output={out_path}", flush=True)
 
         print(
             json.dumps(

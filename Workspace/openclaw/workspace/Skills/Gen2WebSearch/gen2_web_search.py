@@ -549,6 +549,25 @@ def main():
 
     navigator = FolderNavigator.from_fixed_point()
 
+    filename = query_to_filename(query)
+    log_dir = navigator.get_today_path(area="mine", domain=domain, create=True)
+    existing_log_file = log_dir / f"{filename}.txt"
+    if existing_log_file.exists():
+        print(
+            json.dumps(
+                {
+                    "domain": domain,
+                    "query": query,
+                    "results": [],
+                    "count": 0,
+                    "log_path": str(existing_log_file),
+                    "status": "skipped_existing_output",
+                },
+                ensure_ascii=True,
+            )
+        )
+        return 0
+
     try:
         effective_query = query
         search_html = fetch_duckduckgo_html(effective_query, timeout_seconds)

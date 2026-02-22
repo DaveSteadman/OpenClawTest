@@ -1,0 +1,67 @@
+Domain: GeneralNews
+Query: latest France news headlines
+Timestamp: 2026-02-22T16:37:58
+PerPageSummaryWords: 200
+- France 24 - International breaking news, top stories and headlines
+  https://www.france24.com/en/
+  Breaking news and world news from France 24 on Business, Sports, Culture. Video news . News from the US, Europe, Asia Pacific, Africa, Middle East, America
+  LinkedPageStatus: ok (https://www.france24.com/en/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Just about everything about the onion-domed Russian Orthodox church near the otherwise unassuming Swedish city of Vasteras seems odd: its close proximity to the airport, its taller-than-planned spire, and its elusive priest allegedly commended by the Kremlin’s foreign spy agency, SVR. Swedish intelligence services think so too, and have warned that Moscow is likely using it as a platform for espionage and other hostile hybrid activities potentially threatening Sweden’s national security. For nearly five decades, more than 200,000 barrels of radioactive waste were dumped in the icy depths of the northeast Atlantic. Today, no one knows precisely where these barrels are located, or what kind of state they are in. On June 15, a French-led team of scientists will set sail from Brittany in a bid to map the barrels and assess their impacts on surrounding marine ecosystems. During World War II, approximately 8,000 women were deported from France to Ravensbrück, Germany, the largest women's concentration camp under the Third Reich. FRANCE 24 tells the tragic story of a friendship forged between Suzanne Bouvard and Simone Séailles that defied deportation and incarceration in a new long-format documentary, "We'll make it home together". “The Nine”, by Gwen Strauss, tells the extraordinary
+
+- France News | Latest Headlines & Stories | Reuters
+  https://www.reuters.com/world/france/
+  Reuters.com is your online source for the latest Europe news stories and current events, ensuring our readers up to date with any breaking news developments
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/world/france/
+  LinkedPageSummaryWords: 0
+
+- Google News - France - Latest
+  https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNR1k0YkRsakVnSm1jaWdBUAE?hl=en-US&ceid=US:en
+  Read full articles, watch videos, browse thousands of titles and more on the " France " topic with Google News .
+  LinkedPageStatus: ok (https://consent.google.com/ml?continue=https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNR1k0YkRsakVnSm1jaWdBUAE?hl%3Den-US%26ceid%3DUS:en&gl=GB&hl=en-US&cm=2&pc=n&src=1&escs=AZ8E49ArZdbssZuPFNeMlYf5As8QIIN3z-kgacdBRWa_9RlIzQq_ytwsnMlv0JeubehTtDXo9G1V-x-VjxvcQdtE1pOR4RYcK8Vs)
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  Select “More options” to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+- France - BBC News
+  https://www.bbc.co.uk/news/topics/c302m85qenyt
+  Stay informed with the latest news , video, live updates and expert analysis about France from across the BBC.
+  LinkedPageStatus: ok (https://www.bbc.co.uk/news/topics/c302m85qenyt)
+  LinkedPageSummaryWords: 4
+  LinkedPageSummary:
+  France - BBC News
+
+- France News | Latest French News - NewsNow
+  https://www.newsnow.co.uk/h/World+News/Europe/Western+Europe/France
+  Latest news on France , providing comprehensive coverage of politics, economy, culture, foreign affairs and other stories that matter to residents and those interested in this influential European nation. France , a country of 68 million people, is one of Europe's largest economies and a founding member of the European Union.
+  LinkedPageStatus: ok (https://www.newsnow.co.uk/h/World+News/Europe/Western+Europe/France)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest news on France, providing comprehensive coverage of politics, economy, culture, foreign affairs and other stories that matter to residents and those interested in this influential European nation. France, a country of 68 million people, is one of Europe's largest economies and a founding member of the European Union. With its capital Paris serving as a global hub for culture, fashion and gastronomy, France continues to play a major role on the world stage politically and economically. Stay informed about the latest political developments in France, including updates on President Emmanuel Macron's government and opposition movements. Our feed brings timely reporting on economic indicators, labour reforms, and France's evolving relationship with the EU. We also cover France's diplomatic efforts and military engagements abroad, such as counter-terrorism operations in the Sahel region of Africa. Beyond politics, our France feed highlights the nation's vibrant cultural scene, from film festivals in Cannes to art exhibitions at the Louvre. Learn about ongoing debates around French national identity, secularism, and immigration. We also feature stories on French cuisine, wine, and the country's world-famous tourist attractions. With a history stretching back to ancient Gaul, France's rich heritage continues to shape its present. Our coverage explores how
+
+- France news - breaking stories, video, analysis and opinion | CNN
+  https://edition.cnn.com/world/europe/france
+  View the latest France news and videos, including business, politics, sport and style headlines .
+  LinkedPageStatus: ok (https://edition.cnn.com/world/europe/france)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest news CNN France summons US ambassador over comments about death of far-right activist Jeff Pachoud/AFP/Getty Images Why have there been so many skiing deaths in Europe this year? Olivier Chassignole/AFP/Getty Images Death of far-right activist in France sends tensions soaring and draws US criticism Markus Schreiber/AP French offices of Elon Musk’s X platform raided by Paris cybercrime unit Fadel Senna/AFP/Getty Images ‘We will protect them from the digital Wild West.’ Another country will ban social media for under-16s Pedro Nunes/Reuters Dramatic, last-gasp header by a goalkeeper caps a climactic Champions League opening round Paris Olympics 2024: News, features, interviews and videos ‘Our children’s brains are not for sale’: Macron says France to fast-track social media ban for under-15s Outcry after France’s famed TGV rail service bans children from new premium-class carriage Trump is crossing red lines. Why doesn’t Europe push him back? Trump has tariffs. Europe has a ‘trade bazooka.’ This Greenland standoff could get ugly, fast More people died in France than were born, for first time since WW2 French far-right leader Le Pen appeals embezzlement conviction with her 2027 presidential run in the balance ‘We have a mission in the US’: France star Ousmane Dembélé tells CNN
+
+- The France Times | Breaking France News & Daily Updates
+  https://thefrancetimes.com/
+  Get the latest news from France . Daily political updates, economic reports and international coverage from a trusted French news source.
+  LinkedPageStatus: ok (https://thefrancetimes.com/)
+  LinkedPageSummaryWords: 61
+  LinkedPageSummary:
+  THE FRANCE TIMES is multi-platform news and information media broadcast company. Every year, we deliver world-class journalism to more than 10 million world’s most influential audiences in over 150 countries, who want to stay up-to-date with all that is happening in the world. Whether it’s News, Sports, Money, Politics, or Entertainment, we drive an imperative conversation every day on every platform.
+
+- Latest news - France in English
+  https://franceinenglish.com/latest
+  Latest news from France in English Martine Vassal's use of Vichy-era phrases incites demands for apology amid critiques of political rhetoric, while historian Michel Winock contextualizes ongoing political violence within a tradition of discord in France . France Returns the Djidji Ayôkwé Talking Drum to Côte d'Ivoire After Over a Century
+  LinkedPageStatus: ok (https://franceinenglish.com/latest)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The 2026 Salon de l'Agriculture emerges as a key political stage with extensive attendance by political leaders ahead of France's municipal and presidential elections. The 2026 Salon de l'Agriculture enforces new rules limiting political visits to one day with no campaigning and capped delegation sizes to ensure smooth event operations and protect exhibitors. While French citizens are enthusiastic about hosting the 2030 Winter Olympics, concerns about organizational governance and recent disappointing results in freestyle and snowboard highlight challenges ahead. France's rugby team adjusts lineups and returns key players as they prepare for their 2026 Six Nations match against Italy. Air France flight AF895 returned safely to Fort-de-France after engine fire forced emergency turnaround shortly after takeoff. Laurent Wauquiez urges the French right-wing to unite behind a common program and primary to strengthen their position for the 2027 presidential election. France rises to 5th in the 2026 Winter Olympics medal table with 23 medals, including 8 golds, led by highlights in biathlon and ski mountaineering. Matthieu Jalibert misses France's Six Nations clash with Italy due to injury, leading to lineup changes including Thomas Ramos at fly-half. As the 2026 municipal elections approach, Ostwald and Calais focus keenly on economic recovery and
+
+

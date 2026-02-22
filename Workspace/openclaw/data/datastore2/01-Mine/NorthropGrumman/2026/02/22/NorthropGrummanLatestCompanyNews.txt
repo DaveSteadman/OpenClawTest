@@ -1,0 +1,193 @@
+Domain: NorthropGrumman
+Query: Northrop Grumman latest company news
+Timestamp: 2026-02-22T10:06:43
+PerPageSummaryWords: 200
+- Northrop Grumman Newsroom
+  https://news.northropgrumman.com/
+  We would like to show you a description here but the site won't allow us.
+  LinkedPageStatus: ok (https://news.northropgrumman.com/)
+  LinkedPageSummaryWords: 48
+  LinkedPageSummary:
+  Enter your email address to receive email updates from Northrop Grumman FALLS CHURCH, Va. – Feb. 19, 2026 – Northrop Grumman Corporation and Embraer are working together to evolve the multi-mission KC-390 Millennium aircraft, to provide advanced tanking capabilities for the United States Air Force and allied nations.
+
+- Northrop Grumman Board Refresh Sparks Questions On Governance And Valuation
+  https://uk.finance.yahoo.com/news/northrop-grumman-board-refresh-sparks-110822484.html
+  The timing of a potential decision to buy, sell or hold Northrop Grumman depends on each investor's own analysis and circumstances. For more detail, see Simply Wall St's company report for the latest assessment of Northrop Grumman's fair value.
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_eba0647e-f9e0-48fc-bd63-b5503baa3e9c)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Northrop Grumman News | Latest News - NewsNow
+  https://www.newsnow.com/us/Business/Aerospace+and+Defense/Northrop+Grumman
+  About our Northrop Grumman news Latest news on Northrop Grumman , an American aerospace, defense and security company that was founded by John Knudsen Northrop in 1928 as Avion Corporation. It became Northrop Aircraft Corporation in 1929 after joining United Aircraft and Transport Corporation.
+  LinkedPageStatus: ok (https://www.newsnow.com/us/Business/Aerospace+and+Defense/Northrop+Grumman)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest news on Northrop Grumman, an American aerospace, defense and security company that was founded by John Knudsen Northrop in 1928 as Avion Corporation. It became Northrop Aircraft Corporation in 1929 after joining United Aircraft and Transport Corporation. It reestablished as Northrop Aircraft, Inc. in 1950 and changed its name to Northrop Corporation in 1958. It acquired Grumman Corporation, another pioneer in aviation and space, in 1994 and became Northrop Grumman. It is also a result of the integration of over 20 other companies from various fields. Northrop Grumman is one of the world's largest defense and aerospace companies, with approximately 114,000 employees and an annual revenue of over $30 billion. It is the world's fourth-largest defense contractor by revenue for fiscal year 2022. About half of its annual sales are to the U.S. Department of Defense. Northrop Grumman also provides products and services to other U.S. government agencies, such as the Department of Energy, the National Aeronautics and Space Administration (NASA), and the Department of Homeland Security, as well as to international and commercial customers. Some of the notable products and projects of Northrop Grumman include the B-2 Spirit stealth bomber, the E-8 Joint STARS surveillance aircraft, the Global
+
+- Northrop Grumman Corp | Reuters
+  https://www.reuters.com/company/northrop-grumman-corp/
+  The latest international Northrop Grumman Corp news and views from Reuters - one of the world's largest news agencies
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/company/northrop-grumman-corp/
+  LinkedPageSummaryWords: 0
+
+- Latest news about Northrop Grumman Corporation - MarketScreener
+  https://www.marketscreener.com/quote/stock/NORTHROP-GRUMMAN-CORPORAT-13763/news/
+  Northrop Grumman Corporation: News , information and stories for Northrop Grumman Corporation | Nyse: NOC | Nyse
+  LinkedPageStatus: ok (https://www.marketscreener.com/quote/stock/NORTHROP-GRUMMAN-CORPORAT-13763/news/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  NORTHROP GRUMMAN CORPORATION Add to a list News Northrop Grumman Corporation Equities NOC US6668071029 Aerospace & Defense Market Closed - Nyse Other stock markets 04:00:02 2026-02-20 pm EST 5-day change 1st Jan Change 723.56 USD -1.81% +2.99% +26.89% Feb. 19 Embraer, Northrop Grumman to work together in enhancing KC-390's refueling capabilities RE Feb. 19 Northrop Grumman Insider Sold Shares Worth $501,609, According to a Recent SEC Filing MT Search Feb. 19 Northrop Grumman : and Embraer Jointly Developing Advanced Air Mobility Capabilities for US and Allied Nations PU Feb. 19 Embraer, Northrop Grumman to work together in enhancing KC-390's refueling capabilities RE Feb. 19 Northrop Grumman Insider Sold Shares Worth $501,609, According to a Recent SEC Filing MT Feb. 18 Northrop Grumman Corporation Presents at Citi's Global Industrial Tech & Mobility Conference 2026, Feb-18-2026 09:40 AM Feb. 18 Renewed Iran/US Tensions: Defense Stocks Surge Sharply Feb. 17 Christopher Grady Joins Northrop Grumman Board of Directors AQ Feb. 17 Northrop Grumman’s BACN: Delivering Seamless Communication for the U.S. Air Force PU Feb. 16 Northrop Grumman : and Thales in Belgium to Support the European Region and NATO Customers PU Feb. 16 Valen: A Generational Leap in Sensing Tech PU Feb. 16
+
+- Northrop Grumman | Defence Blog - Military and Defense News
+  https://defence-blog.com/topics/northrop-grumman/
+  Northrop Grumman has demonstrated a secure testing environment for radiation-exposed microelectronics under DARPA's ASSERT program, the company announced on January 13, 2026.
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://defence-blog.com/topics/northrop-grumman/
+  LinkedPageSummaryWords: 0
+
+- Northrop Grumman: Underwhelming Growth Today, F/A-XX Win Could Change ...
+  https://seekingalpha.com/article/4870760-northrop-grumman-underwhelming-growth-today-fa-xx-win-could-change-the-story
+  Northrop Grumman delivered double-digit Q4 sales growth and beat analyst estimates, reinforcing the strength of aerospace and defense investments. Learn more on NOC stock here.
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://seekingalpha.com/article/4870760-northrop-grumman-underwhelming-growth-today-fa-xx-win-could-change-the-story
+  LinkedPageSummaryWords: 0
+
+- Northrop Grumman Governance Shift Puts Defense Expertise And Valuation ...
+  https://www.sahmcapital.com/news/content/northrop-grumman-governance-shift-puts-defense-expertise-and-valuation-in-focus-2026-02-17
+  Dig Deeper For the full picture including more risks and rewards, check out the complete Northrop Grumman analysis. Alternatively, you can check out the community page for Northrop Grumman to see how other investors believe this latest news will impact the company's narrative. This article by Simply Wall St is general in nature.
+  LinkedPageStatus: ok (https://www.sahmcapital.com/news/content/northrop-grumman-governance-shift-puts-defense-expertise-and-valuation-in-focus-2026-02-17)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  For investors watching NYSE:NOC, these governance moves come as the stock trades at $702.57, with returns of 2.6% over the past week and 5.3% over the past month. Over longer periods, the shares show returns of 20.0% year to date and 61.9% over 1 year, with 3 year and 5 year returns of 55.9% and 155.4% respectively. Board appointments of this kind can influence how a company sets priorities, evaluates large programs, and manages risk over time. The refreshed mix of defense experience, independent board leadership, and incentive structures tied to long term shareholder value gives investors new information to watch as Northrop Grumman continues to define its role in global defense and technology. Stay updated on the most important news stories for Northrop Grumman by adding it to your watchlist or portfolio . Alternatively, explore our Community to discover new perspectives on Northrop Grumman. There is only one way to know the right time to buy, sell or hold Northrop Grumman. Head to the Simply Wall St company report for the latest analysis of Northrop Grumman's fair value . For the full picture including more risks and rewards, check out the complete Northrop Grumman analysis . Alternatively, you can
+
+
+Domain: NorthropGrumman
+Query: Northrop Grumman latest company news
+Timestamp: 2026-02-22T10:11:03
+PerPageSummaryWords: 200
+- Northrop Grumman Newsroom
+  https://news.northropgrumman.com/
+  We would like to show you a description here but the site won't allow us.
+  LinkedPageStatus: ok (https://news.northropgrumman.com/)
+  LinkedPageSummaryWords: 48
+  LinkedPageSummary:
+  Enter your email address to receive email updates from Northrop Grumman FALLS CHURCH, Va. – Feb. 19, 2026 – Northrop Grumman Corporation and Embraer are working together to evolve the multi-mission KC-390 Millennium aircraft, to provide advanced tanking capabilities for the United States Air Force and allied nations.
+
+- Northrop Grumman Lands $100 Million Air Force Deal to Pioneer Advanced ...
+  https://www.armyrecognition.com/news/aerospace-news/2025/northrop-grumman-lands-100million-air-force-deal-to-pioneer-advanced-long-range-strike-systems
+  The Pentagon has awarded Northrop Grumman up to 100 million dollars to advance SiAW and AARGM ER, reinforcing U.S. strike options against modern air defenses.
+  LinkedPageStatus: ok (https://www.armyrecognition.com/news/aerospace-news/2025/northrop-grumman-lands-100million-air-force-deal-to-pioneer-advanced-long-range-strike-systems)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Pentagon has cleared a ceiling contract worth up to 100 million dollars for Northrop Grumman to advance the Stand In Attack Weapon and the AARGM ER under a unified Air Force framework that runs through 2034. The move signals Washington’s intent to preserve credible strike options against modern air defenses as global competitors expand their denial networks. On December 9, 2025, the U.S. Department of War disclosed a new ceiling contract of up to 100 million dollars, awarding Northrop Grumman Systems Corporation responsibility for advancing the Stand-In Attack Weapon (SiAW) and the Advanced Anti-Radiation Guided Missile Extended Range (AARGM-ER), as reported by the Department’s official contracts bulletin. Placed on behalf of the U.S. Air Force, the award links missile development and production into a single long-term framework that runs until the end of 2034. The package targets two families of precision weapons designed to operate inside heavily defended airspace and neutralize modern air-defense systems. At a time when potential adversaries are investing heavily in anti-access and area-denial networks, the announcement highlights Washington’s determination to maintain credible strike options against mobile launchers, command nodes and radar sites. For NATO partners and Indo-Pacific allies operating similar aircraft, the decision also provides early
+
+- Northrop Grumman Board Refresh Sparks Questions On Governance And Valuation
+  https://uk.finance.yahoo.com/news/northrop-grumman-board-refresh-sparks-110822484.html
+  The timing of a potential decision to buy, sell or hold Northrop Grumman depends on each investor's own analysis and circumstances. For more detail, see Simply Wall St's company report for the latest assessment of Northrop Grumman's fair value.
+  LinkedPageStatus: ok (https://uk.finance.yahoo.com/news/northrop-grumman-board-refresh-sparks-110822484.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Find winning stocks in any market cycle. Join 7 million investors using Simply Wall St's investing ideas for FREE. Northrop Grumman (NYSE:NOC) has appointed Admiral Christopher W. Grady, former vice chairman of the Joint Chiefs of Staff, to its Board of Directors. James S. Turley has been named Lead Independent Director, with the change scheduled to take effect later this year. The company is also expanding the size of its board as part of its ongoing corporate governance adjustments. Northrop Grumman, a major U.S. defense contractor, is involved in long term programs in areas such as aerospace, missile systems, and defense technology. Board moves like these can influence how the company prioritizes programs, allocates capital, and responds to changes in defense policy and procurement. For investors, the addition of senior military expertise and a defined Lead Independent Director role may affect how the board evaluates risk, oversight, and long term planning at NYSE:NOC. These decisions can factor into discussions around spending priorities, partnerships, and the company’s position in key defense markets. Stay updated on the most important news stories for Northrop Grumman by adding it to your watchlist or portfolio . Alternatively, explore our Community to discover new perspectives on
+
+- Northrop Grumman News | Latest News - NewsNow
+  https://www.newsnow.com/us/Business/Aerospace+and+Defense/Northrop+Grumman
+  About our Northrop Grumman news Latest news on Northrop Grumman , an American aerospace, defense and security company that was founded by John Knudsen Northrop in 1928 as Avion Corporation. It became Northrop Aircraft Corporation in 1929 after joining United Aircraft and Transport Corporation.
+  LinkedPageStatus: ok (https://www.newsnow.com/us/Business/Aerospace+and+Defense/Northrop+Grumman)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest news on Northrop Grumman, an American aerospace, defense and security company that was founded by John Knudsen Northrop in 1928 as Avion Corporation. It became Northrop Aircraft Corporation in 1929 after joining United Aircraft and Transport Corporation. It reestablished as Northrop Aircraft, Inc. in 1950 and changed its name to Northrop Corporation in 1958. It acquired Grumman Corporation, another pioneer in aviation and space, in 1994 and became Northrop Grumman. It is also a result of the integration of over 20 other companies from various fields. Northrop Grumman is one of the world's largest defense and aerospace companies, with approximately 114,000 employees and an annual revenue of over $30 billion. It is the world's fourth-largest defense contractor by revenue for fiscal year 2022. About half of its annual sales are to the U.S. Department of Defense. Northrop Grumman also provides products and services to other U.S. government agencies, such as the Department of Energy, the National Aeronautics and Space Administration (NASA), and the Department of Homeland Security, as well as to international and commercial customers. Some of the notable products and projects of Northrop Grumman include the B-2 Spirit stealth bomber, the E-8 Joint STARS surveillance aircraft, the Global
+
+- Northrop Grumman Corp | Reuters
+  https://www.reuters.com/company/northrop-grumman-corp/
+  The latest international Northrop Grumman Corp news and views from Reuters - one of the world's largest news agencies
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/company/northrop-grumman-corp/
+  LinkedPageSummaryWords: 0
+
+- Northrop Grumman | Defence Blog - Military and Defense News
+  https://defence-blog.com/topics/northrop-grumman/
+  Northrop Grumman has demonstrated a secure testing environment for radiation-exposed microelectronics under DARPA's ASSERT program, the company announced on January 13, 2026.
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://defence-blog.com/topics/northrop-grumman/
+  LinkedPageSummaryWords: 0
+
+- Latest news about Northrop Grumman Corporation - MarketScreener
+  https://www.marketscreener.com/quote/stock/NORTHROP-GRUMMAN-CORPORAT-13763/news/
+  Northrop Grumman Corporation: News , information and stories for Northrop Grumman Corporation | Nyse: NOC | Nyse
+  LinkedPageStatus: ok (https://www.marketscreener.com/quote/stock/NORTHROP-GRUMMAN-CORPORAT-13763/news/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  NORTHROP GRUMMAN CORPORATION Add to a list News Northrop Grumman Corporation Equities NOC US6668071029 Aerospace & Defense Market Closed - Nyse Other stock markets 04:00:02 2026-02-20 pm EST 5-day change 1st Jan Change 723.56 USD -1.81% +2.99% +26.89% Feb. 19 Embraer, Northrop Grumman to work together in enhancing KC-390's refueling capabilities RE Feb. 19 Northrop Grumman Insider Sold Shares Worth $501,609, According to a Recent SEC Filing MT Search Feb. 19 Northrop Grumman : and Embraer Jointly Developing Advanced Air Mobility Capabilities for US and Allied Nations PU Feb. 19 Embraer, Northrop Grumman to work together in enhancing KC-390's refueling capabilities RE Feb. 19 Northrop Grumman Insider Sold Shares Worth $501,609, According to a Recent SEC Filing MT Feb. 18 Northrop Grumman Corporation Presents at Citi's Global Industrial Tech & Mobility Conference 2026, Feb-18-2026 09:40 AM Feb. 18 Renewed Iran/US Tensions: Defense Stocks Surge Sharply Feb. 17 Christopher Grady Joins Northrop Grumman Board of Directors AQ Feb. 17 Northrop Grumman’s BACN: Delivering Seamless Communication for the U.S. Air Force PU Feb. 16 Northrop Grumman : and Thales in Belgium to Support the European Region and NATO Customers PU Feb. 16 Valen: A Generational Leap in Sensing Tech PU Feb. 16
+
+- Northrop Grumman Governance Shift Puts Defense Expertise And Valuation ...
+  https://www.sahmcapital.com/news/content/northrop-grumman-governance-shift-puts-defense-expertise-and-valuation-in-focus-2026-02-17
+  Dig Deeper For the full picture including more risks and rewards, check out the complete Northrop Grumman analysis. Alternatively, you can check out the community page for Northrop Grumman to see how other investors believe this latest news will impact the company's narrative. This article by Simply Wall St is general in nature.
+  LinkedPageStatus: ok (https://www.sahmcapital.com/news/content/northrop-grumman-governance-shift-puts-defense-expertise-and-valuation-in-focus-2026-02-17)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  For investors watching NYSE:NOC, these governance moves come as the stock trades at $702.57, with returns of 2.6% over the past week and 5.3% over the past month. Over longer periods, the shares show returns of 20.0% year to date and 61.9% over 1 year, with 3 year and 5 year returns of 55.9% and 155.4% respectively. Board appointments of this kind can influence how a company sets priorities, evaluates large programs, and manages risk over time. The refreshed mix of defense experience, independent board leadership, and incentive structures tied to long term shareholder value gives investors new information to watch as Northrop Grumman continues to define its role in global defense and technology. Stay updated on the most important news stories for Northrop Grumman by adding it to your watchlist or portfolio . Alternatively, explore our Community to discover new perspectives on Northrop Grumman. There is only one way to know the right time to buy, sell or hold Northrop Grumman. Head to the Simply Wall St company report for the latest analysis of Northrop Grumman's fair value . For the full picture including more risks and rewards, check out the complete Northrop Grumman analysis . Alternatively, you can
+
+
+Domain: NorthropGrumman
+Query: Northrop Grumman latest company news
+Timestamp: 2026-02-22T10:27:16
+PerPageSummaryWords: 200
+- Northrop Grumman Newsroom
+  https://news.northropgrumman.com/
+  We would like to show you a description here but the site won't allow us.
+  LinkedPageStatus: ok (https://news.northropgrumman.com/)
+  LinkedPageSummaryWords: 48
+  LinkedPageSummary:
+  Enter your email address to receive email updates from Northrop Grumman FALLS CHURCH, Va. – Feb. 19, 2026 – Northrop Grumman Corporation and Embraer are working together to evolve the multi-mission KC-390 Millennium aircraft, to provide advanced tanking capabilities for the United States Air Force and allied nations.
+
+- Northrop Grumman Lands $100 Million Air Force Deal to Pioneer Advanced ...
+  https://www.armyrecognition.com/news/aerospace-news/2025/northrop-grumman-lands-100million-air-force-deal-to-pioneer-advanced-long-range-strike-systems
+  The Pentagon has awarded Northrop Grumman up to 100 million dollars to advance SiAW and AARGM ER, reinforcing U.S. strike options against modern air defenses.
+  LinkedPageStatus: ok (https://www.armyrecognition.com/news/aerospace-news/2025/northrop-grumman-lands-100million-air-force-deal-to-pioneer-advanced-long-range-strike-systems)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Pentagon has cleared a ceiling contract worth up to 100 million dollars for Northrop Grumman to advance the Stand In Attack Weapon and the AARGM ER under a unified Air Force framework that runs through 2034. The move signals Washington’s intent to preserve credible strike options against modern air defenses as global competitors expand their denial networks. On December 9, 2025, the U.S. Department of War disclosed a new ceiling contract of up to 100 million dollars, awarding Northrop Grumman Systems Corporation responsibility for advancing the Stand-In Attack Weapon (SiAW) and the Advanced Anti-Radiation Guided Missile Extended Range (AARGM-ER), as reported by the Department’s official contracts bulletin. Placed on behalf of the U.S. Air Force, the award links missile development and production into a single long-term framework that runs until the end of 2034. The package targets two families of precision weapons designed to operate inside heavily defended airspace and neutralize modern air-defense systems. At a time when potential adversaries are investing heavily in anti-access and area-denial networks, the announcement highlights Washington’s determination to maintain credible strike options against mobile launchers, command nodes and radar sites. For NATO partners and Indo-Pacific allies operating similar aircraft, the decision also provides early
+
+- Northrop Grumman Board Refresh Sparks Questions On Governance And Valuation
+  https://uk.finance.yahoo.com/news/northrop-grumman-board-refresh-sparks-110822484.html
+  The timing of a potential decision to buy, sell or hold Northrop Grumman depends on each investor's own analysis and circumstances. For more detail, see Simply Wall St's company report for the latest assessment of Northrop Grumman's fair value.
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_355b8353-43f4-4f55-9293-785d61fc49b4)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Northrop Grumman News | Latest News - NewsNow
+  https://www.newsnow.com/us/Business/Aerospace+and+Defense/Northrop+Grumman
+  About our Northrop Grumman news Latest news on Northrop Grumman , an American aerospace, defense and security company that was founded by John Knudsen Northrop in 1928 as Avion Corporation. It became Northrop Aircraft Corporation in 1929 after joining United Aircraft and Transport Corporation.
+  LinkedPageStatus: ok (https://www.newsnow.com/us/Business/Aerospace+and+Defense/Northrop+Grumman)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest news on Northrop Grumman, an American aerospace, defense and security company that was founded by John Knudsen Northrop in 1928 as Avion Corporation. It became Northrop Aircraft Corporation in 1929 after joining United Aircraft and Transport Corporation. It reestablished as Northrop Aircraft, Inc. in 1950 and changed its name to Northrop Corporation in 1958. It acquired Grumman Corporation, another pioneer in aviation and space, in 1994 and became Northrop Grumman. It is also a result of the integration of over 20 other companies from various fields. Northrop Grumman is one of the world's largest defense and aerospace companies, with approximately 114,000 employees and an annual revenue of over $30 billion. It is the world's fourth-largest defense contractor by revenue for fiscal year 2022. About half of its annual sales are to the U.S. Department of Defense. Northrop Grumman also provides products and services to other U.S. government agencies, such as the Department of Energy, the National Aeronautics and Space Administration (NASA), and the Department of Homeland Security, as well as to international and commercial customers. Some of the notable products and projects of Northrop Grumman include the B-2 Spirit stealth bomber, the E-8 Joint STARS surveillance aircraft, the Global
+
+- Northrop Grumman Corp | Reuters
+  https://www.reuters.com/company/northrop-grumman-corp/
+  The latest international Northrop Grumman Corp news and views from Reuters - one of the world's largest news agencies
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/company/northrop-grumman-corp/
+  LinkedPageSummaryWords: 0
+
+- Northrop Grumman | Defence Blog - Military and Defense News
+  https://defence-blog.com/topics/northrop-grumman/
+  Northrop Grumman has demonstrated a secure testing environment for radiation-exposed microelectronics under DARPA's ASSERT program, the company announced on January 13, 2026.
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://defence-blog.com/topics/northrop-grumman/
+  LinkedPageSummaryWords: 0
+
+- Latest news about Northrop Grumman Corporation - MarketScreener
+  https://www.marketscreener.com/quote/stock/NORTHROP-GRUMMAN-CORPORAT-13763/news/
+  Northrop Grumman Corporation: News , information and stories for Northrop Grumman Corporation | Nyse: NOC | Nyse
+  LinkedPageStatus: ok (https://www.marketscreener.com/quote/stock/NORTHROP-GRUMMAN-CORPORAT-13763/news/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  NORTHROP GRUMMAN CORPORATION Add to a list News Northrop Grumman Corporation Equities NOC US6668071029 Aerospace & Defense Market Closed - Nyse Other stock markets 04:00:02 2026-02-20 pm EST 5-day change 1st Jan Change 723.56 USD -1.81% +2.99% +26.89% Feb. 19 Embraer, Northrop Grumman to work together in enhancing KC-390's refueling capabilities RE Feb. 19 Northrop Grumman Insider Sold Shares Worth $501,609, According to a Recent SEC Filing MT Search Feb. 19 Northrop Grumman : and Embraer Jointly Developing Advanced Air Mobility Capabilities for US and Allied Nations PU Feb. 19 Embraer, Northrop Grumman to work together in enhancing KC-390's refueling capabilities RE Feb. 19 Northrop Grumman Insider Sold Shares Worth $501,609, According to a Recent SEC Filing MT Feb. 18 Northrop Grumman Corporation Presents at Citi's Global Industrial Tech & Mobility Conference 2026, Feb-18-2026 09:40 AM Feb. 18 Renewed Iran/US Tensions: Defense Stocks Surge Sharply Feb. 17 Christopher Grady Joins Northrop Grumman Board of Directors AQ Feb. 17 Northrop Grumman’s BACN: Delivering Seamless Communication for the U.S. Air Force PU Feb. 16 Northrop Grumman : and Thales in Belgium to Support the European Region and NATO Customers PU Feb. 16 Valen: A Generational Leap in Sensing Tech PU Feb. 16
+
+- Northrop Grumman Governance Shift Puts Defense Expertise And Valuation ...
+  https://www.sahmcapital.com/news/content/northrop-grumman-governance-shift-puts-defense-expertise-and-valuation-in-focus-2026-02-17
+  Dig Deeper For the full picture including more risks and rewards, check out the complete Northrop Grumman analysis. Alternatively, you can check out the community page for Northrop Grumman to see how other investors believe this latest news will impact the company's narrative. This article by Simply Wall St is general in nature.
+  LinkedPageStatus: ok (https://www.sahmcapital.com/news/content/northrop-grumman-governance-shift-puts-defense-expertise-and-valuation-in-focus-2026-02-17)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  For investors watching NYSE:NOC, these governance moves come as the stock trades at $702.57, with returns of 2.6% over the past week and 5.3% over the past month. Over longer periods, the shares show returns of 20.0% year to date and 61.9% over 1 year, with 3 year and 5 year returns of 55.9% and 155.4% respectively. Board appointments of this kind can influence how a company sets priorities, evaluates large programs, and manages risk over time. The refreshed mix of defense experience, independent board leadership, and incentive structures tied to long term shareholder value gives investors new information to watch as Northrop Grumman continues to define its role in global defense and technology. Stay updated on the most important news stories for Northrop Grumman by adding it to your watchlist or portfolio . Alternatively, explore our Community to discover new perspectives on Northrop Grumman. There is only one way to know the right time to buy, sell or hold Northrop Grumman. Head to the Simply Wall St company report for the latest analysis of Northrop Grumman's fair value . For the full picture including more risks and rewards, check out the complete Northrop Grumman analysis . Alternatively, you can
+
+

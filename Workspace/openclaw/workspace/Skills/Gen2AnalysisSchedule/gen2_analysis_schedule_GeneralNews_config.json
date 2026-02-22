@@ -1,0 +1,23 @@
+{
+  "default_domain": "GeneralNews",
+  "tasks": [
+    {
+      "name": "GeneralNews Basic Daily Summary",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "basic",
+      "timeframe": "{today_slash}",
+      "prompt": "Summarise global headline shifts with key geopolitical and macroeconomic signals.",
+      "llm_timeout": 900
+    },
+    {
+      "name": "GeneralNews Report Daily Brief",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "report",
+      "timeframe": "{today_slash}",
+      "prompt": "Produce an executive market intelligence report with trends, catalysts, and risk watchlist.",
+      "llm_timeout": 900
+    }
+  ]
+}

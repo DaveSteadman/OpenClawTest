@@ -1,0 +1,219 @@
+Domain: GeneralDynamics
+StartURL: https://www.gd.com/news
+Timestamp: 2026-02-22T10:01:30
+PerPageSummaryWords: 220
+StartPageSummaryWords: 56
+StartPageSummary:
+Press Releases | Media Gallery | Media Contacts View our Corporate Sustainability Report to see more stories about how we are working to reduce our environmental impact, protect human rights, promote a diverse and inclusive workforce, and support the communities in which our 100,000 employees live and work. Find the best media contact for your request.
+
+- Link 1
+  AnchorText: Press Releases
+  URL: https://www.gd.com/news/news-feed
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 4
+  LinkedPageSummary:
+  News Feed Load More
+
+- Link 2
+  AnchorText: Media Gallery
+  URL: https://www.gd.com/news/media-gallery
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 15
+  LinkedPageSummary:
+  Find additional images and learn more about our products and service across our business units.
+
+- Link 3
+  AnchorText: Press Releases
+  URL: https://www.gd.com/news/news-feed?type=Press%20Release
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 4
+  LinkedPageSummary:
+  News Feed Load More
+
+- Link 4
+  AnchorText: Job Search
+  URL: https://www.gd.com/careers/job-search
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 13
+  LinkedPageSummary:
+  Reach out to our recruiting teams to get your questions answered before applying.
+
+- Link 5
+  AnchorText: About GD
+  URL: https://www.gd.com/about-gd
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 98
+  LinkedPageSummary:
+  General Dynamics is organized into four business groups: Aerospace, Marine Systems, Combat Systems and Technologies. We have a balanced business model which gives each business unit the flexibility to stay agile and maintain an intimate understanding of customer requirements. Each business unit is responsible for the execution of its strategy and operational performance. Our corporate leaders set the overall strategy of the business and manage allocation of capital. This unique model keeps us focused on what matters — delivering on our promises to customers through relentless improvement, continued growth, boosting return on invested capital and disciplined capital deployment.
+
+- Link 6
+  AnchorText: Corporate Responsibility
+  URL: https://www.gd.com/responsibility
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  General Dynamics is a publicly traded global aerospace and defense company listed on the New York Stock Exchange. The company consists of 10 business units, which are organized into four operating segments: Aerospace, Marine Systems, Combat Systems, and Technologies. Each business unit is responsible for the development and execution of its strategy and operating results. Through our business units, we offer a broad portfolio of products and services in business aviation; combat vehicles, weapons systems and munitions; information technology (IT) services; C4ISR solutions; and shipbuilding and ship repair. Our primary customers are the U.S. government and allied countries. In 2020, General Dynamics employed over 100,000 employees in all 50 states and in over 65 countries. We achieved total revenue of $37.94 billion. The company is headquartered in Reston, Virginia. GENERAL DYNAMICS CORPORATION POLICY ON MODERN SLAVERY AND HUMAN TRAFFICKING As a corporation with operations and suppliers around the world, we recognize the importance of ensuring that respect for human rights and dignity is embedded at all levels of our business. Strict adherence to these values, as well as to applicable laws, are expected by us everywhere we operate. General Dynamics does not tolerate human trafficking, child labor or forced labor anywhere within our businesses or supply chains. General Dynamics companies have large, complex and global supply chains. Many of our
+
+- Link 7
+  AnchorText: Our Businesses
+  URL: https://www.gd.com/our-businesses
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 47
+  LinkedPageSummary:
+  Our portfolio spans the realm of the world's most technologically advanced business jets, wheeled combat vehicles, command and control systems and nuclear submarines. We offer these through our four business groups: Aerospace, Marine Systems, Combat Systems and Technologies. Learn more about our businesses at the links below.
+
+- Link 8
+  AnchorText: Media Contacts
+  URL: https://www.gd.com/news/media-contacts
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 112
+  LinkedPageSummary:
+  Media Contacts GD Corporate Headquarters Media Contact: Jeff A. Davis press@generaldynamics.com Gulfstream Media Contact: Emily Belford media.requests@gulfstream.com Jet Aviation Media Contact: Elouisa Dalli elouisa.dalli@jetaviation.com +41 58 158 8834 European Land Systems Media Contact: Marc-Aurel Bischoff marc-aurel.bischoff@gdels.com +49 173 2877414 Land Systems Media Contact: Rahul Gogate gogater@gdls.com (586) 825-7141 Ordnance and Tactical Systems Media Contact: Berkley Whaley berkley.whaley@gd-ots.com (727) 578-8367 Information Technology Media Contact: Oliver Nutt Oliver.Nutt@GDIT.com (703) 852-1599 Mission Systems Media Contact: Joseph Sowers mediainfo@gd-ms.com Bath Iron Works Media Contact: David Hench communications@gdbiw.com (207) 442-4307 Electric Boat Media Contact: Myra Lee mlee8@gdeb.com (860) 433-2086 NASSCO Media Contact: Brian Jones brian.jones@nassco.com (619) 241-1387 GD United Kingdom Media Contact: Rahul Gogate gogater@gdls.com (586) 825-7141
+
+
+Domain: GeneralDynamics
+StartURL: https://www.gd.com/news
+Timestamp: 2026-02-22T10:06:13
+PerPageSummaryWords: 220
+StartPageSummaryWords: 56
+StartPageSummary:
+Press Releases | Media Gallery | Media Contacts View our Corporate Sustainability Report to see more stories about how we are working to reduce our environmental impact, protect human rights, promote a diverse and inclusive workforce, and support the communities in which our 100,000 employees live and work. Find the best media contact for your request.
+
+- Link 1
+  AnchorText: Press Releases
+  URL: https://www.gd.com/news/news-feed
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 4
+  LinkedPageSummary:
+  News Feed Load More
+
+- Link 2
+  AnchorText: Media Gallery
+  URL: https://www.gd.com/news/media-gallery
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 15
+  LinkedPageSummary:
+  Find additional images and learn more about our products and service across our business units.
+
+- Link 3
+  AnchorText: Press Releases
+  URL: https://www.gd.com/news/news-feed?type=Press%20Release
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 4
+  LinkedPageSummary:
+  News Feed Load More
+
+- Link 4
+  AnchorText: Job Search
+  URL: https://www.gd.com/careers/job-search
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 13
+  LinkedPageSummary:
+  Reach out to our recruiting teams to get your questions answered before applying.
+
+- Link 5
+  AnchorText: About GD
+  URL: https://www.gd.com/about-gd
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 98
+  LinkedPageSummary:
+  General Dynamics is organized into four business groups: Aerospace, Marine Systems, Combat Systems and Technologies. We have a balanced business model which gives each business unit the flexibility to stay agile and maintain an intimate understanding of customer requirements. Each business unit is responsible for the execution of its strategy and operational performance. Our corporate leaders set the overall strategy of the business and manage allocation of capital. This unique model keeps us focused on what matters — delivering on our promises to customers through relentless improvement, continued growth, boosting return on invested capital and disciplined capital deployment.
+
+- Link 6
+  AnchorText: Corporate Responsibility
+  URL: https://www.gd.com/responsibility
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  General Dynamics is a publicly traded global aerospace and defense company listed on the New York Stock Exchange. The company consists of 10 business units, which are organized into four operating segments: Aerospace, Marine Systems, Combat Systems, and Technologies. Each business unit is responsible for the development and execution of its strategy and operating results. Through our business units, we offer a broad portfolio of products and services in business aviation; combat vehicles, weapons systems and munitions; information technology (IT) services; C4ISR solutions; and shipbuilding and ship repair. Our primary customers are the U.S. government and allied countries. In 2020, General Dynamics employed over 100,000 employees in all 50 states and in over 65 countries. We achieved total revenue of $37.94 billion. The company is headquartered in Reston, Virginia. GENERAL DYNAMICS CORPORATION POLICY ON MODERN SLAVERY AND HUMAN TRAFFICKING As a corporation with operations and suppliers around the world, we recognize the importance of ensuring that respect for human rights and dignity is embedded at all levels of our business. Strict adherence to these values, as well as to applicable laws, are expected by us everywhere we operate. General Dynamics does not tolerate human trafficking, child labor or forced labor anywhere within our businesses or supply chains. General Dynamics companies have large, complex and global supply chains. Many of our
+
+- Link 7
+  AnchorText: Our Businesses
+  URL: https://www.gd.com/our-businesses
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 47
+  LinkedPageSummary:
+  Our portfolio spans the realm of the world's most technologically advanced business jets, wheeled combat vehicles, command and control systems and nuclear submarines. We offer these through our four business groups: Aerospace, Marine Systems, Combat Systems and Technologies. Learn more about our businesses at the links below.
+
+- Link 8
+  AnchorText: Media Contacts
+  URL: https://www.gd.com/news/media-contacts
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 112
+  LinkedPageSummary:
+  Media Contacts GD Corporate Headquarters Media Contact: Jeff A. Davis press@generaldynamics.com Gulfstream Media Contact: Emily Belford media.requests@gulfstream.com Jet Aviation Media Contact: Elouisa Dalli elouisa.dalli@jetaviation.com +41 58 158 8834 European Land Systems Media Contact: Marc-Aurel Bischoff marc-aurel.bischoff@gdels.com +49 173 2877414 Land Systems Media Contact: Rahul Gogate gogater@gdls.com (586) 825-7141 Ordnance and Tactical Systems Media Contact: Berkley Whaley berkley.whaley@gd-ots.com (727) 578-8367 Information Technology Media Contact: Oliver Nutt Oliver.Nutt@GDIT.com (703) 852-1599 Mission Systems Media Contact: Joseph Sowers mediainfo@gd-ms.com Bath Iron Works Media Contact: David Hench communications@gdbiw.com (207) 442-4307 Electric Boat Media Contact: Myra Lee mlee8@gdeb.com (860) 433-2086 NASSCO Media Contact: Brian Jones brian.jones@nassco.com (619) 241-1387 GD United Kingdom Media Contact: Rahul Gogate gogater@gdls.com (586) 825-7141
+
+
+Domain: GeneralDynamics
+StartURL: https://www.gd.com/news
+Timestamp: 2026-02-22T10:22:16
+PerPageSummaryWords: 220
+StartPageSummaryWords: 56
+StartPageSummary:
+Press Releases | Media Gallery | Media Contacts View our Corporate Sustainability Report to see more stories about how we are working to reduce our environmental impact, protect human rights, promote a diverse and inclusive workforce, and support the communities in which our 100,000 employees live and work. Find the best media contact for your request.
+
+- Link 1
+  AnchorText: Press Releases
+  URL: https://www.gd.com/news/news-feed
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 4
+  LinkedPageSummary:
+  News Feed Load More
+
+- Link 2
+  AnchorText: Media Gallery
+  URL: https://www.gd.com/news/media-gallery
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 15
+  LinkedPageSummary:
+  Find additional images and learn more about our products and service across our business units.
+
+- Link 3
+  AnchorText: Press Releases
+  URL: https://www.gd.com/news/news-feed?type=Press%20Release
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 4
+  LinkedPageSummary:
+  News Feed Load More
+
+- Link 4
+  AnchorText: Job Search
+  URL: https://www.gd.com/careers/job-search
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 13
+  LinkedPageSummary:
+  Reach out to our recruiting teams to get your questions answered before applying.
+
+- Link 5
+  AnchorText: About GD
+  URL: https://www.gd.com/about-gd
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 98
+  LinkedPageSummary:
+  General Dynamics is organized into four business groups: Aerospace, Marine Systems, Combat Systems and Technologies. We have a balanced business model which gives each business unit the flexibility to stay agile and maintain an intimate understanding of customer requirements. Each business unit is responsible for the execution of its strategy and operational performance. Our corporate leaders set the overall strategy of the business and manage allocation of capital. This unique model keeps us focused on what matters — delivering on our promises to customers through relentless improvement, continued growth, boosting return on invested capital and disciplined capital deployment.
+
+- Link 6
+  AnchorText: Corporate Responsibility
+  URL: https://www.gd.com/responsibility
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  General Dynamics is a publicly traded global aerospace and defense company listed on the New York Stock Exchange. The company consists of 10 business units, which are organized into four operating segments: Aerospace, Marine Systems, Combat Systems, and Technologies. Each business unit is responsible for the development and execution of its strategy and operating results. Through our business units, we offer a broad portfolio of products and services in business aviation; combat vehicles, weapons systems and munitions; information technology (IT) services; C4ISR solutions; and shipbuilding and ship repair. Our primary customers are the U.S. government and allied countries. In 2020, General Dynamics employed over 100,000 employees in all 50 states and in over 65 countries. We achieved total revenue of $37.94 billion. The company is headquartered in Reston, Virginia. GENERAL DYNAMICS CORPORATION POLICY ON MODERN SLAVERY AND HUMAN TRAFFICKING As a corporation with operations and suppliers around the world, we recognize the importance of ensuring that respect for human rights and dignity is embedded at all levels of our business. Strict adherence to these values, as well as to applicable laws, are expected by us everywhere we operate. General Dynamics does not tolerate human trafficking, child labor or forced labor anywhere within our businesses or supply chains. General Dynamics companies have large, complex and global supply chains. Many of our
+
+- Link 7
+  AnchorText: Our Businesses
+  URL: https://www.gd.com/our-businesses
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 47
+  LinkedPageSummary:
+  Our portfolio spans the realm of the world's most technologically advanced business jets, wheeled combat vehicles, command and control systems and nuclear submarines. We offer these through our four business groups: Aerospace, Marine Systems, Combat Systems and Technologies. Learn more about our businesses at the links below.
+
+- Link 8
+  AnchorText: Media Contacts
+  URL: https://www.gd.com/news/media-contacts
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 112
+  LinkedPageSummary:
+  Media Contacts GD Corporate Headquarters Media Contact: Jeff A. Davis press@generaldynamics.com Gulfstream Media Contact: Emily Belford media.requests@gulfstream.com Jet Aviation Media Contact: Elouisa Dalli elouisa.dalli@jetaviation.com +41 58 158 8834 European Land Systems Media Contact: Marc-Aurel Bischoff marc-aurel.bischoff@gdels.com +49 173 2877414 Land Systems Media Contact: Rahul Gogate gogater@gdls.com (586) 825-7141 Ordnance and Tactical Systems Media Contact: Berkley Whaley berkley.whaley@gd-ots.com (727) 578-8367 Information Technology Media Contact: Oliver Nutt Oliver.Nutt@GDIT.com (703) 852-1599 Mission Systems Media Contact: Joseph Sowers mediainfo@gd-ms.com Bath Iron Works Media Contact: David Hench communications@gdbiw.com (207) 442-4307 Electric Boat Media Contact: Myra Lee mlee8@gdeb.com (860) 433-2086 NASSCO Media Contact: Brian Jones brian.jones@nassco.com (619) 241-1387 GD United Kingdom Media Contact: Rahul Gogate gogater@gdls.com (586) 825-7141
+
+

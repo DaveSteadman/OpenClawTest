@@ -1,0 +1,187 @@
+Domain: Raytheon
+Query: Raytheon latest company news
+Timestamp: 2026-02-22T10:08:23
+PerPageSummaryWords: 200
+- News | Raytheon UK
+  https://www.raytheon.co.uk/news
+  News Raytheon UK strikes gold with prestigious MOD recognition Landshield® marks a decade of versatile innovation Raytheon UK to Supply GPS Anti-Jamming for International Armoured Vehicle Programme Filter news All Businesses
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.raytheon.co.uk/news
+  LinkedPageSummaryWords: 0
+
+- News | Raytheon - RTX
+  https://www.rtx.com/raytheon/news
+  News RTX's Raytheon's non-kinetic Coyote variant defeats multiple drone swarms RTX's Raytheon partners with Department of War on five landmark agreements to expand critical munition production RTX's Raytheon awarded $1.7 billion contract to deliver four Patriot fire units to Spain Filter news
+  LinkedPageStatus: ok (https://www.rtx.com/raytheon/news)
+  LinkedPageSummaryWords: 32
+  LinkedPageSummary:
+  Sorry, we did not find any results. Please try filtering again — or use the search function at the top of the page for a more refined search of our site archives.
+
+- Raytheon Company | Reuters
+  https://www.reuters.com/company/raytheon-company/
+  The latest international Raytheon Company news and views from Reuters - one of the world's largest news agencies
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/company/raytheon-company/
+  LinkedPageSummaryWords: 0
+
+- Breaking News: U.S. Grants Raytheon 50 Billion Contract to Sustain ...
+  https://www.armyrecognition.com/news/army-news/2025/us-grants-rtx-50-billion-contract-to-sustain-patriot-missile-defense-through-2045
+  According to information published by the U.S. Department of Defense on August 1, 2025, RTX Corporation, headquartered in Arlington, Virginia, has secured a monumental $50 billion terms and conditions umbrella contract from the Defense Logistics Agency. The comprehensive agreement covers a vast array of RTX systems and end-item production, spare parts, maintenance services, and integrated ...
+  LinkedPageStatus: ok (https://www.armyrecognition.com/news/army-news/2025/us-grants-rtx-50-billion-contract-to-sustain-patriot-missile-defense-through-2045)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The 20-year contract, active through July 31, 2045, spans multiple performance locations within and beyond the continental United States. It will serve the logistical and operational requirements of the U.S. Army, the Defense Logistics Agency, and other branches of the Department of Defense, with each agency responsible for funding its respective subcontracts. Oversight and contract administration are being led by the Defense Logistics Agency Land and Maritime, based at Aberdeen Proving Ground, Maryland. This strategic long-term commitment significantly reinforces RTX’s position as a cornerstone of U.S. defense supply chains and underlines its critical role in sustaining military readiness and global force projection capabilities. RTX, formerly Raytheon Technologies, is a leading global defense contractor specializing in advanced technologies across air, land, sea, space, and cyber domains. The company produces a wide spectrum of military systems and platforms including the Patriot air and missile defense system, NASAMS (National Advanced Surface-to-Air Missile System), AMRAAM and AIM-9X air-to-air missiles, and Javelin anti-tank guided missiles (through a joint venture). In the aerospace sector, RTX manufactures radar systems, electronic warfare suites, and avionics for fighter aircraft such as the F-35 Lightning II. Its Collins Aerospace division supports military aviation with mission systems, communication solutions, and power
+
+- Raytheon - latest news, breaking stories and comment - The Independent
+  https://www.independent.co.uk/topic/raytheon
+  The latest breaking news , comment and features from The Independent.
+  LinkedPageStatus: ok (https://www.independent.co.uk/topic/raytheon)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Raytheon News How Trump shook up defense stocks this week US politics Trump wants military budget hike for ‘very troubled’ times News Trump proposes massive increase in 2027 defense spending to $1.5T, citing 'dangerous times' News Ukrainian officials meet with US weapons manufacturers before Trump-Zelenskyy talks Europe What are Patriot missiles and why does Ukraine need them? US politics Republican who pushed to ban trading bought defense stocks China China hits 28 US defence firms with export ban over Taiwan arms sales News China sanctions 7 companies over US military assistance to Taiwan News Defense contractor Raytheon agrees to pay $252M penalty to resolve Qatar bribery charges News NATO signs $700 million Stinger missile contract as it makes plans to boost arms production News Why the US paused the delivery of 2,000-pound bombs to Israel ahead of a possible Rafah attack News U.S. announces $138 million in emergency military sales of Hawk missile systems support for Ukraine Americas Protesters target weapons manufacturers supplying Israel-Hamas war News The US is moving quickly to boost Israel's military. A look at what assistance it is providing News US pledges to help Australia manufacture guided missiles by 2025 Europe Sarah Huckabee Sanders travels to
+
+- Raytheon Latest News - The Business Journals
+  https://www.bizjournals.com/phoenix/organization/raytheon
+  Raytheon's new Navy radar variant aces first live maritime test in Hawaii August 20, 2025, 5:54 PM EST Manufacturing Raytheon partners with German company to boost Stinger missile production
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.bizjournals.com/phoenix/organization/raytheon
+  LinkedPageSummaryWords: 0
+
+- RTX Corporation News | Latest Raytheon News - NewsNow
+  https://www.newsnow.co.uk/h/Industry+Sectors/Aerospace+and+Defence/Aviation+Defence/RTX
+  Latest news on RTX Corporation, an American multinational aerospace and defense conglomerate headquartered in Arlington, Virginia, formerly Raytheon
+  LinkedPageStatus: ok (https://www.newsnow.co.uk/h/Industry+Sectors/Aerospace+and+Defence/Aviation+Defence/RTX)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest news on RTX Corporation, an American multinational aerospace and defense conglomerate headquartered in Arlington, Virginia. It is one of the largest aerospace and defense manufacturers in the world by revenue and market capitalization, as well as one of the largest providers of intelligence services. RTX Corporation was formed in April 2020 by the merger of equals between the aerospace subsidiaries of United Technologies Corporation (UTC) and Raytheon Company, two major U.S. defense contractors and industrial corporations. Before the merger, UTC spun off its non-aerospace subsidiaries Otis Elevator Company and Carrier Corporation. UTC was the nominal survivor of the merger but it changed its name to Raytheon Technologies and moved its headquarters to Waltham, Massachusetts. The combined company changed its name to RTX Corporation in July 2023. RTX Corporation operates in four business segments: Collins Aerospace, Pratt & Whitney, Raytheon Intelligence & Space, and Raytheon Missiles & Defense. Collins Aerospace provides aerospace and defense products and services for aircraft manufacturers, airlines, regional, business, and general aviation, as well as for defense and commercial space operations. Pratt & Whitney supplies aircraft engines for commercial, military, business jet, and general aviation customers, as well as auxiliary power units. Raytheon Intelligence & Space
+
+- Raytheon News Release Archive
+  https://raytheon.mediaroom.com/
+  Operates four businesses. Technology and innovation leader specializing in defense, security and civil markets throughout the world.
+  LinkedPageStatus: ok (https://raytheon.mediaroom.com/)
+  LinkedPageSummaryWords: 77
+  LinkedPageSummary:
+  News Release Archive Feb 20, 2026 RTX's Collins Aerospace autonomy solution, Sidekick, flies GA-ASI's YFQ-42A CCA platform Feb 20, 2026 U.S. Navy approves Raytheon's StormBreaker® smart weapon for use on Super Hornet fleet Feb 17, 2026 RTX's Collins Aerospace named a Crystal Cabin Award finalist Feb 17, 2026 RTX's Raytheon to accelerate domestic supply of critical material for commercial and defense applications Feb 11, 2026 RTX's Raytheon's non-kinetic Coyote variant defeats multiple drone swarms Back to Top
+
+
+Domain: Raytheon
+Query: Raytheon latest company news
+Timestamp: 2026-02-22T10:12:39
+PerPageSummaryWords: 200
+- News | Raytheon UK
+  https://www.raytheon.co.uk/news
+  News Raytheon UK strikes gold with prestigious MOD recognition Landshield® marks a decade of versatile innovation Raytheon UK to Supply GPS Anti-Jamming for International Armoured Vehicle Programme Filter news All Businesses
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.raytheon.co.uk/news
+  LinkedPageSummaryWords: 0
+
+- News | Raytheon - RTX
+  https://www.rtx.com/raytheon/news
+  News RTX's Raytheon's non-kinetic Coyote variant defeats multiple drone swarms RTX's Raytheon partners with Department of War on five landmark agreements to expand critical munition production RTX's Raytheon awarded $1.7 billion contract to deliver four Patriot fire units to Spain Filter news
+  LinkedPageStatus: ok (https://www.rtx.com/raytheon/news)
+  LinkedPageSummaryWords: 32
+  LinkedPageSummary:
+  Sorry, we did not find any results. Please try filtering again — or use the search function at the top of the page for a more refined search of our site archives.
+
+- Raytheon Company | Reuters
+  https://www.reuters.com/company/raytheon-company/
+  The latest international Raytheon Company news and views from Reuters - one of the world's largest news agencies
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/company/raytheon-company/
+  LinkedPageSummaryWords: 0
+
+- Breaking News: U.S. Grants Raytheon 50 Billion Contract to Sustain ...
+  https://www.armyrecognition.com/news/army-news/2025/us-grants-rtx-50-billion-contract-to-sustain-patriot-missile-defense-through-2045
+  According to information published by the U.S. Department of Defense on August 1, 2025, RTX Corporation, headquartered in Arlington, Virginia, has secured a monumental $50 billion terms and conditions umbrella contract from the Defense Logistics Agency. The comprehensive agreement covers a vast array of RTX systems and end-item production, spare parts, maintenance services, and integrated ...
+  LinkedPageStatus: ok (https://www.armyrecognition.com/news/army-news/2025/us-grants-rtx-50-billion-contract-to-sustain-patriot-missile-defense-through-2045)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The 20-year contract, active through July 31, 2045, spans multiple performance locations within and beyond the continental United States. It will serve the logistical and operational requirements of the U.S. Army, the Defense Logistics Agency, and other branches of the Department of Defense, with each agency responsible for funding its respective subcontracts. Oversight and contract administration are being led by the Defense Logistics Agency Land and Maritime, based at Aberdeen Proving Ground, Maryland. This strategic long-term commitment significantly reinforces RTX’s position as a cornerstone of U.S. defense supply chains and underlines its critical role in sustaining military readiness and global force projection capabilities. RTX, formerly Raytheon Technologies, is a leading global defense contractor specializing in advanced technologies across air, land, sea, space, and cyber domains. The company produces a wide spectrum of military systems and platforms including the Patriot air and missile defense system, NASAMS (National Advanced Surface-to-Air Missile System), AMRAAM and AIM-9X air-to-air missiles, and Javelin anti-tank guided missiles (through a joint venture). In the aerospace sector, RTX manufactures radar systems, electronic warfare suites, and avionics for fighter aircraft such as the F-35 Lightning II. Its Collins Aerospace division supports military aviation with mission systems, communication solutions, and power
+
+- Raytheon - latest news, breaking stories and comment - The Independent
+  https://www.independent.co.uk/topic/raytheon
+  The latest breaking news , comment and features from The Independent.
+  LinkedPageStatus: ok (https://www.independent.co.uk/topic/raytheon)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Raytheon News How Trump shook up defense stocks this week US politics Trump wants military budget hike for ‘very troubled’ times News Trump proposes massive increase in 2027 defense spending to $1.5T, citing 'dangerous times' News Ukrainian officials meet with US weapons manufacturers before Trump-Zelenskyy talks Europe What are Patriot missiles and why does Ukraine need them? US politics Republican who pushed to ban trading bought defense stocks China China hits 28 US defence firms with export ban over Taiwan arms sales News China sanctions 7 companies over US military assistance to Taiwan News Defense contractor Raytheon agrees to pay $252M penalty to resolve Qatar bribery charges News NATO signs $700 million Stinger missile contract as it makes plans to boost arms production News Why the US paused the delivery of 2,000-pound bombs to Israel ahead of a possible Rafah attack News U.S. announces $138 million in emergency military sales of Hawk missile systems support for Ukraine Americas Protesters target weapons manufacturers supplying Israel-Hamas war News The US is moving quickly to boost Israel's military. A look at what assistance it is providing News US pledges to help Australia manufacture guided missiles by 2025 Europe Sarah Huckabee Sanders travels to
+
+- Raytheon Latest News - The Business Journals
+  https://www.bizjournals.com/phoenix/organization/raytheon
+  Raytheon's new Navy radar variant aces first live maritime test in Hawaii August 20, 2025, 5:54 PM EST Manufacturing Raytheon partners with German company to boost Stinger missile production
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.bizjournals.com/phoenix/organization/raytheon
+  LinkedPageSummaryWords: 0
+
+- RTX Corporation News | Latest Raytheon News - NewsNow
+  https://www.newsnow.co.uk/h/Industry+Sectors/Aerospace+and+Defence/Aviation+Defence/RTX
+  Latest news on RTX Corporation, an American multinational aerospace and defense conglomerate headquartered in Arlington, Virginia, formerly Raytheon
+  LinkedPageStatus: ok (https://www.newsnow.co.uk/h/Industry+Sectors/Aerospace+and+Defence/Aviation+Defence/RTX)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest news on RTX Corporation, an American multinational aerospace and defense conglomerate headquartered in Arlington, Virginia. It is one of the largest aerospace and defense manufacturers in the world by revenue and market capitalization, as well as one of the largest providers of intelligence services. RTX Corporation was formed in April 2020 by the merger of equals between the aerospace subsidiaries of United Technologies Corporation (UTC) and Raytheon Company, two major U.S. defense contractors and industrial corporations. Before the merger, UTC spun off its non-aerospace subsidiaries Otis Elevator Company and Carrier Corporation. UTC was the nominal survivor of the merger but it changed its name to Raytheon Technologies and moved its headquarters to Waltham, Massachusetts. The combined company changed its name to RTX Corporation in July 2023. RTX Corporation operates in four business segments: Collins Aerospace, Pratt & Whitney, Raytheon Intelligence & Space, and Raytheon Missiles & Defense. Collins Aerospace provides aerospace and defense products and services for aircraft manufacturers, airlines, regional, business, and general aviation, as well as for defense and commercial space operations. Pratt & Whitney supplies aircraft engines for commercial, military, business jet, and general aviation customers, as well as auxiliary power units. Raytheon Intelligence & Space
+
+- Raytheon News Release Archive
+  https://raytheon.mediaroom.com/
+  Operates four businesses. Technology and innovation leader specializing in defense, security and civil markets throughout the world.
+  LinkedPageStatus: ok (https://raytheon.mediaroom.com/)
+  LinkedPageSummaryWords: 77
+  LinkedPageSummary:
+  News Release Archive Feb 20, 2026 RTX's Collins Aerospace autonomy solution, Sidekick, flies GA-ASI's YFQ-42A CCA platform Feb 20, 2026 U.S. Navy approves Raytheon's StormBreaker® smart weapon for use on Super Hornet fleet Feb 17, 2026 RTX's Collins Aerospace named a Crystal Cabin Award finalist Feb 17, 2026 RTX's Raytheon to accelerate domestic supply of critical material for commercial and defense applications Feb 11, 2026 RTX's Raytheon's non-kinetic Coyote variant defeats multiple drone swarms Back to Top
+
+
+Domain: Raytheon
+Query: Raytheon latest company news
+Timestamp: 2026-02-22T10:28:54
+PerPageSummaryWords: 200
+- Raytheon: RTX's Raytheon partners with Department of War on five ...
+  https://raytheon.mediaroom.com/2026-02-04-RTXs-Raytheon-partners-with-Department-of-War-on-five-landmark-agreements-to-expand-critical-munition-production
+  As global demand for these precision munitions continues to grow, these up-to-seven-year agreements establish frameworks to build on the company's previous investments to expand production. Under the frameworks announced today, RTX will increase annual production of Tomahawks to more than 1,000, AMRAAMs to at least 1,900, and SM-6 to more than 500.
+  LinkedPageStatus: ok (https://raytheon.mediaroom.com/2026-02-04-RTXs-Raytheon-partners-with-Department-of-War-on-five-landmark-agreements-to-expand-critical-munition-production)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Up-to-seven-year deals to increase annual production of Tomahawk, AMRAAM, SM-3 Block IB, SM-3 Block IIA, SM-6 TUCSON, Ariz. , Feb. 4, 2026 / PRNewswire / -- Raytheon, an RTX (NYSE: RTX) business, entered into five landmark framework agreements with the U.S. Department of War to significantly increase production capacity and speed deliveries of Land Attack and Maritime Strike variants of Tomahawk, AMRAAM® missiles, Standard Missile-3® Block IB interceptors (SM-3 IB), Standard Missile-3® Block IIA interceptors (SM-3 IIA), and Standard Missile-6® (SM-6). As global demand for these precision munitions continues to grow, these up-to-seven-year agreements establish frameworks to build on the company's previous investments to expand production. Under the frameworks announced today, RTX will increase annual production of Tomahawks to more than 1,000, AMRAAMs to at least 1,900, and SM-6 to more than 500. RTX will also increase production of SM-3 IIA and accelerate production of the SM-3 IB. Many of these munitions will grow 2 to 4 times their existing production rates. With the Department of War's strong commitment to strengthening the defense industrial base and creating American jobs, RTX will continue to make investments in technology, facilities and our workforce to reach and sustain this historically high production rate.
+
+- News | Raytheon - RTX
+  https://www.rtx.com/raytheon/news
+  News RTX's Raytheon's non-kinetic Coyote variant defeats multiple drone swarms RTX's Raytheon partners with Department of War on five landmark agreements to expand critical munition production RTX's Raytheon awarded $1.7 billion contract to deliver four Patriot fire units to Spain Filter news
+  LinkedPageStatus: ok (https://www.rtx.com/raytheon/news)
+  LinkedPageSummaryWords: 32
+  LinkedPageSummary:
+  Sorry, we did not find any results. Please try filtering again — or use the search function at the top of the page for a more refined search of our site archives.
+
+- Breaking News: U.S. Grants Raytheon 50 Billion Contract to Sustain ...
+  https://www.armyrecognition.com/news/army-news/2025/us-grants-rtx-50-billion-contract-to-sustain-patriot-missile-defense-through-2045
+  According to information published by the U.S. Department of Defense on August 1, 2025, RTX Corporation, headquartered in Arlington, Virginia, has secured a monumental $50 billion terms and conditions umbrella contract from the Defense Logistics Agency. The comprehensive agreement covers a vast array of RTX systems and end-item production, spare parts, maintenance services, and integrated ...
+  LinkedPageStatus: ok (https://www.armyrecognition.com/news/army-news/2025/us-grants-rtx-50-billion-contract-to-sustain-patriot-missile-defense-through-2045)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The 20-year contract, active through July 31, 2045, spans multiple performance locations within and beyond the continental United States. It will serve the logistical and operational requirements of the U.S. Army, the Defense Logistics Agency, and other branches of the Department of Defense, with each agency responsible for funding its respective subcontracts. Oversight and contract administration are being led by the Defense Logistics Agency Land and Maritime, based at Aberdeen Proving Ground, Maryland. This strategic long-term commitment significantly reinforces RTX’s position as a cornerstone of U.S. defense supply chains and underlines its critical role in sustaining military readiness and global force projection capabilities. RTX, formerly Raytheon Technologies, is a leading global defense contractor specializing in advanced technologies across air, land, sea, space, and cyber domains. The company produces a wide spectrum of military systems and platforms including the Patriot air and missile defense system, NASAMS (National Advanced Surface-to-Air Missile System), AMRAAM and AIM-9X air-to-air missiles, and Javelin anti-tank guided missiles (through a joint venture). In the aerospace sector, RTX manufactures radar systems, electronic warfare suites, and avionics for fighter aircraft such as the F-35 Lightning II. Its Collins Aerospace division supports military aviation with mission systems, communication solutions, and power
+
+- News | Raytheon UK
+  https://www.raytheon.co.uk/news
+  News Raytheon UK strikes gold with prestigious MOD recognition Landshield® marks a decade of versatile innovation Raytheon UK to Supply GPS Anti-Jamming for International Armoured Vehicle Programme Filter news All Businesses
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.raytheon.co.uk/news
+  LinkedPageSummaryWords: 0
+
+- U.S. Navy approves Raytheon weapon for Super Hornet fleet
+  https://uk.investing.com/news/company-news/us-navy-approves-raytheon-weapon-for-super-hornet-fleet-93CH-4516979
+  - The U.S. Navy has approved Raytheon's StormBreaker smart weapon for operational use on the F/A-18-E/F Super Hornet strike fighter, according to a press release statement issued today. Raytheon is a business unit of RTX (NYSE:RTX). StormBreaker is designed to engage moving and stationary targets in various weather conditions, at land or at sea.
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://uk.investing.com/news/company-news/us-navy-approves-raytheon-weapon-for-super-hornet-fleet-93CH-4516979
+  LinkedPageSummaryWords: 0
+
+- Raytheon Latest News - The Business Journals
+  https://www.bizjournals.com/phoenix/organization/raytheon
+  Raytheon's new Navy radar variant aces first live maritime test in Hawaii August 20, 2025, 5:54 PM EST Manufacturing Raytheon partners with German company to boost Stinger missile production
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.bizjournals.com/phoenix/organization/raytheon
+  LinkedPageSummaryWords: 0
+
+- Raytheon Company | Reuters
+  https://www.reuters.com/company/raytheon-company/
+  The latest international Raytheon Company news and views from Reuters - one of the world's largest news agencies
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/company/raytheon-company/
+  LinkedPageSummaryWords: 0
+
+- RTX's Raytheon to accelerate domestic supply of critical material for ...
+  https://investingnews.com/rtx-s-raytheon-to-accelerate-domestic-supply-of-critical-material-for-commercial-and-defense-applications-2675275726/
+  Under the contract, Raytheon's Advanced Technology team will leverage its expertise in ion slicing to assist US-based company G&H in developing the process for manufacturing high-quality TFLN wafers.
+  LinkedPageStatus: ok (https://investingnews.com/rtx-s-raytheon-to-accelerate-domestic-supply-of-critical-material-for-commercial-and-defense-applications-2675275726/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Initiative aims to decrease reliance on foreign markets - Raytheon, an RTX (NYSE: RTX ) business, was awarded a contract from the Air Force Research Laboratory to develop a domestic production capability for thin film lithium niobate (TFLN) wafers, a material essential to high‑speed, secure communications and advanced sensing systems. TFLN is used in next-generation photonics for many defense applications and a broad set of commercial applications, including AI and computing technologies, data centers, and telecommunications. With supply currently dominated by foreign sources, Raytheon aims to ensure the U.S. has a secure, domestic alternative that will be available to the entire defense industrial base and commercial industries. "Global access to TFLN has become increasingly constrained, with supply consolidation leaving U.S. companies vulnerable to international disruptions," said Colin Whelan, president of Advanced Technology at Raytheon. "Through this effort, Raytheon will stand up an independent U.S. supplier of next‑generation TFLN, building an open, third-party source that can serve a broad range of defense and commercial customers." Under the contract, Raytheon's Advanced Technology team will leverage its expertise in ion slicing to assist US-based company G&H in developing the process for manufacturing high-quality TFLN wafers. Once the process is established, production will transition
+
+

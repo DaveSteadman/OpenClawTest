@@ -1,0 +1,65 @@
+Domain: GeneralNews
+Query: latest Norway news headlines
+Timestamp: 2026-02-22T16:40:27
+PerPageSummaryWords: 200
+- Norway's News in English — www.newsinenglish.no
+  https://www.newsinenglish.no/
+  NewsInEnglish.no is a free and independent Oslo-based website offering news from Norway . It's run on a voluntary basis by veteran journalists keen to share insight into Norwegian politics, economic affairs and culture, in English.
+  LinkedPageStatus: ok (https://www.newsinenglish.no/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Troubled king remains popular US pulls jets out of Cold Response Norwegian defense officials have confirmed that the US is pulling several of its fighter jets and other aircraft out of the upcoming NATO Cold Response military exercises in Northern Norway. As many as 150 American soldiers may also be... Former diplomat undergoes police questioning in Oslo Terje Rød-Larsen, the former Norwegian diplomat who's now in trouble over his lengthy association with the late financier and convicted sex offender Jeffrey Epstein, underwent police questioning back home in Oslo on Thursday. Police said he was cooperative and... Epstein ‘survivor’ scolds Norway’s Crown Princess Mette-Marit One of the many young teenage girls who were sexually abused by the late financier Jeffrey Epstein has publicly scolded Norwegian Crown Princess Mette-Marit, who carried on a three-year friendship with Epstein before he later died in prison. The... Klæbo cheers up his homeland After weeks of uproar and scandal, Norwegians at least have a lot to cheer about at this year's Winter Olympics in Italy. Both Crown Prince Haakon and Prime Minister Jonas Gahr Støre were on hand to celebrate more historic... Central bank chief’s inflation battle may boost interest rates Norwegian economists admit to being
+
+- The Norway Times | Breaking Norway News & Daily Updates
+  https://thenorwaytimes.com/
+  Get the latest news from Norway . Daily updates on politics,society, and global affairs from a trusted Norwegian news source.
+  LinkedPageStatus: error: 503 Server Error: Service Unavailable for url: https://thenorwaytimes.com/
+  LinkedPageSummaryWords: 0
+
+- Norway News | Latest Norway News - NewsNow
+  https://www.newsnow.com/us/World/Europe/Northern+Europe/Norway
+  Latest news on Norway , providing comprehensive coverage of politics, economy, culture, weather, crime, and developments in this Scandinavian nation. Norway is a prosperous Nordic country with a population of approximately 5.7 million, situated on the Scandinavian Peninsula between the North Atlantic and the Arctic.
+  LinkedPageStatus: ok (https://www.newsnow.com/us/World/Europe/Northern+Europe/Norway)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest news on Norway, providing comprehensive coverage of politics, economy, culture, weather, crime, and developments in this Scandinavian nation. Norway is a prosperous Nordic country with a population of approximately 5.7 million, situated on the Scandinavian Peninsula between the North Atlantic and the Arctic. The capital Oslo is home to over 1.1 million people, while other major cities include Bergen and Trondheim, each steeped in centuries of history. The nation's parliamentary democracy operates through the Storting, with Prime Minister Jonas Gahr Støre leading a Labour minority government following parliamentary elections in September 2025. The Norwegian economy is underpinned by its massive oil and gas industry, with state revenues from petroleum activities funding the world's largest sovereign wealth fund. The Government Pension Fund Global holds assets exceeding $1.9 trillion, equivalent to over $340,000 per Norwegian citizen. Political debate centres on how much to spend from the fund versus saving for future generations, energy policy, and maintaining Norway's role as a stable energy supplier to Europe while pursuing climate commitments. Norway's dramatic landscape of fjords, mountains, and coastal waters has shaped both its history and contemporary identity. The UNESCO-listed Geirangerfjord and Nærøyfjord represent some of the world's most spectacular natural formations, carved
+
+- Norway - BBC News
+  https://www.bbc.co.uk/news/topics/clm1wxp5mgxt
+  Stay informed with the latest news , video, live updates and expert analysis about Norway from across the BBC.
+  LinkedPageStatus: ok (https://www.bbc.co.uk/news/topics/clm1wxp5mgxt)
+  LinkedPageSummaryWords: 7
+  LinkedPageSummary:
+  Posted 28 December 2025 28 Dec 2025
+
+- Google News - Norway - Latest
+  https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZpTkhjU0FuWnBLQUFQAQ
+  Get the latest news from Norway and around the world, including politics, economy, sports and more.
+  LinkedPageStatus: ok (https://consent.google.com/ml?continue=https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZpTkhjU0FuWnBLQUFQAQ&gl=GB&hl=en-US&cm=2&pc=n&src=1&escs=AZ8E49A4HxnDMXht0HndLISmJjMdDqW14IEW0EVlPXMPUvbLpiFd1yoKFlYPB8KrLsLBNIEbURcyylvYOSSX9m0sLXFEQZg5Dprk)
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  Select “More options” to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+- Latest News from Norway - The Local
+  https://www.thelocal.no/category/norway-news
+  Read the latest news and important information from Norway in English here at The Local.
+  LinkedPageStatus: ok (https://www.thelocal.no/category/norway-news)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest News from Norway Read the latest news and important information from Norway in English here at The Local. Working in Norway How Norway's kindergartens are increasingly offering foreigners a career path Starting a career in Norway can be challenging for foreign residents. However, kindergartens are becoming a solid choice for steady work and long-term integration. Recent rule changes have made this path more accessible to those with degrees from abroad. What changes in Norway Transport to immigration rules: What changes about life in Norway in 2026? From cheaper dental care to immigration restrictions and more Metro construction, here are the changes you can expect to see in Norway throughout 2026. Travel news UK’s new passport rules for dual citizens are result of border control in digital age New passport rules for British dual citizens reflect border control and citizenship in a digital age, writes Nando Sigona in The Conversation. Royal family Approval of Norwegian royals tumbles after repeated scandals The Norwegian royal family's popularity has fallen to its lowest ever after a series of scandals, according to a poll published Saturday by public broadcaster NRK. Taxes Norwegian tax return: Are your deductions set to be scrutinised this year? Each
+
+- Norway | News | The Nordic Page- Latest news from Norway in English
+  https://www.tnp.no/
+  Your most complete guide to Norway with up to date news and analysis covering breaking news , economy, business, culture, politics and more from the region.
+  LinkedPageStatus: ok (https://www.tnp.no/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Former Norway Prime Minister Charged with Corruption and Epstein Relation ​The Norwegian Perspective: Sell America Norway Condemns Israel’s “Direct Attack” on UN as Netanyahu Joins Trump’s So- Called Peace Council Norway Rejects Trump’s “Peace Council” which is an attractive private club for Autocratic Leaders Social Latest Dancing Politics: Norway Prime Minister and Other Ministers Dance for Children TV and National Day News Norway`s Intelligence Sharing with US Under Scrutiny as Security Concerns Mount News Ironic Oslo Ad Goes Viral News Norway government will preserve world heritage abroad, but not in Norway. Most popular Exclusive More than a National Day: Understanding May 17th of Norway Economy Norway Has World’s Most Expensive Gasoline Exclusive Having a “Gledelig Jul” in Norway Economy Google Fined for Illegal Collection of Personal Information in Norway Must Read Exclusive stories to know more about Norway. Exclusive Want to study in Norway? Changes you must know Exclusive 22 July Stories from Norway: We Should Talk to Each Other Not about Each Other Exclusive Advice on Choosing Your Dentist in Norway Exclusive Norway’s Fretex: We give people a reason to believe in future Exclusive Nature In Youth Advertisement Trump’s Nobel Peace Prize Meltdown: “No Prize, No Peace-Only Thinking!” In
+
+- Norway | AP News
+  https://apnews.com/hub/norway
+  Stay up to date on the latest Norway news coverage from AP News .
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+

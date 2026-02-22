@@ -24,7 +24,7 @@
       "enabled": true,
       "cadence": "daily",
       "type": "webtext",
-      "url": "https://www.raytheon.co.uk/news",
+      "url": "https://www.rtx.com/news",
       "max_links": 8,
       "words": 220
     }

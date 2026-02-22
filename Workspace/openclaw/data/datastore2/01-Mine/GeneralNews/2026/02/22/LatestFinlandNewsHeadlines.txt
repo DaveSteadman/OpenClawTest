@@ -1,0 +1,67 @@
+Domain: GeneralNews
+Query: latest Finland news headlines
+Timestamp: 2026-02-22T16:41:55
+PerPageSummaryWords: 200
+- Latest News | The Helsinki Herald
+  https://www.thehelsinkiherald.com/latest-news/
+  The Helsinki Herald is an online news publication focusing on the Finland : The latest news from Finland
+  LinkedPageStatus: ok (https://www.thehelsinkiherald.com/latest-news/)
+  LinkedPageSummaryWords: 140
+  LinkedPageSummary:
+  By signing to this email alert, you agree to our Terms & Conditions We sent a one-time activation link to . Just click on the link to continue. If you don't see the email in your inbox, check your spam folder or try again You have successfully confirmed your email and are subscribed to The Helsinki Herald daily news alert. It looks like you have already confirmed and are receiving the The Helsinki Herald daily news alert. It looks like something went wrong. Please try again. By signing to this email alert, you agree to our Terms & Conditions You are no longer receiving the The Helsinki Herald daily news alert. You are no longer receiving the The Helsinki Herald daily news alert. Try clicking the Unsubscribe link in the email again and if it still doesn't work, contact us
+
+- Google News - Finland - Latest
+  https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREoyZW1NU0FtVnVLQUFQAQ
+  Stay updated with the latest news , articles, and videos about Finland on Google News .
+  LinkedPageStatus: ok (https://consent.google.com/ml?continue=https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREoyZW1NU0FtVnVLQUFQAQ&gl=GB&hl=en-US&cm=2&pc=n&src=1&escs=AZ8E49DwhOwCQAESY3BFsOHp_6WmUvGaAI51VJvOaGapGV-mdf8uQ7QYT1VCg0zAmeADrE3u_jnckfAHBlDHTekrP_8D5pTwAabn)
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  Select “More options” to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+- News | Yle Uutiset
+  https://yle.fi/news
+  Yle News in English
+  LinkedPageStatus: ok (https://yle.fi/news)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The two presidents meet ahead of a flurry of events commemorating the fourth anniversary of Russia’s full-scale invasion of Ukraine. Finland placed third in the men's ice hockey tournament, clinching its sixth medal at the Milan-Cortina Winter Olympics. Both the police officer and the stabbing suspect have been hospitalised with serious injuries, Iltalehti reports. Foreign Minister Elina Valtonen (NCP) also claimed that recent racism scandals have not affected Finland’s international image "at all". Integration specialists point to problems such as prohibitive costs, a lack of study materials, and the risks of indirect discrimination. Finland introduced a specific law banning the practice and preparation of female genital mutilation (FGM) at the beginning of last year. An unsettled start to their slumber, and the early-than-planned wake-up call, means the bears only caught about three weeks of uninterrupted sleep this winter. What would you like to hear on the All Points North podcast? With a baby on the way and her fixed-term contract about to end, Canadian Silvie Kroeker must decide between her long-held ambition of becoming a Finnish citizen or a short-term unemployment entitlement. Finland wants to curb supermarket store brands to give farmers more power, but could the move leave shoppers
+
+- Finland news | Latest Finland News - NewsNow
+  https://www.newsnow.co.uk/h/World+News/Europe/Northern+Europe/Finland
+  Latest news on Finland , covering politics, economy, NATO membership, relations with Russia, culture, education, and developments in this Nordic nation. With a population of 5.5 million and capital Helsinki approaching 700,000 residents, Finland is a Nordic country that joined NATO on 4 April 2023, marking a historic shift from decades of ...
+  LinkedPageStatus: ok (https://www.newsnow.co.uk/h/World+News/Europe/Northern+Europe/Finland)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest news on Finland, covering politics, economy, NATO membership, relations with Russia, culture, education, and developments in this Nordic nation. With a population of 5.5 million and capital Helsinki approaching 700,000 residents, Finland is a Nordic country that joined NATO on 4 April 2023, marking a historic shift from decades of military non-alignment. Other major cities include Espoo, Tampere, and Oulu, with Finnish and Swedish as official languages. Finland's economy faces challenges as it emerges from stagnation, with growth projected at modest levels through the coming years. The unemployment rate remains elevated while public debt continues to rise. Recent legislative changes have tightened permanent residence requirements, extending the qualifying period from four to six years and introducing mandatory Finnish or Swedish language proficiency from January 2026. Finnish culture centres around the sauna tradition, inscribed on UNESCO's Intangible Cultural Heritage list, with over 3 million saunas serving as spaces for physical and mental cleansing. The education system, offering tuition-free schooling from primary through university, consistently ranks among the world's best. Finland's vast wilderness includes Lapland in the north, home to the indigenous Sámi people, reindeer, and the Northern Lights. Following Russia's 2022 invasion of Ukraine, Finland abandoned its longstanding policy of
+
+- Helsinki Times - Helsinki Times
+  https://www.helsinkitimes.fi/
+  Helsinki Times is an independent online newspaper covering news and events in Finland . Helsinki Times is the first ever English language news site in Finland established in 2007. The site is updated several times every day.
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.helsinkitimes.fi/
+  LinkedPageSummaryWords: 0
+
+- Latest | Finland Today | News in English | finlandtoday.fi
+  https://finlandtoday.fi/latest/
+  A pioneering, independent Finnish news website in English. Daily news . Original journalism. Subscriber content.
+  LinkedPageStatus: ok (https://finlandtoday.fi/latest/)
+  LinkedPageSummaryWords: 10
+  LinkedPageSummary:
+  Latest | Finland Today | News in English | finlandtoday.fi
+
+- Finland - BBC News
+  https://www.bbc.co.uk/news/topics/crr7mlg0gzdt
+  Stay informed with the latest news , video, live updates and expert analysis about Finland from across the BBC.
+  LinkedPageStatus: ok (https://www.bbc.co.uk/news/topics/crr7mlg0gzdt)
+  LinkedPageSummaryWords: 7
+  LinkedPageSummary:
+  Posted 31 December 2025 31 Dec 2025
+
+- YLE.news - News from Finland in English
+  https://yle.news/
+  Finland aims to outlaw unauthorised possession, import of radio signal jammers Incidents of suspected GPS interference have risen sharply in Finland over recent years, especially around airports and in the Baltic Sea region. Read more All News | Business | Domestic news | Governmental Subsidies | Media
+  LinkedPageStatus: ok (https://yle.news/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  All News | Foreign policy 16 minutes ago Stubb and Macron discuss Ukraine peace efforts ahead of grim 4th anniversary The two presidents meet ahead of a flurry of events commemorating the fourth anniversary of Russia’s full-scale invasion of Ukraine. Read more All News | Business | Domestic news | Transport 5 hours ago EV registrations up by 22%; petrol and diesel share falls Nearly 60 percent of all last year’s new cars were rechargeable, with less than 40 percent petrol-powered and just four percent diesel-powered. Read more All News | Domestic news 7 hours ago Finland reaches Olympic medal target with hockey bronze Finland placed third in the men’s ice hockey tournament, clinching its sixth medal at the Milan-Cortina Winter Olympics. Read more All News | Crime 1 day ago Police officer stabbed, suspect shot in Kalajoki Both the police officer and the stabbing suspect have been hospitalised with serious injuries, Iltalehti reports. Read more All News | Foreign policy 1 day ago Finnish foreign minister on Trump’s second term: “We’ve learned not to be shocked by minor things” Foreign Minister Elina Valtonen (NCP) also claimed that recent racism scandals have not affected Finland’s international image “at all”. Read
+
+

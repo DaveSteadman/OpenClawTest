@@ -187,6 +187,11 @@ def call_llm_slide_formatter(
         ],
     }
 
+    print(
+        f"[presentation:phase] llm_wait domain={domain} date={as_of_date.isoformat()} model={model} timeout_sec={max(30, llm_timeout)}",
+        flush=True,
+    )
+
     response = requests.post(
         endpoint,
         headers={
@@ -197,6 +202,7 @@ def call_llm_slide_formatter(
         timeout=max(30, llm_timeout),
     )
     response.raise_for_status()
+    print(f"[presentation:phase] llm_done status={response.status_code}", flush=True)
 
     body = response.json()
     content = body.get("choices", [{}])[0].get("message", {}).get("content", "")

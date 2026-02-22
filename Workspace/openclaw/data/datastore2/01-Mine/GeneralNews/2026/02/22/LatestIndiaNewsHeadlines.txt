@@ -1,0 +1,67 @@
+Domain: GeneralNews
+Query: latest India news headlines
+Timestamp: 2026-02-22T16:36:30
+PerPageSummaryWords: 200
+- India News | Today's latest updates and breaking news from India, Live ...
+  https://www.ndtv.com/india
+  Get the latest updates and breaking news from India , including politics, elections, government, business, technology, and Bollywood.
+  LinkedPageStatus: ok (https://www.ndtv.com/india)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Congress's Mani Shankar Aiyar, known for his controversial statements on multiple issues, this time advised his party's senior leader Rahul Gandhi to leave INDIA Bloc's driving seat to leaders of the regional parties. Amaravati, the under-construction capital of Andhra Pradesh, is preparing to host what could become one of the most consequential pieces of scientific infrastructure ever built in India: a full-scale quantum computing facility anchored by IBM. The new terminal at Lokapriya Gopinath Bardoloi International Airport (LGBIA) began commercial operations this evening, raising annual passenger capacity to 13.1 million. There is no proposal for a 20-year cooling-off period for retired army officers writing books, and no proposal has been made in the Cabinet regarding this, Defence Minister Rajnath Singh has said. In a display of unwavering bravery, Army dog Tyson led troops to a terrorist hideout in the Chhatroo area of Jammu and Kashmir's Kishtwar, helping security forces eliminate three Jaish-e-Mohammed terrorists. Three women from Arunachal Pradesh were allegedly subjected to racial slurs, humiliation and intimidation by their neighbours following a dispute over some repair work at their rented flat in south Delhi's Malviya Nagar. Kashmiri Pandits have expressed serious concern over threats by Pakistan-backed terrorist groups after purported
+
+- News, Today's News Headlines, Breaking News and Live News from India ...
+  https://timesofindia.indiatimes.com/home/headlines
+  Headlines today: Get news headlines from India and around the world. Today's breaking news on politics, sports, entertainment, business, life style and many more on Times of India
+  LinkedPageStatus: ok (https://timesofindia.indiatimes.com/home/headlines)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  News Headlines 'Opened a massage parlour?' 3 NE women 'racially abused' by neighbours in Delhi – video viral 22 Feb 2026, 1927 hrs IST Horrific double murder in Delhi: Woman, daughter killed; bodies found in bed box Disney layoffs to 'deport Indians' posts: Why H-1B backlash is getting personal 'Drop the items!' Tense final warning before agents shot armed intruder at Trump's Mar-a-Lago resort IND vs SA Live: Abhishek, Sundar depart; India in deep trouble After SC blow for Trump & 15% global tariffs: India, US to reschedule key meet on interim trade deal How India has ensured it won't dominate textile exports even with trade deals 21 Feb 2026, 1927 hrs IST When Steve Jobs told Apple employees during a townhall: Nike sells shoes, and yet ... INS Aridhaman unleashed: All about Navy's 7,000-ton nuclear stealth giant armed with K-4 SLBMs For a change: Kishan, not Abhishek, goes for duck against SA in Super 8 clash ‘Buy America’ to ‘bye America’: Why investors are looking beyond US stocks FBI warns of ATM jackpotting incidents across US: What are they, how they work Where will the Olympics be held in 2028, 2030 and 2032? Host cities explained 'That is shocking':
+
+- India News, Latest Breaking News Headlines from India, Live News Updates
+  https://www.indiatoday.in/india
+  India News Today: Read latest and breaking news headlines from India . Top India News , Current headlines , videos, photos and live india news updates at India Today
+  LinkedPageStatus: ok (https://www.indiatoday.in/india)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A minor dispute over AC installation dust in Delhi's Malviya Nagar has escalated into serious allegations of racial abuse against a UPSC aspirant and her roommates from the Northeast. Builder Tushar Ghelani's tragic suicide days before his daughter's wedding has unveiled a hidden relationship and disputed financial dealings. Police arrest Poonam Bhadauria, probing alleged abetment to suicide and property transfers. Under investigation, the Tejas fighter jet suffered severe damage during landing after a routine sortie, though the pilot ejected safely. The IAF has yet to issue an official statement. High Commissioner Pranay Verma was speaking with reporters after he met with Bangladesh Foreign Minister Khalilur Rahman, days after Prime Minister Tarique Rahman took oath on February 17. Army dog Tyson ran ahead of the troops during the search operation in Kishtwar and successfully pinpointed the terrorists' location in the operation zone. Aam Aadmi Party alleged that Haryana Chief Minister Nayab Singh Saini oversaw the induction of Haryana members into Punjab BJP in Chandigarh, questioning the Bharatiya Janata Party's intent and voter integrity. Benjamin Netanyahu highlighted close ties with PM Modi ahead of the Indian leader's February 25-26 Israel visit, with both sides expected to discuss expanding economic, diplomatic and security
+
+- India News, Latest India News, Today's Breaking News Headlines from ...
+  https://indianexpress.com/section/india/
+  India News , Latest India News : Read Live Breaking News from India along with Latest News and Today's Top Headlines Online in Bharat. Stay Up-to-date with Top news in India , current headlines , photos & videos online, live coverage on entertainment, business, politics, sports, technology and more at indianexpress.com.
+  LinkedPageStatus: ok (https://indianexpress.com/section/india/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  “Opp party eager to defame country … I am satisfied that its allies showed courage to criticise it,” says PM The complaint by a police officer posted as part of Raipur MLA Umesh Sharma Kau’s security alleged that the legislator was obstructed and had a phone thrown at him at the Education dept office. Meerut Metro project: Meerut South–Modipuram metro train begins commercial run as India’s fastest metro service. Check travel time, stops, fare and route details. They are a bit confused by the term ‘Bhajan Clubbing’, and nonplussed by the sermon in the middle, but students embrace Delhi govt idea as a return to roots. Panvel-Alipurduar Amrit Bharat Express starts February 23, connecting Maharashtra and West Bengal. Check train number, timings, stoppages and fare details. Addressing a public gathering after inaugurating development projects, including the Namo Bharat rail and the Meerut Metro Rail extension in Meerut, the prime minister said the Congress' conduct showed how "ideologically bankrupt and impoverished" the party had become. PM Narendra Modi says that two things he showed the world leaders at the recent AI Summit in New Delhi ‘greatly influenced’ them. Though their identity was yet to be ascertained, official sources believed that one
+
+- Google News - India - Latest
+  https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE?hl=en-IN&ceid=IN%3Aen
+  Read full articles, watch videos, browse thousands of titles and more on the 'India' topic with Google News .
+  LinkedPageStatus: ok (https://consent.google.com/ml?continue=https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE?hl%3Den-IN%26ceid%3DIN:en&gl=GB&hl=en-IN&cm=2&pc=n&src=1&escs=AZ8E49BKt1Fum8KdlVktNFYlX8PpE3X-yt29n5udWRiRNadf-zeW1j4Q5usJmFfOMkHWMB39GJ8CLikIX95JEeaGxYxf0-sLu__D)
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  Select 'More options' to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+- India News | Today's Top Stories | Reuters
+  https://www.reuters.com/world/india/
+  Reuters.com is your online source for the latest India news stories and current events, ensuring our readers up to date with any breaking news developments
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/world/india/
+  LinkedPageSummaryWords: 0
+
+- Latest News Today, Top Headlines & Live Updates - News24
+  https://news24online.com/latest-news/
+  Stay informed with the latest news today. Get breaking news , live updates, and top headlines from India and around the world on News24
+  LinkedPageStatus: ok (https://news24online.com/latest-news/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Southampton | 11.21 °C | AQI 26 English हिन्दी E24 Isomes News24 Sports Sunday, 22 February, 2026 Latest News Today, Top Headlines & Live Updates Entertainment Rashmika Mandanna and Vijay Deverakonda finally confirm wedding, dedicate ceremony to fans, name it… Published on Feb 22, 2026 09:45 PM India Kishtwar encounter: Most wanted JeM commander Saifullah among 3 terrorists killed in operation Trashi-I, security forces continue to… Published on Feb 22, 2026 09:40 PM World US-Iran war: US to attack Iran on ‘Monday or Tuesday’? Ex-CIA officer’s SHOCKING claim, says Trump has made decision to… Published on Feb 22, 2026 09:35 PM World BIG twist in Russia-Ukraine war as Ukrainian drone attack pummels Moscow; airports shut as Russia prepares for…, bad news for Putin due to… Published on Feb 22, 2026 09:24 PM India What is anti-ballistic missile system India and Israel are jointly developing? Can shoot down advanced missiles using…; know how this ultra-modern system works Published on Feb 22, 2026 08:57 PM World Armed intruder trying to enter Donald Trump’s Mar-a-Lago resort shot dead by US Secret Service Agents Published on Feb 22, 2026 07:49 PM Entertainment Hardik Pandya gifts son Agastya Rs 40000000 Land Rover Defender; ex-wife Natasa
+
+- India News: Latest India News, Today's breaking News Headlines & Real ...
+  https://www.hindustantimes.com/india-news
+  India News : Read Latest India News Today India Top Headlines along with Latest Breaking India News and Real Time announcements from India . Stay connected for timely reports and detailed India News ...
+  LinkedPageStatus: ok (https://www.hindustantimes.com/india-news)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  India News Ferrari driver loses control in Hyderabad, hits oncoming cars; 3 injured India News Updated on Feb 22, 2026 09:59 pm IST Netanyahu calls Modi ‘personal friend’ ahead of PM's visit to Israel India News Updated on Feb 22, 2026 09:56 pm IST EAM Jaishankar invites Bangladesh counterpart Khalilur Rahman to visit India India News Published on Feb 22, 2026 09:31 pm IST ‘Technology exists to serve humanity, not replace it': PM Modi on AI, the future India News Published on Feb 22, 2026 08:48 pm IST Vineet Jain conferred Lifetime Contribution to Media Award by AIMA India News Published on Feb 22, 2026 08:20 pm IST Cong counters PM Modi's 'ganda, nanga' jibe with old photo of BJP's topless stir India News Updated on Feb 22, 2026 08:59 pm IST First border pillar between Assam, Arunachal erected India News Published on Feb 22, 2026 07:17 pm IST Human rights panel seeks report on teenager's death in Haryana basketball court India News Published on Feb 22, 2026 07:13 pm IST Opinion | How Modi’s trade deals Secure the common man India News Updated on Feb 22, 2026 06:51 pm IST Statue of Lutyens, New Delhi's British architect, to go
+
+

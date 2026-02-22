@@ -1,0 +1,199 @@
+Domain: GeneralDynamics
+Query: General Dynamics latest company news
+Timestamp: 2026-02-22T10:00:35
+PerPageSummaryWords: 200
+- News - General Dynamics
+  https://www.gd.com/news
+  Your source for General Dynamics news , events and media. Read on for the latest on our products, services and financial performance.
+  LinkedPageStatus: ok (https://www.gd.com/news)
+  LinkedPageSummaryWords: 56
+  LinkedPageSummary:
+  Press Releases | Media Gallery | Media Contacts View our Corporate Sustainability Report to see more stories about how we are working to reduce our environmental impact, protect human rights, promote a diverse and inclusive workforce, and support the communities in which our 100,000 employees live and work. Find the best media contact for your request.
+
+- General Dynamics Corp | Reuters
+  https://www.reuters.com/company/general-dynamics-corp/
+  The latest international General Dynamics Corp news and views from Reuters - one of the world's largest news agencies
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/company/general-dynamics-corp/
+  LinkedPageSummaryWords: 0
+
+- General Dynamics Secures Major Defense Contract as Analysts Lift Stock ...
+  https://finance.yahoo.com/news/general-dynamics-secures-major-defense-213431346.html
+  General Dynamics Corporation (NYSE:GD) is one of the 12 Set-It-and-Forget-It Stocks to Buy Now. The company's rating was upgraded to Buy after being awarded a $1.5 billion contract. The second ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_f75fc117-5dbe-4764-8892-a56009cfbe1b)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- general dynamics News and Press Releases | PR Newswire
+  https://www.prnewswire.com/news/general-dynamics/
+  news News from general dynamics A wide array of domestic and global news stories; news topics include politics/government, business, technology, religion, sports/entertainment, science/nature, and ...
+  LinkedPageStatus: ok (https://www.prnewswire.com/news/general-dynamics/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  General Dynamics (NYSE: GD) today reported quarterly net earnings of $1.1 billion on revenue of $14.4 billion. Diluted earnings per share (EPS) was... General Dynamics (NYSE: GD) will webcast its fourth-quarter and full-year financial results conference call on Wednesday, January 28, beginning at 9... The board of directors of General Dynamics (NYSE: GD) today declared a regular quarterly dividend of $1.50 per share on the company's common stock,... General Dynamics NASSCO, a business unit of General Dynamics (NYSE:GD), announced today that it has been awarded $1.7 billion for the construction of ... General Dynamics (NYSE: GD) today reported third-quarter 2025 operating earnings of $1.3 billion, or $3.88 per diluted share (EPS), on revenue of $12.... General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today that it was awarded the Enterprise... General Dynamics (NYSE: GD) will webcast its third-quarter financial results conference call on Friday, October 24, beginning at 9 a.m. EDT. The live ... General Dynamics Electric Boat, a business unit of General Dynamics (NYSE: GD), announced today it has been awarded a $642 million contract... General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today that it was awarded an
+
+- General Dynamics news | Breaking News
+  https://www.newsnow.com/us/Business/Aerospace+and+Defense/Corporations/General+Dynamics
+  Get the latest General Dynamics news , all in one place. Comprehensive General Dynamics news aggregated from over 14,000 sources from around the world.
+  LinkedPageStatus: ok (https://www.newsnow.com/us/Business/Aerospace+and+Defense/Corporations/General+Dynamics)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  General Dynamics Top Stories Latest News Most Read General Dynamics tests MEDUSA unmanned submarine for rapid mine delivery for U.S. Navy Army Recognition 08:18 Military (World) Arms Trade Aerospace and Defense U.S. Navy taps L3Harris to strengthen nuclear submarine communications for strategic deterrence Army Recognition 05:37 L3Harris Technologies Aircraft Components Manufacturers Sea Defense General Dynamics testing MEDUSA submarine launched mine warfare drone Naval News 04:31 Sea Defense Military (World) Arms Trade Trident missile fire control contract awarded UK Defence Journal 09:07 Military (World) Arms Trade Aerospace and Defense Is General Dynamics stock a 2026 buy after its 2025 earnings beat? The Motley Fool 07:35 Arms Trade Aerospace and Defense L3Harris to deliver communications systems for US Navy submarines Naval Technology 11:33 L3Harris Technologies Virginia Sea Defense L3Harris wins major submarine comms contract UK Defence Journal 11:05 L3Harris Technologies Sea Defense Arms Trade Do Wall Street analysts like General Dynamics stock? Barchart 09:12 Wall Street Arms Trade Aerospace and Defense Rhode Island hockey arena shooting suspect Robert Dorgan wore miniskirts and heels to work,… The Times of India 12:20 Indian Employment Arms Trade Aerospace and Defense Biw confirms Rhode Island hockey arena shooter was active employee Maine Public 17:04 Rhode Island
+
+- Latest news about General Dynamics Corporation - MarketScreener
+  https://www.marketscreener.com/quote/stock/GENERAL-DYNAMICS-CORPORAT-12723/news/
+  General Dynamics Corporation: News , information and stories for General Dynamics Corporation | Nyse: GD | Nyse
+  LinkedPageStatus: ok (https://www.marketscreener.com/quote/stock/GENERAL-DYNAMICS-CORPORAT-12723/news/)
+  LinkedPageSummaryWords: 18
+  LinkedPageSummary:
+  General Dynamics' growth prospects amid record military spending All financial news and data tailored to specific country editions
+
+- General Dynamics News | Markets Insider
+  https://markets.businessinsider.com/news/gd?op=1
+  General Dynamics News : This is the News -site for the company General Dynamics on Markets Insider
+  LinkedPageStatus: ok (https://markets.businessinsider.com/news/gd?op=1)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  TipRanks 21d General Dynamics price target raised to $385 from $360 at Jefferies TipRanks 21d Jefferies Remains a Hold on General Dynamics (GD) Seeking Alpha 21d S&P 500 industrials deliver clean sweep of earnings beats TipRanks 23d General Dynamics awarded $255.13M Navy contract Seeking Alpha 24d York Space Systems jumps after $629M IPO prices above range TipRanks 24d Morgan Stanley Keeps Their Buy Rating on General Dynamics (GD) TipRanks 24d Analysts Offer Insights on Industrial Goods Companies: General Dynamics (GD), CH Robinson (CHRW) and Lennox International (LII) TipRanks 24d General Dynamics (GD) Receives a Rating Update from a Top Analyst TipRanks 24d Analysts Offer Insights on Industrial Goods Companies: General Dynamics (GD), JetBlue Airways (JBLU) and BELIMO Holding AG (OtherBLHWF) TipRanks 24d General Dynamics price target raised to $393 from $388 at UBS TipRanks 24d Analysts Offer Insights on Industrial Goods Companies: General Dynamics (GD) and GE Vernova Inc. (GEV) TipRanks 25d Analysts Have Conflicting Sentiments on These Industrial Goods Companies: General Dynamics (GD) and Lennox International (LII) TipRanks 25d 3 Best Dividend Aristocrat Stocks to Buy Now, 01/28/2026 TipRanks 25d General Dynamics sees improved pricing, margins in FY26 TipRanks 25d General Dynamics says ‘Q4 was strong, bordering on exceptional’
+
+- News Feed - General Dynamics
+  https://www.gd.com/news/news-feed
+  General Dynamics is a global aerospace and defense company . Our broad portfolio of products and services includes business aviation; combat vehicles, weapons systems and munitions; C4ISR and IT solutions; and shipbuilding.
+  LinkedPageStatus: ok (https://www.gd.com/news/news-feed)
+  LinkedPageSummaryWords: 4
+  LinkedPageSummary:
+  News Feed Load More
+
+
+Domain: GeneralDynamics
+Query: General Dynamics latest company news
+Timestamp: 2026-02-22T10:05:26
+PerPageSummaryWords: 200
+- News - General Dynamics
+  https://www.gd.com/news
+  Your source for General Dynamics news , events and media. Read on for the latest on our products, services and financial performance.
+  LinkedPageStatus: ok (https://www.gd.com/news)
+  LinkedPageSummaryWords: 56
+  LinkedPageSummary:
+  Press Releases | Media Gallery | Media Contacts View our Corporate Sustainability Report to see more stories about how we are working to reduce our environmental impact, protect human rights, promote a diverse and inclusive workforce, and support the communities in which our 100,000 employees live and work. Find the best media contact for your request.
+
+- General Dynamics Corp | Reuters
+  https://www.reuters.com/company/general-dynamics-corp/
+  The latest international General Dynamics Corp news and views from Reuters - one of the world's largest news agencies
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/company/general-dynamics-corp/
+  LinkedPageSummaryWords: 0
+
+- General Dynamics Secures Major Defense Contract as Analysts Lift Stock ...
+  https://finance.yahoo.com/news/general-dynamics-secures-major-defense-213431346.html
+  General Dynamics Corporation (NYSE:GD) is one of the 12 Set-It-and-Forget-It Stocks to Buy Now. The company's rating was upgraded to Buy after being awarded a $1.5 billion contract. The second ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_12e60377-5efa-4bdd-a658-f8679b104e22)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- General Dynamics news | Breaking News
+  https://www.newsnow.com/us/Business/Aerospace+and+Defense/Corporations/General+Dynamics
+  Get the latest General Dynamics news , all in one place. Comprehensive General Dynamics news aggregated from over 14,000 sources from around the world.
+  LinkedPageStatus: ok (https://www.newsnow.com/us/Business/Aerospace+and+Defense/Corporations/General+Dynamics)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  General Dynamics Top Stories Latest News Most Read General Dynamics tests MEDUSA unmanned submarine for rapid mine delivery for U.S. Navy Army Recognition 08:18 Military (World) Arms Trade Aerospace and Defense U.S. Navy taps L3Harris to strengthen nuclear submarine communications for strategic deterrence Army Recognition 05:37 L3Harris Technologies Aircraft Components Manufacturers Sea Defense General Dynamics testing MEDUSA submarine launched mine warfare drone Naval News 04:31 Sea Defense Military (World) Arms Trade Trident missile fire control contract awarded UK Defence Journal 09:07 Military (World) Arms Trade Aerospace and Defense Is General Dynamics stock a 2026 buy after its 2025 earnings beat? The Motley Fool 07:35 Arms Trade Aerospace and Defense L3Harris to deliver communications systems for US Navy submarines Naval Technology 11:33 L3Harris Technologies Virginia Sea Defense L3Harris wins major submarine comms contract UK Defence Journal 11:05 L3Harris Technologies Sea Defense Arms Trade Do Wall Street analysts like General Dynamics stock? Barchart 09:12 Wall Street Arms Trade Aerospace and Defense Rhode Island hockey arena shooting suspect Robert Dorgan wore miniskirts and heels to work,… The Times of India 12:20 Indian Employment Arms Trade Aerospace and Defense Biw confirms Rhode Island hockey arena shooter was active employee Maine Public 17:04 Rhode Island
+
+- general dynamics News and Press Releases | PR Newswire
+  https://www.prnewswire.com/news/general-dynamics/
+  news News from general dynamics A wide array of domestic and global news stories; news topics include politics/government, business, technology, religion, sports/entertainment, science/nature, and ...
+  LinkedPageStatus: ok (https://www.prnewswire.com/news/general-dynamics/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  General Dynamics (NYSE: GD) today reported quarterly net earnings of $1.1 billion on revenue of $14.4 billion. Diluted earnings per share (EPS) was... General Dynamics (NYSE: GD) will webcast its fourth-quarter and full-year financial results conference call on Wednesday, January 28, beginning at 9... The board of directors of General Dynamics (NYSE: GD) today declared a regular quarterly dividend of $1.50 per share on the company's common stock,... General Dynamics NASSCO, a business unit of General Dynamics (NYSE:GD), announced today that it has been awarded $1.7 billion for the construction of ... General Dynamics (NYSE: GD) today reported third-quarter 2025 operating earnings of $1.3 billion, or $3.88 per diluted share (EPS), on revenue of $12.... General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today that it was awarded the Enterprise... General Dynamics (NYSE: GD) will webcast its third-quarter financial results conference call on Friday, October 24, beginning at 9 a.m. EDT. The live ... General Dynamics Electric Boat, a business unit of General Dynamics (NYSE: GD), announced today it has been awarded a $642 million contract... General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today that it was awarded an
+
+- Latest news about General Dynamics Corporation - MarketScreener
+  https://www.marketscreener.com/quote/stock/GENERAL-DYNAMICS-CORPORAT-12723/news/
+  General Dynamics Corporation: News , information and stories for General Dynamics Corporation | Nyse: GD | Nyse
+  LinkedPageStatus: ok (https://www.marketscreener.com/quote/stock/GENERAL-DYNAMICS-CORPORAT-12723/news/)
+  LinkedPageSummaryWords: 18
+  LinkedPageSummary:
+  General Dynamics' growth prospects amid record military spending All financial news and data tailored to specific country editions
+
+- General Dynamics Corporation (GD) Latest Press Releases | Seeking Alpha
+  https://seekingalpha.com/symbol/GD/press-releases
+  Stay up to date with all latest press releases from General Dynamics Corporation (GD).
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://seekingalpha.com/symbol/GD/press-releases
+  LinkedPageSummaryWords: 0
+
+- GD - General Dynamics Corp Latest Stock News & Market Updates
+  https://www.stocktitan.net/news/GD/
+  Browse the latest General Dynamics (GD) news , from defense contracts and shipbuilding awards to GDIT technology programs, earnings releases and dividend updates.
+  LinkedPageStatus: ok (https://www.stocktitan.net/news/GD/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Welcome to our dedicated page for General Dynamics news (Ticker: GD ), a resource for investors and traders seeking the latest updates and insights on General Dynamics stock. General Dynamics Corporation (NYSE: GD) is a global aerospace and defense company with operations spanning business aviation, naval ship construction and repair, land combat systems, weapons systems and munitions, and technology products and services. This news page focuses on company developments that relate directly to these activities and to the four reported segments: Aerospace, Marine Systems, Combat Systems and Technologies. News about General Dynamics often includes contract awards and program milestones across its defense and government customer base. For example, public announcements from its General Dynamics Information Technology (GDIT) business unit describe large task orders and contracts to modernize U.S. Navy C5ISR systems and to provide enterprise mission IT services for U.S. Army Europe and Africa. These updates highlight how the Technologies segment supports mission command, secure communications, AI, cloud, cybersecurity and data analytics for defense and government agencies. Another key news theme involves shipbuilding and marine programs within the Marine Systems segment. Releases from General Dynamics NASSCO describe awards to construct additional John Lewis-class fleet replenishment oilers and collaborations with international
+
+
+Domain: GeneralDynamics
+Query: General Dynamics latest company news
+Timestamp: 2026-02-22T10:21:08
+PerPageSummaryWords: 200
+- News - General Dynamics
+  https://www.gd.com/news
+  Your source for General Dynamics news , events and media. Read on for the latest on our products, services and financial performance.
+  LinkedPageStatus: ok (https://www.gd.com/news)
+  LinkedPageSummaryWords: 56
+  LinkedPageSummary:
+  Press Releases | Media Gallery | Media Contacts View our Corporate Sustainability Report to see more stories about how we are working to reduce our environmental impact, protect human rights, promote a diverse and inclusive workforce, and support the communities in which our 100,000 employees live and work. Find the best media contact for your request.
+
+- General Dynamics Secures Major Defense Contract as Analysts Lift Stock ...
+  https://finance.yahoo.com/news/general-dynamics-secures-major-defense-213431346.html
+  General Dynamics Corporation (NYSE:GD) is one of the 12 Set-It-and-Forget-It Stocks to Buy Now. The company's rating was upgraded to Buy after being awarded a $1.5 billion contract. The second ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_1ec0ccf9-942c-47f0-ade4-83fba36c869d)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- General Dynamics Corp | Reuters
+  https://www.reuters.com/company/general-dynamics-corp/
+  The latest international General Dynamics Corp news and views from Reuters - one of the world's largest news agencies
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/company/general-dynamics-corp/
+  LinkedPageSummaryWords: 0
+
+- general dynamics News and Press Releases | PR Newswire
+  https://www.prnewswire.com/news/general-dynamics/
+  news News from general dynamics A wide array of domestic and global news stories; news topics include politics/government, business, technology, religion, sports/entertainment, science/nature, and ...
+  LinkedPageStatus: ok (https://www.prnewswire.com/news/general-dynamics/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  General Dynamics (NYSE: GD) today reported quarterly net earnings of $1.1 billion on revenue of $14.4 billion. Diluted earnings per share (EPS) was... General Dynamics (NYSE: GD) will webcast its fourth-quarter and full-year financial results conference call on Wednesday, January 28, beginning at 9... The board of directors of General Dynamics (NYSE: GD) today declared a regular quarterly dividend of $1.50 per share on the company's common stock,... General Dynamics NASSCO, a business unit of General Dynamics (NYSE:GD), announced today that it has been awarded $1.7 billion for the construction of ... General Dynamics (NYSE: GD) today reported third-quarter 2025 operating earnings of $1.3 billion, or $3.88 per diluted share (EPS), on revenue of $12.... General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today that it was awarded the Enterprise... General Dynamics (NYSE: GD) will webcast its third-quarter financial results conference call on Friday, October 24, beginning at 9 a.m. EDT. The live ... General Dynamics Electric Boat, a business unit of General Dynamics (NYSE: GD), announced today it has been awarded a $642 million contract... General Dynamics Information Technology (GDIT), a business unit of General Dynamics (NYSE:GD), announced today that it was awarded an
+
+- General Dynamics news | Breaking News
+  https://www.newsnow.com/us/Business/Aerospace+and+Defense/Corporations/General+Dynamics
+  Get the latest General Dynamics news , all in one place. Comprehensive General Dynamics news aggregated from over 14,000 sources from around the world.
+  LinkedPageStatus: ok (https://www.newsnow.com/us/Business/Aerospace+and+Defense/Corporations/General+Dynamics)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  General Dynamics Top Stories Latest News Most Read General Dynamics tests MEDUSA unmanned submarine for rapid mine delivery for U.S. Navy Army Recognition 08:18 Military (World) Arms Trade Aerospace and Defense U.S. Navy taps L3Harris to strengthen nuclear submarine communications for strategic deterrence Army Recognition 05:37 L3Harris Technologies Aircraft Components Manufacturers Sea Defense General Dynamics testing MEDUSA submarine launched mine warfare drone Naval News 04:31 Sea Defense Military (World) Arms Trade Trident missile fire control contract awarded UK Defence Journal 09:07 Military (World) Arms Trade Aerospace and Defense Is General Dynamics stock a 2026 buy after its 2025 earnings beat? The Motley Fool 07:35 Arms Trade Aerospace and Defense L3Harris to deliver communications systems for US Navy submarines Naval Technology 11:33 L3Harris Technologies Virginia Sea Defense L3Harris wins major submarine comms contract UK Defence Journal 11:05 L3Harris Technologies Sea Defense Arms Trade Do Wall Street analysts like General Dynamics stock? Barchart 09:12 Wall Street Arms Trade Aerospace and Defense Rhode Island hockey arena shooting suspect Robert Dorgan wore miniskirts and heels to work,… The Times of India 12:20 Indian Employment Arms Trade Aerospace and Defense Biw confirms Rhode Island hockey arena shooter was active employee Maine Public 17:04 Rhode Island
+
+- General Dynamics News | Markets Insider
+  https://markets.businessinsider.com/news/gd?op=1
+  General Dynamics News : This is the News -site for the company General Dynamics on Markets Insider
+  LinkedPageStatus: ok (https://markets.businessinsider.com/news/gd?op=1)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  TipRanks 21d General Dynamics price target raised to $385 from $360 at Jefferies TipRanks 21d Jefferies Remains a Hold on General Dynamics (GD) Seeking Alpha 21d S&P 500 industrials deliver clean sweep of earnings beats TipRanks 23d General Dynamics awarded $255.13M Navy contract Seeking Alpha 24d York Space Systems jumps after $629M IPO prices above range TipRanks 24d Morgan Stanley Keeps Their Buy Rating on General Dynamics (GD) TipRanks 24d Analysts Offer Insights on Industrial Goods Companies: General Dynamics (GD), CH Robinson (CHRW) and Lennox International (LII) TipRanks 24d General Dynamics (GD) Receives a Rating Update from a Top Analyst TipRanks 24d Analysts Offer Insights on Industrial Goods Companies: General Dynamics (GD), JetBlue Airways (JBLU) and BELIMO Holding AG (OtherBLHWF) TipRanks 24d General Dynamics price target raised to $393 from $388 at UBS TipRanks 24d Analysts Offer Insights on Industrial Goods Companies: General Dynamics (GD) and GE Vernova Inc. (GEV) TipRanks 25d Analysts Have Conflicting Sentiments on These Industrial Goods Companies: General Dynamics (GD) and Lennox International (LII) TipRanks 25d 3 Best Dividend Aristocrat Stocks to Buy Now, 01/28/2026 TipRanks 25d General Dynamics sees improved pricing, margins in FY26 TipRanks 25d General Dynamics says ‘Q4 was strong, bordering on exceptional’
+
+- GD - General Dynamics Corp Latest Stock News & Market Updates
+  https://www.stocktitan.net/news/GD/
+  Browse the latest General Dynamics (GD) news , from defense contracts and shipbuilding awards to GDIT technology programs, earnings releases and dividend updates.
+  LinkedPageStatus: ok (https://www.stocktitan.net/news/GD/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Welcome to our dedicated page for General Dynamics news (Ticker: GD ), a resource for investors and traders seeking the latest updates and insights on General Dynamics stock. General Dynamics Corporation (NYSE: GD) is a global aerospace and defense company with operations spanning business aviation, naval ship construction and repair, land combat systems, weapons systems and munitions, and technology products and services. This news page focuses on company developments that relate directly to these activities and to the four reported segments: Aerospace, Marine Systems, Combat Systems and Technologies. News about General Dynamics often includes contract awards and program milestones across its defense and government customer base. For example, public announcements from its General Dynamics Information Technology (GDIT) business unit describe large task orders and contracts to modernize U.S. Navy C5ISR systems and to provide enterprise mission IT services for U.S. Army Europe and Africa. These updates highlight how the Technologies segment supports mission command, secure communications, AI, cloud, cybersecurity and data analytics for defense and government agencies. Another key news theme involves shipbuilding and marine programs within the Marine Systems segment. Releases from General Dynamics NASSCO describe awards to construct additional John Lewis-class fleet replenishment oilers and collaborations with international
+
+- News Feed - General Dynamics
+  https://www.gd.com/news/news-feed
+  General Dynamics is a global aerospace and defense company . Our broad portfolio of products and services includes business aviation; combat vehicles, weapons systems and munitions; C4ISR and IT solutions; and shipbuilding.
+  LinkedPageStatus: ok (https://www.gd.com/news/news-feed)
+  LinkedPageSummaryWords: 4
+  LinkedPageSummary:
+  News Feed Load More
+
+

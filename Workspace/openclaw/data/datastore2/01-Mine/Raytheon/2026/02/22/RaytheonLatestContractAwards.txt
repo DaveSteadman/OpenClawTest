@@ -1,0 +1,207 @@
+Domain: Raytheon
+Query: Raytheon latest contract awards
+Timestamp: 2026-02-22T10:09:16
+PerPageSummaryWords: 200
+- RTX Awarded $1.19B AMRAAM Contract - The Aviationist
+  https://theaviationist.com/2024/09/12/rtx-awarded-1-19b-amraam-contract-the-largest-amraam-award-to-date/
+  This latest contract is particularly interesting as it is the largest AMRAAM award to-date and comes 15 months after Raytheon received a $1.15B AMRAAM contract : as part of the Form, Fit, Function ...
+  LinkedPageStatus: ok (https://theaviationist.com/2024/09/12/rtx-awarded-1-19b-amraam-contract-the-largest-amraam-award-to-date/)
+  LinkedPageSummaryWords: 116
+  LinkedPageSummary:
+  AMRAAM missile (Image credit: RTX) TAGGED: AIM-120 AMRAAM NASAMS RTX David Cenciotti is a journalist based in Rome, Italy. He is the Founder and Editor of “The Aviationist”, one of the world’s most famous and read military aviation blogs. Since 1996, he has written for major worldwide magazines, including Air Forces Monthly, Combat Aircraft, and many others, covering aviation, defense, war, industry, intelligence, crime and cyberwar. He has reported from the U.S., Europe, Australia and Syria, and flown several combat planes with different air forces. He is a former 2nd Lt. of the Italian Air Force, a private pilot and a graduate in Computer Engineering. He has written five books and contributed to many more ones.
+
+- Raytheon Wins $19.3M Contract for Rolling Airframe Missile Support
+  https://thedefensepost.com/2026/01/27/us-raytheon-ram-support/
+  The US Navy has awarded Raytheon a $19.3-million contract modification to continue design agent and engineering support for the Rolling Airframe Missile program.
+  LinkedPageStatus: ok (https://thedefensepost.com/2026/01/27/us-raytheon-ram-support/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The US Navy has awarded Raytheon a $19.3-million contract modification to continue design agent and engineering support for the Rolling Airframe Missile (RAM) program, a key ship self‑defense weapon used by the US and allied navies. The award covers work through March 2028 and includes contributions from Japan, Qatar, South Korea, and Canada under the foreign military sales (FMS) framework. Funding is drawn from a mix of fiscal 2025 and 2026 navy and FMS budgets, while work will be performed primarily in Tucson, Arizona. The RAM is a lightweight, fire‑and‑forget surface‑to‑air missile designed to defend ships against anti‑ship cruise missiles, aircraft, and other close-in threats. It uses a combination of passive radio frequency and infrared guidance in its Block 2 configuration, allowing rapid reaction without external illumination. It is deployed on a broad range of platforms from amphibious assault ships to destroyers via the MK49 Guided Missile Launching System or the SeaRAM close‑in weapon system. Raytheon and the US Navy have continued to invest in RAM production and capability upgrades in recent years. In July 2025, Raytheon secured a roughly $74-million contract — the largest single order for RAM launching systems in more than two decades — to produce new
+
+- RTX Contract Win And Patriot Concerns Shape Valuation And Risk Profile
+  https://finance.yahoo.com/news/rtx-contract-win-patriot-concerns-220907003.html
+  RTX unit Raytheon won a new contract to develop a domestic supply of thin film lithium niobate wafers for U.S. defense and commercial uses. Switzerland is reconsidering its planned purchase of ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_6692a339-a5ba-4c3b-9110-ad4a4cd1b43b)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- News | RTX awarded $1.7 billion contract for LTAMDS | RTX
+  https://www.rtx.com/news/2025/09/23/rtx-awarded-contract-for-ltamds
+  ANDOVER, Mass. (Sept. 23, 2025) - Raytheon , an RTX business, was awarded a U.S. Army contract valued at $1.7 billion to deliver theLower Tier Air and Missile Defense Sensor, or LTAMDS. The contract includes a total quantity of nine radars for the U.S. Army and Poland, which is the first international LTAMDS customer, as well as engineering services, spares, support, development and testing ...
+  LinkedPageStatus: ok (https://www.rtx.com/news/2025/09/23/rtx-awarded-contract-for-ltamds)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  ANDOVER, Mass. (Sept. 23, 2025) – Raytheon, an RTX business, was awarded a U.S. Army contract valued at $1.7 billion to deliver the Lower Tier Air and Missile Defense Sensor , or LTAMDS. The contract includes a total quantity of nine radars for the U.S. Army and Poland, which is the first international LTAMDS customer, as well as engineering services, spares, support, development and testing. LTAMDS has completed eight successful flight tests of increasing complexity to stress the radar and prove its capabilities against real-world threats. This led the Army to validate that the radar has reached Milestone C, initiating the production and deployment phase of the program. LTAMDS is now officially designated a program of record by the U.S. Army and ready to support both its U.S. homeland defense and expeditionary missions. “This latest contract highlights the need for LTAMDS amid increasingly complex and large raid threat tactics and underscores the U.S. Army’s confidence in the system's advanced 360-degree integrated air and missile defense capability,” said Tom Laliberty, president of Land & Air Defense Systems at Raytheon. “After achieving Milestone C earlier this year, Raytheon continues to ramp up production to meet the fast-growing demand from the U.S. Army
+
+- Raytheon Secures $22.8M Army Contract for SMART-T Satellite Comms ...
+  https://envzone.com/award-record/raytheon-secures-22-8m-army-contract-for-smart-t-satellite-comms-support/
+  Raytheon Co., Marlborough, Massachusetts, was awarded a $22,812,164 cost-no-fee, cost-plus-fixed-fee, firm-fixed-price contract for comprehensive maintenance and support services for SMART-T satellite communications systems. Bids were solicited via the internet with one received. Work will be performed in Marlborough, Massachusetts, with an estimated completion date of Aug. 18, 2031. Fiscal ...
+  LinkedPageStatus: ok (https://envzone.com/award-record/raytheon-secures-22-8m-army-contract-for-smart-t-satellite-comms-support/)
+  LinkedPageSummaryWords: 80
+  LinkedPageSummary:
+  Raytheon Co., Marlborough, Massachusetts, was awarded a $22,812,164 cost-no-fee, cost-plus-fixed-fee, firm-fixed-price contract for comprehensive maintenance and support services for SMART-T satellite communications systems. Bids were solicited via the internet with one received. Work will be performed in Marlborough, Massachusetts, with an estimated completion date of Aug. 18, 2031. Fiscal 2026 operation and maintenance, Army funds in the amount of $360,000 were obligated at the time of the award. Army Contracting Command, Aberdeen Proving Ground, Maryland, is the contracting activity (W15P7T-26-C-0001).
+
+- Raytheon: RTX's Raytheon awarded $736 million contract to produce AIM ...
+  https://raytheon.mediaroom.com/2024-10-10-RTXs-Raytheon-awarded-736-million-contract-to-produce-AIM-9X-missiles
+  For more than 100 years, Raytheon has developed new technologies and enhanced existing capabilities in integrated air and missile defense, smart weapons, missiles, advanced sensors and radars, interceptors, space-based systems, hypersonics and missile defense across land, air, sea and space.
+  LinkedPageStatus: ok (https://raytheon.mediaroom.com/2024-10-10-RTXs-Raytheon-awarded-736-million-contract-to-produce-AIM-9X-missiles)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Missile is proven across air-to-air and ground-launch domains TUCSON, Ariz. , Oct. 10, 2024 / PRNewswire / -- Raytheon, an RTX (NYSE: RTX) business, was awarded a $736 million contract from the U.S. Navy to produce AIM-9X® SIDEWINDER® missiles. This contract is for the improved Block II variant, which addresses hardware obsolescence through upgrades to ensure superior performance and long-term reliability. "AIM-9X remains the weapon of choice for short-range air-to-air and surface-to-air missile defense, and worldwide customer demand is strong," said Barbara Borgonovi , president of Naval Power at Raytheon. "We're investing, innovating, and partnering with our U.S. Navy customer to significantly increase our AIM-9X production capacity starting with orders next year." AIM-9X is the most advanced infrared-tracking, short-range, air-to-air and surface-to-air missile in the world. It is configured for easy installation on a wide range of modern aircraft and provides proven layered defense with ground-launched capabilities, including the National Advanced Surface-to-Air Missile System, or NASAMS. A U.S. Navy-led joint program with the U.S. Air Force, AIM-9X is used by over 30 allied and partner nations and continues to gain international interest. In March 2024 , the Czech Republic became the most recent international customer by signing a letter of
+
+- Breaking News: US Concludes Largest AIM-120 AMRAAM Contract to Date to ...
+  https://www.armyrecognition.com/news/army-news/2025/breaking-news-us-concludes-largest-aim-120-amraam-contract-to-date-to-reinforce-air-to-air-defense-posture
+  Amid rising global tensions and growing demand for advanced weapon systems, Raytheon , a division of RTX ( Raytheon Technologies Corp.), has secured the largest contract in the history of the AIM-120 AMRAAM (Advanced Medium Range Air-to-Air Missile) program. Awarded by the U.S. Department of Defense on July 31, 2025, the $3.5 billion agreement covers production lots 39 and 40 and represents a ...
+  LinkedPageStatus: ok (https://www.armyrecognition.com/news/army-news/2025/breaking-news-us-concludes-largest-aim-120-amraam-contract-to-date-to-reinforce-air-to-air-defense-posture)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The contract, structured as a firm fixed-price incentive agreement, does not specify the exact number of missiles to be delivered, although unit costs can exceed one million dollars depending on the variant. It includes production of AMRAAM missiles, telemetry systems, spare parts, and technical support. A substantial portion is allocated to Foreign Military Sales (FMS), benefiting 19 partner nations including the United Kingdom, Germany, Japan, Finland, Poland, Canada, Israel, Ukraine, Australia, Sweden, the Netherlands, and Taiwan. All manufacturing will take place in Tucson, Arizona, with completion expected by the third quarter of fiscal year 2031. Funding for the contract draws from a combination of budget allocations across multiple fiscal years: procurement accounts from the Navy and Air Force, research and development budgets, operations and maintenance funds, as well as FMS contributions, amounting to over $621 million obligated at contract award. The contract was issued through a non-competitive process. Management oversight is being handled by the Air Dominance Division of the Air Force Life Cycle Management Center, based at Eglin Air Force Base in Florida. This announcement follows a previous FMS contract awarded to Raytheon less than a year earlier, valued at $1.2 billion. In a statement, Sam Deneke, president of
+
+- Raytheon secures U.S. contract to establish domestic thin film lithium ...
+  https://defence-industry.eu/raytheon-secures-u-s-contract-to-establish-domestic-thin-film-lithium-niobate-wafer-production-papability/
+  Raytheon has been awarded a contract by the Air Force Research Laboratory to develop a domestic production capability for thin film lithium niobate wafers, a material critical to high-speed secure communications and advanced sensing systems.
+  LinkedPageStatus: ok (https://defence-industry.eu/raytheon-secures-u-s-contract-to-establish-domestic-thin-film-lithium-niobate-wafer-production-papability/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Raytheon has been awarded a contract by the Air Force Research Laboratory to develop a domestic production capability for thin film lithium niobate wafers, a material critical to high-speed secure communications and advanced sensing systems. The effort is intended to reduce reliance on foreign-dominated supply chains and ensure a secure U.S.-based source for both defense and commercial applications. Thin film lithium niobate is used in next-generation photonics across defense systems as well as commercial sectors including artificial intelligence, computing technologies, data centers and telecommunications. Raytheon stated that establishing a domestic alternative would make the material available to the broader defense industrial base and commercial industries. “Global access to TFLN has become increasingly constrained, with supply consolidation leaving U.S. companies vulnerable to international disruptions,” said Colin Whelan, president of Advanced Technology at Raytheon. “Through this effort, Raytheon will stand up an independent U.S. supplier of next generation TFLN, building an open, third-party source that can serve a broad range of defense and commercial customers.” Under the contract, Raytheon’s Advanced Technology team will use its expertise in ion slicing to support U.S.-based company G&H in developing a manufacturing process for high-quality wafers. Once established, production will transition to G&H in early 2026
+
+
+Domain: Raytheon
+Query: Raytheon latest contract awards
+Timestamp: 2026-02-22T10:13:22
+PerPageSummaryWords: 200
+- RTX Awarded $1.19B AMRAAM Contract - The Aviationist
+  https://theaviationist.com/2024/09/12/rtx-awarded-1-19b-amraam-contract-the-largest-amraam-award-to-date/
+  This latest contract is particularly interesting as it is the largest AMRAAM award to-date and comes 15 months after Raytheon received a $1.15B AMRAAM contract : as part of the Form, Fit, Function ...
+  LinkedPageStatus: ok (https://theaviationist.com/2024/09/12/rtx-awarded-1-19b-amraam-contract-the-largest-amraam-award-to-date/)
+  LinkedPageSummaryWords: 116
+  LinkedPageSummary:
+  AMRAAM missile (Image credit: RTX) TAGGED: AIM-120 AMRAAM NASAMS RTX David Cenciotti is a journalist based in Rome, Italy. He is the Founder and Editor of “The Aviationist”, one of the world’s most famous and read military aviation blogs. Since 1996, he has written for major worldwide magazines, including Air Forces Monthly, Combat Aircraft, and many others, covering aviation, defense, war, industry, intelligence, crime and cyberwar. He has reported from the U.S., Europe, Australia and Syria, and flown several combat planes with different air forces. He is a former 2nd Lt. of the Italian Air Force, a private pilot and a graduate in Computer Engineering. He has written five books and contributed to many more ones.
+
+- Raytheon Wins $19.3M Contract for Rolling Airframe Missile Support
+  https://thedefensepost.com/2026/01/27/us-raytheon-ram-support/
+  The US Navy has awarded Raytheon a $19.3-million contract modification to continue design agent and engineering support for the Rolling Airframe Missile program.
+  LinkedPageStatus: ok (https://thedefensepost.com/2026/01/27/us-raytheon-ram-support/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The US Navy has awarded Raytheon a $19.3-million contract modification to continue design agent and engineering support for the Rolling Airframe Missile (RAM) program, a key ship self‑defense weapon used by the US and allied navies. The award covers work through March 2028 and includes contributions from Japan, Qatar, South Korea, and Canada under the foreign military sales (FMS) framework. Funding is drawn from a mix of fiscal 2025 and 2026 navy and FMS budgets, while work will be performed primarily in Tucson, Arizona. The RAM is a lightweight, fire‑and‑forget surface‑to‑air missile designed to defend ships against anti‑ship cruise missiles, aircraft, and other close-in threats. It uses a combination of passive radio frequency and infrared guidance in its Block 2 configuration, allowing rapid reaction without external illumination. It is deployed on a broad range of platforms from amphibious assault ships to destroyers via the MK49 Guided Missile Launching System or the SeaRAM close‑in weapon system. Raytheon and the US Navy have continued to invest in RAM production and capability upgrades in recent years. In July 2025, Raytheon secured a roughly $74-million contract — the largest single order for RAM launching systems in more than two decades — to produce new
+
+- RTX Contract Win And Patriot Concerns Shape Valuation And Risk Profile
+  https://finance.yahoo.com/news/rtx-contract-win-patriot-concerns-220907003.html
+  RTX unit Raytheon won a new contract to develop a domestic supply of thin film lithium niobate wafers for U.S. defense and commercial uses. Switzerland is reconsidering its planned purchase of ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_6b12066a-df74-4117-8589-48916ce616c8)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- News | RTX awarded $1.7 billion contract for LTAMDS | RTX
+  https://www.rtx.com/news/2025/09/23/rtx-awarded-contract-for-ltamds
+  ANDOVER, Mass. (Sept. 23, 2025) - Raytheon , an RTX business, was awarded a U.S. Army contract valued at $1.7 billion to deliver theLower Tier Air and Missile Defense Sensor, or LTAMDS. The contract includes a total quantity of nine radars for the U.S. Army and Poland, which is the first international LTAMDS customer, as well as engineering services, spares, support, development and testing ...
+  LinkedPageStatus: ok (https://www.rtx.com/news/2025/09/23/rtx-awarded-contract-for-ltamds)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  ANDOVER, Mass. (Sept. 23, 2025) – Raytheon, an RTX business, was awarded a U.S. Army contract valued at $1.7 billion to deliver the Lower Tier Air and Missile Defense Sensor , or LTAMDS. The contract includes a total quantity of nine radars for the U.S. Army and Poland, which is the first international LTAMDS customer, as well as engineering services, spares, support, development and testing. LTAMDS has completed eight successful flight tests of increasing complexity to stress the radar and prove its capabilities against real-world threats. This led the Army to validate that the radar has reached Milestone C, initiating the production and deployment phase of the program. LTAMDS is now officially designated a program of record by the U.S. Army and ready to support both its U.S. homeland defense and expeditionary missions. “This latest contract highlights the need for LTAMDS amid increasingly complex and large raid threat tactics and underscores the U.S. Army’s confidence in the system's advanced 360-degree integrated air and missile defense capability,” said Tom Laliberty, president of Land & Air Defense Systems at Raytheon. “After achieving Milestone C earlier this year, Raytheon continues to ramp up production to meet the fast-growing demand from the U.S. Army
+
+- Raytheon Secures $22.8M Army Contract for SMART-T Satellite Comms ...
+  https://envzone.com/award-record/raytheon-secures-22-8m-army-contract-for-smart-t-satellite-comms-support/
+  Raytheon Co., Marlborough, Massachusetts, was awarded a $22,812,164 cost-no-fee, cost-plus-fixed-fee, firm-fixed-price contract for comprehensive maintenance and support services for SMART-T satellite communications systems. Bids were solicited via the internet with one received. Work will be performed in Marlborough, Massachusetts, with an estimated completion date of Aug. 18, 2031. Fiscal ...
+  LinkedPageStatus: ok (https://envzone.com/award-record/raytheon-secures-22-8m-army-contract-for-smart-t-satellite-comms-support/)
+  LinkedPageSummaryWords: 80
+  LinkedPageSummary:
+  Raytheon Co., Marlborough, Massachusetts, was awarded a $22,812,164 cost-no-fee, cost-plus-fixed-fee, firm-fixed-price contract for comprehensive maintenance and support services for SMART-T satellite communications systems. Bids were solicited via the internet with one received. Work will be performed in Marlborough, Massachusetts, with an estimated completion date of Aug. 18, 2031. Fiscal 2026 operation and maintenance, Army funds in the amount of $360,000 were obligated at the time of the award. Army Contracting Command, Aberdeen Proving Ground, Maryland, is the contracting activity (W15P7T-26-C-0001).
+
+- Raytheon: RTX's Raytheon awarded $736 million contract to produce AIM ...
+  https://raytheon.mediaroom.com/2024-10-10-RTXs-Raytheon-awarded-736-million-contract-to-produce-AIM-9X-missiles
+  For more than 100 years, Raytheon has developed new technologies and enhanced existing capabilities in integrated air and missile defense, smart weapons, missiles, advanced sensors and radars, interceptors, space-based systems, hypersonics and missile defense across land, air, sea and space.
+  LinkedPageStatus: ok (https://raytheon.mediaroom.com/2024-10-10-RTXs-Raytheon-awarded-736-million-contract-to-produce-AIM-9X-missiles)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Missile is proven across air-to-air and ground-launch domains TUCSON, Ariz. , Oct. 10, 2024 / PRNewswire / -- Raytheon, an RTX (NYSE: RTX) business, was awarded a $736 million contract from the U.S. Navy to produce AIM-9X® SIDEWINDER® missiles. This contract is for the improved Block II variant, which addresses hardware obsolescence through upgrades to ensure superior performance and long-term reliability. "AIM-9X remains the weapon of choice for short-range air-to-air and surface-to-air missile defense, and worldwide customer demand is strong," said Barbara Borgonovi , president of Naval Power at Raytheon. "We're investing, innovating, and partnering with our U.S. Navy customer to significantly increase our AIM-9X production capacity starting with orders next year." AIM-9X is the most advanced infrared-tracking, short-range, air-to-air and surface-to-air missile in the world. It is configured for easy installation on a wide range of modern aircraft and provides proven layered defense with ground-launched capabilities, including the National Advanced Surface-to-Air Missile System, or NASAMS. A U.S. Navy-led joint program with the U.S. Air Force, AIM-9X is used by over 30 allied and partner nations and continues to gain international interest. In March 2024 , the Czech Republic became the most recent international customer by signing a letter of
+
+- Breaking News: US Concludes Largest AIM-120 AMRAAM Contract to Date to ...
+  https://www.armyrecognition.com/news/army-news/2025/breaking-news-us-concludes-largest-aim-120-amraam-contract-to-date-to-reinforce-air-to-air-defense-posture
+  Amid rising global tensions and growing demand for advanced weapon systems, Raytheon , a division of RTX ( Raytheon Technologies Corp.), has secured the largest contract in the history of the AIM-120 AMRAAM (Advanced Medium Range Air-to-Air Missile) program. Awarded by the U.S. Department of Defense on July 31, 2025, the $3.5 billion agreement covers production lots 39 and 40 and represents a ...
+  LinkedPageStatus: ok (https://www.armyrecognition.com/news/army-news/2025/breaking-news-us-concludes-largest-aim-120-amraam-contract-to-date-to-reinforce-air-to-air-defense-posture)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The contract, structured as a firm fixed-price incentive agreement, does not specify the exact number of missiles to be delivered, although unit costs can exceed one million dollars depending on the variant. It includes production of AMRAAM missiles, telemetry systems, spare parts, and technical support. A substantial portion is allocated to Foreign Military Sales (FMS), benefiting 19 partner nations including the United Kingdom, Germany, Japan, Finland, Poland, Canada, Israel, Ukraine, Australia, Sweden, the Netherlands, and Taiwan. All manufacturing will take place in Tucson, Arizona, with completion expected by the third quarter of fiscal year 2031. Funding for the contract draws from a combination of budget allocations across multiple fiscal years: procurement accounts from the Navy and Air Force, research and development budgets, operations and maintenance funds, as well as FMS contributions, amounting to over $621 million obligated at contract award. The contract was issued through a non-competitive process. Management oversight is being handled by the Air Dominance Division of the Air Force Life Cycle Management Center, based at Eglin Air Force Base in Florida. This announcement follows a previous FMS contract awarded to Raytheon less than a year earlier, valued at $1.2 billion. In a statement, Sam Deneke, president of
+
+- Raytheon secures U.S. contract to establish domestic thin film lithium ...
+  https://defence-industry.eu/raytheon-secures-u-s-contract-to-establish-domestic-thin-film-lithium-niobate-wafer-production-papability/
+  Raytheon has been awarded a contract by the Air Force Research Laboratory to develop a domestic production capability for thin film lithium niobate wafers, a material critical to high-speed secure communications and advanced sensing systems.
+  LinkedPageStatus: ok (https://defence-industry.eu/raytheon-secures-u-s-contract-to-establish-domestic-thin-film-lithium-niobate-wafer-production-papability/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Raytheon has been awarded a contract by the Air Force Research Laboratory to develop a domestic production capability for thin film lithium niobate wafers, a material critical to high-speed secure communications and advanced sensing systems. The effort is intended to reduce reliance on foreign-dominated supply chains and ensure a secure U.S.-based source for both defense and commercial applications. Thin film lithium niobate is used in next-generation photonics across defense systems as well as commercial sectors including artificial intelligence, computing technologies, data centers and telecommunications. Raytheon stated that establishing a domestic alternative would make the material available to the broader defense industrial base and commercial industries. “Global access to TFLN has become increasingly constrained, with supply consolidation leaving U.S. companies vulnerable to international disruptions,” said Colin Whelan, president of Advanced Technology at Raytheon. “Through this effort, Raytheon will stand up an independent U.S. supplier of next generation TFLN, building an open, third-party source that can serve a broad range of defense and commercial customers.” Under the contract, Raytheon’s Advanced Technology team will use its expertise in ion slicing to support U.S.-based company G&H in developing a manufacturing process for high-quality wafers. Once established, production will transition to G&H in early 2026
+
+
+Domain: Raytheon
+Query: Raytheon latest contract awards
+Timestamp: 2026-02-22T10:29:40
+PerPageSummaryWords: 200
+- RTX Awarded $1.19B AMRAAM Contract - The Aviationist
+  https://theaviationist.com/2024/09/12/rtx-awarded-1-19b-amraam-contract-the-largest-amraam-award-to-date/
+  This latest contract is particularly interesting as it is the largest AMRAAM award to-date and comes 15 months after Raytheon received a $1.15B AMRAAM contract : as part of the Form, Fit, Function ...
+  LinkedPageStatus: ok (https://theaviationist.com/2024/09/12/rtx-awarded-1-19b-amraam-contract-the-largest-amraam-award-to-date/)
+  LinkedPageSummaryWords: 116
+  LinkedPageSummary:
+  AMRAAM missile (Image credit: RTX) TAGGED: AIM-120 AMRAAM NASAMS RTX David Cenciotti is a journalist based in Rome, Italy. He is the Founder and Editor of “The Aviationist”, one of the world’s most famous and read military aviation blogs. Since 1996, he has written for major worldwide magazines, including Air Forces Monthly, Combat Aircraft, and many others, covering aviation, defense, war, industry, intelligence, crime and cyberwar. He has reported from the U.S., Europe, Australia and Syria, and flown several combat planes with different air forces. He is a former 2nd Lt. of the Italian Air Force, a private pilot and a graduate in Computer Engineering. He has written five books and contributed to many more ones.
+
+- Raytheon Wins $19.3M Contract for Rolling Airframe Missile Support
+  https://thedefensepost.com/2026/01/27/us-raytheon-ram-support/
+  The US Navy has awarded Raytheon a $19.3-million contract modification to continue design agent and engineering support for the Rolling Airframe Missile program.
+  LinkedPageStatus: ok (https://thedefensepost.com/2026/01/27/us-raytheon-ram-support/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The US Navy has awarded Raytheon a $19.3-million contract modification to continue design agent and engineering support for the Rolling Airframe Missile (RAM) program, a key ship self‑defense weapon used by the US and allied navies. The award covers work through March 2028 and includes contributions from Japan, Qatar, South Korea, and Canada under the foreign military sales (FMS) framework. Funding is drawn from a mix of fiscal 2025 and 2026 navy and FMS budgets, while work will be performed primarily in Tucson, Arizona. The RAM is a lightweight, fire‑and‑forget surface‑to‑air missile designed to defend ships against anti‑ship cruise missiles, aircraft, and other close-in threats. It uses a combination of passive radio frequency and infrared guidance in its Block 2 configuration, allowing rapid reaction without external illumination. It is deployed on a broad range of platforms from amphibious assault ships to destroyers via the MK49 Guided Missile Launching System or the SeaRAM close‑in weapon system. Raytheon and the US Navy have continued to invest in RAM production and capability upgrades in recent years. In July 2025, Raytheon secured a roughly $74-million contract — the largest single order for RAM launching systems in more than two decades — to produce new
+
+- RTX Contract Win And Patriot Concerns Shape Valuation And Risk Profile
+  https://finance.yahoo.com/news/rtx-contract-win-patriot-concerns-220907003.html
+  RTX unit Raytheon won a new contract to develop a domestic supply of thin film lithium niobate wafers for U.S. defense and commercial uses. Switzerland is reconsidering its planned purchase of ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_ff7e5de9-bb0f-42a2-a983-d75539be6de6)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- News | RTX awarded $1.7 billion contract for LTAMDS | RTX
+  https://www.rtx.com/news/2025/09/23/rtx-awarded-contract-for-ltamds
+  ANDOVER, Mass. (Sept. 23, 2025) - Raytheon , an RTX business, was awarded a U.S. Army contract valued at $1.7 billion to deliver theLower Tier Air and Missile Defense Sensor, or LTAMDS. The contract includes a total quantity of nine radars for the U.S. Army and Poland, which is the first international LTAMDS customer, as well as engineering services, spares, support, development and testing ...
+  LinkedPageStatus: ok (https://www.rtx.com/news/2025/09/23/rtx-awarded-contract-for-ltamds)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  ANDOVER, Mass. (Sept. 23, 2025) – Raytheon, an RTX business, was awarded a U.S. Army contract valued at $1.7 billion to deliver the Lower Tier Air and Missile Defense Sensor , or LTAMDS. The contract includes a total quantity of nine radars for the U.S. Army and Poland, which is the first international LTAMDS customer, as well as engineering services, spares, support, development and testing. LTAMDS has completed eight successful flight tests of increasing complexity to stress the radar and prove its capabilities against real-world threats. This led the Army to validate that the radar has reached Milestone C, initiating the production and deployment phase of the program. LTAMDS is now officially designated a program of record by the U.S. Army and ready to support both its U.S. homeland defense and expeditionary missions. “This latest contract highlights the need for LTAMDS amid increasingly complex and large raid threat tactics and underscores the U.S. Army’s confidence in the system's advanced 360-degree integrated air and missile defense capability,” said Tom Laliberty, president of Land & Air Defense Systems at Raytheon. “After achieving Milestone C earlier this year, Raytheon continues to ramp up production to meet the fast-growing demand from the U.S. Army
+
+- Raytheon Secures $22.8M Army Contract for SMART-T Satellite Comms ...
+  https://envzone.com/award-record/raytheon-secures-22-8m-army-contract-for-smart-t-satellite-comms-support/
+  Raytheon Co., Marlborough, Massachusetts, was awarded a $22,812,164 cost-no-fee, cost-plus-fixed-fee, firm-fixed-price contract for comprehensive maintenance and support services for SMART-T satellite communications systems. Bids were solicited via the internet with one received. Work will be performed in Marlborough, Massachusetts, with an estimated completion date of Aug. 18, 2031. Fiscal ...
+  LinkedPageStatus: ok (https://envzone.com/award-record/raytheon-secures-22-8m-army-contract-for-smart-t-satellite-comms-support/)
+  LinkedPageSummaryWords: 80
+  LinkedPageSummary:
+  Raytheon Co., Marlborough, Massachusetts, was awarded a $22,812,164 cost-no-fee, cost-plus-fixed-fee, firm-fixed-price contract for comprehensive maintenance and support services for SMART-T satellite communications systems. Bids were solicited via the internet with one received. Work will be performed in Marlborough, Massachusetts, with an estimated completion date of Aug. 18, 2031. Fiscal 2026 operation and maintenance, Army funds in the amount of $360,000 were obligated at the time of the award. Army Contracting Command, Aberdeen Proving Ground, Maryland, is the contracting activity (W15P7T-26-C-0001).
+
+- Raytheon: RTX's Raytheon awarded $736 million contract to produce AIM ...
+  https://raytheon.mediaroom.com/2024-10-10-RTXs-Raytheon-awarded-736-million-contract-to-produce-AIM-9X-missiles
+  For more than 100 years, Raytheon has developed new technologies and enhanced existing capabilities in integrated air and missile defense, smart weapons, missiles, advanced sensors and radars, interceptors, space-based systems, hypersonics and missile defense across land, air, sea and space.
+  LinkedPageStatus: ok (https://raytheon.mediaroom.com/2024-10-10-RTXs-Raytheon-awarded-736-million-contract-to-produce-AIM-9X-missiles)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Missile is proven across air-to-air and ground-launch domains TUCSON, Ariz. , Oct. 10, 2024 / PRNewswire / -- Raytheon, an RTX (NYSE: RTX) business, was awarded a $736 million contract from the U.S. Navy to produce AIM-9X® SIDEWINDER® missiles. This contract is for the improved Block II variant, which addresses hardware obsolescence through upgrades to ensure superior performance and long-term reliability. "AIM-9X remains the weapon of choice for short-range air-to-air and surface-to-air missile defense, and worldwide customer demand is strong," said Barbara Borgonovi , president of Naval Power at Raytheon. "We're investing, innovating, and partnering with our U.S. Navy customer to significantly increase our AIM-9X production capacity starting with orders next year." AIM-9X is the most advanced infrared-tracking, short-range, air-to-air and surface-to-air missile in the world. It is configured for easy installation on a wide range of modern aircraft and provides proven layered defense with ground-launched capabilities, including the National Advanced Surface-to-Air Missile System, or NASAMS. A U.S. Navy-led joint program with the U.S. Air Force, AIM-9X is used by over 30 allied and partner nations and continues to gain international interest. In March 2024 , the Czech Republic became the most recent international customer by signing a letter of
+
+- Breaking News: US Concludes Largest AIM-120 AMRAAM Contract to Date to ...
+  https://www.armyrecognition.com/news/army-news/2025/breaking-news-us-concludes-largest-aim-120-amraam-contract-to-date-to-reinforce-air-to-air-defense-posture
+  Amid rising global tensions and growing demand for advanced weapon systems, Raytheon , a division of RTX ( Raytheon Technologies Corp.), has secured the largest contract in the history of the AIM-120 AMRAAM (Advanced Medium Range Air-to-Air Missile) program. Awarded by the U.S. Department of Defense on July 31, 2025, the $3.5 billion agreement covers production lots 39 and 40 and represents a ...
+  LinkedPageStatus: ok (https://www.armyrecognition.com/news/army-news/2025/breaking-news-us-concludes-largest-aim-120-amraam-contract-to-date-to-reinforce-air-to-air-defense-posture)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The contract, structured as a firm fixed-price incentive agreement, does not specify the exact number of missiles to be delivered, although unit costs can exceed one million dollars depending on the variant. It includes production of AMRAAM missiles, telemetry systems, spare parts, and technical support. A substantial portion is allocated to Foreign Military Sales (FMS), benefiting 19 partner nations including the United Kingdom, Germany, Japan, Finland, Poland, Canada, Israel, Ukraine, Australia, Sweden, the Netherlands, and Taiwan. All manufacturing will take place in Tucson, Arizona, with completion expected by the third quarter of fiscal year 2031. Funding for the contract draws from a combination of budget allocations across multiple fiscal years: procurement accounts from the Navy and Air Force, research and development budgets, operations and maintenance funds, as well as FMS contributions, amounting to over $621 million obligated at contract award. The contract was issued through a non-competitive process. Management oversight is being handled by the Air Dominance Division of the Air Force Life Cycle Management Center, based at Eglin Air Force Base in Florida. This announcement follows a previous FMS contract awarded to Raytheon less than a year earlier, valued at $1.2 billion. In a statement, Sam Deneke, president of
+
+- Raytheon secures U.S. contract to establish domestic thin film lithium ...
+  https://defence-industry.eu/raytheon-secures-u-s-contract-to-establish-domestic-thin-film-lithium-niobate-wafer-production-papability/
+  Raytheon has been awarded a contract by the Air Force Research Laboratory to develop a domestic production capability for thin film lithium niobate wafers, a material critical to high-speed secure communications and advanced sensing systems.
+  LinkedPageStatus: ok (https://defence-industry.eu/raytheon-secures-u-s-contract-to-establish-domestic-thin-film-lithium-niobate-wafer-production-papability/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Raytheon has been awarded a contract by the Air Force Research Laboratory to develop a domestic production capability for thin film lithium niobate wafers, a material critical to high-speed secure communications and advanced sensing systems. The effort is intended to reduce reliance on foreign-dominated supply chains and ensure a secure U.S.-based source for both defense and commercial applications. Thin film lithium niobate is used in next-generation photonics across defense systems as well as commercial sectors including artificial intelligence, computing technologies, data centers and telecommunications. Raytheon stated that establishing a domestic alternative would make the material available to the broader defense industrial base and commercial industries. “Global access to TFLN has become increasingly constrained, with supply consolidation leaving U.S. companies vulnerable to international disruptions,” said Colin Whelan, president of Advanced Technology at Raytheon. “Through this effort, Raytheon will stand up an independent U.S. supplier of next generation TFLN, building an open, third-party source that can serve a broad range of defense and commercial customers.” Under the contract, Raytheon’s Advanced Technology team will use its expertise in ion slicing to support U.S.-based company G&H in developing a manufacturing process for high-quality wafers. Once established, production will transition to G&H in early 2026
+
+

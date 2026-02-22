@@ -204,24 +204,49 @@ def run_single_config(config_path: Path, args, run_ts: str, skills_root: Path, p
         "tasks_executed": 0,
         "tasks_skipped": 0,
         "tasks_failed": 0,
+        "tasks_attempted": 0,
         "results": [],
     }
 
-    for task in config.get("tasks", []):
+    print(
+        f"[miner:config:start] file={config_path.name} tasks_total={summary['tasks_total']} cadence={args.cadence}",
+        flush=True,
+    )
+
+    for section_index, task in enumerate(config.get("tasks", []), start=1):
+        summary["tasks_attempted"] += 1
         if not isinstance(task, dict):
+            print(
+                f"[miner:section:attempt] file={config_path.name} section={section_index} name=<invalid>",
+                flush=True,
+            )
             summary["tasks_skipped"] += 1
             summary["results"].append({"status": "skipped", "reason": "task entry must be object"})
+            print(
+                f"[miner:section:skip] file={config_path.name} section={section_index} reason=task_entry_must_be_object",
+                flush=True,
+            )
             continue
+
+        section_name = str(task.get("name", "Unnamed Task")).strip() or "Unnamed Task"
+        print(
+            f"[miner:section:attempt] file={config_path.name} section={section_index} name={section_name}",
+            flush=True,
+        )
 
         due, reason = task_is_due(task, run_date=run_date, cadence_filter=args.cadence)
         if not due:
             summary["tasks_skipped"] += 1
             summary["results"].append(
                 {
-                    "name": str(task.get("name", "Unnamed Task")),
+                    "name": section_name,
                     "status": "skipped",
                     "reason": reason,
                 }
+            )
+            print(
+                f"[miner:section:skip] file={config_path.name} section={section_index} name={section_name} reason={reason}",
+                flush=True,
             )
             continue
 
@@ -231,12 +256,21 @@ def run_single_config(config_path: Path, args, run_ts: str, skills_root: Path, p
             summary["tasks_skipped"] += 1
             summary["results"].append(
                 {
-                    "name": str(task.get("name", "Unnamed Task")),
+                    "name": section_name,
                     "status": "skipped",
                     "reason": "max_tasks cap reached",
                 }
             )
+            print(
+                f"[miner:section:skip] file={config_path.name} section={section_index} name={section_name} reason=max_tasks_cap_reached",
+                flush=True,
+            )
             continue
+
+        print(
+            f"[miner:section:start] file={config_path.name} section={section_index} name={section_name}",
+            flush=True,
+        )
 
         try:
             result = run_task(
@@ -250,19 +284,33 @@ def run_single_config(config_path: Path, args, run_ts: str, skills_root: Path, p
             summary["tasks_executed"] += 1
             if result.get("status") == "error":
                 summary["tasks_failed"] += 1
+            section_rc = result.get("exit_code", "n/a")
+            print(
+                f"[miner:section:end] file={config_path.name} section={section_index} name={section_name} status={result.get('status')} rc={section_rc}",
+                flush=True,
+            )
         except Exception as exc:
             summary["tasks_executed"] += 1
             summary["tasks_failed"] += 1
             summary["results"].append(
                 {
-                    "name": str(task.get("name", "Unnamed Task")),
+                    "name": section_name,
                     "status": "error",
                     "error": str(exc),
                 }
             )
+            print(
+                f"[miner:section:end] file={config_path.name} section={section_index} name={section_name} status=error error={exc}",
+                flush=True,
+            )
 
     if summary["tasks_failed"] > 0:
         summary["status"] = "partial_error"
+
+    print(
+        f"[miner:config:end] file={config_path.name} status={summary['status']} attempted={summary['tasks_attempted']} due={summary['tasks_due']} executed={summary['tasks_executed']} failed={summary['tasks_failed']} skipped={summary['tasks_skipped']}",
+        flush=True,
+    )
 
     exit_code = 0 if summary["tasks_failed"] == 0 else 1
     return summary, exit_code
@@ -338,6 +386,7 @@ def main() -> int:
         "configs_executed": 0,
         "configs_failed": 0,
         "tasks_total": 0,
+        "tasks_attempted": 0,
         "tasks_due": 0,
         "tasks_executed": 0,
         "tasks_skipped": 0,
@@ -346,10 +395,15 @@ def main() -> int:
     }
 
     for index, config_path in enumerate(config_paths):
+        print(
+            f"[miner:all-configs] index={index + 1}/{len(config_paths)} file={config_path.name}",
+            flush=True,
+        )
         summary, exit_code = run_single_config(config_path, args, run_ts, skills_root, python_exe)
         aggregate["config_runs"].append(summary)
         aggregate["configs_executed"] += 1
         aggregate["tasks_total"] += int(summary.get("tasks_total", 0))
+        aggregate["tasks_attempted"] += int(summary.get("tasks_attempted", 0))
         aggregate["tasks_due"] += int(summary.get("tasks_due", 0))
         aggregate["tasks_executed"] += int(summary.get("tasks_executed", 0))
         aggregate["tasks_skipped"] += int(summary.get("tasks_skipped", 0))

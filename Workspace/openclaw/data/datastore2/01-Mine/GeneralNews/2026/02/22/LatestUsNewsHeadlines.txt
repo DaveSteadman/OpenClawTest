@@ -1,0 +1,65 @@
+Domain: GeneralNews
+Query: latest US news headlines
+Timestamp: 2026-02-22T16:35:43
+PerPageSummaryWords: 200
+- Breaking News, Latest News and Videos | CNN
+  https://www.cnn.com/
+  View the latest news and breaking news today for U.S ., world, weather, entertainment, politics and health at CNN.com.
+  LinkedPageStatus: ok (https://edition.cnn.com/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  France summons US ambassador Video Tariffs 2:28 Ukraine’s demographic crisis Trump and Greenland Winter Olympics Rondale Moore dies at 25 Deconstructing the tradwife life CNN Ukraine is becoming a nation of widows and orphans as it confronts a demographic ‘catastrophe’ After nearly 4 years of war, Russia is depleted at home and diminished on the world stage Deadly explosions in western Ukraine investigated as ‘terrorist attack’ • Analysis Analysis Kevin Dietsch/Getty Images Analysis Supreme Court gives Trump — and the rest of the GOP — a gift in disguise Live Updates Newsom denounces Trump’s tariff policy: ‘He’s flailing’ Armed man shot and killed in perimeter of Mar-a-Lago Show all • Breaking News Breaking News Joe Raedle/Getty Images • Breaking News Breaking News Breaking News Law enforcement shot and killed an armed man after he breached the secure perimeter of Trump’s Florida home CNN A border district in Texas is flashing warning signs for Republicans in the midterms • Analysis Analysis Carlo Allegri/Reuters Analysis The GOP’s biggest 2026 risk may be hiding in plain sight CNN/Getty Supreme Court conservatives were united against Biden. Here’s why they split against Trump Catch up on today's global news • Source: CNN Video Catch up
+
+- Latest U.S. News | Top headlines from the USA | Reuters
+  https://www.reuters.com/world/us/
+  Reuters.com is your online source for the latest US news stories and current events, ensuring our readers up to date with any breaking news developments
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/world/us/
+  LinkedPageSummaryWords: 0
+
+- US News - The latest headlines from the US | Sky News
+  https://news.sky.com/us
+  The latest news , video and expert analysis from around the United States of America.
+  LinkedPageStatus: ok (https://news.sky.com/us)
+  LinkedPageSummaryWords: 181
+  LinkedPageSummary:
+  Breaking Breaking Live Live Breaking Breaking Live Live White House responds after armed man shot dead at Trump's Florida estate 10 minutes ago 10 mins ago Trump likely 'notified right away' - but no reaction so far 36 minutes ago 36 mins ago White House responds to shooting of 'crazy person' at Mar-a-Lago 53 minutes ago 53 mins ago Watch: 'Quick action on behalf of agents meant nobody inside Mar-a-Lago was in danger' 1 hour ago 1 hr ago Everything we know so far about the Mar-a-Lago shooting 1 hour ago 1 hr ago Mapped: Where the incident took place 1 hour ago 1 hr ago Suspect was from North Carolina and reported missing by family 1 hour ago 1 hr ago Officers told man to 'drop the items' before he raised shotgun 1 hour ago 1 hr ago FBI calls for public to submit evidence as it leads investigation 1 hour ago 1 hr ago Man raised shotgun to shooting position before agents killed him 2 hours ago 2 hrs ago Security officers address media - follow live More updates
+
+- BBC News - Breaking news, video and the latest top stories from the U.S ...
+  https://www.bbc.com/news
+  Visit BBC News for the latest news , breaking news , video, audio and analysis. BBC News provides trusted World, U.S . and U.K. news as well as local and regional perspectives. Also entertainment ...
+  LinkedPageStatus: ok (https://www.bbc.com/news)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Authorities say the US president was not in Florida when a suspect carrying a shotgun and fuel can was killed. US envoy Steve Witkoff says the president is puzzled why Iran has not yet compromised in the face of a major American military build-up nearby. Mike Huckabee suggested Israel would be justified in taking much of the Middle East on Biblical grounds. After most of his tariffs were outlawed on Friday, Trump announced new global tariffs of 10% - which he says he has now increased to 15%. The Met says it has not identified any wrongdoing by its protection officers "at this time". Twenty-five people were injured by explosions overnight in what officials are calling a terror attack. United States win the men's Olympic ice hockey gold medal for the first time in 46 years by beating neighbours Canada in overtime. Just a year into Trump's second term, and about half of Project 2025's policies have been implemented, observers say. Johannes Hoesflot Klaebo, Norway's king of cross-country skiing, breaks the record for the most gold medals won at a single Winter Olympics with his sixth of the Games. Who are Great Britain's silver medal-winning curlers? And what might be
+
+- CBS News | Breaking news, top stories & today's latest headlines
+  https://www.cbsnews.com/
+  CBS News offers breaking news coverage of today's top headlines . Stay informed on the biggest new stories with our balanced, trustworthy reporting.
+  LinkedPageStatus: ok (https://www.cbsnews.com/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Through a sudden death overtime goal, the U.S. men's hockey team is golden over Canada. On Friday, President Trump signed a proclamation that would impose 10% tariffs on most foreign imports to the United States. A man in his early 20s was shot and killed early Sunday morning after an "unauthorized entry" into the secure perimeter at President Trump's Mar-a-Lago estate, the U.S. Secret Service said. Blizzard warnings were issued Saturday for New York City, New Jersey and coastal communities along the East Coast. Ruben Ray Martinez was fatally shot in South Padre Island, Texas, in March 2025. ICE's involvement in the shooting was not disclosed until more than 11 months after the shooting. The U.S. State Department's Counterterrorism Bureau shared a post on X about Quentin Deranque, a far-right activist, who died of brain injuries after being beaten. Homeland Security Secretary Kristi Noem said in a statement that TSA and Customs and Border Protection "are prioritizing the general traveling population at our airports and ports of entry and suspending courtesy and special privilege escorts." All nine avalanche victims have been recovered from California's Sierra Nevada, Nevada County Sheriff Shannan Moon said Saturday at a news conference. Minnesota Vikings wide
+
+- U.S. News: Top U.S. News Today | AP News
+  https://apnews.com/us-news
+  View the latest national news from The Associated Press. Stay tuned in to all of the current events within the U.S . borders and breaking U.S . news stories.
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- Google News - Headlines
+  https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB
+  Read full articles, watch videos, browse thousands of titles and more on the " Headlines " topic with Google News .
+  LinkedPageStatus: ok (https://consent.google.com/ml?continue=https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB&gl=GB&hl=en-US&cm=2&pc=n&src=1&escs=AZ8E49CeHEMZAvWFANA635OGV_Z2aXDWRtzVsEeXuvkSW9KJrpQfDJ-B6Y0MhPyQHw73zRNgiJM_4gWwj-mBIigApohzsOstWW9A)
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  Select “More options” to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+- NBC News - Breaking Headlines and Video Reports on World, U.S. and ...
+  https://www.nbcnews.com/
+  Go to NBCNews.com for breaking news , videos, and the latest top stories in world news , business, politics, health and pop culture.
+  LinkedPageStatus: ok (https://www.nbcnews.com/)
+  LinkedPageSummaryWords: 11
+  LinkedPageSummary:
+  Man killed at Mar-a-Lago appeared to raise a shotgun, officials said
+
+

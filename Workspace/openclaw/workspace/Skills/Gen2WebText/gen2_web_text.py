@@ -466,6 +466,25 @@ def main():
 
     navigator = FolderNavigator.from_fixed_point()
 
+    filename = url_to_filename(start_url)
+    log_dir = navigator.get_today_path(area="mine", domain=domain, create=True)
+    existing_log_file = log_dir / f"{filename}.txt"
+    if existing_log_file.exists():
+        print(
+            json.dumps(
+                {
+                    "domain": domain,
+                    "url": start_url,
+                    "results": [],
+                    "links_processed": 0,
+                    "log_path": str(existing_log_file),
+                    "status": "skipped_existing_output",
+                },
+                ensure_ascii=False,
+            )
+        )
+        return 0
+
     try:
         start_html, resolved_start_url = fetch_html(start_url, timeout_seconds)
         start_text = extract_readable_text(start_html)

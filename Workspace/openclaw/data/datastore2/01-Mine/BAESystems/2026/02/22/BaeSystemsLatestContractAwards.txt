@@ -1,0 +1,256 @@
+Domain: BAESystems
+Query: BAE Systems latest contract awards
+Timestamp: 2026-02-22T09:58:01
+PerPageSummaryWords: 200
+- BAE Systems Wins $35B in Contracts So Far in 2025 - The Defense Post
+  https://thedefensepost.com/2025/11/14/bae-systems-2025-contracts/
+  Key Orders Secured in 2025 BAE Systems' contracts this year span aviation, naval, ground, and electronic systems . Among the most notable awards is a four-billion euro contract to build 20 Eurofighter Typhoon aircraft and integrate weapons systems for Turkey, with deliveries expected to begin in 2030.
+  LinkedPageStatus: ok (https://thedefensepost.com/2025/11/14/bae-systems-2025-contracts/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems has already won more than 27 billion pounds ($35 billion) in contracts in 2025, reflecting strong global demand for its defense platforms and technologies. Trading in the second half of the year has remained in line with expectations, the company said in a market update . It noted that operational performance “continues to be strong” as it delivers critical capabilities across combat aircraft, submarines, missile systems, and electronic warfare. The surge in contracts highlights the continuing impact of rising defense budgets and NATO modernization programs on global procurement. “These programmes not only strengthen national security, but also support thousands of skilled jobs and generate significant export value for the UK economy,” BAE Systems Chief Executive Charles Woodburn said. BAE Systems said it remains committed to its capital allocation strategy, including continued investment in technology, selective acquisitions, and shareholder returns — totaling around 1.5 billion pounds ($1.9 billion) in 2025 through dividends and share buybacks. BAE Systems’ contracts this year span aviation, naval, ground, and electronic systems. Among the most notable awards is a four-billion euro contract to build 20 Eurofighter Typhoon aircraft and integrate weapons systems for Turkey, with deliveries expected to begin in 2030. In the US,
+
+- News releases - BAE Systems
+  https://www.baesystems.com/en-uk/newsroom/news-releases
+  Investment to deliver advanced new radar for Royal Air Force Typhoons The UK Ministry of Defence has awarded BAE Systems a contract worth £453.5 million for the full production of a new advanced radar for UK Typhoon aircraft.
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- U.S. Air Force awards $145 million sole-source contract to BAE Systems ...
+  https://defence-industry.eu/u-s-air-force-awards-145-million-sole-source-contract-to-bae-systems-for-dual-mode-apkws-upgrade/
+  The contract is structured as an Indefinite Delivery/Indefinite Quantity agreement and is expected to be awarded on a sole-source basis to BAE Systems in Hudson, New Hampshire. Work must begin no later than the second quarter of fiscal year 2026 to meet operational timelines set by U.S. Central Command and Air Force Central Command.
+  LinkedPageStatus: error: HTTPSConnectionPool(host='defence-industry.eu', port=443): Read timed out. (read timeout=15)
+  LinkedPageSummaryWords: 0
+
+- BAE Systems wins $1.7 billion US Navy contract | Reuters
+  https://www.reuters.com/business/aerospace-defense/bae-systems-wins-17-billion-us-navy-contract-2025-12-10/
+  Dec 10 (Reuters) - BAE Systems (BAES.L), opens new tab, Britain's biggest defence company, said on Wednesday that the U.S. Navy had awarded it a five-year contract worth up to $1.7 billion to ...
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/aerospace-defense/bae-systems-wins-17-billion-us-navy-contract-2025-12-10/
+  LinkedPageSummaryWords: 0
+
+- BAE Systems sees order intake surpass £27bn - Naval Technology
+  https://www.naval-technology.com/news/bae-system-trading-update/
+  In Electronic Systems , BAE Systems secured around $3.3bn in orders, comprising incremental funding for Space & Mission Systems and various electronics programmes, as well as new contracts for the Advanced Precision Kill Weapon System (APKWS) and Multifunctional Information Distribution System Joint Tactical Radio Systems .
+  LinkedPageStatus: ok (https://www.naval-technology.com/news/bae-system-trading-update/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems has reported that its performance in the second half of fiscal 2025 is meeting expectations, driven by positive momentum in order intake. The company has received more than £27bn ($35bn) in orders so far this year. Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. Key contract awards in the second half include around £4bn for the construction of 20 Typhoon aircraft and weapons integration for Türkiye, where first delivery is set for 2030. In Electronic Systems, BAE Systems secured around $3.3bn in orders, comprising incremental funding for Space & Mission Systems and various electronics programmes, as well as new contracts for the Advanced Precision Kill Weapon System (APKWS) and Multifunctional Information Distribution System Joint Tactical Radio Systems. The group also received approximately $1.7bn in funding supporting US combat vehicle production across ongoing AMPV, Bradley and M109 programmes. Additionally, it secured almost £1.1bn of MBDA orders for domestic and export contracts, and £900m to continue work on Dreadnought programme design and build activities. Don’t let policy changes catch you off guard. Stay proactive with real-time data and expert analysis. BAE Systems also expected the recent agreement between the Norwegian and UK governments
+
+- BAE Systems awarded $145 million Pentagon contract for anti-drone systems
+  https://www.msn.com/en-ie/money/technology/bae-systems-awarded-145-million-pentagon-contract-for-anti-drone-systems/ar-AA1Wtx01
+  The U.S. Department of War has awarded BAE Systems a $145 million contract to develop and produce weapons designed to counter unmanned aerial systems .
+  LinkedPageStatus: ok (https://www.msn.com/en-ie/money/technology/bae-systems-awarded-145-million-pentagon-contract-for-anti-drone-systems/ar-AA1Wtx01)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Britain's BAE Systems positions for 'new era' of defense spending
+  https://www.cnbc.com/2026/02/18/bae-systems-defense-spending-europe-military-geopolitics-weapons.html
+  BAE Systems is positioning for a "new era" in defense spending underpinned by what CEO Charles Woodburn called "escalating security challenges." The British weapons manufacturer secured £36.8 ...
+  LinkedPageStatus: ok (https://www.cnbc.com/2026/02/18/bae-systems-defense-spending-europe-military-geopolitics-weapons.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems attracted record orders in 2025, and now the UK defense staple is setting its sights on years of growth amid a global ramp-up in spending. Its shares rose 3.6% on Wednesday after its full-year earnings report showed sales soared 10% last year to reach a record £30.7 billion ($41.7 billion). That helped push operating profits to £2.93 billion, a 9% year-on-year increase, as revenues grew 8% to £28.3 billion. The FTSE 100 -listed company, which manufactures a range of aircraft, weapons, munitions and warships, saw its order backlog hit £83.6 billion, a £5.8 billion increase from 2024. Now, BAE is preparing to capitalize on years of future growth as geopolitical fissures usher in what CEO Charles Woodburn called a "new era of defense spending" driven by "escalating security challenges." The company expects sales to grow by between 7% and 9% in 2026, with guidance for cumulative free cash flow between 2026 and 2028 in excess of £6 billion. "We're well positioned to provide both the advanced conventional systems and disruptive technologies needed to protect the nations we serve now and into the future," Woodburn said in a statement accompanying Wednesday's earnings. "With a record order backlog and continuing
+
+- USAF To Award Sole Source Contract To BAE Systems To Resolve Deficiency ...
+  https://www.aviationtoday.com/2026/02/19/usaf-to-award-sole-source-contract-to-bae-systems-to-resolve-deficiency-reports-on-alr-56/
+  The Air Force is to award BAE Systems a sole source contract to resolve deficiency reports (DRs) for the company's ALR-56 radar warning receivers (RWRs) on F-15 and F-16 fighters and C-130 ...
+  LinkedPageStatus: ok (https://www.aviationtoday.com/2026/02/19/usaf-to-award-sole-source-contract-to-bae-systems-to-resolve-deficiency-reports-on-alr-56/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Pictured is a U.S. Air Force photo of F-16s with the 49th Fighter Wing, as they prepare for take-off from Luke AFB, Ariz. on Jan. 29, 2-26. The Air Force is to award BAE Systems a sole source contract to resolve deficiency reports (DRs) for the company’s ALR-56 radar warning receivers (RWRs) on F-15 and F-16 fighters and C-130 airlifters. “This effort will resolve software and hardware issues experienced by both the depot and intermediate maintenance levels in support and maintenance of the ALR‐56C/M,” according to a justification and approval (J&A) for the planned sole sourcing to BAE Systems. The Air Force’s F-15E Strike Eagles by Boeing carry the ALR-56C, but the service has begun replacing those RWRs with BAE Systems’ AN/ALQ-250 F-15 Eagle Passive Active Warning Survivability System (EPAWSS) for F-15Es and F-15EXs. In January last year, the Air Force said that Boeing had received a nearly $616 million cost-plus contract through Dec. 31 2030, for full rate production of EPAWSS. The ALR-56M is the RWR on the F-16s and C-130s by Lockheed Martin. Hardware for the ALR-56s, developed in the 1980s and early 1990s, “has been upgraded extensively to extend their usable life spans,” according to the J&A
+
+
+Domain: BAESystems
+Query: BAE Systems latest contract awards
+Timestamp: 2026-02-22T10:02:51
+PerPageSummaryWords: 200
+- BAE Systems Wins $35B in Contracts So Far in 2025 - The Defense Post
+  https://thedefensepost.com/2025/11/14/bae-systems-2025-contracts/
+  Key Orders Secured in 2025 BAE Systems' contracts this year span aviation, naval, ground, and electronic systems . Among the most notable awards is a four-billion euro contract to build 20 Eurofighter Typhoon aircraft and integrate weapons systems for Turkey, with deliveries expected to begin in 2030.
+  LinkedPageStatus: ok (https://thedefensepost.com/2025/11/14/bae-systems-2025-contracts/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems has already won more than 27 billion pounds ($35 billion) in contracts in 2025, reflecting strong global demand for its defense platforms and technologies. Trading in the second half of the year has remained in line with expectations, the company said in a market update . It noted that operational performance “continues to be strong” as it delivers critical capabilities across combat aircraft, submarines, missile systems, and electronic warfare. The surge in contracts highlights the continuing impact of rising defense budgets and NATO modernization programs on global procurement. “These programmes not only strengthen national security, but also support thousands of skilled jobs and generate significant export value for the UK economy,” BAE Systems Chief Executive Charles Woodburn said. BAE Systems said it remains committed to its capital allocation strategy, including continued investment in technology, selective acquisitions, and shareholder returns — totaling around 1.5 billion pounds ($1.9 billion) in 2025 through dividends and share buybacks. BAE Systems’ contracts this year span aviation, naval, ground, and electronic systems. Among the most notable awards is a four-billion euro contract to build 20 Eurofighter Typhoon aircraft and integrate weapons systems for Turkey, with deliveries expected to begin in 2030. In the US,
+
+- News releases - BAE Systems
+  https://www.baesystems.com/en-uk/newsroom/news-releases
+  Investment to deliver advanced new radar for Royal Air Force Typhoons The UK Ministry of Defence has awarded BAE Systems a contract worth £453.5 million for the full production of a new advanced radar for UK Typhoon aircraft.
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- Britain's BAE Systems positions for 'new era' of defense spending
+  https://www.cnbc.com/2026/02/18/bae-systems-defense-spending-europe-military-geopolitics-weapons.html
+  BAE Systems is positioning for a "new era" in defense spending underpinned by what CEO Charles Woodburn called "escalating security challenges." The British weapons manufacturer secured £36.8 ...
+  LinkedPageStatus: ok (https://www.cnbc.com/2026/02/18/bae-systems-defense-spending-europe-military-geopolitics-weapons.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems attracted record orders in 2025, and now the UK defense staple is setting its sights on years of growth amid a global ramp-up in spending. Its shares rose 3.6% on Wednesday after its full-year earnings report showed sales soared 10% last year to reach a record £30.7 billion ($41.7 billion). That helped push operating profits to £2.93 billion, a 9% year-on-year increase, as revenues grew 8% to £28.3 billion. The FTSE 100 -listed company, which manufactures a range of aircraft, weapons, munitions and warships, saw its order backlog hit £83.6 billion, a £5.8 billion increase from 2024. Now, BAE is preparing to capitalize on years of future growth as geopolitical fissures usher in what CEO Charles Woodburn called a "new era of defense spending" driven by "escalating security challenges." The company expects sales to grow by between 7% and 9% in 2026, with guidance for cumulative free cash flow between 2026 and 2028 in excess of £6 billion. "We're well positioned to provide both the advanced conventional systems and disruptive technologies needed to protect the nations we serve now and into the future," Woodburn said in a statement accompanying Wednesday's earnings. "With a record order backlog and continuing
+
+- U.S. Air Force awards $145 million sole-source contract to BAE Systems ...
+  https://defence-industry.eu/u-s-air-force-awards-145-million-sole-source-contract-to-bae-systems-for-dual-mode-apkws-upgrade/
+  The contract is structured as an Indefinite Delivery/Indefinite Quantity agreement and is expected to be awarded on a sole-source basis to BAE Systems in Hudson, New Hampshire. Work must begin no later than the second quarter of fiscal year 2026 to meet operational timelines set by U.S. Central Command and Air Force Central Command.
+  LinkedPageStatus: ok (https://defence-industry.eu/u-s-air-force-awards-145-million-sole-source-contract-to-bae-systems-for-dual-mode-apkws-upgrade/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The U.S. Air Force has released details of a $145 million contract action to develop and integrate an Air-to-Air Dual Mode weapon based on the Advanced Precision Kill Weapon System. The effort is designed to counter large groups of unmanned aerial systems, particularly lower-cost Group 3 drones. According to a Justification and Approval document published February 13, 2026, the program supports a Joint Urgent Operational Need issued by combatant commanders in August 2024. The requirement was driven by what officials described as “growing risks from mass attacks involving lower-cost Group 3 drones, potentially numbering in the hundreds,” especially within the U.S. Central Command area of responsibility. The program centers on upgrading the AGR-20F APKWS rocket, also known as FALCO, to create prototype air-to-air rounds. The new configuration adds a nose-mounted Long Wave Infrared seeker, a mid-body warhead, and a dual safe proximity fuze intended to defeat Group 3 unmanned aerial system threats. According to the document, the design allows a handoff from laser designation to infrared homing, reducing the time aircrews must maintain laser contact with a target. The Air Force stated that “the modification minimizes exposure during engagements while allowing faster targeting cycles against multiple airborne threats,” while keeping
+
+- BAE Systems wins $1.7 billion US Navy contract | Reuters
+  https://www.reuters.com/business/aerospace-defense/bae-systems-wins-17-billion-us-navy-contract-2025-12-10/
+  Dec 10 (Reuters) - BAE Systems (BAES.L), opens new tab, Britain's biggest defence company, said on Wednesday that the U.S. Navy had awarded it a five-year contract worth up to $1.7 billion to ...
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/aerospace-defense/bae-systems-wins-17-billion-us-navy-contract-2025-12-10/
+  LinkedPageSummaryWords: 0
+
+- BAE Systems sees order intake surpass £27bn - Naval Technology
+  https://www.naval-technology.com/news/bae-system-trading-update/
+  In Electronic Systems , BAE Systems secured around $3.3bn in orders, comprising incremental funding for Space & Mission Systems and various electronics programmes, as well as new contracts for the Advanced Precision Kill Weapon System (APKWS) and Multifunctional Information Distribution System Joint Tactical Radio Systems .
+  LinkedPageStatus: ok (https://www.naval-technology.com/news/bae-system-trading-update/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems has reported that its performance in the second half of fiscal 2025 is meeting expectations, driven by positive momentum in order intake. The company has received more than £27bn ($35bn) in orders so far this year. Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. Key contract awards in the second half include around £4bn for the construction of 20 Typhoon aircraft and weapons integration for Türkiye, where first delivery is set for 2030. In Electronic Systems, BAE Systems secured around $3.3bn in orders, comprising incremental funding for Space & Mission Systems and various electronics programmes, as well as new contracts for the Advanced Precision Kill Weapon System (APKWS) and Multifunctional Information Distribution System Joint Tactical Radio Systems. The group also received approximately $1.7bn in funding supporting US combat vehicle production across ongoing AMPV, Bradley and M109 programmes. Additionally, it secured almost £1.1bn of MBDA orders for domestic and export contracts, and £900m to continue work on Dreadnought programme design and build activities. Don’t let policy changes catch you off guard. Stay proactive with real-time data and expert analysis. BAE Systems also expected the recent agreement between the Norwegian and UK governments
+
+- BAE Systems awarded $145 million Pentagon contract for anti-drone systems
+  https://www.msn.com/en-ie/money/technology/bae-systems-awarded-145-million-pentagon-contract-for-anti-drone-systems/ar-AA1Wtx01
+  The U.S. Department of War has awarded BAE Systems a $145 million contract to develop and produce weapons designed to counter unmanned aerial systems .
+  LinkedPageStatus: ok (https://www.msn.com/en-ie/money/technology/bae-systems-awarded-145-million-pentagon-contract-for-anti-drone-systems/ar-AA1Wtx01)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- BAE Systems Awarded UK MoD RECODE Contract | Joint Forces News
+  https://www.joint-forces.com/uk-news/79554-bae-systems-awarded-uk-mod-recode-contract
+  BAE Systems has been awarded a RECODE contract by UK MoD to support the Royal Navy's Shared Infrastructure, CMS and warship networks. ~ Press Release, London, 28 January 2025: BAE Systems has been awarded a £285m contract by the Ministry of Defence to support the Royal Navy's Shared Infrastructure, Combat Management Systems (CMS) and warship networks. RECODE is an eight-year programme ...
+  LinkedPageStatus: ok (https://www.joint-forces.com/uk-news/79554-bae-systems-awarded-uk-mod-recode-contract)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Press Release, London, 28 January 2025 : BAE Systems has been awarded a £285m contract by the Ministry of Defence to support the Royal Navy’s Shared Infrastructure, Combat Management Systems (CMS) and warship networks. RECODE is an eight-year programme ensuring the Navy’s fleet is armed and ready for evolving military challenges. It is tailored to meet the Royal Navy’s future operational needs and will deliver a modernisation programme at pace to enable the agile deployment of capabilities. The contract award builds on 13 years of collaboration with the Royal Navy in which the BAE Systems’ CMS is used across a wide range of naval assets. RECODE will support more than 200 highly-skilled jobs at BAE Systems’ Naval Ships business across the Company’s sites in Filton, Dorchester, New Malden, Frimley and Portsmouth. It will also create additional investment in UK SME and high-tech suppliers across the UK. Steve Carter, Naval Ships Combat Systems Director, BAE Systems, said: “RECODE represents a huge stride forward in our partnership with the Royal Navy and will help to realise warfare capability of the future. The global threat picture, advances in commercial technology and the immense volume of data available to crews means we need to
+
+
+Domain: BAESystems
+Query: BAE Systems latest contract awards
+Timestamp: 2026-02-22T10:18:31
+PerPageSummaryWords: 200
+- BAE Systems Wins $35B in Contracts So Far in 2025 - The Defense Post
+  https://thedefensepost.com/2025/11/14/bae-systems-2025-contracts/
+  Key Orders Secured in 2025 BAE Systems' contracts this year span aviation, naval, ground, and electronic systems . Among the most notable awards is a four-billion euro contract to build 20 Eurofighter Typhoon aircraft and integrate weapons systems for Turkey, with deliveries expected to begin in 2030.
+  LinkedPageStatus: ok (https://thedefensepost.com/2025/11/14/bae-systems-2025-contracts/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems has already won more than 27 billion pounds ($35 billion) in contracts in 2025, reflecting strong global demand for its defense platforms and technologies. Trading in the second half of the year has remained in line with expectations, the company said in a market update . It noted that operational performance “continues to be strong” as it delivers critical capabilities across combat aircraft, submarines, missile systems, and electronic warfare. The surge in contracts highlights the continuing impact of rising defense budgets and NATO modernization programs on global procurement. “These programmes not only strengthen national security, but also support thousands of skilled jobs and generate significant export value for the UK economy,” BAE Systems Chief Executive Charles Woodburn said. BAE Systems said it remains committed to its capital allocation strategy, including continued investment in technology, selective acquisitions, and shareholder returns — totaling around 1.5 billion pounds ($1.9 billion) in 2025 through dividends and share buybacks. BAE Systems’ contracts this year span aviation, naval, ground, and electronic systems. Among the most notable awards is a four-billion euro contract to build 20 Eurofighter Typhoon aircraft and integrate weapons systems for Turkey, with deliveries expected to begin in 2030. In the US,
+
+- Market Update Nov 2025 | Newsroom
+  https://www.baesystems.com/en/article/market-update-nov-2025
+  c.$3.3bn in Electronic Systems , including incremental funding for Space & Mission Systems and electronics programmes, as well as new awards for APKWS and Multifunctional Information Distribution System Joint Tactical Radio Systems . c.$1.7bn in funding for US combat vehicle production including ongoing AMPV, Bradley and M109 programmes.
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- U.S. Air Force awards $145 million sole-source contract to BAE Systems ...
+  https://defence-industry.eu/u-s-air-force-awards-145-million-sole-source-contract-to-bae-systems-for-dual-mode-apkws-upgrade/
+  The contract is structured as an Indefinite Delivery/Indefinite Quantity agreement and is expected to be awarded on a sole-source basis to BAE Systems in Hudson, New Hampshire. Work must begin no later than the second quarter of fiscal year 2026 to meet operational timelines set by U.S. Central Command and Air Force Central Command.
+  LinkedPageStatus: ok (https://defence-industry.eu/u-s-air-force-awards-145-million-sole-source-contract-to-bae-systems-for-dual-mode-apkws-upgrade/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The U.S. Air Force has released details of a $145 million contract action to develop and integrate an Air-to-Air Dual Mode weapon based on the Advanced Precision Kill Weapon System. The effort is designed to counter large groups of unmanned aerial systems, particularly lower-cost Group 3 drones. According to a Justification and Approval document published February 13, 2026, the program supports a Joint Urgent Operational Need issued by combatant commanders in August 2024. The requirement was driven by what officials described as “growing risks from mass attacks involving lower-cost Group 3 drones, potentially numbering in the hundreds,” especially within the U.S. Central Command area of responsibility. The program centers on upgrading the AGR-20F APKWS rocket, also known as FALCO, to create prototype air-to-air rounds. The new configuration adds a nose-mounted Long Wave Infrared seeker, a mid-body warhead, and a dual safe proximity fuze intended to defeat Group 3 unmanned aerial system threats. According to the document, the design allows a handoff from laser designation to infrared homing, reducing the time aircrews must maintain laser contact with a target. The Air Force stated that “the modification minimizes exposure during engagements while allowing faster targeting cycles against multiple airborne threats,” while keeping
+
+- Britain's BAE Systems positions for 'new era' of defense spending
+  https://www.cnbc.com/2026/02/18/bae-systems-defense-spending-europe-military-geopolitics-weapons.html
+  BAE Systems is positioning for a "new era" in defense spending underpinned by what CEO Charles Woodburn called "escalating security challenges." The British weapons manufacturer secured £36.8 ...
+  LinkedPageStatus: ok (https://www.cnbc.com/2026/02/18/bae-systems-defense-spending-europe-military-geopolitics-weapons.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems attracted record orders in 2025, and now the UK defense staple is setting its sights on years of growth amid a global ramp-up in spending. Its shares rose 3.6% on Wednesday after its full-year earnings report showed sales soared 10% last year to reach a record £30.7 billion ($41.7 billion). That helped push operating profits to £2.93 billion, a 9% year-on-year increase, as revenues grew 8% to £28.3 billion. The FTSE 100 -listed company, which manufactures a range of aircraft, weapons, munitions and warships, saw its order backlog hit £83.6 billion, a £5.8 billion increase from 2024. Now, BAE is preparing to capitalize on years of future growth as geopolitical fissures usher in what CEO Charles Woodburn called a "new era of defense spending" driven by "escalating security challenges." The company expects sales to grow by between 7% and 9% in 2026, with guidance for cumulative free cash flow between 2026 and 2028 in excess of £6 billion. "We're well positioned to provide both the advanced conventional systems and disruptive technologies needed to protect the nations we serve now and into the future," Woodburn said in a statement accompanying Wednesday's earnings. "With a record order backlog and continuing
+
+- BAE Systems wins $1.7 billion US Navy contract | Reuters
+  https://www.reuters.com/business/aerospace-defense/bae-systems-wins-17-billion-us-navy-contract-2025-12-10/
+  Dec 10 (Reuters) - BAE Systems (BAES.L), opens new tab, Britain's biggest defence company, said on Wednesday that the U.S. Navy had awarded it a five-year contract worth up to $1.7 billion to ...
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/aerospace-defense/bae-systems-wins-17-billion-us-navy-contract-2025-12-10/
+  LinkedPageSummaryWords: 0
+
+- BAE Systems awarded $145 million Pentagon contract for anti-drone systems
+  https://www.msn.com/en-ie/money/technology/bae-systems-awarded-145-million-pentagon-contract-for-anti-drone-systems/ar-AA1Wtx01
+  The U.S. Department of War has awarded BAE Systems a $145 million contract to develop and produce weapons designed to counter unmanned aerial systems .
+  LinkedPageStatus: ok (https://www.msn.com/en-ie/money/technology/bae-systems-awarded-145-million-pentagon-contract-for-anti-drone-systems/ar-AA1Wtx01)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- BAE Systems Awarded UK MoD RECODE Contract | Joint Forces News
+  https://www.joint-forces.com/uk-news/79554-bae-systems-awarded-uk-mod-recode-contract
+  BAE Systems has been awarded a RECODE contract by UK MoD to support the Royal Navy's Shared Infrastructure, CMS and warship networks. ~ Press Release, London, 28 January 2025: BAE Systems has been awarded a £285m contract by the Ministry of Defence to support the Royal Navy's Shared Infrastructure, Combat Management Systems (CMS) and warship networks. RECODE is an eight-year programme ...
+  LinkedPageStatus: ok (https://www.joint-forces.com/uk-news/79554-bae-systems-awarded-uk-mod-recode-contract)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Press Release, London, 28 January 2025 : BAE Systems has been awarded a £285m contract by the Ministry of Defence to support the Royal Navy’s Shared Infrastructure, Combat Management Systems (CMS) and warship networks. RECODE is an eight-year programme ensuring the Navy’s fleet is armed and ready for evolving military challenges. It is tailored to meet the Royal Navy’s future operational needs and will deliver a modernisation programme at pace to enable the agile deployment of capabilities. The contract award builds on 13 years of collaboration with the Royal Navy in which the BAE Systems’ CMS is used across a wide range of naval assets. RECODE will support more than 200 highly-skilled jobs at BAE Systems’ Naval Ships business across the Company’s sites in Filton, Dorchester, New Malden, Frimley and Portsmouth. It will also create additional investment in UK SME and high-tech suppliers across the UK. Steve Carter, Naval Ships Combat Systems Director, BAE Systems, said: “RECODE represents a huge stride forward in our partnership with the Royal Navy and will help to realise warfare capability of the future. The global threat picture, advances in commercial technology and the immense volume of data available to crews means we need to
+
+- USAF To Award Sole Source Contract To BAE Systems To Resolve Deficiency ...
+  https://www.aviationtoday.com/2026/02/19/usaf-to-award-sole-source-contract-to-bae-systems-to-resolve-deficiency-reports-on-alr-56/
+  The Air Force is to award BAE Systems a sole source contract to resolve deficiency reports (DRs) for the company's ALR-56 radar warning receivers (RWRs) on F-15 and F-16 fighters and C-130 ...
+  LinkedPageStatus: ok (https://www.aviationtoday.com/2026/02/19/usaf-to-award-sole-source-contract-to-bae-systems-to-resolve-deficiency-reports-on-alr-56/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Pictured is a U.S. Air Force photo of F-16s with the 49th Fighter Wing, as they prepare for take-off from Luke AFB, Ariz. on Jan. 29, 2-26. The Air Force is to award BAE Systems a sole source contract to resolve deficiency reports (DRs) for the company’s ALR-56 radar warning receivers (RWRs) on F-15 and F-16 fighters and C-130 airlifters. “This effort will resolve software and hardware issues experienced by both the depot and intermediate maintenance levels in support and maintenance of the ALR‐56C/M,” according to a justification and approval (J&A) for the planned sole sourcing to BAE Systems. The Air Force’s F-15E Strike Eagles by Boeing carry the ALR-56C, but the service has begun replacing those RWRs with BAE Systems’ AN/ALQ-250 F-15 Eagle Passive Active Warning Survivability System (EPAWSS) for F-15Es and F-15EXs. In January last year, the Air Force said that Boeing had received a nearly $616 million cost-plus contract through Dec. 31 2030, for full rate production of EPAWSS. The ALR-56M is the RWR on the F-16s and C-130s by Lockheed Martin. Hardware for the ALR-56s, developed in the 1980s and early 1990s, “has been upgraded extensively to extend their usable life spans,” according to the J&A
+
+
+Domain: BAESystems
+Query: BAE Systems latest contract awards
+Timestamp: 2026-02-22T16:22:05
+PerPageSummaryWords: 200
+- BAE Systems Wins $35B in Contracts So Far in 2025 - The Defense Post
+  https://thedefensepost.com/2025/11/14/bae-systems-2025-contracts/
+  Key Orders Secured in 2025 BAE Systems' contracts this year span aviation, naval, ground, and electronic systems . Among the most notable awards is a four-billion euro contract to build 20 Eurofighter Typhoon aircraft and integrate weapons systems for Turkey, with deliveries expected to begin in 2030.
+  LinkedPageStatus: ok (https://thedefensepost.com/2025/11/14/bae-systems-2025-contracts/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems has already won more than 27 billion pounds ($35 billion) in contracts in 2025, reflecting strong global demand for its defense platforms and technologies. Trading in the second half of the year has remained in line with expectations, the company said in a market update . It noted that operational performance “continues to be strong” as it delivers critical capabilities across combat aircraft, submarines, missile systems, and electronic warfare. The surge in contracts highlights the continuing impact of rising defense budgets and NATO modernization programs on global procurement. “These programmes not only strengthen national security, but also support thousands of skilled jobs and generate significant export value for the UK economy,” BAE Systems Chief Executive Charles Woodburn said. BAE Systems said it remains committed to its capital allocation strategy, including continued investment in technology, selective acquisitions, and shareholder returns — totaling around 1.5 billion pounds ($1.9 billion) in 2025 through dividends and share buybacks. BAE Systems’ contracts this year span aviation, naval, ground, and electronic systems. Among the most notable awards is a four-billion euro contract to build 20 Eurofighter Typhoon aircraft and integrate weapons systems for Turkey, with deliveries expected to begin in 2030. In the US,
+
+- News releases - BAE Systems
+  https://www.baesystems.com/en-uk/newsroom/news-releases
+  Investment to deliver advanced new radar for Royal Air Force Typhoons The UK Ministry of Defence has awarded BAE Systems a contract worth £453.5 million for the full production of a new advanced radar for UK Typhoon aircraft.
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- U.S. Air Force awards $145 million sole-source contract to BAE Systems ...
+  https://defence-industry.eu/u-s-air-force-awards-145-million-sole-source-contract-to-bae-systems-for-dual-mode-apkws-upgrade/
+  The contract is structured as an Indefinite Delivery/Indefinite Quantity agreement and is expected to be awarded on a sole-source basis to BAE Systems in Hudson, New Hampshire. Work must begin no later than the second quarter of fiscal year 2026 to meet operational timelines set by U.S. Central Command and Air Force Central Command.
+  LinkedPageStatus: error: HTTPSConnectionPool(host='defence-industry.eu', port=443): Read timed out. (read timeout=15)
+  LinkedPageSummaryWords: 0
+
+- BAE Systems wins $1.7 billion US Navy contract | Reuters
+  https://www.reuters.com/business/aerospace-defense/bae-systems-wins-17-billion-us-navy-contract-2025-12-10/
+  Dec 10 (Reuters) - BAE Systems (BAES.L), opens new tab, Britain's biggest defence company, said on Wednesday that the U.S. Navy had awarded it a five-year contract worth up to $1.7 billion to ...
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/aerospace-defense/bae-systems-wins-17-billion-us-navy-contract-2025-12-10/
+  LinkedPageSummaryWords: 0
+
+- BAE Systems sees order intake surpass £27bn - Naval Technology
+  https://www.naval-technology.com/news/bae-system-trading-update/
+  In Electronic Systems , BAE Systems secured around $3.3bn in orders, comprising incremental funding for Space & Mission Systems and various electronics programmes, as well as new contracts for the Advanced Precision Kill Weapon System (APKWS) and Multifunctional Information Distribution System Joint Tactical Radio Systems .
+  LinkedPageStatus: ok (https://www.naval-technology.com/news/bae-system-trading-update/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems has reported that its performance in the second half of fiscal 2025 is meeting expectations, driven by positive momentum in order intake. The company has received more than £27bn ($35bn) in orders so far this year. Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. Key contract awards in the second half include around £4bn for the construction of 20 Typhoon aircraft and weapons integration for Türkiye, where first delivery is set for 2030. In Electronic Systems, BAE Systems secured around $3.3bn in orders, comprising incremental funding for Space & Mission Systems and various electronics programmes, as well as new contracts for the Advanced Precision Kill Weapon System (APKWS) and Multifunctional Information Distribution System Joint Tactical Radio Systems. The group also received approximately $1.7bn in funding supporting US combat vehicle production across ongoing AMPV, Bradley and M109 programmes. Additionally, it secured almost £1.1bn of MBDA orders for domestic and export contracts, and £900m to continue work on Dreadnought programme design and build activities. Don’t let policy changes catch you off guard. Stay proactive with real-time data and expert analysis. BAE Systems also expected the recent agreement between the Norwegian and UK governments
+
+- BAE Systems awarded $145 million Pentagon contract for anti-drone systems
+  https://www.msn.com/en-ie/money/technology/bae-systems-awarded-145-million-pentagon-contract-for-anti-drone-systems/ar-AA1Wtx01
+  The U.S. Department of War has awarded BAE Systems a $145 million contract to develop and produce weapons designed to counter unmanned aerial systems .
+  LinkedPageStatus: ok (https://www.msn.com/en-ie/money/technology/bae-systems-awarded-145-million-pentagon-contract-for-anti-drone-systems/ar-AA1Wtx01)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Britain's BAE Systems positions for 'new era' of defense spending
+  https://www.cnbc.com/2026/02/18/bae-systems-defense-spending-europe-military-geopolitics-weapons.html
+  BAE Systems is positioning for a "new era" in defense spending underpinned by what CEO Charles Woodburn called "escalating security challenges." The British weapons manufacturer secured £36.8 ...
+  LinkedPageStatus: ok (https://www.cnbc.com/2026/02/18/bae-systems-defense-spending-europe-military-geopolitics-weapons.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems attracted record orders in 2025, and now the UK defense staple is setting its sights on years of growth amid a global ramp-up in spending. Its shares rose 3.6% on Wednesday after its full-year earnings report showed sales soared 10% last year to reach a record £30.7 billion ($41.7 billion). That helped push operating profits to £2.93 billion, a 9% year-on-year increase, as revenues grew 8% to £28.3 billion. The FTSE 100 -listed company, which manufactures a range of aircraft, weapons, munitions and warships, saw its order backlog hit £83.6 billion, a £5.8 billion increase from 2024. Now, BAE is preparing to capitalize on years of future growth as geopolitical fissures usher in what CEO Charles Woodburn called a "new era of defense spending" driven by "escalating security challenges." The company expects sales to grow by between 7% and 9% in 2026, with guidance for cumulative free cash flow between 2026 and 2028 in excess of £6 billion. "We're well positioned to provide both the advanced conventional systems and disruptive technologies needed to protect the nations we serve now and into the future," Woodburn said in a statement accompanying Wednesday's earnings. "With a record order backlog and continuing
+
+- USAF To Award Sole Source Contract To BAE Systems To Resolve Deficiency ...
+  https://www.aviationtoday.com/2026/02/19/usaf-to-award-sole-source-contract-to-bae-systems-to-resolve-deficiency-reports-on-alr-56/
+  The Air Force is to award BAE Systems a sole source contract to resolve deficiency reports (DRs) for the company's ALR-56 radar warning receivers (RWRs) on F-15 and F-16 fighters and C-130 ...
+  LinkedPageStatus: ok (https://www.aviationtoday.com/2026/02/19/usaf-to-award-sole-source-contract-to-bae-systems-to-resolve-deficiency-reports-on-alr-56/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Pictured is a U.S. Air Force photo of F-16s with the 49th Fighter Wing, as they prepare for take-off from Luke AFB, Ariz. on Jan. 29, 2-26. The Air Force is to award BAE Systems a sole source contract to resolve deficiency reports (DRs) for the company’s ALR-56 radar warning receivers (RWRs) on F-15 and F-16 fighters and C-130 airlifters. “This effort will resolve software and hardware issues experienced by both the depot and intermediate maintenance levels in support and maintenance of the ALR‐56C/M,” according to a justification and approval (J&A) for the planned sole sourcing to BAE Systems. The Air Force’s F-15E Strike Eagles by Boeing carry the ALR-56C, but the service has begun replacing those RWRs with BAE Systems’ AN/ALQ-250 F-15 Eagle Passive Active Warning Survivability System (EPAWSS) for F-15Es and F-15EXs. In January last year, the Air Force said that Boeing had received a nearly $616 million cost-plus contract through Dec. 31 2030, for full rate production of EPAWSS. The ALR-56M is the RWR on the F-16s and C-130s by Lockheed Martin. Hardware for the ALR-56s, developed in the 1980s and early 1990s, “has been upgraded extensively to extend their usable life spans,” according to the J&A
+
+

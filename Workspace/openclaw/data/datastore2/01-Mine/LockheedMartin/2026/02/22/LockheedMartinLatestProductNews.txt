@@ -1,0 +1,203 @@
+Domain: LockheedMartin
+Query: Lockheed Martin latest product news
+Timestamp: 2026-02-22T10:05:49
+PerPageSummaryWords: 200
+- News & Events - Lockheed Martin
+  https://news.lockheedmartin.com/
+  Lockheed Martin and Fujitsu Formalize Industrial Collaboration for Japan Defense Lockheed Martin and Fujitsu Limited, a Japanese multinational leader in information technology solutions, finalized the first purchase order for a critical component of Japan's Aegis System Equipped Vessel (ASEV)'s SPY-7 radar antenna.
+  LinkedPageStatus: ok (https://news.lockheedmartin.com/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  ORLANDO, Fla., Feb. 18, 2026 – Lockheed Martin (NYSE: LMT) announced today that it has been awarded a foreign military sale contract through Wright-Patterson Air Force Base to deliver C-130J... DALLAS, Feb. 12, 2026 – Lockheed Martin (NYSE:LMT) conducted a successful 112-km flight test of its Extended‑Range GMLRS (ER GMLRS) at White Sands Missile Range, New Mexico. For the first... Lockheed Martin and Fujitsu Limited, a Japanese multinational leader in information technology solutions, finalized the first purchase order for a critical component of Japan’s Aegis System Equipped Vessel (ASEV)’s SPY-7 radar antenna. Lockheed Martin (NYSE: LMT) Chairman, President and CEO Jim Taiclet and Chief Financial Officer Evan Scott will participate in a fireside chat at Citi's 2026 Global Industrial Tech and Mobility... FLORENCE, Ala., Feb. 10, 2026 – Lockheed Martin (NYSE:LMT) inaugurated the Manufacturing Basic Skills+ (MBS+) program at the newly opened Launch Career Technical Specialized Education (CTSE)... Today Lockheed Martin unveils the Lamprey Multi‑Mission Autonomous Undersea Vehicle (MMAUV), a breakthrough “plug-and‑play” submersible that gives U.S. and allied warfighters technological and strategic advantage ... The Lockheed Martin Corporation (NYSE: LMT) board of directors has authorized a first quarter 2026 dividend of $3.45 per share. The dividend is payable on March
+
+- Lockheed Martin rapidly developed Lamprey drone, new ... - Naval News
+  https://www.navalnews.com/naval-news/2026/02/lockheed-martin-rapidly-developed-lamprey-drone-new-variants-on-the-way/
+  SAN DIEGO — Lockheed Martin rapidly developed its new Lamprey multi-mission autonomous undersea vehicle: The company took just 14 months to develop Lamprey, with future plans to field larger variants and another drone by the end of the year. Lockheed Martin showcased a model of Lamprey for the first time at WEST 2026.
+  LinkedPageStatus: ok (https://www.navalnews.com/naval-news/2026/02/lockheed-martin-rapidly-developed-lamprey-drone-new-variants-on-the-way/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  SAN DIEGO — Lockheed Martin rapidly developed its new Lamprey multi-mission autonomous undersea vehicle: The company took just 14 months to develop Lamprey, with future plans to field larger variants and another drone by the end of the year. Lockheed Martin showcased a model of Lamprey for the first time at WEST 2026. Mark Johnson, program director for unmanned maritime solutions division, discussed the highlights and future iterations of the multi-mission system with Naval News . Named after the Lamprey, a fish that latches onto others with its sucking mouth, the drone combines numerous features that the company claims could achieve various tailored missions in support of covert surveillance and sea denial. Given the drone’s namesake, Johnson explained Lamprey comes with this unique ability to latch onto submarines, warships and the seabed. This brings many key implications for operational use. “This thing has suction cups on the top that basically can autonomously navigate to a sub, a ship, and it swims up and suctions on to the bottom of that vehicle,” said Johnson. “So it can hitch your ride into whatever theater it’s going to, because if you think about one of the restrictions or constraints of UUVs, it’s battery
+
+- Lockheed Martin News | Latest News - NewsNow
+  https://www.newsnow.com/us/Business/Aerospace+and+Defense/Lockheed+Martin
+  Latest news on Lockheed Martin , an American aerospace, defense, arms, security, and advanced technologies company with worldwide interests. It is headquartered in Bethesda, Maryland, and employs approximately 114,000 people worldwide.
+  LinkedPageStatus: ok (https://www.newsnow.com/us/Business/Aerospace+and+Defense/Lockheed+Martin)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest news on Lockheed Martin, an American aerospace, defense, arms, security, and advanced technologies company with worldwide interests. It is headquartered in Bethesda, Maryland, and employs approximately 114,000 people worldwide. It is the world's largest defense contractor by revenue. Lockheed Martin was formed in 1995 by the merger of Lockheed Corporation and Martin Marietta, two major aerospace and defense companies. Lockheed Corporation was founded in 1926 as Lockheed Aircraft Company and produced many famous aircraft, such as the P-38 Lightning, the U-2 spy plane, the SR-71 Blackbird, and the F-117 Nighthawk. It also established a secret division called "Skunk Works" that became the leading U.S. developer of military aircraft. Martin Marietta was formed in 1961 by the merger of Martin Company and American-Marietta Company. Martin Company was a pioneer in rocket and missile development, producing the Titan family of launch vehicles and the Polaris, Poseidon, and Trident submarine-launched ballistic missiles. It also built the Viking Mars landers and the Magellan spacecraft to Venus. Since its formation in 1995, Lockheed Martin has made a number of acquisitions, such as United Defense, Sandia National Laboratories, Sikorsky Aircraft, and Aerojet Rocketdyne. It has also sold or spun off some of its businesses, such
+
+- Lockheed Martin Joins Forces With BAE Systems On New Ultra-Adaptable Drone
+  https://www.twz.com/air/lockheed-martin-joins-forces-with-bae-systems-on-new-ultra-adaptable-drone
+  Lockheed Martin and BAE Systems have teamed up to develop a range of uncrewed air systems (UAS), all based on a common design, for which concept artwork has now been presented. The effort sees two of the world's biggest defense contractors joining forces and entering a growing field of less expensive and more expendable drones and munitions.
+  LinkedPageStatus: ok (https://www.twz.com/air/lockheed-martin-joins-forces-with-bae-systems-on-new-ultra-adaptable-drone)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin and BAE Systems have teamed up to develop a range of uncrewed air systems (UAS), all based on a common design, for which concept artwork has now been presented. The effort sees two of the world’s biggest defense contractors joining forces and entering a growing field of less expensive and more expendable drones and munitions. The collaboration was announced today at the Defense and Security Equipment International (DSEI) exhibition taking place in London. The partnership specifically involves the two companies’ advanced research and development divisions: Lockheed Martin Skunk Works and BAE Systems’ FalconWorks. Conceptual imagery of the UAS, so far unnamed, shows a missile-like vehicle with a body that is clearly optimized for low observability, with prominent chines. The UAS features notably long and narrow main wings, with seemingly limited sweep, V-shaped tailfins, and smaller, canted ventral fins. The overall size of the vehicle is not immediately apparent, and we have approached the manufacturers for more details about this and other aspects of the UAS. The companies describe the design as an autonomous UAS, although it’s unclear if it will have an optional “human in the loop” and to what degree. More generally, with advances in artificial intelligence
+
+- Lockheed Martin and BAE Systems Team Up for New Adaptable Multi-Effect ...
+  https://theaviationist.com/2025/09/10/lockheed-martin-bae-systems-team-up-unmanned-system/
+  The Lockheed Martin and BAE Systems product would technically be relatively sophisticated with swappable payloads, yet within the mass-producible category, where the 'low' in the 'low-cost ...
+  LinkedPageStatus: ok (https://theaviationist.com/2025/09/10/lockheed-martin-bae-systems-team-up-unmanned-system/)
+  LinkedPageSummaryWords: 111
+  LinkedPageSummary:
+  Concept rendition of the uncrewed autonomous air system by Skunk Works and FalconWorks. (Image credit: Lockheed Martin) TAGGED: BAE Systems FalconWorks Lockheed Martin Skunk Works Unmanned Aerial Systems Parth Satam's career spans a decade and a half between two dailies and two defense publications. He believes war, as a human activity, has causes and results that go far beyond which missile and jet flies the fastest. He therefore loves analyzing military affairs at their intersection with foreign policy, economics, technology, society and history. The body of his work spans the entire breadth from defense aerospace, tactics, military doctrine and theory, personnel issues, West Asian, Eurasian affairs, the energy sector and Space.
+
+- lockheed martin News and Press Releases | PR Newswire
+  https://www.prnewswire.com/news/lockheed-martin/
+  news News from lockheed martin A wide array of domestic and global news stories; news topics include politics/government, business, technology, religion, sports/entertainment, science/nature, and ...
+  LinkedPageStatus: ok (https://www.prnewswire.com/news/lockheed-martin/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin (NYSE: LMT) Chairman, President and CEO Jim Taiclet and Chief Financial Officer Evan Scott will participate in a fireside chat at... The Lockheed Martin Corporation (NYSE: LMT) board of directors has authorized a first quarter 2026 dividend of $3.45 per share. The dividend is... Lockheed Martin Corporation [NYSE: LMT] today reported fourth quarter 2025 sales of $20.3 billion, compared to $18.6 billion in the fourth quarter of ... Lockheed Martin (NYSE: LMT) signed a framework agreement with the Department of War (DoW) to quadruple the production of Terminal High Altitude Area... Every day, Lockheed Martin (NYSE: LMT) delivers capabilities that strengthen and transform our world. On Tuesday night, the company's ninth GPS III... Today, Lockheed Martin (NYSE:LMT), PG&E Corporation (NYSE:PCG), Salesforce (NYSE:CRM) and Wells Fargo (NYSE:WFC) announced the launch of... Lockheed Martin (NYSE: LMT) signed a landmark framework agreement with the U.S. Department of War to rapidly accelerate the production and delivery... Lockheed Martin (NYSE: LMT) will webcast live its fourth-quarter and full-year 2025 earnings results conference call (listen-only mode) on Thursday,... The Space Development Agency (SDA) has awarded Lockheed Martin (NYSE: LMT) a contract for 18 space vehicles for its Tranche 3 Tracking Layer (TRKT3)... Astris AI,
+
+- United Kingdom News Releases
+  https://lockheedmartinuk.mediaroom.com/
+  Get articles on the innovative projects Lockheed Martin scientists and engineers are working on right now.
+  LinkedPageStatus: ok (https://lockheedmartinuk.mediaroom.com/)
+  LinkedPageSummaryWords: 118
+  LinkedPageSummary:
+  Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa Nov 6, 2025 Building Resilience in Space Seen as Key to UK’s Future Prosperity Data capture attempts magnify need for survivable space systems Feb 4, 2025 Lockheed Martin Transfers Apprenticeship Levy Funds to Support Skills Development in the Supply Chain AQ Wiring Systems Rockford supported by Lockheed Martin UK to develop five of its employees through an Apprenticeship programme. Nov 7, 2024 Lockheed Martin Receives Two-Year Combined Arms Tactical Trainer Extension Contract Nov 5, 2024 Lockheed Martin UK Hosts Over 100 SMEs at Third Annual SMEUNITE® Ecosystem Conference Aug 27, 2024 Lockheed Martin donate £10,000 worth of Prepar3D® Academic Licences to Air Cadet Charity
+
+- News | Lockheed Martin
+  https://www.lockheed-martin.co.uk/en-us/who-we-are/lockheed-martin-ventures/news.html
+  News Building Tomorrow's Defense Solutions Today: Lockheed Martin Ventures Leads with Innovation Lockheed Martin Ventures invests in groundbreaking technologies to strengthen defense industrial base resiliency and drive a new era of innovation.
+  LinkedPageStatus: error: HTTPSConnectionPool(host='www.lockheed-martin.co.uk', port=443): Max retries exceeded with url: /en-us/who-we-are/lockheed-martin-ventures/news.html (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lockheed-martin.co.uk'. (_ssl.c:1081)")))
+  LinkedPageSummaryWords: 0
+
+
+Domain: LockheedMartin
+Query: Lockheed Martin latest product news
+Timestamp: 2026-02-22T10:10:12
+PerPageSummaryWords: 200
+- News & Events - Lockheed Martin
+  https://news.lockheedmartin.com/
+  Lockheed Martin and Fujitsu Formalize Industrial Collaboration for Japan Defense Lockheed Martin and Fujitsu Limited, a Japanese multinational leader in information technology solutions, finalized the first purchase order for a critical component of Japan's Aegis System Equipped Vessel (ASEV)'s SPY-7 radar antenna.
+  LinkedPageStatus: ok (https://news.lockheedmartin.com/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  ORLANDO, Fla., Feb. 18, 2026 – Lockheed Martin (NYSE: LMT) announced today that it has been awarded a foreign military sale contract through Wright-Patterson Air Force Base to deliver C-130J... DALLAS, Feb. 12, 2026 – Lockheed Martin (NYSE:LMT) conducted a successful 112-km flight test of its Extended‑Range GMLRS (ER GMLRS) at White Sands Missile Range, New Mexico. For the first... Lockheed Martin and Fujitsu Limited, a Japanese multinational leader in information technology solutions, finalized the first purchase order for a critical component of Japan’s Aegis System Equipped Vessel (ASEV)’s SPY-7 radar antenna. Lockheed Martin (NYSE: LMT) Chairman, President and CEO Jim Taiclet and Chief Financial Officer Evan Scott will participate in a fireside chat at Citi's 2026 Global Industrial Tech and Mobility... FLORENCE, Ala., Feb. 10, 2026 – Lockheed Martin (NYSE:LMT) inaugurated the Manufacturing Basic Skills+ (MBS+) program at the newly opened Launch Career Technical Specialized Education (CTSE)... Today Lockheed Martin unveils the Lamprey Multi‑Mission Autonomous Undersea Vehicle (MMAUV), a breakthrough “plug-and‑play” submersible that gives U.S. and allied warfighters technological and strategic advantage ... The Lockheed Martin Corporation (NYSE: LMT) board of directors has authorized a first quarter 2026 dividend of $3.45 per share. The dividend is payable on March
+
+- Lockheed Martin rapidly developed Lamprey drone, new ... - Naval News
+  https://www.navalnews.com/naval-news/2026/02/lockheed-martin-rapidly-developed-lamprey-drone-new-variants-on-the-way/
+  SAN DIEGO — Lockheed Martin rapidly developed its new Lamprey multi-mission autonomous undersea vehicle: The company took just 14 months to develop Lamprey, with future plans to field larger variants and another drone by the end of the year. Lockheed Martin showcased a model of Lamprey for the first time at WEST 2026.
+  LinkedPageStatus: ok (https://www.navalnews.com/naval-news/2026/02/lockheed-martin-rapidly-developed-lamprey-drone-new-variants-on-the-way/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  SAN DIEGO — Lockheed Martin rapidly developed its new Lamprey multi-mission autonomous undersea vehicle: The company took just 14 months to develop Lamprey, with future plans to field larger variants and another drone by the end of the year. Lockheed Martin showcased a model of Lamprey for the first time at WEST 2026. Mark Johnson, program director for unmanned maritime solutions division, discussed the highlights and future iterations of the multi-mission system with Naval News . Named after the Lamprey, a fish that latches onto others with its sucking mouth, the drone combines numerous features that the company claims could achieve various tailored missions in support of covert surveillance and sea denial. Given the drone’s namesake, Johnson explained Lamprey comes with this unique ability to latch onto submarines, warships and the seabed. This brings many key implications for operational use. “This thing has suction cups on the top that basically can autonomously navigate to a sub, a ship, and it swims up and suctions on to the bottom of that vehicle,” said Johnson. “So it can hitch your ride into whatever theater it’s going to, because if you think about one of the restrictions or constraints of UUVs, it’s battery
+
+- Lockheed Martin News | Latest News - NewsNow
+  https://www.newsnow.com/us/Business/Aerospace+and+Defense/Lockheed+Martin
+  Latest news on Lockheed Martin , an American aerospace, defense, arms, security, and advanced technologies company with worldwide interests. It is headquartered in Bethesda, Maryland, and employs approximately 114,000 people worldwide.
+  LinkedPageStatus: ok (https://www.newsnow.com/us/Business/Aerospace+and+Defense/Lockheed+Martin)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest news on Lockheed Martin, an American aerospace, defense, arms, security, and advanced technologies company with worldwide interests. It is headquartered in Bethesda, Maryland, and employs approximately 114,000 people worldwide. It is the world's largest defense contractor by revenue. Lockheed Martin was formed in 1995 by the merger of Lockheed Corporation and Martin Marietta, two major aerospace and defense companies. Lockheed Corporation was founded in 1926 as Lockheed Aircraft Company and produced many famous aircraft, such as the P-38 Lightning, the U-2 spy plane, the SR-71 Blackbird, and the F-117 Nighthawk. It also established a secret division called "Skunk Works" that became the leading U.S. developer of military aircraft. Martin Marietta was formed in 1961 by the merger of Martin Company and American-Marietta Company. Martin Company was a pioneer in rocket and missile development, producing the Titan family of launch vehicles and the Polaris, Poseidon, and Trident submarine-launched ballistic missiles. It also built the Viking Mars landers and the Magellan spacecraft to Venus. Since its formation in 1995, Lockheed Martin has made a number of acquisitions, such as United Defense, Sandia National Laboratories, Sikorsky Aircraft, and Aerojet Rocketdyne. It has also sold or spun off some of its businesses, such
+
+- Lockheed Martin Joins Forces With BAE Systems On New Ultra-Adaptable Drone
+  https://www.twz.com/air/lockheed-martin-joins-forces-with-bae-systems-on-new-ultra-adaptable-drone
+  Lockheed Martin and BAE Systems have teamed up to develop a range of uncrewed air systems (UAS), all based on a common design, for which concept artwork has now been presented. The effort sees two of the world's biggest defense contractors joining forces and entering a growing field of less expensive and more expendable drones and munitions.
+  LinkedPageStatus: ok (https://www.twz.com/air/lockheed-martin-joins-forces-with-bae-systems-on-new-ultra-adaptable-drone)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin and BAE Systems have teamed up to develop a range of uncrewed air systems (UAS), all based on a common design, for which concept artwork has now been presented. The effort sees two of the world’s biggest defense contractors joining forces and entering a growing field of less expensive and more expendable drones and munitions. The collaboration was announced today at the Defense and Security Equipment International (DSEI) exhibition taking place in London. The partnership specifically involves the two companies’ advanced research and development divisions: Lockheed Martin Skunk Works and BAE Systems’ FalconWorks. Conceptual imagery of the UAS, so far unnamed, shows a missile-like vehicle with a body that is clearly optimized for low observability, with prominent chines. The UAS features notably long and narrow main wings, with seemingly limited sweep, V-shaped tailfins, and smaller, canted ventral fins. The overall size of the vehicle is not immediately apparent, and we have approached the manufacturers for more details about this and other aspects of the UAS. The companies describe the design as an autonomous UAS, although it’s unclear if it will have an optional “human in the loop” and to what degree. More generally, with advances in artificial intelligence
+
+- Lockheed Martin and BAE Systems Team Up for New Adaptable Multi-Effect ...
+  https://theaviationist.com/2025/09/10/lockheed-martin-bae-systems-team-up-unmanned-system/
+  The Lockheed Martin and BAE Systems product would technically be relatively sophisticated with swappable payloads, yet within the mass-producible category, where the 'low' in the 'low-cost ...
+  LinkedPageStatus: ok (https://theaviationist.com/2025/09/10/lockheed-martin-bae-systems-team-up-unmanned-system/)
+  LinkedPageSummaryWords: 111
+  LinkedPageSummary:
+  Concept rendition of the uncrewed autonomous air system by Skunk Works and FalconWorks. (Image credit: Lockheed Martin) TAGGED: BAE Systems FalconWorks Lockheed Martin Skunk Works Unmanned Aerial Systems Parth Satam's career spans a decade and a half between two dailies and two defense publications. He believes war, as a human activity, has causes and results that go far beyond which missile and jet flies the fastest. He therefore loves analyzing military affairs at their intersection with foreign policy, economics, technology, society and history. The body of his work spans the entire breadth from defense aerospace, tactics, military doctrine and theory, personnel issues, West Asian, Eurasian affairs, the energy sector and Space.
+
+- lockheed martin News and Press Releases | PR Newswire
+  https://www.prnewswire.com/news/lockheed-martin/
+  news News from lockheed martin A wide array of domestic and global news stories; news topics include politics/government, business, technology, religion, sports/entertainment, science/nature, and ...
+  LinkedPageStatus: ok (https://www.prnewswire.com/news/lockheed-martin/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin (NYSE: LMT) Chairman, President and CEO Jim Taiclet and Chief Financial Officer Evan Scott will participate in a fireside chat at... The Lockheed Martin Corporation (NYSE: LMT) board of directors has authorized a first quarter 2026 dividend of $3.45 per share. The dividend is... Lockheed Martin Corporation [NYSE: LMT] today reported fourth quarter 2025 sales of $20.3 billion, compared to $18.6 billion in the fourth quarter of ... Lockheed Martin (NYSE: LMT) signed a framework agreement with the Department of War (DoW) to quadruple the production of Terminal High Altitude Area... Every day, Lockheed Martin (NYSE: LMT) delivers capabilities that strengthen and transform our world. On Tuesday night, the company's ninth GPS III... Today, Lockheed Martin (NYSE:LMT), PG&E Corporation (NYSE:PCG), Salesforce (NYSE:CRM) and Wells Fargo (NYSE:WFC) announced the launch of... Lockheed Martin (NYSE: LMT) signed a landmark framework agreement with the U.S. Department of War to rapidly accelerate the production and delivery... Lockheed Martin (NYSE: LMT) will webcast live its fourth-quarter and full-year 2025 earnings results conference call (listen-only mode) on Thursday,... The Space Development Agency (SDA) has awarded Lockheed Martin (NYSE: LMT) a contract for 18 space vehicles for its Tranche 3 Tracking Layer (TRKT3)... Astris AI,
+
+- United Kingdom News Releases
+  https://lockheedmartinuk.mediaroom.com/
+  Get articles on the innovative projects Lockheed Martin scientists and engineers are working on right now.
+  LinkedPageStatus: ok (https://lockheedmartinuk.mediaroom.com/)
+  LinkedPageSummaryWords: 118
+  LinkedPageSummary:
+  Su Mo Tu We Th Fr Sa Su Mo Tu We Th Fr Sa Nov 6, 2025 Building Resilience in Space Seen as Key to UK’s Future Prosperity Data capture attempts magnify need for survivable space systems Feb 4, 2025 Lockheed Martin Transfers Apprenticeship Levy Funds to Support Skills Development in the Supply Chain AQ Wiring Systems Rockford supported by Lockheed Martin UK to develop five of its employees through an Apprenticeship programme. Nov 7, 2024 Lockheed Martin Receives Two-Year Combined Arms Tactical Trainer Extension Contract Nov 5, 2024 Lockheed Martin UK Hosts Over 100 SMEs at Third Annual SMEUNITE® Ecosystem Conference Aug 27, 2024 Lockheed Martin donate £10,000 worth of Prepar3D® Academic Licences to Air Cadet Charity
+
+- News | Lockheed Martin
+  https://www.lockheed-martin.co.uk/en-us/who-we-are/lockheed-martin-ventures/news.html
+  News Building Tomorrow's Defense Solutions Today: Lockheed Martin Ventures Leads with Innovation Lockheed Martin Ventures invests in groundbreaking technologies to strengthen defense industrial base resiliency and drive a new era of innovation.
+  LinkedPageStatus: error: HTTPSConnectionPool(host='www.lockheed-martin.co.uk', port=443): Max retries exceeded with url: /en-us/who-we-are/lockheed-martin-ventures/news.html (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lockheed-martin.co.uk'. (_ssl.c:1081)")))
+  LinkedPageSummaryWords: 0
+
+
+Domain: LockheedMartin
+Query: Lockheed Martin latest product news
+Timestamp: 2026-02-22T10:26:22
+PerPageSummaryWords: 200
+- News & Events - Lockheed Martin
+  https://news.lockheedmartin.com/
+  Lockheed Martin and Fujitsu Formalize Industrial Collaboration for Japan Defense Lockheed Martin and Fujitsu Limited, a Japanese multinational leader in information technology solutions, finalized the first purchase order for a critical component of Japan's Aegis System Equipped Vessel (ASEV)'s SPY-7 radar antenna.
+  LinkedPageStatus: ok (https://news.lockheedmartin.com/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  ORLANDO, Fla., Feb. 18, 2026 – Lockheed Martin (NYSE: LMT) announced today that it has been awarded a foreign military sale contract through Wright-Patterson Air Force Base to deliver C-130J... DALLAS, Feb. 12, 2026 – Lockheed Martin (NYSE:LMT) conducted a successful 112-km flight test of its Extended‑Range GMLRS (ER GMLRS) at White Sands Missile Range, New Mexico. For the first... Lockheed Martin and Fujitsu Limited, a Japanese multinational leader in information technology solutions, finalized the first purchase order for a critical component of Japan’s Aegis System Equipped Vessel (ASEV)’s SPY-7 radar antenna. Lockheed Martin (NYSE: LMT) Chairman, President and CEO Jim Taiclet and Chief Financial Officer Evan Scott will participate in a fireside chat at Citi's 2026 Global Industrial Tech and Mobility... FLORENCE, Ala., Feb. 10, 2026 – Lockheed Martin (NYSE:LMT) inaugurated the Manufacturing Basic Skills+ (MBS+) program at the newly opened Launch Career Technical Specialized Education (CTSE)... Today Lockheed Martin unveils the Lamprey Multi‑Mission Autonomous Undersea Vehicle (MMAUV), a breakthrough “plug-and‑play” submersible that gives U.S. and allied warfighters technological and strategic advantage ... The Lockheed Martin Corporation (NYSE: LMT) board of directors has authorized a first quarter 2026 dividend of $3.45 per share. The dividend is payable on March
+
+- Lockheed Martin and BAE Systems Team Up for New Adaptable Multi-Effect ...
+  https://theaviationist.com/2025/09/10/lockheed-martin-bae-systems-team-up-unmanned-system/
+  The Lockheed Martin and BAE Systems product would technically be relatively sophisticated with swappable payloads, yet within the mass-producible category, where the 'low' in the 'low-cost ...
+  LinkedPageStatus: ok (https://theaviationist.com/2025/09/10/lockheed-martin-bae-systems-team-up-unmanned-system/)
+  LinkedPageSummaryWords: 111
+  LinkedPageSummary:
+  Concept rendition of the uncrewed autonomous air system by Skunk Works and FalconWorks. (Image credit: Lockheed Martin) TAGGED: BAE Systems FalconWorks Lockheed Martin Skunk Works Unmanned Aerial Systems Parth Satam's career spans a decade and a half between two dailies and two defense publications. He believes war, as a human activity, has causes and results that go far beyond which missile and jet flies the fastest. He therefore loves analyzing military affairs at their intersection with foreign policy, economics, technology, society and history. The body of his work spans the entire breadth from defense aerospace, tactics, military doctrine and theory, personnel issues, West Asian, Eurasian affairs, the energy sector and Space.
+
+- Lockheed Martin rapidly developed Lamprey drone, new ... - Naval News
+  https://www.navalnews.com/naval-news/2026/02/lockheed-martin-rapidly-developed-lamprey-drone-new-variants-on-the-way/
+  SAN DIEGO — Lockheed Martin rapidly developed its new Lamprey multi-mission autonomous undersea vehicle: The company took just 14 months to develop Lamprey, with future plans to field larger variants and another drone by the end of the year. Lockheed Martin showcased a model of Lamprey for the first time at WEST 2026.
+  LinkedPageStatus: ok (https://www.navalnews.com/naval-news/2026/02/lockheed-martin-rapidly-developed-lamprey-drone-new-variants-on-the-way/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  SAN DIEGO — Lockheed Martin rapidly developed its new Lamprey multi-mission autonomous undersea vehicle: The company took just 14 months to develop Lamprey, with future plans to field larger variants and another drone by the end of the year. Lockheed Martin showcased a model of Lamprey for the first time at WEST 2026. Mark Johnson, program director for unmanned maritime solutions division, discussed the highlights and future iterations of the multi-mission system with Naval News . Named after the Lamprey, a fish that latches onto others with its sucking mouth, the drone combines numerous features that the company claims could achieve various tailored missions in support of covert surveillance and sea denial. Given the drone’s namesake, Johnson explained Lamprey comes with this unique ability to latch onto submarines, warships and the seabed. This brings many key implications for operational use. “This thing has suction cups on the top that basically can autonomously navigate to a sub, a ship, and it swims up and suctions on to the bottom of that vehicle,” said Johnson. “So it can hitch your ride into whatever theater it’s going to, because if you think about one of the restrictions or constraints of UUVs, it’s battery
+
+- Lockheed Martin Joins Forces With BAE Systems On New Ultra-Adaptable Drone
+  https://www.twz.com/air/lockheed-martin-joins-forces-with-bae-systems-on-new-ultra-adaptable-drone
+  Lockheed Martin and BAE Systems have teamed up to develop a range of uncrewed air systems (UAS), all based on a common design, for which concept artwork has now been presented. The effort sees two of the world's biggest defense contractors joining forces and entering a growing field of less expensive and more expendable drones and munitions.
+  LinkedPageStatus: ok (https://www.twz.com/air/lockheed-martin-joins-forces-with-bae-systems-on-new-ultra-adaptable-drone)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin and BAE Systems have teamed up to develop a range of uncrewed air systems (UAS), all based on a common design, for which concept artwork has now been presented. The effort sees two of the world’s biggest defense contractors joining forces and entering a growing field of less expensive and more expendable drones and munitions. The collaboration was announced today at the Defense and Security Equipment International (DSEI) exhibition taking place in London. The partnership specifically involves the two companies’ advanced research and development divisions: Lockheed Martin Skunk Works and BAE Systems’ FalconWorks. Conceptual imagery of the UAS, so far unnamed, shows a missile-like vehicle with a body that is clearly optimized for low observability, with prominent chines. The UAS features notably long and narrow main wings, with seemingly limited sweep, V-shaped tailfins, and smaller, canted ventral fins. The overall size of the vehicle is not immediately apparent, and we have approached the manufacturers for more details about this and other aspects of the UAS. The companies describe the design as an autonomous UAS, although it’s unclear if it will have an optional “human in the loop” and to what degree. More generally, with advances in artificial intelligence
+
+- Lockheed Martin News | Latest News - NewsNow
+  https://www.newsnow.com/us/Business/Aerospace+and+Defense/Lockheed+Martin
+  Latest news on Lockheed Martin , an American aerospace, defense, arms, security, and advanced technologies company with worldwide interests. It is headquartered in Bethesda, Maryland, and employs approximately 114,000 people worldwide.
+  LinkedPageStatus: ok (https://www.newsnow.com/us/Business/Aerospace+and+Defense/Lockheed+Martin)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest news on Lockheed Martin, an American aerospace, defense, arms, security, and advanced technologies company with worldwide interests. It is headquartered in Bethesda, Maryland, and employs approximately 114,000 people worldwide. It is the world's largest defense contractor by revenue. Lockheed Martin was formed in 1995 by the merger of Lockheed Corporation and Martin Marietta, two major aerospace and defense companies. Lockheed Corporation was founded in 1926 as Lockheed Aircraft Company and produced many famous aircraft, such as the P-38 Lightning, the U-2 spy plane, the SR-71 Blackbird, and the F-117 Nighthawk. It also established a secret division called "Skunk Works" that became the leading U.S. developer of military aircraft. Martin Marietta was formed in 1961 by the merger of Martin Company and American-Marietta Company. Martin Company was a pioneer in rocket and missile development, producing the Titan family of launch vehicles and the Polaris, Poseidon, and Trident submarine-launched ballistic missiles. It also built the Viking Mars landers and the Magellan spacecraft to Venus. Since its formation in 1995, Lockheed Martin has made a number of acquisitions, such as United Defense, Sandia National Laboratories, Sikorsky Aircraft, and Aerojet Rocketdyne. It has also sold or spun off some of its businesses, such
+
+- This New Underwater Drone Clings To Ships And Launches Drones
+  https://www.youtube.com/watch?v=KVZQRlUSe94
+  Lockheed Martin just unveiled Lamprey, a multi-mission autonomous undersea vehicle (MMAUV) designed to latch onto ships and submarines, hitch a ride into the...
+  LinkedPageStatus: ok (https://www.youtube.com/watch?v=KVZQRlUSe94)
+  LinkedPageSummaryWords: 19
+  LinkedPageSummary:
+  About Press Copyright Contact us Creators Advertise Developers Terms Privacy Policy & Safety How YouTube works Test new features
+
+- lockheed martin corporation News and Press Releases | PR Newswire
+  https://www.prnewswire.com/news/lockheed-martin-corporation/
+  news News from lockheed martin corporation A wide array of domestic and global news stories; news topics include politics/government, business, technology, religion, sports/entertainment, science ...
+  LinkedPageStatus: ok (https://www.prnewswire.com/news/lockheed-martin-corporation/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Sikorsky, a Lockheed Martin company (NYSE: LMT), received a $10.855 billion contract from the U.S. Navy to build up to a maximum of 99 CH-53K® King... Lockheed Martin (NYSE: LMT) CFO Jay Malave will participate in a fireside chat at the TD Cowen 46th Annual Aerospace & Defense Conference on... The Lockheed Martin Corporation (NYSE: LMT) board of directors has authorized a first quarter 2025 dividend of $3.30 per share. The dividend is... 2024 net sales increased 5% to $71.0 billion Recorded pre-tax losses of $1.7 billion and $2.0 billion associated with classified programs in the... Lockheed Martin (NYSE: LMT) will webcast live its fourth quarter and full year 2024 earnings results conference call (listen-only mode) on Tuesday,... Lockheed Martin (NYSE: LMT) will webcast live a presentation by CFO Jay Malave at the UBS Global Industrials & Transportation Conference on Tuesday,... Lockheed Martin Corporation [NYSE: LMT] today reported third quarter 2024 net sales of $17.1 billion, compared to $16.9 billion in the third quarter... Lockheed Martin (NYSE: LMT) will webcast live a presentation by Chairman, President and CEO Jim Taiclet and CFO Jay Malave at the Morgan Stanley... Lockheed Martin Corporation [NYSE: LMT] today reported second quarter 2024 net sales
+
+- Lockheed Martin News Roundup (Oct 1-10, 2025): Defense Giant Navigates ...
+  https://ts2.tech/en/lockheed-martin-news-roundup-oct-1-10-2025-defense-giant-navigates-new-contracts-space-ambitions-and-market-momentum/
+  Lockheed Martin kicked off October with key company news . On October 1, the firm announced a successful series of U.S. Army flight tests of its new Precision Strike Missile (PrSM) news . lockheedmartin .com. In late September, soldiers at White Sands Missile Range fired PrSMs from both a HIMARS launcher and a modernized M270A2 rocket launcher, marking the first dual-launcher operational test news ...
+  LinkedPageStatus: ok (https://ts2.tech/en/lockheed-martin-news-roundup-oct-1-10-2025-defense-giant-navigates-new-contracts-space-ambitions-and-market-momentum/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin kicked off October with key company news. On October 1 , the firm announced a successful series of U.S. Army flight tests of its new Precision Strike Missile (PrSM) news.lockheedmartin.com . In late September, soldiers at White Sands Missile Range fired PrSMs from both a HIMARS launcher and a modernized M270A2 rocket launcher, marking the first dual-launcher operational test news.lockheedmartin.com . “This milestone validates the soldier’s ability to fire PrSM from all platforms… and certifies mission readiness,” said Carolyn Orzechowski, Lockheed’s VP of Precision Fires, noting the company is “pushing the boundaries of innovation” to deliver advanced long-range strike capabilities news.lockheedmartin.com . The tests demonstrated PrSM’s extended 400+ km reach and accuracy, aligning with the Army’s modernization goals news.lockheedmartin.com . This successful demo brings the next-generation missile closer to fielding as a 21st Century Security® solution for U.S. forces. Also on Oct. 1, Lockheed issued a financial announcement for investors. The company scheduled its third-quarter 2025 earnings release and webcast for Oct. 21 news.lockheedmartin.com . Chairman and CEO Jim Taiclet and CFO Evan Scott will host the call to discuss Q3 results and field questions news.lockheedmartin.com . (Lockheed traditionally reports Q3 earnings in late October; results will be
+
+

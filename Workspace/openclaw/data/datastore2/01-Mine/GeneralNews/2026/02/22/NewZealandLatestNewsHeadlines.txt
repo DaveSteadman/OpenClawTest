@@ -1,0 +1,69 @@
+Domain: GeneralNews
+Query: New Zealand Latest News Headlines
+Timestamp: 2026-02-22T09:49:42
+PerPageSummaryWords: 200
+- NZ Herald: Breaking & Latest New Zealand News - NZ Herald
+  https://www.nzherald.co.nz/
+  Get the latest breaking news , analysis and opinion from NZ and around the world, including politics, business, sport, entertainment, travel and more.
+  LinkedPageStatus: ok (https://www.nzherald.co.nz/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Coastguard was alerted to a yacht run up against rocks at Opito Bay in Northland. Bacon is classed as carcinogenic and as an ultra-processed food. Corn and mussel fritters, three cheese scones, and a new twist on barbecue lamb. 'It does feel like I'm on holiday when compared to everyday life in New Zealand.' Staff report recommended paying up to $2m plus GST for lifestyle block. Williams Corp’s managing director builds a polarising online brand as IPO looms. Rupert Heslop’s still got a few lessons to learn, such as always fully read your emails. Royal correspondent Gavin Grey joins The Front Page from Windsor to break down the latest on the disgraced royal. A fire has broken out at Northcote College in Auckland amid the firefighters' strike. Video / Supplied / Dean Purcell Splore festival director John Minty talks to Ryan Bridge about the end of an era. Video / Ryan Bridge TODAY SEEKHELP! high school band have caught the attention of the Foo Fighters. Video / Ryan Bridge Today OPINION: Massey University's Pushpa Wood urges students to track every cent for a month. Ben Mitchell's wife Kate Mitchell has been diagnosed with stage 4 ovarian cancer. The road is
+
+- Stuff: Latest breaking news | New Zealand
+  https://www.stuff.co.nz/
+  Stay updated with the latest breaking news and stories from New Zealand and around the world.
+  LinkedPageStatus: ok (https://www.stuff.co.nz/)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  Stuff
+
+- New Zealand | RNZ News
+  https://www.rnz.co.nz/news/national
+  The latest New Zealand news from RNZ - New Zealand's leading news team.
+  LinkedPageStatus: ok (https://www.rnz.co.nz/news/national)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The man wasn't provided any training, had no local family or medical support and had told the school's principal about his disorder before he started teaching there. "I then became relatively successful and then did a lot of stuff with my parents. So, then they became famous off the back of me. So, it's kind of I guess… State Highway 1 in Marlborough has now reopened after the crash. The boy had been missing from his home in Kensington since yesterday morning Emergency services received reports of the crash near the intersection of Sumnervale Drive and Evans Pass Road about 5:30pm. A video shows about a dozen people approaching a police car, which then reverses, with people running after it. The student failed a paper she needed to get into a higher doctoral course. The monthly events attract between 100 and 150 seniors. They include a free Pacific buffet lunch and activities such as bingo, line dancing, and guest speakers. The women resigned after an internal disciplinary meeting at the law firm. The two dogs that attacked and injured three people in Brywndwr yesterday could be euthanised, a councillor says. Emergency Services were called to Andrew Street about 8.30pm Saturday.
+
+- NZ News | Latest New Zealand Headlines & Stories - The Post
+  https://www.thepost.co.nz/nz-news
+  Stay up to date with the latest New Zealand news from The Post. From breaking stories to in-depth reporting on issues that matter across the country. Independent journalism covering politics, business, environment, crime, culture and more.
+  LinkedPageStatus: ok (https://www.thepost.co.nz/nz-news)
+  LinkedPageSummaryWords: 2
+  LinkedPageSummary:
+  The Post
+
+- 1News
+  https://www.1news.co.nz/
+  Latest News , 1News breaking news , in-depth analysis, political and economic news , business , sports, and entertainment and award-winning journalism from New Zealand's most trusted news source, 1News
+  LinkedPageStatus: ok (https://www.1news.co.nz/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Emergency services were called to the incident near Redwood Pass at around 10.40am. The men from Canberra scored eight tries in thrashing the Crusaders in Christchurch - the first time they have won in the city since 2000. Emergency services received reports of the crash at around 5.30pm. "Small is beautiful," says Geoff Cooper, the boss of the Infrastructure Commission. She is one of thousands adopted from abroad who were never granted citizenship because of a fracture at the intersection of adoption and immigration law. Governments and companies around the world scrambled to determine the impact of the US Supreme Court ruling that struck down some of the Trump administration sweeping global tariffs. A growing number of tour groups on buses and shuttles are driving by Dunedin's Castle Street – with domestic and international sightseers wanting to head to the student quarter. Justice Minister Paul Goldsmith said the Summary Offences Act will be amended to give police officers additional enforcement powers. The zoo's lead vet Shanna Rose said they had been "overwhelmed" with patients and were running out of room, and some birds had to be cared for out of plastic tubs. Maxwell's attorneys said the Justice Department obtained the
+
+- New Zealand News | New Zealand Latest News - NewsNow
+  https://www.newsnow.co.uk/h/World+News/South+Pacific/New+Zealand
+  Latest current affairs news on New Zealand , with updates on politics, economy, social issues, international relations and much more from trusted sources. New Zealand is an island country in the southwestern Pacific Ocean.
+  LinkedPageStatus: ok (https://www.newsnow.co.uk/h/World+News/South+Pacific/New+Zealand)
+  LinkedPageSummaryWords: 111
+  LinkedPageSummary:
+  Latest current affairs news on New Zealand, with updates on politics, economy, social issues, international relations and much more from trusted sources. New Zealand is an island country in the southwestern Pacific Ocean. The country consists of two main landmasses—the North Island (Te Ika-a-Māui) and the South Island (Te Waipounamu)—and around 700 smaller islands. New Zealand is renowned for its diverse landscapes, ranging from the fiord-like sounds of the southern-west to the sandy beaches of the subtropical Far North. The South Island is largely dominated by the Southern Alps while a volcanic plateau covers much of the North Island. New Zealand's capital is Wellington, while its most populous city is Auckland.
+
+- New Zealand news - 9News - Latest updates and breaking news today
+  https://www.9news.com.au/new-zealand
+  This is a collection page for New Zealand news . Check this page for latest breaking NZ news headlines , analysis, special reports from major urban centres including Auckland, Wellington & Christchurch.
+  LinkedPageStatus: ok (https://www.9news.com.au/new-zealand)
+  LinkedPageSummaryWords: 62
+  LinkedPageSummary:
+  This is a collection page for New Zealand news. Check this page for latest breaking NZ news headlines, analysis, special reports from major urban centres including Auckland, Wellington & Christchurch. Drawing upon 9News team of highly experienced journalists and producers, delivering news faster than any other media organisation. Get comprehensive news coverage including NZ politics, accidents, earthquakes, natural disasters, sports and weather.
+
+- Latest New Zealand news
+  https://www.nzherald.co.nz/nz/
+  Get the latest local and breaking news , updates, opinion and insights from across New Zealand . News worth knowing - NZ Herald - your source for NZ news .
+  LinkedPageStatus: ok (https://www.nzherald.co.nz/nz/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The road is currently closed and motorists are being asked to avoid the area. Emergency services were called to the crash about 8pm. Coastguard was alerted to a yacht run up against rocks at Opito Bay in Northland. Auckland police are urging anyone with information to come forward. Police said an argument outside a restaurant led to a car shooting and high-speed chase. Test your brain with the Herald's afternoon quiz. Major contenders for world machine shearing titles are almost all shearing in Hawke's Bay. Two people were airlifted to Wellington Hospital while a third was taken to Christchurch. The man directed associates to deposit $1m into NZ bank accounts. Both dogs have been impounded, pending a police investigation. OPINION: Massey University's Pushpa Wood urges students to track every cent for a month. Ben Mitchell's wife Kate Mitchell has been diagnosed with stage 4 ovarian cancer. Tests are underway to rule out bird flu after 25 birds have died in a second outbreak. The women resigned after an internal disciplinary meeting at the law firm. A 1944 vote created a trust that still blocks beer in supermarkets. OPINION: Massey University's Pushpa Wood urges students to track every cent for a
+
+

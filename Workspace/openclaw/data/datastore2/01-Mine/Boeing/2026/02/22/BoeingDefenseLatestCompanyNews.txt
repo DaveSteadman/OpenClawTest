@@ -1,0 +1,266 @@
+Domain: Boeing
+Query: Boeing defense latest company news
+Timestamp: 2026-02-22T09:58:55
+PerPageSummaryWords: 200
+- Boeing relocates defense HQ to American heartland, leaving ... - Fox News
+  https://www.foxnews.com/politics/top-defense-contractor-announces-major-move-weeks-after-dem-governor-takes-office-win-heartland
+  Boeing announced it is moving its defense headquarters out of Virginia back to St. Louis, just weeks after newly elected Democratic Gov. Abigail Spanberger took office.
+  LinkedPageStatus: ok (https://www.foxnews.com/politics/top-defense-contractor-announces-major-move-weeks-after-dem-governor-takes-office-win-heartland)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Former special assistant to President Biden Michael LaRosa and Washington Times editor-at-large Alex Swoyer join 'America Reports' to react to Virginia Democrat Gov. Abigail Spanberger's controversial start to her term. NEW You can now listen to Fox News articles! After nearly a decade in Virginia, Boeing announced on Wednesday that it is moving its Defense, Space & Security headquarters out of the state back to St. Louis. This comes just weeks after new Democratic Gov. Abigail Spanberger took office, replacing Republican Gov. Glenn Youngkin. In a Wednesday statement, Boeing said its decision to move its defense headquarters to St. Louis emphasizes company leadership’s "commitment to being present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities for customers in the U.S. and around the world." The company said it is progressing on a multibillion-dollar investment in "the world’s most advanced combat aircraft production facilities," including in St. Louis. The change moves the defense headquarters from Arlington, Virginia , back to its former site in St. Louis, where much of the company’s products are designed and manufactured. Boeing’s headquarters was in Arlington, a suburb of Washington, D.C., for nearly a decade, with the
+
+- Arlington loses Boeing's defense HQ to St. Louis | ARLnow.com
+  https://www.arlnow.com/2026/02/19/arlington-loses-boeings-defense-hq-to-st-louis/
+  Boeing's Defense , Space and Security headquarters is leaving Crystal City after nine years. The aerospace and defense company announced the move Wednesday, citing a desire to be "present and ...
+  LinkedPageStatus: ok (https://www.arlnow.com/2026/02/19/arlington-loses-boeings-defense-hq-to-st-louis/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing’s Defense, Space and Security headquarters is leaving Crystal City after nine years. The aerospace and defense company announced the move Wednesday, citing a desire to be “present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities.” The St. Louis region is home to about 18,000 Boeing employees. The company did not say how many employees, if any, would relocate from here. According to Defense One , Boeing plans to keep its global headquarters in Arlington, where it has been based since 2022 . “It’s important for leaders to be side-by-side with our teammates, listening to their feedback and acting to remove obstacles as we continue to stabilize and strengthen our business,” said Steve Parker, Boeing Defense, Space & Security CEO. “The headquarters move, coupled with our senior leaders being based at and spending their time at major engineering, production and manufacturing centers across the U.S., reflects our continued focus on disciplined performance across our business.” Boeing moved its defense headquarters to Crystal City in early 2017 , seeking closer proximity to federal decision-makers. Its Crystal City office complex, approved in 2011 , was originally a regional headquarters. The relocation won’t affect
+
+- Boeing defence workers go on strike in new blow to aviation giant
+  https://www.bbc.com/news/articles/c4gze2medkdo
+  The striking workers build F-15 fighter jets and other military aircraft More than three thousand Boeing defence workers went on strike on Monday, in a fresh blow to the embattled aviation giant ...
+  LinkedPageStatus: ok (https://www.bbc.com/news/articles/c4gze2medkdo)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  More than three thousand Boeing defence workers went on strike on Monday, in a fresh blow to the embattled aviation giant. It comes after union members at operations in Missouri and Illinois, who build F-15 fighter jets and other military aircraft, voted against the firm's latest offer over pay, work schedules and pensions. "We're disappointed our employees rejected an offer that featured 40% average wage growth", Dan Gillian, who is the vice president of Boeing's Air Dominance unit, said in a statement. Boeing is struggling to turn itself around after a series of problems, including safety issues and a damaging almost eight-week walkout by passenger plane workers last year. The walkout is being led by a local branch of the International Association of Machinists and Aerospace Workers (IAM) based in St Louis, where Boeing's defence manufacturing hub is located. "3,200 highly-skilled IAM Union members at Boeing went on strike at midnight because enough is enough. This is about respect and dignity, not empty promises," the union posted on X . IAM is one of America's largest unions, representing roughly 600,000 members in the aerospace, defence, shipbuilding and manufacturing industries. It is the first walkout at Boeing's defence business since 1996,
+
+- Defense - The Boeing Company
+  https://www.boeing.com/defense
+  Boeing's precision-guided munitions, layered air and missile defense , and strategic deterrent capabilities give operators advanced, integrated solutions to meet global defense and security needs today and tomorrow — ranging from affordable mass and maritime strike to protection against sophisticated drone and advanced missile threats.
+  LinkedPageStatus: ok (https://www.boeing.com/defense)
+  LinkedPageSummaryWords: 121
+  LinkedPageSummary:
+  Trusted and sought after by the United States Army, Navy, Marines, Air Force and allied defense forces spanning more than 20 countries across the globe, Boeing has redefined the boundaries of technology, capability and sustainability to ensure the production and delivery of reliable, maintainable and mission-ready rotorcraft. We have adapted our proven multi-mission rotorcraft to effectively address current missions while preparing for future challenges – and continue to make innovation a priority. We are dedicated to improving our capabilities to support our platforms, including manned and unmanned teaming requirements, as well as developing new rotorcraft concepts. Our forecasts take into account future needs and emerging trends, allowing us to provide comprehensive solutions that meet the diverse requirements of our global customers.
+
+- Boeing Defense plans to replace striking workers with new hires
+  https://www.reuters.com/business/world-at-work/boeing-defense-plans-replace-striking-workers-with-new-hires-2025-09-04/
+  Sept 4 (Reuters) - Boeing Defense (BA.N) plans to hire new workers to replace striking members of the International Association of Machinists and Aerospace Workers (IAM) who assemble munitions ...
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/world-at-work/boeing-defense-plans-replace-striking-workers-with-new-hires-2025-09-04/
+  LinkedPageSummaryWords: 0
+
+- News Releases - Boeing UK
+  https://www.boeing.co.uk/news-releases
+  10/06/2024 Boeing -supported Newton Room Opens in North Somerset 14/05/2024 Boeing Strengthens Presence in Bristol with New UK Defence Headquarters 11/04/2024 Moray Steel Supplier Supports Construction of UK E-7 Wedgetail Facilities 21/02/2024
+  LinkedPageStatus: ok (https://www.boeing.co.uk/news-releases)
+  LinkedPageSummaryWords: 41
+  LinkedPageSummary:
+  Dan Mosely Head of Communications, Boeing UK, Ireland & the Nordics +44 7825 898594 daniel.mosely@boeing.com Georgina Ramin Boeing UK & Ireland Defence Communications Specialist +44 (0) 7552 254770 georgina.ramin@boeing.com Hannah Shroot Boeing UK & Ireland Communications +44 (0) 7775 225695 hannah.l.shroot@boeing.com
+
+- News Releases | Boeing Newsroom
+  https://boeing.mediaroom.com/news-releases-statements
+  The Boeing Company [NYSE: BA] announced today major program deliveries across its commercial and defense operations for the fourth quarter of 2025 as follows: Major Programs 4th Quarter 2025 Full Year
+  LinkedPageStatus: ok (https://boeing.mediaroom.com/news-releases-statements)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  We’re grateful to NASA for its thorough investigation and the opportunity to contribute to it. In the 18 months since our test flight, Boeing has made substantial progress on corrective actions... Federal Aviation Administration (FAA) and European Union Aviation Safety Agency (EASA) approve simulator devices for airline pilot training GATWICK, United Kingdom, Feb. 19, 2026 /PRNewswire/ --... New luxury airline makes first direct jet purchase to grow tourism and economy on Vietnam's largest island WASHINGTON, Feb. 18, 2026 /PRNewswire/ -- Boeing [NYSE: BA] and Sun PhuQuoc Airways today... 787 Dreamliner operator places first Boeing single-aisle order as part of its growth strategy Versatile 737-8 jets will expand Vietnam's short- and medium-haul network amid rising travel demand... SEATTLE, Feb. 17, 2026 — Boeing and Air Astana JSC announced today the Kazakhstan flag carrier has finalized an order for up to 15 787 Dreamliner jets to grow and modernize its Boeing widebody... LONG BEACH, Calif. — February 9, 2026 — The Boeing Company today announced a contract award from the U.S. Air Force that will keep the C‑17A Globemaster flying and mission-ready for decades... SINGAPORE, Feb. 4, 2026 — Boeing [NYSE: BA] successfully completed its 100th 787 Landing Gear Exchange (LGE) delivery,
+
+- Boeing Defense News Room - Latest news and breaking stories - Aviation24.be
+  https://www.aviation24.be/category/manufacturers/boeing/boeing-defense/
+  All the latest breaking news on Boeing Defense . Browse Aviation24.be's complete collection of articles and commentary on Boeing Defense .
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.aviation24.be/category/manufacturers/boeing/boeing-defense/
+  LinkedPageSummaryWords: 0
+
+
+Domain: Boeing
+Query: Boeing defense latest company news
+Timestamp: 2026-02-22T10:03:45
+PerPageSummaryWords: 200
+- Boeing relocates defense HQ to American heartland, leaving ... - Fox News
+  https://www.foxnews.com/politics/top-defense-contractor-announces-major-move-weeks-after-dem-governor-takes-office-win-heartland
+  Boeing announced it is moving its defense headquarters out of Virginia back to St. Louis, just weeks after newly elected Democratic Gov. Abigail Spanberger took office.
+  LinkedPageStatus: ok (https://www.foxnews.com/politics/top-defense-contractor-announces-major-move-weeks-after-dem-governor-takes-office-win-heartland)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Former special assistant to President Biden Michael LaRosa and Washington Times editor-at-large Alex Swoyer join 'America Reports' to react to Virginia Democrat Gov. Abigail Spanberger's controversial start to her term. NEW You can now listen to Fox News articles! After nearly a decade in Virginia, Boeing announced on Wednesday that it is moving its Defense, Space & Security headquarters out of the state back to St. Louis. This comes just weeks after new Democratic Gov. Abigail Spanberger took office, replacing Republican Gov. Glenn Youngkin. In a Wednesday statement, Boeing said its decision to move its defense headquarters to St. Louis emphasizes company leadership’s "commitment to being present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities for customers in the U.S. and around the world." The company said it is progressing on a multibillion-dollar investment in "the world’s most advanced combat aircraft production facilities," including in St. Louis. The change moves the defense headquarters from Arlington, Virginia , back to its former site in St. Louis, where much of the company’s products are designed and manufactured. Boeing’s headquarters was in Arlington, a suburb of Washington, D.C., for nearly a decade, with the
+
+- News Releases - Boeing UK
+  https://www.boeing.co.uk/news-releases
+  10/06/2024 Boeing -supported Newton Room Opens in North Somerset 14/05/2024 Boeing Strengthens Presence in Bristol with New UK Defence Headquarters 11/04/2024 Moray Steel Supplier Supports Construction of UK E-7 Wedgetail Facilities 21/02/2024
+  LinkedPageStatus: ok (https://www.boeing.co.uk/news-releases)
+  LinkedPageSummaryWords: 41
+  LinkedPageSummary:
+  Dan Mosely Head of Communications, Boeing UK, Ireland & the Nordics +44 7825 898594 daniel.mosely@boeing.com Georgina Ramin Boeing UK & Ireland Defence Communications Specialist +44 (0) 7552 254770 georgina.ramin@boeing.com Hannah Shroot Boeing UK & Ireland Communications +44 (0) 7775 225695 hannah.l.shroot@boeing.com
+
+- Back To The Factory Floor: Why Boeing Is Moving Its Defense ...
+  https://simpleflying.com/back-factory-floor-why-boeing-moving-defense-hq-dc/
+  Boeing is relocating the headquarters of its Boeing Defense , Space & Security (BDS) unit from the Washington, D.C., area back to St. Louis, bringing the division's senior leadership closer to the engineers and production lines that build the majority of its key military systems. This shift re-centers BDS in a region that already hosts a major Boeing workforce and core defense manufacturing ...
+  LinkedPageStatus: ok (https://simpleflying.com/back-factory-floor-why-boeing-moving-defense-hq-dc/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing is relocating the headquarters of its Boeing Defense, Space & Security (BDS) unit from the Washington, D.C., area back to St. Louis, bringing the division's senior leadership closer to the engineers and production lines that build the majority of its key military systems. This shift re-centers BDS in a region that already hosts a major Boeing workforce and core defense manufacturing capabilities and infrastructure. The message is simple. The company wants less Beltway distance and more factory-floor focus, a move that investors have been pushing Boeing to make for a while now. It is aimed at improving execution, removing internal roadblocks, and accelerating delivery as Boeing invests in next-generation combat aircraft facilities in the state of Missouri. It is also a cultural signal as much as a large-scale organizational change at a high level. Boeing has designated its St. Louis campus as the headquarters for its advanced Boeing Defense, Space & Security division, moving the unit's headquarters function from Arlington, Virginia (Crystal City) back to Missouri. Boeing has said that this change is meant to re-establish St. Louis as the formal home for BDS leadership, where it was based from 1997 to 2017, addressing many employee concerns . Boeing's
+
+- Boeing defence workers go on strike in new blow to aviation giant
+  https://www.bbc.com/news/articles/c4gze2medkdo
+  The striking workers build F-15 fighter jets and other military aircraft More than three thousand Boeing defence workers went on strike on Monday, in a fresh blow to the embattled aviation giant ...
+  LinkedPageStatus: ok (https://www.bbc.com/news/articles/c4gze2medkdo)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  More than three thousand Boeing defence workers went on strike on Monday, in a fresh blow to the embattled aviation giant. It comes after union members at operations in Missouri and Illinois, who build F-15 fighter jets and other military aircraft, voted against the firm's latest offer over pay, work schedules and pensions. "We're disappointed our employees rejected an offer that featured 40% average wage growth", Dan Gillian, who is the vice president of Boeing's Air Dominance unit, said in a statement. Boeing is struggling to turn itself around after a series of problems, including safety issues and a damaging almost eight-week walkout by passenger plane workers last year. The walkout is being led by a local branch of the International Association of Machinists and Aerospace Workers (IAM) based in St Louis, where Boeing's defence manufacturing hub is located. "3,200 highly-skilled IAM Union members at Boeing went on strike at midnight because enough is enough. This is about respect and dignity, not empty promises," the union posted on X . IAM is one of America's largest unions, representing roughly 600,000 members in the aerospace, defence, shipbuilding and manufacturing industries. It is the first walkout at Boeing's defence business since 1996,
+
+- Arlington loses Boeing's defense HQ to St. Louis | ARLnow.com
+  https://www.arlnow.com/2026/02/19/arlington-loses-boeings-defense-hq-to-st-louis/
+  Boeing's Defense , Space and Security headquarters is leaving Crystal City after nine years. The aerospace and defense company announced the move Wednesday, citing a desire to be "present and ...
+  LinkedPageStatus: ok (https://www.arlnow.com/2026/02/19/arlington-loses-boeings-defense-hq-to-st-louis/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Boeing’s Defense, Space and Security headquarters is leaving Crystal City after nine years. The aerospace and defense company announced the move Wednesday, citing a desire to be “present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities.” The St. Louis region is home to about 18,000 Boeing employees. The company did not say how many employees, if any, would relocate from here. According to Defense One , Boeing plans to keep its global headquarters in Arlington, where it has been based since 2022 . “It’s important for leaders to be side-by-side with our teammates, listening to their feedback and acting to remove obstacles as we continue to stabilize and strengthen our business,” said Steve Parker, Boeing Defense, Space & Security CEO. “The headquarters move, coupled with our senior leaders being based at and spending their time at major engineering, production and manufacturing centers across the U.S., reflects our continued focus on disciplined performance across our business.” Boeing moved its defense headquarters to Crystal City in early 2017 , seeking closer proximity to federal decision-makers. Its Crystal City office complex, approved in 2011 , was originally a regional headquarters. The relocation won’t affect
+
+- Defense - The Boeing Company
+  https://www.boeing.com/defense
+  Boeing's precision-guided munitions, layered air and missile defense , and strategic deterrent capabilities give operators advanced, integrated solutions to meet global defense and security needs today and tomorrow — ranging from affordable mass and maritime strike to protection against sophisticated drone and advanced missile threats.
+  LinkedPageStatus: ok (https://www.boeing.com/defense)
+  LinkedPageSummaryWords: 121
+  LinkedPageSummary:
+  Trusted and sought after by the United States Army, Navy, Marines, Air Force and allied defense forces spanning more than 20 countries across the globe, Boeing has redefined the boundaries of technology, capability and sustainability to ensure the production and delivery of reliable, maintainable and mission-ready rotorcraft. We have adapted our proven multi-mission rotorcraft to effectively address current missions while preparing for future challenges – and continue to make innovation a priority. We are dedicated to improving our capabilities to support our platforms, including manned and unmanned teaming requirements, as well as developing new rotorcraft concepts. Our forecasts take into account future needs and emerging trends, allowing us to provide comprehensive solutions that meet the diverse requirements of our global customers.
+
+- Boeing Defense plans to replace striking workers with new hires
+  https://www.reuters.com/business/world-at-work/boeing-defense-plans-replace-striking-workers-with-new-hires-2025-09-04/
+  Sept 4 (Reuters) - Boeing Defense (BA.N) plans to hire new workers to replace striking members of the International Association of Machinists and Aerospace Workers (IAM) who assemble munitions ...
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/world-at-work/boeing-defense-plans-replace-striking-workers-with-new-hires-2025-09-04/
+  LinkedPageSummaryWords: 0
+
+- Boeing's defense unit logs massive $2 billion in losses for third ...
+  https://breakingdefense.com/2024/10/boeings-defense-unit-logs-massive-2-billion-in-losses-for-third-quarter/
+  The financial bleeding on in Boeing's defense unit was replicated in its commercial business, which will declare $3 billion in losses for the quarter.
+  LinkedPageStatus: ok (https://breakingdefense.com/2024/10/boeings-defense-unit-logs-massive-2-billion-in-losses-for-third-quarter/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  WASHINGTON — Boeing’s defense unit will take $2 billion in losses on fixed-price contracts when it reports its third quarter results later this month, the company disclosed today, bringing total defense-related charges for the company up to $3.2 billion this year. The wider company also announced plans to slash 10 percent of its total workforce. The charges to its defense arm come as the US planemaker hemorrhages money amid an ongoing strike by its Seattle-area machinists union and as it announced the conclusion of its 767 freighter production — both factors the company states contributed to losses on the T-7A trainer, MQ-25 tanker drone, KC-46 tanker and NASA’s Starliner in the most recent financial quarter. The T-7 trainer logged the largest charge, worth $900 million, due to what the company said were higher estimated costs for production in 2026 and beyond. Behind it, the KC-46 logged a $700 million loss due to Boeing’s decision to end production of the 767 freighter, the commercial aircraft on which the militarized tanker is based. The company also pointed the finger at the ongoing machinists union strike , which has paused production of commercial airplanes, such as the 767 made in the company’s Seattle
+
+
+Domain: Boeing
+Query: Boeing defense latest company news
+Timestamp: 2026-02-22T10:19:26
+PerPageSummaryWords: 200
+- Boeing relocates defense HQ to American heartland, leaving ... - Fox News
+  https://www.foxnews.com/politics/top-defense-contractor-announces-major-move-weeks-after-dem-governor-takes-office-win-heartland
+  Boeing announced it is moving its defense headquarters out of Virginia back to St. Louis, just weeks after newly elected Democratic Gov. Abigail Spanberger took office.
+  LinkedPageStatus: ok (https://www.foxnews.com/politics/top-defense-contractor-announces-major-move-weeks-after-dem-governor-takes-office-win-heartland)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Former special assistant to President Biden Michael LaRosa and Washington Times editor-at-large Alex Swoyer join 'America Reports' to react to Virginia Democrat Gov. Abigail Spanberger's controversial start to her term. NEW You can now listen to Fox News articles! After nearly a decade in Virginia, Boeing announced on Wednesday that it is moving its Defense, Space & Security headquarters out of the state back to St. Louis. This comes just weeks after new Democratic Gov. Abigail Spanberger took office, replacing Republican Gov. Glenn Youngkin. In a Wednesday statement, Boeing said its decision to move its defense headquarters to St. Louis emphasizes company leadership’s "commitment to being present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities for customers in the U.S. and around the world." The company said it is progressing on a multibillion-dollar investment in "the world’s most advanced combat aircraft production facilities," including in St. Louis. The change moves the defense headquarters from Arlington, Virginia , back to its former site in St. Louis, where much of the company’s products are designed and manufactured. Boeing’s headquarters was in Arlington, a suburb of Washington, D.C., for nearly a decade, with the
+
+- Defense - The Boeing Company
+  https://www.boeing.com/defense
+  Boeing's precision-guided munitions, layered air and missile defense , and strategic deterrent capabilities give operators advanced, integrated solutions to meet global defense and security needs today and tomorrow — ranging from affordable mass and maritime strike to protection against sophisticated drone and advanced missile threats.
+  LinkedPageStatus: ok (https://www.boeing.com/defense)
+  LinkedPageSummaryWords: 121
+  LinkedPageSummary:
+  Trusted and sought after by the United States Army, Navy, Marines, Air Force and allied defense forces spanning more than 20 countries across the globe, Boeing has redefined the boundaries of technology, capability and sustainability to ensure the production and delivery of reliable, maintainable and mission-ready rotorcraft. We have adapted our proven multi-mission rotorcraft to effectively address current missions while preparing for future challenges – and continue to make innovation a priority. We are dedicated to improving our capabilities to support our platforms, including manned and unmanned teaming requirements, as well as developing new rotorcraft concepts. Our forecasts take into account future needs and emerging trends, allowing us to provide comprehensive solutions that meet the diverse requirements of our global customers.
+
+- Boeing defence workers go on strike in new blow to aviation giant
+  https://www.bbc.com/news/articles/c4gze2medkdo
+  The striking workers build F-15 fighter jets and other military aircraft More than three thousand Boeing defence workers went on strike on Monday, in a fresh blow to the embattled aviation giant ...
+  LinkedPageStatus: ok (https://www.bbc.com/news/articles/c4gze2medkdo)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  More than three thousand Boeing defence workers went on strike on Monday, in a fresh blow to the embattled aviation giant. It comes after union members at operations in Missouri and Illinois, who build F-15 fighter jets and other military aircraft, voted against the firm's latest offer over pay, work schedules and pensions. "We're disappointed our employees rejected an offer that featured 40% average wage growth", Dan Gillian, who is the vice president of Boeing's Air Dominance unit, said in a statement. Boeing is struggling to turn itself around after a series of problems, including safety issues and a damaging almost eight-week walkout by passenger plane workers last year. The walkout is being led by a local branch of the International Association of Machinists and Aerospace Workers (IAM) based in St Louis, where Boeing's defence manufacturing hub is located. "3,200 highly-skilled IAM Union members at Boeing went on strike at midnight because enough is enough. This is about respect and dignity, not empty promises," the union posted on X . IAM is one of America's largest unions, representing roughly 600,000 members in the aerospace, defence, shipbuilding and manufacturing industries. It is the first walkout at Boeing's defence business since 1996,
+
+- News Releases | Boeing Newsroom
+  https://boeing.mediaroom.com/news-releases-statements
+  The Boeing Company [NYSE: BA] announced today major program deliveries across its commercial and defense operations for the fourth quarter of 2025 as follows: Major Programs 4th Quarter 2025 Full Year
+  LinkedPageStatus: ok (https://boeing.mediaroom.com/news-releases-statements)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  We’re grateful to NASA for its thorough investigation and the opportunity to contribute to it. In the 18 months since our test flight, Boeing has made substantial progress on corrective actions... Federal Aviation Administration (FAA) and European Union Aviation Safety Agency (EASA) approve simulator devices for airline pilot training GATWICK, United Kingdom, Feb. 19, 2026 /PRNewswire/ --... New luxury airline makes first direct jet purchase to grow tourism and economy on Vietnam's largest island WASHINGTON, Feb. 18, 2026 /PRNewswire/ -- Boeing [NYSE: BA] and Sun PhuQuoc Airways today... 787 Dreamliner operator places first Boeing single-aisle order as part of its growth strategy Versatile 737-8 jets will expand Vietnam's short- and medium-haul network amid rising travel demand... SEATTLE, Feb. 17, 2026 — Boeing and Air Astana JSC announced today the Kazakhstan flag carrier has finalized an order for up to 15 787 Dreamliner jets to grow and modernize its Boeing widebody... LONG BEACH, Calif. — February 9, 2026 — The Boeing Company today announced a contract award from the U.S. Air Force that will keep the C‑17A Globemaster flying and mission-ready for decades... SINGAPORE, Feb. 4, 2026 — Boeing [NYSE: BA] successfully completed its 100th 787 Landing Gear Exchange (LGE) delivery,
+
+- News Releases - Boeing UK
+  https://www.boeing.co.uk/news-releases
+  10/06/2024 Boeing -supported Newton Room Opens in North Somerset 14/05/2024 Boeing Strengthens Presence in Bristol with New UK Defence Headquarters 11/04/2024 Moray Steel Supplier Supports Construction of UK E-7 Wedgetail Facilities 21/02/2024
+  LinkedPageStatus: ok (https://www.boeing.co.uk/news-releases)
+  LinkedPageSummaryWords: 41
+  LinkedPageSummary:
+  Dan Mosely Head of Communications, Boeing UK, Ireland & the Nordics +44 7825 898594 daniel.mosely@boeing.com Georgina Ramin Boeing UK & Ireland Defence Communications Specialist +44 (0) 7552 254770 georgina.ramin@boeing.com Hannah Shroot Boeing UK & Ireland Communications +44 (0) 7775 225695 hannah.l.shroot@boeing.com
+
+- Boeing's defense unit logs massive $2 billion in losses for third ...
+  https://breakingdefense.com/2024/10/boeings-defense-unit-logs-massive-2-billion-in-losses-for-third-quarter/
+  The financial bleeding on in Boeing's defense unit was replicated in its commercial business, which will declare $3 billion in losses for the quarter.
+  LinkedPageStatus: ok (https://breakingdefense.com/2024/10/boeings-defense-unit-logs-massive-2-billion-in-losses-for-third-quarter/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  WASHINGTON — Boeing’s defense unit will take $2 billion in losses on fixed-price contracts when it reports its third quarter results later this month, the company disclosed today, bringing total defense-related charges for the company up to $3.2 billion this year. The wider company also announced plans to slash 10 percent of its total workforce. The charges to its defense arm come as the US planemaker hemorrhages money amid an ongoing strike by its Seattle-area machinists union and as it announced the conclusion of its 767 freighter production — both factors the company states contributed to losses on the T-7A trainer, MQ-25 tanker drone, KC-46 tanker and NASA’s Starliner in the most recent financial quarter. The T-7 trainer logged the largest charge, worth $900 million, due to what the company said were higher estimated costs for production in 2026 and beyond. Behind it, the KC-46 logged a $700 million loss due to Boeing’s decision to end production of the 767 freighter, the commercial aircraft on which the militarized tanker is based. The company also pointed the finger at the ongoing machinists union strike , which has paused production of commercial airplanes, such as the 767 made in the company’s Seattle
+
+- Boeing Defense News Room - Latest news and breaking stories - Aviation24.be
+  https://www.aviation24.be/category/manufacturers/boeing/boeing-defense/
+  All the latest breaking news on Boeing Defense . Browse Aviation24.be's complete collection of articles and commentary on Boeing Defense .
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.aviation24.be/category/manufacturers/boeing/boeing-defense/
+  LinkedPageSummaryWords: 0
+
+- Boeing defense workers approve new contract, ending more than 3 ... - CNBC
+  https://www.cnbc.com/2025/11/13/boeing-defense-workers-strike.html
+  Boeing defense workers approved on Thursday on a new contract that will end a more than three-month strike that has delayed the manufacturer's production of F-15 fighter jets and other programs.
+  LinkedPageStatus: ok (https://www.cnbc.com/2025/11/13/boeing-defense-workers-strike.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  FILE PHOTO: A Boeing logo is seen before the opening of the 55th International Paris Airshow at Le Bourget Airport near Paris, France, June 13, 2025. Boeing defense workers approved on Thursday on a new contract that will end a more than three-month strike that has delayed the manufacturer's production of F-15 fighter jets and other programs. The workers rejected previous offers, with their union saying the proposals failed to address concerns. The contract proposal the roughly 3,200 workers voted on Thursday includes 24% wage increases over five years as well as a $6,000 up-front bonus, up from $3,000, though it gets rid of a previous Boeing proposal for $4,000 in payments later on. That will bring average base pay from $75,000 to $109,000 over the contract, Boeing had said. The mostly St. Louis-based workers, represented by the International Association of Machinists and Aerospace Workers District 837, went on strike on Aug. 4, their first stoppage since 1996. "We're proud of what our members have fought for together and are ready to get back to building the world's most advanced military aircraft," IAM District 837 said in a statement Thursday. Boeing's defense unit accounted for about 30% of the $65.5
+
+
+Domain: Boeing
+Query: Boeing defense latest company news
+Timestamp: 2026-02-22T16:22:49
+PerPageSummaryWords: 200
+- Boeing relocates defense HQ to American heartland, leaving ... - Fox News
+  https://www.foxnews.com/politics/top-defense-contractor-announces-major-move-weeks-after-dem-governor-takes-office-win-heartland
+  Boeing announced it is moving its defense headquarters out of Virginia back to St. Louis, just weeks after newly elected Democratic Gov. Abigail Spanberger took office.
+  LinkedPageStatus: ok (https://www.foxnews.com/politics/top-defense-contractor-announces-major-move-weeks-after-dem-governor-takes-office-win-heartland)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Former special assistant to President Biden Michael LaRosa and Washington Times editor-at-large Alex Swoyer join 'America Reports' to react to Virginia Democrat Gov. Abigail Spanberger's controversial start to her term. NEW You can now listen to Fox News articles! After nearly a decade in Virginia, Boeing announced on Wednesday that it is moving its Defense, Space & Security headquarters out of the state back to St. Louis. This comes just weeks after new Democratic Gov. Abigail Spanberger took office, replacing Republican Gov. Glenn Youngkin. In a Wednesday statement, Boeing said its decision to move its defense headquarters to St. Louis emphasizes company leadership’s "commitment to being present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities for customers in the U.S. and around the world." The company said it is progressing on a multibillion-dollar investment in "the world’s most advanced combat aircraft production facilities," including in St. Louis. The change moves the defense headquarters from Arlington, Virginia , back to its former site in St. Louis, where much of the company’s products are designed and manufactured. Boeing’s headquarters was in Arlington, a suburb of Washington, D.C., for nearly a decade, with the
+
+- Defense - The Boeing Company
+  https://www.boeing.com/defense
+  Boeing's precision-guided munitions, layered air and missile defense , and strategic deterrent capabilities give operators advanced, integrated solutions to meet global defense and security needs today and tomorrow — ranging from affordable mass and maritime strike to protection against sophisticated drone and advanced missile threats.
+  LinkedPageStatus: ok (https://www.boeing.com/defense)
+  LinkedPageSummaryWords: 121
+  LinkedPageSummary:
+  Trusted and sought after by the United States Army, Navy, Marines, Air Force and allied defense forces spanning more than 20 countries across the globe, Boeing has redefined the boundaries of technology, capability and sustainability to ensure the production and delivery of reliable, maintainable and mission-ready rotorcraft. We have adapted our proven multi-mission rotorcraft to effectively address current missions while preparing for future challenges – and continue to make innovation a priority. We are dedicated to improving our capabilities to support our platforms, including manned and unmanned teaming requirements, as well as developing new rotorcraft concepts. Our forecasts take into account future needs and emerging trends, allowing us to provide comprehensive solutions that meet the diverse requirements of our global customers.
+
+- News Releases - Boeing UK
+  https://www.boeing.co.uk/news-releases
+  10/06/2024 Boeing -supported Newton Room Opens in North Somerset 14/05/2024 Boeing Strengthens Presence in Bristol with New UK Defence Headquarters 11/04/2024 Moray Steel Supplier Supports Construction of UK E-7 Wedgetail Facilities 21/02/2024
+  LinkedPageStatus: ok (https://www.boeing.co.uk/news-releases)
+  LinkedPageSummaryWords: 41
+  LinkedPageSummary:
+  Dan Mosely Head of Communications, Boeing UK, Ireland & the Nordics +44 7825 898594 daniel.mosely@boeing.com Georgina Ramin Boeing UK & Ireland Defence Communications Specialist +44 (0) 7552 254770 georgina.ramin@boeing.com Hannah Shroot Boeing UK & Ireland Communications +44 (0) 7775 225695 hannah.l.shroot@boeing.com
+
+- News Releases | Boeing Newsroom
+  https://boeing.mediaroom.com/news-releases-statements
+  The Boeing Company [NYSE: BA] announced today major program deliveries across its commercial and defense operations for the fourth quarter of 2025 as follows: Major Programs 4th Quarter 2025 Full Year
+  LinkedPageStatus: ok (https://boeing.mediaroom.com/news-releases-statements)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  We’re grateful to NASA for its thorough investigation and the opportunity to contribute to it. In the 18 months since our test flight, Boeing has made substantial progress on corrective actions... Federal Aviation Administration (FAA) and European Union Aviation Safety Agency (EASA) approve simulator devices for airline pilot training GATWICK, United Kingdom, Feb. 19, 2026 /PRNewswire/ --... New luxury airline makes first direct jet purchase to grow tourism and economy on Vietnam's largest island WASHINGTON, Feb. 18, 2026 /PRNewswire/ -- Boeing [NYSE: BA] and Sun PhuQuoc Airways today... 787 Dreamliner operator places first Boeing single-aisle order as part of its growth strategy Versatile 737-8 jets will expand Vietnam's short- and medium-haul network amid rising travel demand... SEATTLE, Feb. 17, 2026 — Boeing and Air Astana JSC announced today the Kazakhstan flag carrier has finalized an order for up to 15 787 Dreamliner jets to grow and modernize its Boeing widebody... LONG BEACH, Calif. — February 9, 2026 — The Boeing Company today announced a contract award from the U.S. Air Force that will keep the C‑17A Globemaster flying and mission-ready for decades... SINGAPORE, Feb. 4, 2026 — Boeing [NYSE: BA] successfully completed its 100th 787 Landing Gear Exchange (LGE) delivery,
+
+- Boeing moves defense headquarters back to St. Louis, solidifying ...
+  https://www.msn.com/en-us/news/technology/boeing-moves-defense-headquarters-back-to-st-louis-solidifying-aerospace-hub/ar-AA1WCl70
+  Boeing named its St. Louis site the headquarters of the Boeing Defense , Space & Security business, emphasizing the company leadership's commitment to being present and engaged with teammates who ...
+  LinkedPageStatus: ok (https://www.msn.com/en-us/news/technology/boeing-moves-defense-headquarters-back-to-st-louis-solidifying-aerospace-hub/ar-AA1WCl70)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- Boeing Defense News Room - Latest news and breaking stories - Aviation24.be
+  https://www.aviation24.be/category/manufacturers/boeing/boeing-defense/
+  All the latest breaking news on Boeing Defense . Browse Aviation24.be's complete collection of articles and commentary on Boeing Defense .
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.aviation24.be/category/manufacturers/boeing/boeing-defense/
+  LinkedPageSummaryWords: 0
+
+- Google News - Boeing Co - Latest
+  https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREUzT0djU0FtVnVLQUFQAQ
+  Read full articles, watch videos, browse thousands of titles and more on the " Boeing Co" topic with Google News .
+  LinkedPageStatus: ok (https://consent.google.com/ml?continue=https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREUzT0djU0FtVnVLQUFQAQ&gl=GB&hl=en-US&cm=2&pc=n&src=1&escs=AZ8E49A8vq7blfgVg-Ji3QYLUutaAK3B6fEFbwDjgTn2E3XmoT8RqmtO_lcKJ_nfD6d4aB38ekB4SD3hjk4Y_-zHd6uox_FuRVxw)
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  Select “More options” to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+- Boeing's defense unit logs massive $2 billion in losses for third ...
+  https://breakingdefense.com/2024/10/boeings-defense-unit-logs-massive-2-billion-in-losses-for-third-quarter/
+  The financial bleeding on in Boeing's defense unit was replicated in its commercial business, which will declare $3 billion in losses for the quarter.
+  LinkedPageStatus: ok (https://breakingdefense.com/2024/10/boeings-defense-unit-logs-massive-2-billion-in-losses-for-third-quarter/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  WASHINGTON — Boeing’s defense unit will take $2 billion in losses on fixed-price contracts when it reports its third quarter results later this month, the company disclosed today, bringing total defense-related charges for the company up to $3.2 billion this year. The wider company also announced plans to slash 10 percent of its total workforce. The charges to its defense arm come as the US planemaker hemorrhages money amid an ongoing strike by its Seattle-area machinists union and as it announced the conclusion of its 767 freighter production — both factors the company states contributed to losses on the T-7A trainer, MQ-25 tanker drone, KC-46 tanker and NASA’s Starliner in the most recent financial quarter. The T-7 trainer logged the largest charge, worth $900 million, due to what the company said were higher estimated costs for production in 2026 and beyond. Behind it, the KC-46 logged a $700 million loss due to Boeing’s decision to end production of the 767 freighter, the commercial aircraft on which the militarized tanker is based. The company also pointed the finger at the ongoing machinists union strike , which has paused production of commercial airplanes, such as the 767 made in the company’s Seattle
+
+

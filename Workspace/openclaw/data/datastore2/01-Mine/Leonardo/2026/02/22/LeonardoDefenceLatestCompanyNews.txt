@@ -1,0 +1,205 @@
+Domain: Leonardo
+Query: Leonardo defence latest company news
+Timestamp: 2026-02-22T10:02:32
+PerPageSummaryWords: 200
+- Press releases | Leonardo
+  https://www.leonardo.com/en/media-hub/press-releases
+  Leonardo and Leonardo Foundation ETS: event on defence and security held during STEM week Press Releases 27.01.2026 - 17:38 Electronics
+  LinkedPageStatus: ok (https://www.leonardo.com/en/media-hub/press-releases)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Press Releases Enter search text Filter Type Region Category Year Reset filters Type Press Releases Press Notes Inside Information Region Global Argentina Australia Bahrain Brazil Canada Chile China Germany Italy Japan Kenya Kuwait Malaysia Pakistan Poland Portugal Qatar Republic of Korea Romania Russia Saudi Arabia Singapore Spain Thailandia Turkey UK USA United Arab Emirates Category corporate Appointments Corporate Events Financial Innovation Sustainability business Aerostructures Aircraft Automation Cyber Security Electronics Helicopters Space Uncrewed Year 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 From To 18.02.2026 - 17:11 Cyber Security Indra Group and Leonardo sign agreement to work together in the cyber defence field Press Releases 16.02.2026 - 10:23 Aircraft KSA’s Ministry of Defence to introduce advanced maritime patrol and multi-mission capabilities with contract for four C-27J MPA aircraft Press Releases 04.02.2026 - 07:38 Aircraft Leonardo, PT ESystem Solutions and the Ministry of Defence Of the Republic of Indonesia sign M-346 F AIRCRAFT Letter of Intent to meet Indonesian Air Force training and combat requirements Press Releases 03.02.2026 - 09:22 Helicopters Adani Defence & Aerospace and Leonardo Forge Strategic Partnership to Build India's Helicopter Ecosystem Press Releases 02.02.2026 - 16:07 Events Leonardo and Leonardo Foundation
+
+- Hope for Yeovil helicopter factory bidding for £1bn contract
+  https://www.bbc.com/news/articles/ce8w035l7ryo
+  Adam Wardrope, Leonardo's vice president of market development, suggested the company was feeling hopeful after its latest talks with the government and the Ministry of Defence .
+  LinkedPageStatus: ok (https://www.bbc.com/news/articles/ce8w035l7ryo)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A helicopter maker said it has had "good dialogue" with the government about a delayed contract decision that has left 3,000 workers in limbo. Leonardo Helicopters in Yeovil, Somerset, is the UK's last helicopter factory and is the only bidder for the £1bn contract. CEO Roberto Cingolani and Yeovil MP Adam Dance have previously said the firm's future would be at risk if its bid to build the required helicopters was not approved. Adam Wardrope, Leonardo's vice president of market development, suggested the company was feeling hopeful after its latest talks with the government and the Ministry of Defence. The government has repeatedly delayed its decision but it is now expected to be made by the end of March . News of the positive discussions comes days after Sir Keir Starmer was reportedly considering a significant increase in defence spending. The government has previously said it needs to "fundamentally rewire defence" to "deter and if necessary defeat" those who threaten the UK. The contract Leonardo is hoping to get is for its conventional helicopters – but on 20 February it unveiled its newest model: the UK's first autonomous full-size helicopter. The model, Proteus, recently undertook its first flight. It was
+
+- Leonardo: Yeovil helicopter factory decision due 'by end of March' - BBC
+  https://www.bbc.co.uk/news/articles/czr07g5yvp7o
+  Leonardo Helicopters in Yeovil, Somerset, is the sole bidder for a £1bn Ministry of Defence (MoD) contract, but is waiting for it to be approved.
+  LinkedPageStatus: ok (https://www.bbc.co.uk/news/articles/czr07g5yvp7o)
+  LinkedPageSummaryWords: 115
+  LinkedPageSummary:
+  A decision will be made on a contract that could secure the UK's last military helicopter factory before the end of March, the government has said. Leonardo Helicopters in Yeovil, Somerset, is the sole bidder for a £1bn Ministry of Defence (MoD) contract, but is waiting for it to be approved. The area's MP Adam Dance said in January 3,000 jobs could be at risk and the site closed if the deal to build new medium helicopters does not go ahead. During a debate at Westminster earlier, Luke Pollard, minister for defence procurement, told Dance he would not let the decision "time out" and said an announcement would be made before the end of March.
+
+- Leonardo warns Yeovil helicopter factory at risk without Puma ...
+  https://bmmagazine.co.uk/news/leonardo-uk-helicopter-factory-risk-puma-contract/
+  In a letter to defence secretary John Healey, Roberto Cingolani, chief executive of the Italian defence group, said the contract to replace the long-serving Puma helicopter was central to Leonardo's long-term commitment to the UK. Without it, the company would be compelled to reassess its entire ...
+  LinkedPageStatus: ok (https://bmmagazine.co.uk/news/leonardo-uk-helicopter-factory-risk-puma-contract/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  In a letter to defence secretary John Healey, Roberto Cingolani, chief executive of the Italian defence group, said the contract to replace the long-serving Puma helicopter was central to Leonardo’s long-term commitment to the UK. Without it, the company would be compelled to reassess its entire British footprint, including its historic manufacturing base in Yeovil, Somerset, which employs around 3,300 people. Leonardo’s AW149 helicopter is currently the sole remaining contender for the programme, after Airbus and Lockheed Martin withdrew from the competition last year. The company submitted its final bid in April, with a decision now resting with ministers. Cingolani warned that any delay or cancellation of the programme would have serious consequences. In his letter, first reported by the Telegraph, he said the absence of new UK defence contracts would force Leonardo to reconsider further investment in areas such as electronics and cybersecurity, in addition to core helicopter manufacturing. Leonardo, the successor to Westland Helicopters, has produced military aircraft in Yeovil for decades and currently builds and supports more than 100 helicopters for the British armed forces, including the Merlin and Wildcat fleets. The site also services export orders for customers in the Middle East and North Africa, but
+
+- UK pledges NMH helicopter decision before Leonardo deadline amid Yeovil ...
+  https://www.flightglobal.com/helicopters/uk-government-continues-talks-with-leonardo-over-nmh-as-it-pledges-it-will-not-allow-aw149-offer-to-time-out/166290.article
+  UK defence ministers have met with senior executives from Leonardo twice over the past fortnight as they attempt to reassure the Italian firm over the government's continued commitment to the long ...
+  LinkedPageStatus: ok (https://www.flightglobal.com/helicopters/uk-government-continues-talks-with-leonardo-over-nmh-as-it-pledges-it-will-not-allow-aw149-offer-to-time-out/166290.article)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  UK defence ministers have met with senior executives from Leonardo twice over the past fortnight as they attempt to reassure the Italian firm over the government’s continued commitment to the long-running New Medium Helicopter (NMH) programme. In addition, the Ministry of Defence (MoD) will decide on whether to proceed with the NMH acquisition ahead of an end-March deadline, according to defence procurement minister Luke Pollard. Speaking during a Westminster Hall parliamentary debate on 11 February, Pollard said the Secretary of State for Defence, John Healey, had met with Leonardo chief executive Roberto Cingolani the previous week. Pollard “continued those discussions” at a meeting with Cingolani during the World Defence Show in Riyadh, Saudi Arabia earlier this week, where they were joined by the head of Leonardo’s helicopter division, Gian Piero Cutillo. Leonardo has been the sole remaining bidder in the £1 billion ($1.36 billion) NMH contest since the autumn of 2024, when rivals Airbus Helicopters and Sikorsky opted not to compete. If the airframer is awarded the NMH deal, it will build its AW149 super-medium-twin at its existing plant in Yeovil in southwest England. However, Cingolani last autumn warned that without a major contract like NMH, Leonardo would have to
+
+- Strike action at defence company Leonardo UK suspended as new pay offer ...
+  https://www.irishnews.com/news/uk/strike-action-at-defence-company-leonardo-uk-suspended-as-new-pay-offer-tabled-4DLMWQADYVLQ7LE4AL6MHULSMY/
+  By Neil Pooran, PA Scotland News Editor November 04, 2025 at 4:39pm GMT A union has suspended strikes at defence and aerospace manufacturer Leonardo UK after a new pay offer was tabled by the company .
+  LinkedPageStatus: ok (https://www.irishnews.com/news/uk/strike-action-at-defence-company-leonardo-uk-suspended-as-new-pay-offer-tabled-4DLMWQADYVLQ7LE4AL6MHULSMY/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A union has suspended strikes at defence and aerospace manufacturer Leonardo UK after a new pay offer was tabled by the company. Unite had previously said more than 3,000 workers at Leonardo UK’s facilities in Scotland and England would walk out in a series of strikes starting on Wednesday. The company is involved in a number of defence projects, with its site in Edinburgh producing advanced radars for military aircraft. Following last-minute talks, union officials said the strikes due to begin this week would be suspended, as the new offer is put to members in a ballot. Unite said strike action would still go ahead later in the month if the latest offer is rejected. Unite national officer Rhys McCarthy said on Tuesday: “As an act of good faith, Unite has suspended tomorrow’s strike action to allow a ballot of our members to take place. “The threat of action has brought Leonardo back to the table with a new and improved offer and we will now consult our members.” Unite said if the offer is rejected, strike action will still take place on November 12 and 13 in Yeovil, Luton and Basildon, and on November 10 to 18 in Edinburgh
+
+- Leonardo news | Breaking News & Top Stories | NewsNow
+  https://www.newsnow.co.uk/h/Industry+Sectors/Aerospace+and+Defence/Aircraft+Components+Manufacturers/Leonardo
+  Read the latest Leonardo headlines, on NewsNow. Leonardo news , analysis and opinion from around the world.
+  LinkedPageStatus: ok (https://www.newsnow.co.uk/h/Industry+Sectors/Aerospace+and+Defence/Aircraft+Components+Manufacturers/Leonardo)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Leonardo Top Stories Latest News Most Read UK tips Leonardo for Chinook, Merlin and Wildcat radio deal UK Defence Journal 12:49 Saudi Arabia buys armed C-27J MPA aircraft Defence Blog 14:19 Leonardo targets fresh contract opportunities with Eurofighter and M-346 platforms FlightGlobal 17:38 Adani Defence & Aerospace signs helicopter pact with Leonardo Asia Pacific Defence Reporter 21:20 Saudi Arabia expands naval capabilities with four C-27J maritime patrol aircraft Breaking Defense 18:51 Leonardo signs LOI for Indonesian M-346 aircraft Asia Pacific Defence Reporter 21:18 Latest News In the last half-hour Trying To Run Engines On Gunpowder Sounds Like A Good Way To Get Rid Of Excess Fingers Jalopnik 09:36 In the last 7 days 938 Civil Helicopters valued at USD4.7bn delivered in 2025 says GAMA RotorHub 11:51 20-Feb-26 Saudi Arabia expands naval capabilities with four C-27J maritime patrol aircraft Breaking Defense 18:51 18-Feb-26 UK tips Leonardo for Chinook, Merlin and Wildcat radio deal UK Defence Journal 12:49 18-Feb-26 Leonardo wins deal to supply C-27Js to Saudia Arabia Asia Pacific Defence Reporter 23:05 17-Feb-26 C-27J MPA, the Leonardo-Saudi Arabia agreement covered by the media Leonardo (Press Release) 14:53 17-Feb-26 Saudi Arabia’s MoD orders four C-27J MPA from Leonardo Naval Technology 13:03 17-Feb-26
+
+- Leonardo UK strike action 'suspended' as new pay offer tabled
+  https://www.insider.co.uk/news/leonardo-uk-strike-action-suspended-36194255
+  Union Unite has suspended strikes at defence and aerospace manufacturer Leonardo UK following a new pay offer from the company . Previously, Unite had announced that over 3,000 workers at Leonardo UK's facilities in Scotland and England were set to walk out in a series of strikes beginning on Wednesday.
+  LinkedPageStatus: ok (https://www.insider.co.uk/news/leonardo-uk-strike-action-suspended-36194255)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Union Unite has suspended strikes at defence and aerospace manufacturer Leonardo UK following a new pay offer from the company. Previously, Unite had announced that over 3,000 workers at Leonardo UK's facilities in Scotland and England were set to walk out in a series of strikes beginning on Wednesday. The company, which is involved in various defence projects and produces advanced radars for military aircraft at its Edinburgh site, managed to prevent the strikes with last-minute talks. Union officials have stated that the strikes scheduled for this week will be suspended while the new offer is presented to members in a vote. However, Unite has warned that if the latest offer is rejected, strike action will still proceed later in the month. Unite national officer Rhys McCarthy saidon Tuesday: "As an act of good faith, Unite has suspended tomorrow's strike action to allow a ballot of our members to take place. "The threat of action has brought Leonardo back to the table with a new and improved offer and we will now consult our members." If the offer is turned down, Unite has confirmed that strikes will still occur on November 12 and 13 in Yeovil, Luton and Basildon, and
+
+
+Domain: Leonardo
+Query: Leonardo defence latest company news
+Timestamp: 2026-02-22T10:07:08
+PerPageSummaryWords: 200
+- Press releases | Leonardo
+  https://www.leonardo.com/en/media-hub/press-releases
+  Leonardo and Leonardo Foundation ETS: event on defence and security held during STEM week Press Releases 27.01.2026 - 17:38 Electronics
+  LinkedPageStatus: ok (https://www.leonardo.com/en/media-hub/press-releases)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Press Releases Enter search text Filter Type Region Category Year Reset filters Type Press Releases Press Notes Inside Information Region Global Argentina Australia Bahrain Brazil Canada Chile China Germany Italy Japan Kenya Kuwait Malaysia Pakistan Poland Portugal Qatar Republic of Korea Romania Russia Saudi Arabia Singapore Spain Thailandia Turkey UK USA United Arab Emirates Category corporate Appointments Corporate Events Financial Innovation Sustainability business Aerostructures Aircraft Automation Cyber Security Electronics Helicopters Space Uncrewed Year 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 From To 18.02.2026 - 17:11 Cyber Security Indra Group and Leonardo sign agreement to work together in the cyber defence field Press Releases 16.02.2026 - 10:23 Aircraft KSA’s Ministry of Defence to introduce advanced maritime patrol and multi-mission capabilities with contract for four C-27J MPA aircraft Press Releases 04.02.2026 - 07:38 Aircraft Leonardo, PT ESystem Solutions and the Ministry of Defence Of the Republic of Indonesia sign M-346 F AIRCRAFT Letter of Intent to meet Indonesian Air Force training and combat requirements Press Releases 03.02.2026 - 09:22 Helicopters Adani Defence & Aerospace and Leonardo Forge Strategic Partnership to Build India's Helicopter Ecosystem Press Releases 02.02.2026 - 16:07 Events Leonardo and Leonardo Foundation
+
+- Hope for Yeovil helicopter factory bidding for £1bn contract
+  https://www.bbc.com/news/articles/ce8w035l7ryo
+  Adam Wardrope, Leonardo's vice president of market development, suggested the company was feeling hopeful after its latest talks with the government and the Ministry of Defence .
+  LinkedPageStatus: ok (https://www.bbc.com/news/articles/ce8w035l7ryo)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A helicopter maker said it has had "good dialogue" with the government about a delayed contract decision that has left 3,000 workers in limbo. Leonardo Helicopters in Yeovil, Somerset, is the UK's last helicopter factory and is the only bidder for the £1bn contract. CEO Roberto Cingolani and Yeovil MP Adam Dance have previously said the firm's future would be at risk if its bid to build the required helicopters was not approved. Adam Wardrope, Leonardo's vice president of market development, suggested the company was feeling hopeful after its latest talks with the government and the Ministry of Defence. The government has repeatedly delayed its decision but it is now expected to be made by the end of March . News of the positive discussions comes days after Sir Keir Starmer was reportedly considering a significant increase in defence spending. The government has previously said it needs to "fundamentally rewire defence" to "deter and if necessary defeat" those who threaten the UK. The contract Leonardo is hoping to get is for its conventional helicopters – but on 20 February it unveiled its newest model: the UK's first autonomous full-size helicopter. The model, Proteus, recently undertook its first flight. It was
+
+- Leonardo: Yeovil helicopter factory decision due 'by end of March' - BBC
+  https://www.bbc.co.uk/news/articles/czr07g5yvp7o
+  Leonardo Helicopters in Yeovil, Somerset, is the sole bidder for a £1bn Ministry of Defence (MoD) contract, but is waiting for it to be approved.
+  LinkedPageStatus: ok (https://www.bbc.co.uk/news/articles/czr07g5yvp7o)
+  LinkedPageSummaryWords: 115
+  LinkedPageSummary:
+  A decision will be made on a contract that could secure the UK's last military helicopter factory before the end of March, the government has said. Leonardo Helicopters in Yeovil, Somerset, is the sole bidder for a £1bn Ministry of Defence (MoD) contract, but is waiting for it to be approved. The area's MP Adam Dance said in January 3,000 jobs could be at risk and the site closed if the deal to build new medium helicopters does not go ahead. During a debate at Westminster earlier, Luke Pollard, minister for defence procurement, told Dance he would not let the decision "time out" and said an announcement would be made before the end of March.
+
+- Leonardo warns Yeovil helicopter factory at risk without Puma ...
+  https://bmmagazine.co.uk/news/leonardo-uk-helicopter-factory-risk-puma-contract/
+  In a letter to defence secretary John Healey, Roberto Cingolani, chief executive of the Italian defence group, said the contract to replace the long-serving Puma helicopter was central to Leonardo's long-term commitment to the UK. Without it, the company would be compelled to reassess its entire ...
+  LinkedPageStatus: ok (https://bmmagazine.co.uk/news/leonardo-uk-helicopter-factory-risk-puma-contract/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  In a letter to defence secretary John Healey, Roberto Cingolani, chief executive of the Italian defence group, said the contract to replace the long-serving Puma helicopter was central to Leonardo’s long-term commitment to the UK. Without it, the company would be compelled to reassess its entire British footprint, including its historic manufacturing base in Yeovil, Somerset, which employs around 3,300 people. Leonardo’s AW149 helicopter is currently the sole remaining contender for the programme, after Airbus and Lockheed Martin withdrew from the competition last year. The company submitted its final bid in April, with a decision now resting with ministers. Cingolani warned that any delay or cancellation of the programme would have serious consequences. In his letter, first reported by the Telegraph, he said the absence of new UK defence contracts would force Leonardo to reconsider further investment in areas such as electronics and cybersecurity, in addition to core helicopter manufacturing. Leonardo, the successor to Westland Helicopters, has produced military aircraft in Yeovil for decades and currently builds and supports more than 100 helicopters for the British armed forces, including the Merlin and Wildcat fleets. The site also services export orders for customers in the Middle East and North Africa, but
+
+- UK pledges NMH helicopter decision before Leonardo deadline amid Yeovil ...
+  https://www.flightglobal.com/helicopters/uk-government-continues-talks-with-leonardo-over-nmh-as-it-pledges-it-will-not-allow-aw149-offer-to-time-out/166290.article
+  UK defence ministers have met with senior executives from Leonardo twice over the past fortnight as they attempt to reassure the Italian firm over the government's continued commitment to the long ...
+  LinkedPageStatus: ok (https://www.flightglobal.com/helicopters/uk-government-continues-talks-with-leonardo-over-nmh-as-it-pledges-it-will-not-allow-aw149-offer-to-time-out/166290.article)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  UK defence ministers have met with senior executives from Leonardo twice over the past fortnight as they attempt to reassure the Italian firm over the government’s continued commitment to the long-running New Medium Helicopter (NMH) programme. In addition, the Ministry of Defence (MoD) will decide on whether to proceed with the NMH acquisition ahead of an end-March deadline, according to defence procurement minister Luke Pollard. Speaking during a Westminster Hall parliamentary debate on 11 February, Pollard said the Secretary of State for Defence, John Healey, had met with Leonardo chief executive Roberto Cingolani the previous week. Pollard “continued those discussions” at a meeting with Cingolani during the World Defence Show in Riyadh, Saudi Arabia earlier this week, where they were joined by the head of Leonardo’s helicopter division, Gian Piero Cutillo. Leonardo has been the sole remaining bidder in the £1 billion ($1.36 billion) NMH contest since the autumn of 2024, when rivals Airbus Helicopters and Sikorsky opted not to compete. If the airframer is awarded the NMH deal, it will build its AW149 super-medium-twin at its existing plant in Yeovil in southwest England. However, Cingolani last autumn warned that without a major contract like NMH, Leonardo would have to
+
+- Strike action at defence company Leonardo UK suspended as new pay offer ...
+  https://www.irishnews.com/news/uk/strike-action-at-defence-company-leonardo-uk-suspended-as-new-pay-offer-tabled-4DLMWQADYVLQ7LE4AL6MHULSMY/
+  By Neil Pooran, PA Scotland News Editor November 04, 2025 at 4:39pm GMT A union has suspended strikes at defence and aerospace manufacturer Leonardo UK after a new pay offer was tabled by the company .
+  LinkedPageStatus: ok (https://www.irishnews.com/news/uk/strike-action-at-defence-company-leonardo-uk-suspended-as-new-pay-offer-tabled-4DLMWQADYVLQ7LE4AL6MHULSMY/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A union has suspended strikes at defence and aerospace manufacturer Leonardo UK after a new pay offer was tabled by the company. Unite had previously said more than 3,000 workers at Leonardo UK’s facilities in Scotland and England would walk out in a series of strikes starting on Wednesday. The company is involved in a number of defence projects, with its site in Edinburgh producing advanced radars for military aircraft. Following last-minute talks, union officials said the strikes due to begin this week would be suspended, as the new offer is put to members in a ballot. Unite said strike action would still go ahead later in the month if the latest offer is rejected. Unite national officer Rhys McCarthy said on Tuesday: “As an act of good faith, Unite has suspended tomorrow’s strike action to allow a ballot of our members to take place. “The threat of action has brought Leonardo back to the table with a new and improved offer and we will now consult our members.” Unite said if the offer is rejected, strike action will still take place on November 12 and 13 in Yeovil, Luton and Basildon, and on November 10 to 18 in Edinburgh
+
+- Leonardo news | Breaking News & Top Stories | NewsNow
+  https://www.newsnow.co.uk/h/Industry+Sectors/Aerospace+and+Defence/Aircraft+Components+Manufacturers/Leonardo
+  Read the latest Leonardo headlines, on NewsNow. Leonardo news , analysis and opinion from around the world.
+  LinkedPageStatus: ok (https://www.newsnow.co.uk/h/Industry+Sectors/Aerospace+and+Defence/Aircraft+Components+Manufacturers/Leonardo)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Leonardo Top Stories Latest News Most Read UK tips Leonardo for Chinook, Merlin and Wildcat radio deal UK Defence Journal 12:49 Saudi Arabia buys armed C-27J MPA aircraft Defence Blog 14:19 Leonardo targets fresh contract opportunities with Eurofighter and M-346 platforms FlightGlobal 17:38 Adani Defence & Aerospace signs helicopter pact with Leonardo Asia Pacific Defence Reporter 21:20 Saudi Arabia expands naval capabilities with four C-27J maritime patrol aircraft Breaking Defense 18:51 Leonardo signs LOI for Indonesian M-346 aircraft Asia Pacific Defence Reporter 21:18 Latest News In the last hour Trying To Run Engines On Gunpowder Sounds Like A Good Way To Get Rid Of Excess Fingers Jalopnik 09:36 In the last 7 days 938 Civil Helicopters valued at USD4.7bn delivered in 2025 says GAMA RotorHub 11:51 20-Feb-26 Saudi Arabia expands naval capabilities with four C-27J maritime patrol aircraft Breaking Defense 18:51 18-Feb-26 UK tips Leonardo for Chinook, Merlin and Wildcat radio deal UK Defence Journal 12:49 18-Feb-26 Leonardo wins deal to supply C-27Js to Saudia Arabia Asia Pacific Defence Reporter 23:05 17-Feb-26 C-27J MPA, the Leonardo-Saudi Arabia agreement covered by the media Leonardo (Press Release) 14:53 17-Feb-26 Saudi Arabia’s MoD orders four C-27J MPA from Leonardo Naval Technology 13:03 17-Feb-26
+
+- Leonardo UK strike action 'suspended' as new pay offer tabled
+  https://www.insider.co.uk/news/leonardo-uk-strike-action-suspended-36194255
+  Union Unite has suspended strikes at defence and aerospace manufacturer Leonardo UK following a new pay offer from the company . Previously, Unite had announced that over 3,000 workers at Leonardo UK's facilities in Scotland and England were set to walk out in a series of strikes beginning on Wednesday.
+  LinkedPageStatus: ok (https://www.insider.co.uk/news/leonardo-uk-strike-action-suspended-36194255)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Union Unite has suspended strikes at defence and aerospace manufacturer Leonardo UK following a new pay offer from the company. Previously, Unite had announced that over 3,000 workers at Leonardo UK's facilities in Scotland and England were set to walk out in a series of strikes beginning on Wednesday. The company, which is involved in various defence projects and produces advanced radars for military aircraft at its Edinburgh site, managed to prevent the strikes with last-minute talks. Union officials have stated that the strikes scheduled for this week will be suspended while the new offer is presented to members in a vote. However, Unite has warned that if the latest offer is rejected, strike action will still proceed later in the month. Unite national officer Rhys McCarthy saidon Tuesday: "As an act of good faith, Unite has suspended tomorrow's strike action to allow a ballot of our members to take place. "The threat of action has brought Leonardo back to the table with a new and improved offer and we will now consult our members." If the offer is turned down, Unite has confirmed that strikes will still occur on November 12 and 13 in Yeovil, Luton and Basildon, and
+
+
+Domain: Leonardo
+Query: Leonardo defence latest company news
+Timestamp: 2026-02-22T10:23:12
+PerPageSummaryWords: 200
+- Press releases | Leonardo
+  https://www.leonardo.com/en/media-hub/press-releases
+  Leonardo and Leonardo Foundation ETS: event on defence and security held during STEM week Press Releases 27.01.2026 - 17:38 Electronics
+  LinkedPageStatus: ok (https://www.leonardo.com/en/media-hub/press-releases)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Press Releases Enter search text Filter Type Region Category Year Reset filters Type Press Releases Press Notes Inside Information Region Global Argentina Australia Bahrain Brazil Canada Chile China Germany Italy Japan Kenya Kuwait Malaysia Pakistan Poland Portugal Qatar Republic of Korea Romania Russia Saudi Arabia Singapore Spain Thailandia Turkey UK USA United Arab Emirates Category corporate Appointments Corporate Events Financial Innovation Sustainability business Aerostructures Aircraft Automation Cyber Security Electronics Helicopters Space Uncrewed Year 2026 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014 2013 2012 From To 18.02.2026 - 17:11 Cyber Security Indra Group and Leonardo sign agreement to work together in the cyber defence field Press Releases 16.02.2026 - 10:23 Aircraft KSA’s Ministry of Defence to introduce advanced maritime patrol and multi-mission capabilities with contract for four C-27J MPA aircraft Press Releases 04.02.2026 - 07:38 Aircraft Leonardo, PT ESystem Solutions and the Ministry of Defence Of the Republic of Indonesia sign M-346 F AIRCRAFT Letter of Intent to meet Indonesian Air Force training and combat requirements Press Releases 03.02.2026 - 09:22 Helicopters Adani Defence & Aerospace and Leonardo Forge Strategic Partnership to Build India's Helicopter Ecosystem Press Releases 02.02.2026 - 16:07 Events Leonardo and Leonardo Foundation
+
+- Hope for Yeovil helicopter factory bidding for £1bn contract
+  https://www.bbc.com/news/articles/ce8w035l7ryo
+  Adam Wardrope, Leonardo's vice president of market development, suggested the company was feeling hopeful after its latest talks with the government and the Ministry of Defence .
+  LinkedPageStatus: ok (https://www.bbc.com/news/articles/ce8w035l7ryo)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A helicopter maker said it has had "good dialogue" with the government about a delayed contract decision that has left 3,000 workers in limbo. Leonardo Helicopters in Yeovil, Somerset, is the UK's last helicopter factory and is the only bidder for the £1bn contract. CEO Roberto Cingolani and Yeovil MP Adam Dance have previously said the firm's future would be at risk if its bid to build the required helicopters was not approved. Adam Wardrope, Leonardo's vice president of market development, suggested the company was feeling hopeful after its latest talks with the government and the Ministry of Defence. The government has repeatedly delayed its decision but it is now expected to be made by the end of March . News of the positive discussions comes days after Sir Keir Starmer was reportedly considering a significant increase in defence spending. The government has previously said it needs to "fundamentally rewire defence" to "deter and if necessary defeat" those who threaten the UK. The contract Leonardo is hoping to get is for its conventional helicopters – but on 20 February it unveiled its newest model: the UK's first autonomous full-size helicopter. The model, Proteus, recently undertook its first flight. It was
+
+- Leonardo: Yeovil helicopter factory decision due 'by end of March' - BBC
+  https://www.bbc.co.uk/news/articles/czr07g5yvp7o
+  Leonardo Helicopters in Yeovil, Somerset, is the sole bidder for a £1bn Ministry of Defence (MoD) contract, but is waiting for it to be approved.
+  LinkedPageStatus: ok (https://www.bbc.co.uk/news/articles/czr07g5yvp7o)
+  LinkedPageSummaryWords: 115
+  LinkedPageSummary:
+  A decision will be made on a contract that could secure the UK's last military helicopter factory before the end of March, the government has said. Leonardo Helicopters in Yeovil, Somerset, is the sole bidder for a £1bn Ministry of Defence (MoD) contract, but is waiting for it to be approved. The area's MP Adam Dance said in January 3,000 jobs could be at risk and the site closed if the deal to build new medium helicopters does not go ahead. During a debate at Westminster earlier, Luke Pollard, minister for defence procurement, told Dance he would not let the decision "time out" and said an announcement would be made before the end of March.
+
+- Leonardo warns Yeovil helicopter factory at risk without Puma ...
+  https://bmmagazine.co.uk/news/leonardo-uk-helicopter-factory-risk-puma-contract/
+  In a letter to defence secretary John Healey, Roberto Cingolani, chief executive of the Italian defence group, said the contract to replace the long-serving Puma helicopter was central to Leonardo's long-term commitment to the UK. Without it, the company would be compelled to reassess its entire ...
+  LinkedPageStatus: ok (https://bmmagazine.co.uk/news/leonardo-uk-helicopter-factory-risk-puma-contract/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  In a letter to defence secretary John Healey, Roberto Cingolani, chief executive of the Italian defence group, said the contract to replace the long-serving Puma helicopter was central to Leonardo’s long-term commitment to the UK. Without it, the company would be compelled to reassess its entire British footprint, including its historic manufacturing base in Yeovil, Somerset, which employs around 3,300 people. Leonardo’s AW149 helicopter is currently the sole remaining contender for the programme, after Airbus and Lockheed Martin withdrew from the competition last year. The company submitted its final bid in April, with a decision now resting with ministers. Cingolani warned that any delay or cancellation of the programme would have serious consequences. In his letter, first reported by the Telegraph, he said the absence of new UK defence contracts would force Leonardo to reconsider further investment in areas such as electronics and cybersecurity, in addition to core helicopter manufacturing. Leonardo, the successor to Westland Helicopters, has produced military aircraft in Yeovil for decades and currently builds and supports more than 100 helicopters for the British armed forces, including the Merlin and Wildcat fleets. The site also services export orders for customers in the Middle East and North Africa, but
+
+- UK pledges NMH helicopter decision before Leonardo deadline amid Yeovil ...
+  https://www.flightglobal.com/helicopters/uk-government-continues-talks-with-leonardo-over-nmh-as-it-pledges-it-will-not-allow-aw149-offer-to-time-out/166290.article
+  UK defence ministers have met with senior executives from Leonardo twice over the past fortnight as they attempt to reassure the Italian firm over the government's continued commitment to the long ...
+  LinkedPageStatus: ok (https://www.flightglobal.com/helicopters/uk-government-continues-talks-with-leonardo-over-nmh-as-it-pledges-it-will-not-allow-aw149-offer-to-time-out/166290.article)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  UK defence ministers have met with senior executives from Leonardo twice over the past fortnight as they attempt to reassure the Italian firm over the government’s continued commitment to the long-running New Medium Helicopter (NMH) programme. In addition, the Ministry of Defence (MoD) will decide on whether to proceed with the NMH acquisition ahead of an end-March deadline, according to defence procurement minister Luke Pollard. Speaking during a Westminster Hall parliamentary debate on 11 February, Pollard said the Secretary of State for Defence, John Healey, had met with Leonardo chief executive Roberto Cingolani the previous week. Pollard “continued those discussions” at a meeting with Cingolani during the World Defence Show in Riyadh, Saudi Arabia earlier this week, where they were joined by the head of Leonardo’s helicopter division, Gian Piero Cutillo. Leonardo has been the sole remaining bidder in the £1 billion ($1.36 billion) NMH contest since the autumn of 2024, when rivals Airbus Helicopters and Sikorsky opted not to compete. If the airframer is awarded the NMH deal, it will build its AW149 super-medium-twin at its existing plant in Yeovil in southwest England. However, Cingolani last autumn warned that without a major contract like NMH, Leonardo would have to
+
+- Leonardo DRS awarded multiple SHIELD IDIQ contracts under $151 billion ...
+  https://defence-industry.eu/leonardo-drs-awarded-multiple-shield-idiq-contracts-under-151-billion-missile-defense-agency-program/
+  The company said it brings rapid design and manufacturing capabilities to support accelerated innovation for U.S. defense customers. Leonardo DRS operates nationwide and focuses on designing, manufacturing, and delivering integrated technologies to advance next-generation air and missile defense capabilities across multiple domains.
+  LinkedPageStatus: ok (https://defence-industry.eu/leonardo-drs-awarded-multiple-shield-idiq-contracts-under-151-billion-missile-defense-agency-program/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Leonardo DRS has announced it has been awarded multiple contracts under the Missile Defense Agency Scalable Homeland Innovative Enterprise Layered Defense indefinite-delivery/indefinite-quantity contract. The SHIELD IDIQ contract carries a ceiling value of $151 billion and covers a broad range of work areas intended to enable the rapid delivery of innovative capabilities to the warfighter with increased speed and agility. The company said it brings rapid design and manufacturing capabilities to support accelerated innovation for U.S. defense customers. Leonardo DRS operates nationwide and focuses on designing, manufacturing, and delivering integrated technologies to advance next-generation air and missile defense capabilities across multiple domains. According to the company, its mission expertise and industrial footprint allow it to help customers accelerate capability from concept through production and sustainment. The work is aimed at meeting evolving threats with speed, scale, and reliability. John Baylouny, President and CEO of Leonardo DRS, said: “Leonardo DRS has a proven track record of moving quickly to develop, integrate, and successfully deliver leading edge technologies and real-world mission capabilities that support some of the most critical needs of the U.S. military. We stand ready today to answer the call with our next-generation air and missile defense capabilities and deliver proven
+
+- Strike action at defence company Leonardo UK suspended as new pay offer ...
+  https://www.expressandstar.com/uk-news/2025/11/04/strike-action-at-defence-company-leonardo-uk-suspended-as-new-pay-offer-tabled/
+  A union has suspended strikes at defence and aerospace manufacturer Leonardo UK after a new pay offer was tabled by the company .
+  LinkedPageStatus: ok (https://www.expressandstar.com/uk-news/2025/11/04/strike-action-at-defence-company-leonardo-uk-suspended-as-new-pay-offer-tabled/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A union has suspended strikes at defence and aerospace manufacturer Leonardo UK after a new pay offer was tabled by the company. Unite had previously said more than 3,000 workers at Leonardo UK’s facilities in Scotland and England would walk out in a series of strikes starting on Wednesday. The company is involved in a number of defence projects, with its site in Edinburgh producing advanced radars for military aircraft. Following last-minute talks, union officials said the strikes due to begin this week would be suspended, as the new offer is put to members in a ballot. Unite said strike action would still go ahead later in the month if the latest offer is rejected. Unite national officer Rhys McCarthy said on Tuesday: “As an act of good faith, Unite has suspended tomorrow’s strike action to allow a ballot of our members to take place. “The threat of action has brought Leonardo back to the table with a new and improved offer and we will now consult our members.” Unite said if the offer is rejected, strike action will still take place on November 12 and 13 in Yeovil, Luton and Basildon, and on November 10 to 18 in Edinburgh
+
+- Leonardo DRS Awarded Contracts for the Missile Defense Agency SHIELD ...
+  https://www.leonardodrs.com/news/press-releases/leonardo-drs-awarded-contracts-for-the-missile-defense-agency-shield-idiq/
+  Leonardo DRS is a leading U.S. defense technology company with operations across the country, rapidly designing, manufacturing, and delivering diverse, innovative, integrated technologies that advance next-generation air and missile defense capabilities across all domains.
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.leonardodrs.com/news/press-releases/leonardo-drs-awarded-contracts-for-the-missile-defense-agency-shield-idiq/
+  LinkedPageSummaryWords: 0
+
+

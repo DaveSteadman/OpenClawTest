@@ -259,6 +259,11 @@ def call_llm_for_table(prompt_text: str, timeframe: Timeframe, domain: str, corp
         ],
     }
 
+    print(
+        f"[csv:phase] llm_wait domain={domain} timeframe={timeframe.normalized} model={model} timeout_sec={max(30, llm_timeout_seconds)}",
+        flush=True,
+    )
+
     response = requests.post(
         endpoint,
         headers={
@@ -269,6 +274,7 @@ def call_llm_for_table(prompt_text: str, timeframe: Timeframe, domain: str, corp
         timeout=max(30, llm_timeout_seconds),
     )
     response.raise_for_status()
+    print(f"[csv:phase] llm_done status={response.status_code}", flush=True)
 
     body = response.json()
     content = body.get("choices", [{}])[0].get("message", {}).get("content", "")
@@ -368,22 +374,29 @@ def main():
     navigator = FolderNavigator.from_fixed_point()
 
     try:
+        print(f"[csv:phase] collect_files domain={domain} timeframe={timeframe.normalized}", flush=True)
         files = collect_files(
             navigator=navigator,
             domain=domain,
             timeframe=timeframe,
             max_files=max(1, args.max_files),
         )
+        print(f"[csv:phase] files_found count={len(files)}", flush=True)
         if not files:
             raise FileNotFoundError(
                 f"No input .txt files found for domain '{domain}' and timeframe '{timeframe.normalized}'"
             )
 
+        print(
+            f"[csv:phase] build_corpus max_chars_per_file={max(500, args.max_chars_per_file)} max_total_chars={max(2000, args.max_total_chars)}",
+            flush=True,
+        )
         corpus_blocks = build_corpus(
             files=files,
             max_chars_per_file=max(500, args.max_chars_per_file),
             max_total_chars=max(2000, args.max_total_chars),
         )
+        print(f"[csv:phase] corpus_ready files_in_corpus={len(corpus_blocks)}", flush=True)
         if not corpus_blocks:
             raise RuntimeError("No readable corpus content after bounds were applied")
 
@@ -395,6 +408,7 @@ def main():
             llm_timeout_seconds=args.llm_timeout,
         )
 
+        print("[csv:phase] write_output", flush=True)
         out_path = write_csv_output(
             navigator=navigator,
             domain=domain,
@@ -402,6 +416,7 @@ def main():
             prompt_text=prompt_text,
             table=llm_result["table"],
         )
+        print(f"[csv:phase] done output={out_path}", flush=True)
 
         print(
             json.dumps(

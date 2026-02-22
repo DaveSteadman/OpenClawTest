@@ -1,0 +1,246 @@
+Domain: SAAB
+Query: SAAB defense latest company news
+Timestamp: 2026-02-22T10:10:10
+PerPageSummaryWords: 200
+- Press releases - Saab
+  https://www.saab.com/newsroom/press-releases
+  Saab serves the global market of governments, authorities and corporations with products, services and solutions ranging from military defence to civil security.
+  LinkedPageStatus: ok (https://www.saab.com/newsroom/press-releases)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Here you find our latest releases. You can use the search field or select language or year to narrow down your search. Saab’s President and CEO Micael Johansson and Deputy CEO Anders Carp have sold shares in Saab for the purpose of paying tax. Saab and the Joint Stock Company “Ukrainian Defense Industry” (JSC UDI) have signed a Memorandum of Understanding (MoU) regarding their intention to collaborate in the areas of aviation and airborne surveillance, in which they have complementary expertise. The aim is to strengthen Ukraine’s defence capabilities. Saab’s Seaeye Lynx subsea vehicle played a critical role in the survey and documentation of the 18th-century galleon San José, a Colombian cultural heritage asset. Saab’s CEO and President Micael Johansson and CFO Anna Wijkander will present Saab’s results for the fourth quarter and full year 2025. On 14 January 2026, the launch of Poland's second SIGINT (Signals Intelligence) ship from Saab, ORP Henryk Zygalski, took place in Gdańsk, Poland. Saab has received an order from the Swedish Defence Materiel Administration, FMV, for the Trackfire Remote Weapon Station (RWS). The order value is approximately SEK 1,5 billion and deliveries will take place 2026-2028. The order was booked in Q4 2025. Saab
+
+- Saab News Room - Latest news and breaking stories - Aviation24.be
+  https://www.aviation24.be/category/manufacturers/saab/
+  Saab , the Swedish aerospace and defence company , announced today that it has signed a significant contract with the Colombian government for the delivery of...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.aviation24.be/category/manufacturers/saab/
+  LinkedPageSummaryWords: 0
+
+- SAAB news | Breaking News & Top Stories | NewsNow
+  https://www.newsnow.co.uk/h/Industry+Sectors/Aerospace+and+Defence/Aviation+Defence/SAAB
+  Get the latest SAAB news , all in one place. Comprehensive SAAB news aggregated from over 14,000 sources from around the world.
+  LinkedPageStatus: ok (https://www.newsnow.co.uk/h/Industry+Sectors/Aerospace+and+Defence/Aviation+Defence/SAAB)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  SAAB Top Stories Latest News Most Read Could Canada choose Sweden's Gripen fighter jet over the F-35? Simple Flying 22:09 F-35 Canada Arms Trade Why Canada Might Choose the Gripen Fighter Jet over the F-35 The National Interest 17:06 F-35 Canada Arms Trade Saab is considering low-cost ways for Gripen to counter shahed drones based on Ukraine's experience Defense Express 21:39 Ukraine Aerospace and Defence Aviation Defence Saab says it is ready for the largest-ever aviation tech transfer as part of Gripen deal with India Defense Express 09:47 Ukraine Aerospace and Defence Aviation Defence Sweden's defence firm Saab says Gripen fighter jet has place in IAF The Hindu Business Line 05:38 Sweden Aviation Defence Swedish Politics Sweden's 2027 fighter demonstrator flight starts path to 2030s decision: Solo or join? Defense Express 12:05 Sweden Aviation Defence Aerospace and Defence Saab plans 2027 unmanned demonstrator for Swedish fighter decision FlightGlobal 04:00 Sweden Aviation Defence Aerospace and Defence Saab's ambitious plans: Sweden prepares a portfolio of 300 Gripen fighters for Ukraine and the world UNN.ua 01:41 Aerospace and Defence Aviation Defence Arms Trade How Many Gripen E/F Saab Can Actually Produce, What It Means for Ukraine, Why 36 Jets per Year Remains a
+
+- Defence group Saab beats profit forecast, raises 2025 outlook
+  https://uk.finance.yahoo.com/news/swedish-defence-group-saab-reports-053631943.html
+  STOCKHOLM (Reuters) -Swedish defence material maker Saab beat second-quarter operating earnings forecasts on Friday and raised its guidance on expectations of even stronger sales this year as European military spending surges. The news sent Saab's shares up 6% in early trading. The maker of the Gripen fighter jet said in a statement that operating earnings rose to 1.98 billion Swedish crowns ...
+  LinkedPageStatus: ok (https://uk.finance.yahoo.com/news/swedish-defence-group-saab-reports-053631943.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  STOCKHOLM (Reuters) -Swedish defence material maker Saab beat second-quarter operating earnings forecasts on Friday and raised its guidance on expectations of even stronger sales this year as European military spending surges. The news sent Saab's shares up 6% in early trading. The maker of the Gripen fighter jet said in a statement that operating earnings rose to 1.98 billion Swedish crowns ($204 million) from 1.33 billion a year ago, outpacing a mean forecast of 1.71 billion seen in a LSEG compilation of analyst forecasts. Saab, which makes military equipment ranging from missiles and advanced electronics to submarines, said it expected like-for-like sales to grow 16% to 20% this year, raising its outlook from previously anticipated growth of 12% to 16%. The company, which grew its sales by 22% organically in the first half of the year, reiterated that it expects operating profit to rise even faster than sales. The group is scaling up production amid soaring military spending in Europe, where it generates well over half of its revenues, in the wake of Russia's invasion of Ukraine and signs the region will need to shoulder more responsibility for its own defence. The military spending boom, further underlined by NATO alliance
+
+- Saab | Defence Blog - Military and Defense News
+  https://defence-blog.com/topics/saab/
+  Airbus and Saab explore future drone fighter project Dec 7, 2025 Airbus and Saab are in early talks to develop an unmanned combat aircraft, according to company executives who spoke with Reuters during a recent...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://defence-blog.com/topics/saab/
+  LinkedPageSummaryWords: 0
+
+- Saab's German Order Shows It's Winning Big in Europe Defense Push ...
+  https://www.bloomberg.com/news/newsletters/2025-09-26/saab-s-german-order-shows-it-s-winning-big-in-europe-defense-push
+  Ammunition for the Carl-Gustaf recoilless rifle multi-role weapon system on the Saab stand at the Defence and Security Equipment International 2025 exhibition in London.
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.bloomberg.com/news/newsletters/2025-09-26/saab-s-german-order-shows-it-s-winning-big-in-europe-defense-push
+  LinkedPageSummaryWords: 0
+
+- Saab shares pop 14% on profit beat amid EU, NATO defense splurge - CNBC
+  https://www.cnbc.com/2025/07/18/saab-share-price-profit-earnings-q2-defense-nato-eu-budget-spending.html
+  Shares of Swedish defense giant Saab jumped on Friday morning, after the company reported stronger-than-expected profit and sales growth for the second quarter.
+  LinkedPageStatus: ok (https://www.cnbc.com/2025/07/18/saab-share-price-profit-earnings-q2-defense-nato-eu-budget-spending.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A Swedish Air Force Saab JAS 39 Gripen jetfighter takes part in the NATO exercise as part of the NATO Air Policing mission, in Alliance members' sovereign airspace on July 4, 2023. Shares of Swedish defense giant Saab jumped on Friday morning, after the company reported stronger-than-expected profit and sales growth for the second quarter. Shares were last seen trading 14.3% higher at 7:01 E.T. Saab's operating income for the second quarter came in at 1.98 billion Swedish kronor ($200 million), marking a 49% year-on-year jump and a beat on the 1.71 billion krona expected by analysts polled by LSEG. Quarterly sales rose by a better-than-expected 30% year-on-year. The company also hiked its 2025 outlook on Friday, raising its full-year organic sales growth projection to a range of 16% to 20%, up from its previous forecast of between 12% and 16%. Saab's shares have surged 131% since the beginning of the year, according to LSEG data. The stock is one of many in the European defense space that has benefited from a broad regional push to ramp up security budgets. On Wednesday, the European Commission unveiled a proposal for a 2 trillion euro budget that would include a significant bump
+
+- Saab AB | Reuters
+  https://www.reuters.com/company/saab-ab/
+  The latest international Saab AB news and views from Reuters - one of the world's largest news agencies
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/company/saab-ab/
+  LinkedPageSummaryWords: 0
+
+
+Domain: SAAB
+Query: SAAB defense latest company news
+Timestamp: 2026-02-22T10:14:18
+PerPageSummaryWords: 200
+- Press releases - Saab
+  https://www.saab.com/newsroom/press-releases
+  Saab serves the global market of governments, authorities and corporations with products, services and solutions ranging from military defence to civil security.
+  LinkedPageStatus: ok (https://www.saab.com/newsroom/press-releases)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Here you find our latest releases. You can use the search field or select language or year to narrow down your search. Saab’s President and CEO Micael Johansson and Deputy CEO Anders Carp have sold shares in Saab for the purpose of paying tax. Saab and the Joint Stock Company “Ukrainian Defense Industry” (JSC UDI) have signed a Memorandum of Understanding (MoU) regarding their intention to collaborate in the areas of aviation and airborne surveillance, in which they have complementary expertise. The aim is to strengthen Ukraine’s defence capabilities. Saab’s Seaeye Lynx subsea vehicle played a critical role in the survey and documentation of the 18th-century galleon San José, a Colombian cultural heritage asset. Saab’s CEO and President Micael Johansson and CFO Anna Wijkander will present Saab’s results for the fourth quarter and full year 2025. On 14 January 2026, the launch of Poland's second SIGINT (Signals Intelligence) ship from Saab, ORP Henryk Zygalski, took place in Gdańsk, Poland. Saab has received an order from the Swedish Defence Materiel Administration, FMV, for the Trackfire Remote Weapon Station (RWS). The order value is approximately SEK 1,5 billion and deliveries will take place 2026-2028. The order was booked in Q4 2025. Saab
+
+- Saab News Room - Latest news and breaking stories - Aviation24.be
+  https://www.aviation24.be/category/manufacturers/saab/
+  Saab , the Swedish aerospace and defence company , announced today that it has signed a significant contract with the Colombian government for the delivery of...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.aviation24.be/category/manufacturers/saab/
+  LinkedPageSummaryWords: 0
+
+- SAAB news | Breaking News & Top Stories | NewsNow
+  https://www.newsnow.co.uk/h/Industry+Sectors/Aerospace+and+Defence/Aviation+Defence/SAAB
+  Get the latest SAAB news , all in one place. Comprehensive SAAB news aggregated from over 14,000 sources from around the world.
+  LinkedPageStatus: ok (https://www.newsnow.co.uk/h/Industry+Sectors/Aerospace+and+Defence/Aviation+Defence/SAAB)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  SAAB Top Stories Latest News Most Read Could Canada choose Sweden's Gripen fighter jet over the F-35? Simple Flying 22:09 F-35 Canada Arms Trade Why Canada Might Choose the Gripen Fighter Jet over the F-35 The National Interest 17:06 F-35 Canada Arms Trade Saab is considering low-cost ways for Gripen to counter shahed drones based on Ukraine's experience Defense Express 21:39 Ukraine Aerospace and Defence Aviation Defence Saab says it is ready for the largest-ever aviation tech transfer as part of Gripen deal with India Defense Express 09:47 Ukraine Aerospace and Defence Aviation Defence Sweden's defence firm Saab says Gripen fighter jet has place in IAF The Hindu Business Line 05:38 Sweden Aviation Defence Swedish Politics Sweden's 2027 fighter demonstrator flight starts path to 2030s decision: Solo or join? Defense Express 12:05 Sweden Aviation Defence Aerospace and Defence Saab plans 2027 unmanned demonstrator for Swedish fighter decision FlightGlobal 04:00 Sweden Aviation Defence Aerospace and Defence Saab's ambitious plans: Sweden prepares a portfolio of 300 Gripen fighters for Ukraine and the world UNN.ua 01:41 Aerospace and Defence Aviation Defence Arms Trade How Many Gripen E/F Saab Can Actually Produce, What It Means for Ukraine, Why 36 Jets per Year Remains a
+
+- Defence group Saab beats profit forecast, raises 2025 outlook
+  https://uk.finance.yahoo.com/news/swedish-defence-group-saab-reports-053631943.html
+  STOCKHOLM (Reuters) -Swedish defence material maker Saab beat second-quarter operating earnings forecasts on Friday and raised its guidance on expectations of even stronger sales this year as European military spending surges. The news sent Saab's shares up 6% in early trading. The maker of the Gripen fighter jet said in a statement that operating earnings rose to 1.98 billion Swedish crowns ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_d9227b29-36a8-4698-ac67-b6007e005183)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Saab | Defence Blog - Military and Defense News
+  https://defence-blog.com/topics/saab/
+  Airbus and Saab explore future drone fighter project Dec 7, 2025 Airbus and Saab are in early talks to develop an unmanned combat aircraft, according to company executives who spoke with Reuters during a recent...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://defence-blog.com/topics/saab/
+  LinkedPageSummaryWords: 0
+
+- Saab's German Order Shows It's Winning Big in Europe Defense Push ...
+  https://www.bloomberg.com/news/newsletters/2025-09-26/saab-s-german-order-shows-it-s-winning-big-in-europe-defense-push
+  Ammunition for the Carl-Gustaf recoilless rifle multi-role weapon system on the Saab stand at the Defence and Security Equipment International 2025 exhibition in London.
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.bloomberg.com/news/newsletters/2025-09-26/saab-s-german-order-shows-it-s-winning-big-in-europe-defense-push
+  LinkedPageSummaryWords: 0
+
+- Saab shares pop 14% on profit beat amid EU, NATO defense splurge - CNBC
+  https://www.cnbc.com/2025/07/18/saab-share-price-profit-earnings-q2-defense-nato-eu-budget-spending.html
+  Shares of Swedish defense giant Saab jumped on Friday morning, after the company reported stronger-than-expected profit and sales growth for the second quarter.
+  LinkedPageStatus: ok (https://www.cnbc.com/2025/07/18/saab-share-price-profit-earnings-q2-defense-nato-eu-budget-spending.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A Swedish Air Force Saab JAS 39 Gripen jetfighter takes part in the NATO exercise as part of the NATO Air Policing mission, in Alliance members' sovereign airspace on July 4, 2023. Shares of Swedish defense giant Saab jumped on Friday morning, after the company reported stronger-than-expected profit and sales growth for the second quarter. Shares were last seen trading 14.3% higher at 7:01 E.T. Saab's operating income for the second quarter came in at 1.98 billion Swedish kronor ($200 million), marking a 49% year-on-year jump and a beat on the 1.71 billion krona expected by analysts polled by LSEG. Quarterly sales rose by a better-than-expected 30% year-on-year. The company also hiked its 2025 outlook on Friday, raising its full-year organic sales growth projection to a range of 16% to 20%, up from its previous forecast of between 12% and 16%. Saab's shares have surged 131% since the beginning of the year, according to LSEG data. The stock is one of many in the European defense space that has benefited from a broad regional push to ramp up security budgets. On Wednesday, the European Commission unveiled a proposal for a 2 trillion euro budget that would include a significant bump
+
+- Saab AB | Reuters
+  https://www.reuters.com/company/saab-ab/
+  The latest international Saab AB news and views from Reuters - one of the world's largest news agencies
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/company/saab-ab/
+  LinkedPageSummaryWords: 0
+
+
+Domain: SAAB
+Query: SAAB defense latest company news
+Timestamp: 2026-02-22T10:30:33
+PerPageSummaryWords: 200
+- Press releases - Saab
+  https://www.saab.com/newsroom/press-releases
+  Saab serves the global market of governments, authorities and corporations with products, services and solutions ranging from military defence to civil security.
+  LinkedPageStatus: ok (https://www.saab.com/newsroom/press-releases)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Here you find our latest releases. You can use the search field or select language or year to narrow down your search. Saab’s President and CEO Micael Johansson and Deputy CEO Anders Carp have sold shares in Saab for the purpose of paying tax. Saab and the Joint Stock Company “Ukrainian Defense Industry” (JSC UDI) have signed a Memorandum of Understanding (MoU) regarding their intention to collaborate in the areas of aviation and airborne surveillance, in which they have complementary expertise. The aim is to strengthen Ukraine’s defence capabilities. Saab’s Seaeye Lynx subsea vehicle played a critical role in the survey and documentation of the 18th-century galleon San José, a Colombian cultural heritage asset. Saab’s CEO and President Micael Johansson and CFO Anna Wijkander will present Saab’s results for the fourth quarter and full year 2025. On 14 January 2026, the launch of Poland's second SIGINT (Signals Intelligence) ship from Saab, ORP Henryk Zygalski, took place in Gdańsk, Poland. Saab has received an order from the Swedish Defence Materiel Administration, FMV, for the Trackfire Remote Weapon Station (RWS). The order value is approximately SEK 1,5 billion and deliveries will take place 2026-2028. The order was booked in Q4 2025. Saab
+
+- Saab News Room - Latest news and breaking stories - Aviation24.be
+  https://www.aviation24.be/category/manufacturers/saab/
+  Saab , the Swedish aerospace and defence company , announced today that it has signed a significant contract with the Colombian government for the delivery of...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.aviation24.be/category/manufacturers/saab/
+  LinkedPageSummaryWords: 0
+
+- SAAB news | Breaking News & Top Stories | NewsNow
+  https://www.newsnow.co.uk/h/Industry+Sectors/Aerospace+and+Defence/Aviation+Defence/SAAB
+  Get the latest SAAB news , all in one place. Comprehensive SAAB news aggregated from over 14,000 sources from around the world.
+  LinkedPageStatus: ok (https://www.newsnow.co.uk/h/Industry+Sectors/Aerospace+and+Defence/Aviation+Defence/SAAB)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  SAAB Top Stories Latest News Most Read Could Canada choose Sweden's Gripen fighter jet over the F-35? Simple Flying 22:09 F-35 Canada Arms Trade Why Canada Might Choose the Gripen Fighter Jet over the F-35 The National Interest 17:06 F-35 Canada Arms Trade Saab is considering low-cost ways for Gripen to counter shahed drones based on Ukraine's experience Defense Express 21:39 Ukraine Aerospace and Defence Aviation Defence Saab says it is ready for the largest-ever aviation tech transfer as part of Gripen deal with India Defense Express 09:47 Ukraine Aerospace and Defence Aviation Defence Sweden's defence firm Saab says Gripen fighter jet has place in IAF The Hindu Business Line 05:38 Sweden Aviation Defence Swedish Politics Sweden's 2027 fighter demonstrator flight starts path to 2030s decision: Solo or join? Defense Express 12:05 Sweden Aviation Defence Aerospace and Defence Saab plans 2027 unmanned demonstrator for Swedish fighter decision FlightGlobal 04:00 Sweden Aviation Defence Aerospace and Defence Saab's ambitious plans: Sweden prepares a portfolio of 300 Gripen fighters for Ukraine and the world UNN.ua 01:41 Aerospace and Defence Aviation Defence Arms Trade How Many Gripen E/F Saab Can Actually Produce, What It Means for Ukraine, Why 36 Jets per Year Remains a
+
+- Defence group Saab beats profit forecast, raises 2025 outlook
+  https://uk.finance.yahoo.com/news/swedish-defence-group-saab-reports-053631943.html
+  STOCKHOLM (Reuters) -Swedish defence material maker Saab beat second-quarter operating earnings forecasts on Friday and raised its guidance on expectations of even stronger sales this year as European military spending surges. The news sent Saab's shares up 6% in early trading. The maker of the Gripen fighter jet said in a statement that operating earnings rose to 1.98 billion Swedish crowns ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_d244020f-5d18-436f-afee-878bdd2563cd)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Saab | Defence Blog - Military and Defense News
+  https://defence-blog.com/topics/saab/
+  Airbus and Saab explore future drone fighter project Dec 7, 2025 Airbus and Saab are in early talks to develop an unmanned combat aircraft, according to company executives who spoke with Reuters during a recent...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://defence-blog.com/topics/saab/
+  LinkedPageSummaryWords: 0
+
+- Saab's German Order Shows It's Winning Big in Europe Defense Push ...
+  https://www.bloomberg.com/news/newsletters/2025-09-26/saab-s-german-order-shows-it-s-winning-big-in-europe-defense-push
+  Ammunition for the Carl-Gustaf recoilless rifle multi-role weapon system on the Saab stand at the Defence and Security Equipment International 2025 exhibition in London.
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.bloomberg.com/news/newsletters/2025-09-26/saab-s-german-order-shows-it-s-winning-big-in-europe-defense-push
+  LinkedPageSummaryWords: 0
+
+- Saab shares pop 14% on profit beat amid EU, NATO defense splurge - CNBC
+  https://www.cnbc.com/2025/07/18/saab-share-price-profit-earnings-q2-defense-nato-eu-budget-spending.html
+  Shares of Swedish defense giant Saab jumped on Friday morning, after the company reported stronger-than-expected profit and sales growth for the second quarter.
+  LinkedPageStatus: ok (https://www.cnbc.com/2025/07/18/saab-share-price-profit-earnings-q2-defense-nato-eu-budget-spending.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A Swedish Air Force Saab JAS 39 Gripen jetfighter takes part in the NATO exercise as part of the NATO Air Policing mission, in Alliance members' sovereign airspace on July 4, 2023. Shares of Swedish defense giant Saab jumped on Friday morning, after the company reported stronger-than-expected profit and sales growth for the second quarter. Shares were last seen trading 14.3% higher at 7:01 E.T. Saab's operating income for the second quarter came in at 1.98 billion Swedish kronor ($200 million), marking a 49% year-on-year jump and a beat on the 1.71 billion krona expected by analysts polled by LSEG. Quarterly sales rose by a better-than-expected 30% year-on-year. The company also hiked its 2025 outlook on Friday, raising its full-year organic sales growth projection to a range of 16% to 20%, up from its previous forecast of between 12% and 16%. Saab's shares have surged 131% since the beginning of the year, according to LSEG data. The stock is one of many in the European defense space that has benefited from a broad regional push to ramp up security budgets. On Wednesday, the European Commission unveiled a proposal for a 2 trillion euro budget that would include a significant bump
+
+- Saab AB | Reuters
+  https://www.reuters.com/company/saab-ab/
+  The latest international Saab AB news and views from Reuters - one of the world's largest news agencies
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/company/saab-ab/
+  LinkedPageSummaryWords: 0
+
+
+Domain: SAAB
+Query: SAAB defense latest company news
+Timestamp: 2026-02-22T16:10:51
+PerPageSummaryWords: 200
+- Press releases - Saab
+  https://www.saab.com/newsroom/press-releases
+  Saab serves the global market of governments, authorities and corporations with products, services and solutions ranging from military defence to civil security.
+  LinkedPageStatus: ok (https://www.saab.com/newsroom/press-releases)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Here you find our latest releases. You can use the search field or select language or year to narrow down your search. Saab’s President and CEO Micael Johansson and Deputy CEO Anders Carp have sold shares in Saab for the purpose of paying tax. Saab and the Joint Stock Company “Ukrainian Defense Industry” (JSC UDI) have signed a Memorandum of Understanding (MoU) regarding their intention to collaborate in the areas of aviation and airborne surveillance, in which they have complementary expertise. The aim is to strengthen Ukraine’s defence capabilities. Saab’s Seaeye Lynx subsea vehicle played a critical role in the survey and documentation of the 18th-century galleon San José, a Colombian cultural heritage asset. Saab’s CEO and President Micael Johansson and CFO Anna Wijkander will present Saab’s results for the fourth quarter and full year 2025. On 14 January 2026, the launch of Poland's second SIGINT (Signals Intelligence) ship from Saab, ORP Henryk Zygalski, took place in Gdańsk, Poland. Saab has received an order from the Swedish Defence Materiel Administration, FMV, for the Trackfire Remote Weapon Station (RWS). The order value is approximately SEK 1,5 billion and deliveries will take place 2026-2028. The order was booked in Q4 2025. Saab
+
+- Saab News Room - Latest news and breaking stories - Aviation24.be
+  https://www.aviation24.be/category/manufacturers/saab/
+  Saab , the Swedish aerospace and defence company , announced today that it has signed a significant contract with the Colombian government for the delivery of...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.aviation24.be/category/manufacturers/saab/
+  LinkedPageSummaryWords: 0
+
+- SAAB news | Breaking News & Top Stories | NewsNow
+  https://www.newsnow.co.uk/h/Industry+Sectors/Aerospace+and+Defence/Aviation+Defence/SAAB
+  Get the latest SAAB news , all in one place. Comprehensive SAAB news aggregated from over 14,000 sources from around the world.
+  LinkedPageStatus: ok (https://www.newsnow.co.uk/h/Industry+Sectors/Aerospace+and+Defence/Aviation+Defence/SAAB)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  SAAB Top Stories Latest News Most Read Could Canada choose Sweden's Gripen fighter jet over the F-35? Simple Flying 22:09 F-35 Canada Arms Trade Why Canada Might Choose the Gripen Fighter Jet over the F-35 The National Interest 17:06 F-35 Canada Arms Trade Saab is considering low-cost ways for Gripen to counter shahed drones based on Ukraine's experience Defense Express 21:39 Ukraine Aviation Defence Shahed Drones Sweden's defence firm Saab says Gripen fighter jet has place in IAF The Hindu Business Line 05:38 Sweden Aviation Defence Swedish Politics Saab says it is ready for the largest-ever aviation tech transfer as part of Gripen deal with India Defense Express 09:47 Aviation Defence India Aerospace and Defence Saab floats Gripen production hub in Canada, if Ottawa were willing Defense News 11:08 Aviation Defence India Aerospace and Defence Sweden's 2027 fighter demonstrator flight starts path to 2030s decision: Solo or join? Defense Express 12:05 Sweden Aviation Defence Aerospace and Defence Saab plans 2027 unmanned demonstrator for Swedish fighter decision FlightGlobal 04:00 Sweden Aviation Defence Aerospace and Defence Babcock pitches Arrowhead-120 variant for the Swedish Luleå-class frigate programme Navy Lookout 17:50 Babcock Sweden UK Military Babcock and Saab pitch Arrowhead 120 frigate to Sweden
+
+- Defence group Saab beats profit forecast, raises 2025 outlook
+  https://uk.finance.yahoo.com/news/swedish-defence-group-saab-reports-053631943.html
+  STOCKHOLM (Reuters) -Swedish defence material maker Saab beat second-quarter operating earnings forecasts on Friday and raised its guidance on expectations of even stronger sales this year as European military spending surges. The news sent Saab's shares up 6% in early trading. The maker of the Gripen fighter jet said in a statement that operating earnings rose to 1.98 billion Swedish crowns ...
+  LinkedPageStatus: ok (https://uk.finance.yahoo.com/news/swedish-defence-group-saab-reports-053631943.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  STOCKHOLM (Reuters) -Swedish defence material maker Saab beat second-quarter operating earnings forecasts on Friday and raised its guidance on expectations of even stronger sales this year as European military spending surges. The news sent Saab's shares up 6% in early trading. The maker of the Gripen fighter jet said in a statement that operating earnings rose to 1.98 billion Swedish crowns ($204 million) from 1.33 billion a year ago, outpacing a mean forecast of 1.71 billion seen in a LSEG compilation of analyst forecasts. Saab, which makes military equipment ranging from missiles and advanced electronics to submarines, said it expected like-for-like sales to grow 16% to 20% this year, raising its outlook from previously anticipated growth of 12% to 16%. The company, which grew its sales by 22% organically in the first half of the year, reiterated that it expects operating profit to rise even faster than sales. The group is scaling up production amid soaring military spending in Europe, where it generates well over half of its revenues, in the wake of Russia's invasion of Ukraine and signs the region will need to shoulder more responsibility for its own defence. The military spending boom, further underlined by NATO alliance
+
+- Saab | Defence Blog - Military and Defense News
+  https://defence-blog.com/topics/saab/
+  Airbus and Saab explore future drone fighter project Dec 7, 2025 Airbus and Saab are in early talks to develop an unmanned combat aircraft, according to company executives who spoke with Reuters during a recent...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://defence-blog.com/topics/saab/
+  LinkedPageSummaryWords: 0
+
+- Saab shares pop 14% on profit beat amid EU, NATO defense splurge - CNBC
+  https://www.cnbc.com/2025/07/18/saab-share-price-profit-earnings-q2-defense-nato-eu-budget-spending.html
+  Shares of Swedish defense giant Saab jumped on Friday morning, after the company reported stronger-than-expected profit and sales growth for the second quarter.
+  LinkedPageStatus: ok (https://www.cnbc.com/2025/07/18/saab-share-price-profit-earnings-q2-defense-nato-eu-budget-spending.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A Swedish Air Force Saab JAS 39 Gripen jetfighter takes part in the NATO exercise as part of the NATO Air Policing mission, in Alliance members' sovereign airspace on July 4, 2023. Shares of Swedish defense giant Saab jumped on Friday morning, after the company reported stronger-than-expected profit and sales growth for the second quarter. Shares were last seen trading 14.3% higher at 7:01 E.T. Saab's operating income for the second quarter came in at 1.98 billion Swedish kronor ($200 million), marking a 49% year-on-year jump and a beat on the 1.71 billion krona expected by analysts polled by LSEG. Quarterly sales rose by a better-than-expected 30% year-on-year. The company also hiked its 2025 outlook on Friday, raising its full-year organic sales growth projection to a range of 16% to 20%, up from its previous forecast of between 12% and 16%. Saab's shares have surged 131% since the beginning of the year, according to LSEG data. The stock is one of many in the European defense space that has benefited from a broad regional push to ramp up security budgets. On Wednesday, the European Commission unveiled a proposal for a 2 trillion euro budget that would include a significant bump
+
+- Saab's German Order Shows It's Winning Big in Europe Defense Push ...
+  https://www.bloomberg.com/news/newsletters/2025-09-26/saab-s-german-order-shows-it-s-winning-big-in-europe-defense-push
+  Ammunition for the Carl-Gustaf recoilless rifle multi-role weapon system on the Saab stand at the Defence and Security Equipment International 2025 exhibition in London.
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.bloomberg.com/news/newsletters/2025-09-26/saab-s-german-order-shows-it-s-winning-big-in-europe-defense-push
+  LinkedPageSummaryWords: 0
+
+- This is how Saab will grow in the security crisis - "a challenge"
+  https://swedenherald.com/article/this-is-how-saab-will-grow-in-the-security-crisis-a-challenge
+  The tense security situation has put the defense company Saab in new focus. The company has expanded and recruited heavily in recent years. But there are challenges now when all countries want to arm up. We are scaling up as much as we need to be able to keep pace with our deliveries, says Saab's CEO Micael Johansson.
+  LinkedPageStatus: ok (https://swedenherald.com/article/this-is-how-saab-will-grow-in-the-security-crisis-a-challenge)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Saab made a profit of almost 2 billion kronor during the fourth quarter of 2024, half a billion more than the same period the previous year. In the year-end report presented at the beginning of February, the company also announced its long-term plan to grow by 18 percent per year. And the profit is expected to increase even more. On the way to achieving the growth target, a number of potential obstacles must be addressed - including the challenge of recruiting competence that can enable expansion. Micael Johansson says that this is something they have managed very well so far, but he also sees that it may become more difficult in the coming years. We have recruited a net 5,000 people over two years. We get very skilled people, so it has not been a limiting factor. But if we are going to grow even more, it will be in competition with others in our industry, and then it can become a challenge. He does not believe that the high recruitment rate of recent years can be maintained going forward. I have previously said that we will not be able to grow at the same rate in the coming years.
+
+

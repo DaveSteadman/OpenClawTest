@@ -1,0 +1,73 @@
+Domain: GeneralNews
+StartURL: https://www.bbc.com/news
+Timestamp: 2026-02-22T16:41:59
+PerPageSummaryWords: 220
+StartPageSummaryWords: 220
+StartPageSummary:
+Authorities say the US president was not in Florida when a suspect carrying a shotgun and fuel can was killed. US envoy Steve Witkoff says the president is puzzled why Iran has not yet compromised in the face of a major American military build-up nearby. Mike Huckabee suggested Israel would be justified in taking much of the Middle East on Biblical grounds. After most of his tariffs were outlawed on Friday, Trump announced new global tariffs of 10% - which he says he has now increased to 15%. The Met says it has not identified any wrongdoing by its protection officers "at this time". Twenty-five people were injured by explosions overnight in what officials are calling a terror attack. United States win the men's Olympic ice hockey gold medal for the first time in 46 years by beating neighbours Canada in overtime. Just a year into Trump's second term, and about half of Project 2025's policies have been implemented, observers say. Johannes Hoesflot Klaebo, Norway's king of cross-country skiing, breaks the record for the most gold medals won at a single Winter Olympics with his sixth of the Games. Who are Great Britain's silver medal-winning curlers? And what might be next for them after another heartbreak? BBC Sport explores the special scheme which has taken athletes to gold medal glory
+
+- Link 1
+  AnchorText: Once mocked for being tacky, this Korean music genre is making a comeback
+  URL: https://www.bbc.com/news/articles/c5y4xqlg639o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  This traditional South Korean music genre gets its name from the American "foxtrot", which shares the trot's distinctive two-beat rhythm. It was popular for decades and produced the country's first musical superstars, but has more recently struggled to compete with newer, trendier sounds, particularly with the global rise of K-pop. But trot is making headlines again - this time thanks to social media. Korean content creators have started using generative AI to transform popular K-pop songs into buttery, catchy trot-style tunes, paired with AI-generated images of idols in glittering suits and teased hair - the iconic look of classic trot singers. These videos have racked up hundreds of thousands of views on social media platforms like Instagram, Line and YouTube. But critics have raised copyright concerns and questioned the trend's novelty, arguing that it is too far a departure from the true essence of trot. Trot first emerged in the 1930s, when Korea was still colonised by Japan. It developed from Korean folk traditions, while drawing influence from Japanese enka and Western styles such as jazz, according to music critic Jung Minjae. Trot songs often express "han" - a deep-seated feeling of sorrow, resentment and longing shaped by Korea's history of foreign subjugation and one of the most enduring themes in Korean culture. The lyrics of trot songs typically revolve
+
+- Link 2
+  AnchorText: Pakistan launches deadly strikes on Afghanistan
+  URL: https://www.bbc.com/news/articles/cdxgln3gnd6o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  Pakistan has carried out multiple overnight air strikes on Afghanistan, which the Taliban has said killed at least 18 people, including women and children. Islamabad said the attacks targeted seven alleged militant camps and hideouts near the Pakistan-Afghanistan border and that they had been launched after recent suicide bombings in Pakistan. Afghanistan condemned the attacks, saying they targeted multiple civilian homes and a religious school. The fresh strikes come after the two countries agreed to a fragile ceasefire in October following deadly cross-border clashes, though subsequent fighting has taken place. The Taliban's defence ministry said the strikes targeted civilian areas of Nangarhar and Paktika provinces and had killed dozens of people. In Girdi Kas village, in the Bihsud district of Nangarhar, a man named Shahabuddin told reporters while pointing at his destroyed house that of 23 members of his family, only five had survived the attack. Local Taliban spokesman Sayed Taib Hamd said that 18 members of the family had been killed. The BBC had earlier been told about 20 people were thought to have died. No deaths have been reported so far in the other areas hit. A guesthouse and a religious school were targeted in the Bermal and Urgun districts of Pakitka province, but they were empty at the time of the attacks, local officials and locals told
+
+- Link 3
+  AnchorText: More than 1,500 Venezuelan political prisoners apply for amnesty
+  URL: https://www.bbc.com/news/articles/c93w9g2dvn5o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  A total of 1,557 Venezuelan political prisoners have applied for amnesty under a new law introduced on Thursday, the country's National Assembly President has said. Jorge Rodríguez, brother of Venezuelan interim President Delcy Rodríguez and an ally of former President Nicolás Maduro, also said "hundreds" of prisoners had already been released. Among them is politician Juan Pablo Guanipa, one of several opposition voices to have criticised the law for excluding certain prisoners. The US has urged Venezuela to speed up its release of political prisoners since US forces seized Maduro in a raid on 3 January. Venezuela's socialist government has always denied holding political prisoners. At a news conference on Saturday Jorge Rodríguez said 1,557 release requests were being addressed "immediately" and ultimately the legislation would extend to 11,000 prisoners. The government first announced days after Maduro's capture, on 8 January, that "a significant number" of prisoners would be freed as a goodwill gesture. Opposition and human rights groups have said the government under Maduro used detentions of political prisoners to stamp out dissent and silence critics for years. These groups have also criticised the new law. One frequently cited criticism is that it would not extend amnesty to those who called for foreign armed intervention in Venezuela, BBC Latin America specialist Luis Fajardo says. He noted that law professor
+
+- Link 4
+  AnchorText: Government 'inflamed tension' over Maccabi fan ban, say MPs
+  URL: https://www.bbc.com/news/articles/cx2rgxq10w5o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  "Late and clumsy" intervention by the government in trying to overturn the banning of Israeli Maccabi Tel Aviv fans from a match against Aston Villa only served to "inflame tensions", a committee of MPs has found. The move was "ineffective" and reflected "unfavourably on the culture of the Home Office", the Home Affairs Committee report concluded. The report into events surrounding the November Europa League match also found the decision by Birmingham's Safety Advisory Group (SAG) may have been "unduly influenced by political pressure". A Home Office spokesperson said it was only informed a ban was "one possible option" before the decision was taken. After reviewing evidence presented by West Midlands Police (WMP) the SAG ruled supporters of the Israeli club should not be permitted to attend the fixture over safety concerns. The force has since admitted it "overstated the evidence" used to make the decision. Following the ban announcement, the government said it would do everything in its power to have the ban overturned. Government intervention was "clumsy and came too late," said Karen Bradley, chair of the Home Affairs Committee. "But their intervention when it came did little more than inflame tensions," she said. Police use of AI in drawing up its evidence led to "inaccurate and unverified information" which "reinforced false narratives", said the report. The "extraordinary
+
+- Link 5
+  AnchorText: 3 Andrew is Prince William's problem too - and it makes his future job harder
+  URL: https://www.bbc.com/news/articles/c5y6kgky2evo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  School holidays are precious, protected time for the Prince and Princess of Wales. Prince William was back from his official visit to Saudi Arabia . The princess had completed a run of engagements around mental health, young families and the British textile industry. Half term was downtime away from the rhythm of the school day in Windsor and the family was spending it, as they often do, privately in Norfolk. Around three miles away from the Wales' Norfolk retreat, Andrew Mountbatten-Windsor, was arrested at Wood Farm on the Sandringham estate . For Prince William, this was uncomfortably close to home on many levels. Prince William and his uncle Andrew are not close. You didn't have to be a body language expert to read the mood when Andrew Mountbatten-Windsor sidled up to his nephew outside Westminster Cathedral after the funeral of the Duchess of Kent in September last year. But Andrew is now Prince William's problem too. The future king was a teenager at school when his uncle first met Jeffrey Epstein. He was just about to start university when Virginia Giuffre alleged she was first forced to have sex with the former prince, an allegation which Andrew has always denied. When that photo was taken of Andrew walking in Central Park with Jeffrey Epstein in 2010, it was about a
+
+- Link 6
+  AnchorText: 9 'Effective' SEND support won't be taken away, minister says
+  URL: https://www.bbc.com/news/articles/clygnnz6d9lo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  The government will not be withdrawing "effective support" from children with special educational needs and disabilities (SEND) under its planned school reforms for England, the education secretary has said. Bridget Phillipson told the BBC the government would be "spending more money", not less, on supporting children with SEND as part of its efforts to overhaul the system. But the cabinet minister said children "will be reviewed in terms of their needs", following leaks which suggested pupils will be assessed as they move into secondary school. The full details of the government's proposed changes to SEND provision in England will be outlined in a White Paper, which will be published on Monday. The policy paper has been highly anticipated by parents who fear the reforms could mean the support their child receives could be limited in some way. The proposals in the paper come as the government faces significant pressures from the rising costs of a SEND system, widely considered to be in crisis. Leaks from the paper, reported by the BBC , suggest children with education, health and care plans (EHCPs) - which are legal documents outlining their extra support entitlement - will be reassessed after primary school from 2029. The BBC understands this will sit alongside an extension of legal rights to include all children with SEND through school-led
+
+- Link 7
+  AnchorText: 10 Trump administration fires Virginia prosecutor hours after judges appointed him
+  URL: https://www.bbc.com/news/articles/c4gqegwgp7wo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  The Trump administration has fired a top prosecutor in Virginia just hours after judges hired him. A panel of judges announced on Friday that they had unanimously voted to appoint James W Hundley as the interim US Attorney for the Eastern District of Virginia. Hours later, Deputy Attorney General Todd Blanche wrote on X: "EDVA judges do not pick our US Attorney. POTUS does. James Hundley, you're fired!" It is the second time this month that the Trump administration has abruptly fired a prosecutor who was appointed by judges. Hundley was picked to fill the seat vacated by Erik Siebert, who resigned in September under pressure from President Donald Trump. In appointing Hundley - a veteran litigator with more than three decades of experience - to the role, the district court judges cited a law that allows them to hire a new person to the role after the previous holder's term expired. The justice department has argued that the president and the attorney general maintain the right to appoint interim US attorneys. Some critics have accused the Trump administration's appointments of skipping the Senate confirmation process. In addition to Virginia, judges in New York, New Jersey, California and Nevada have ruled that a Trump administration's pick for a US attorney role was serving unlawfully. "It was a great honor to
+
+- Link 8
+  AnchorText: Trump curious why Iran has not 'capitulated', US envoy Witkoff says US envoy Steve Witkoff says the president is puzzled why Iran has not yet compromised in the face of a major American military build-up nearby. 6 mins ago World
+  URL: https://www.bbc.com/news/articles/cn5gk15rr70o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  US President Donald Trump is questioning why Iran has not yet "capitulated" in the face of Washington's military build-up in the Middle East, the US president's special envoy Steve Witkoff has said. Witkoff told Fox News on Saturday that Trump was "curious" about Iran's position after he had warned of a limited military strike if a deal was not reached on Tehran's nuclear programme. The US and its European allies suspect Iran of moving towards making a nuclear weapon, which it denies. Within Iran, anti-government protests were staged at several universities over the weekend - the first rallies on such a scale since January's deadly crackdown by the authorities, which saw thousands killed. In his interview with Fox News, Witkoff said: "I don't want to use the word 'frustrated'... because he [Trump] understands he's got plenty of alternatives, but he's curious as to why they haven't... I don't want to use the word 'capitulated', but why they haven't capitulated." "Why, under this sort of pressure, with the amount of sea power and naval power that we have over there, why haven't they come to us and said, 'We profess that we don't want a weapon, so here's what we're prepared to do?'" "And yet it's hard to sort of get them to that place," Trump's envoy added. Iran's Foreign Minister
+
+

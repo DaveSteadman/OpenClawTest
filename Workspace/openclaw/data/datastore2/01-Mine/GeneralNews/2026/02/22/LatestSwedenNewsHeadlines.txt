@@ -1,0 +1,69 @@
+Domain: GeneralNews
+Query: latest Sweden news headlines
+Timestamp: 2026-02-22T16:39:28
+PerPageSummaryWords: 200
+- Sweden Herald - Sweden News and World News in English
+  https://swedenherald.com/
+  Latest Sweden News , breaking news , and world news in English. Daily coverage of Swedish news from Stockholm, Gothenburg, Malmö, and across Sweden , plus international headlines , business, and more.
+  LinkedPageStatus: ok (https://swedenherald.com/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Team Anna Hasselborg was celebrated with a cake made by author Amanda Romare, featuring figures depicting the curling gold medalists. Learn Swedish language and culture with daily content Det är så mycket att göra att jag knappt hinner tänka. There’s so much to do that I barely have time to think. A natural sentence for busy periods, at work or at home. “ Det där är ett meme nu. ” A fjällstuga week is a Swedish winter dream, skiing by day, sauna by night, and a kitchen table full of gloves drying. A man in his 30s is suspected of the attempted murder of a man in Västerås. The injured man has life-threatening injuries. Emma Ribom had her dream crushed when she was eliminated in the Olympic sprint. But she still stepped up for the team when others got sick and went home. Michael Apelgren has named his first national-team squad since the team's failure at the European Handball Championship in January. The only new name is goalkeeper Marko Roganovic. Three weeks, almost completely without food during the day - far out in the forest. Perla Malmberg endured the new Kanal 5 reality show "Expedition vildmark." "We cried the most,"
+
+- Google News - Sweden - Latest
+  https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNR1F3ZG5GdUVnSmxiaWdBUAE
+  Read full articles, watch videos, browse thousands of titles and more on the " Sweden " topic with Google News .
+  LinkedPageStatus: ok (https://consent.google.com/ml?continue=https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNR1F3ZG5GdUVnSmxiaWdBUAE&gl=GB&hl=en-US&cm=2&pc=n&src=1&escs=AZ8E49B_dIpL8dChR14-fQI5p6SbzLn9VGCVY4V2TAeTE1RdTx4lXKZpcoldqBSFJVewYW7xlQewESOsHsVUnZM7cUKz0IUKnUjj)
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  Select “More options” to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+- Latest News | The Stockholm Herald
+  https://www.stockholmherald.com/latest-news/
+  The Stockholm Herald is an online news publication focusing on the Sweden : The latest news from Sweden
+  LinkedPageStatus: ok (https://www.stockholmherald.com/latest-news/)
+  LinkedPageSummaryWords: 140
+  LinkedPageSummary:
+  By signing to this email alert, you agree to our Terms & Conditions We sent a one-time activation link to . Just click on the link to continue. If you don't see the email in your inbox, check your spam folder or try again You have successfully confirmed your email and are subscribed to The Stockholm Herald daily news alert. It looks like you have already confirmed and are receiving the The Stockholm Herald daily news alert. It looks like something went wrong. Please try again. By signing to this email alert, you agree to our Terms & Conditions You are no longer receiving the The Stockholm Herald daily news alert. You are no longer receiving the The Stockholm Herald daily news alert. Try clicking the Unsubscribe link in the email again and if it still doesn't work, contact us
+
+- Sweden - BBC News
+  https://www.bbc.co.uk/news/topics/c77jz3md4rwt
+  Stay informed with the latest news , video, live updates and expert analysis about Sweden from across the BBC.
+  LinkedPageStatus: ok (https://www.bbc.co.uk/news/topics/c77jz3md4rwt)
+  LinkedPageSummaryWords: 7
+  LinkedPageSummary:
+  Posted 30 December 2025 30 Dec 2025
+
+- Sweden News Agency | Swedish Headlines, Politics & World News
+  https://swedennewsagency.com/
+  Get trusted Swedish news , politics and global affairs from Sweden News Agency. Daily updates, in-depth reporting, and 24/7 headline coverage.
+  LinkedPageStatus: ok (https://swedennewsagency.com/)
+  LinkedPageSummaryWords: 61
+  LinkedPageSummary:
+  SWEDEN NEWS AGENCY is multi-platform news and information media broadcast company. Every year, we deliver world-class journalism to more than 10 million world’s most influential audiences in over 150 countries, who want to stay up-to-date with all that is happening in the world. Whether it’s News, Sports, Money, Politics, or Entertainment, we drive an imperative conversation every day on every platform.
+
+- Sweden News | Sweden Latest News - NewsNow
+  https://www.newsnow.com/us/World/Europe/Northern+Europe/Sweden
+  About our Sweden news Latest news on the Nordic country Sweden , with the latest on Swedish politics, crime, Sweden's economy, international relations and more from trusted sources. Formally known as the Kingdom of Sweden , the country is located on the Scandinavian Peninsula in Northern Europe, sharing borders with Norway, Finland and Denmark.
+  LinkedPageStatus: ok (https://www.newsnow.com/us/World/Europe/Northern+Europe/Sweden)
+  LinkedPageSummaryWords: 134
+  LinkedPageSummary:
+  Latest news on the Nordic country Sweden, with the latest on Swedish politics, crime, Sweden's economy, international relations and more from trusted sources. Formally known as the Kingdom of Sweden, the country is located on the Scandinavian Peninsula in Northern Europe, sharing borders with Norway, Finland and Denmark. Its capital and largest city is Stockholm. Sweden is a constitutional monarchy and parliamentary democracy, with legislative power vested in the 349-member unicameral Riksdag. It is a unitary state, currently divided into 21 counties and 290 municipalities. Education and health care are highly valued in Sweden, with the country maintaining a Nordic social welfare system that provides universal health care and tertiary education for its citizens. The country consistently ranks high in the Human Development Index (HDI) and has the world's 14th highest GDP per capita.
+
+- The New Swede | Swedish News in English
+  https://www.newswede.com/
+  The definitive source for Swedish news in English. Get the latest updates on Swedish politics, business, culture, and sports translated for international readers.
+  LinkedPageStatus: ok (https://www.newswede.com/)
+  LinkedPageSummaryWords: 8
+  LinkedPageSummary:
+  The New Swede | Swedish News in English
+
+- Sweden Journal | Breaking Swedish News, Politics & Culture
+  https://swedenjournal.com/
+  Get the latest breaking news from Sweden , including politics, economy and Scandinavian affairs. Real-time updates only at SwedenJournal.com.
+  LinkedPageStatus: ok (https://swedenjournal.com/)
+  LinkedPageSummaryWords: 13
+  LinkedPageSummary:
+  Everything you need to know about the re-reboot of your favourite childhood flick.
+
+

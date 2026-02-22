@@ -1,0 +1,53 @@
+{
+  "ts": "2026-02-22T20:41:05Z",
+  "domain": "GeneralNews",
+  "timeframe": "2026/02/22",
+  "prompt": "Summarise global headline shifts with key geopolitical and macroeconomic signals.",
+  "input_files": [
+    "C:\\Users\\daves\\.openclaw\\data\\datastore2\\01-Mine\\GeneralNews\\2026\\02\\22\\Bbc.txt",
+    "C:\\Users\\daves\\.openclaw\\data\\datastore2\\01-Mine\\GeneralNews\\2026\\02\\22\\LatestDenmarkNewsHeadlines.txt",
+    "C:\\Users\\daves\\.openclaw\\data\\datastore2\\01-Mine\\GeneralNews\\2026\\02\\22\\LatestEuNewsHeadlines.txt",
+    "C:\\Users\\daves\\.openclaw\\data\\datastore2\\01-Mine\\GeneralNews\\2026\\02\\22\\LatestFinlandNewsHeadlines.txt",
+    "C:\\Users\\daves\\.openclaw\\data\\datastore2\\01-Mine\\GeneralNews\\2026\\02\\22\\LatestFranceNewsHeadlines.txt",
+    "C:\\Users\\daves\\.openclaw\\data\\datastore2\\01-Mine\\GeneralNews\\2026\\02\\22\\LatestGermanyNewsHeadlines.txt",
+    "C:\\Users\\daves\\.openclaw\\data\\datastore2\\01-Mine\\GeneralNews\\2026\\02\\22\\LatestIndiaNewsHeadlines.txt",
+    "C:\\Users\\daves\\.openclaw\\data\\datastore2\\01-Mine\\GeneralNews\\2026\\02\\22\\LatestNorwayNewsHeadlines.txt",
+    "C:\\Users\\daves\\.openclaw\\data\\datastore2\\01-Mine\\GeneralNews\\2026\\02\\22\\LatestSwedenNewsHeadlines.txt",
+    "C:\\Users\\daves\\.openclaw\\data\\datastore2\\01-Mine\\GeneralNews\\2026\\02\\22\\LatestUkNewsHeadlines.txt",
+    "C:\\Users\\daves\\.openclaw\\data\\datastore2\\01-Mine\\GeneralNews\\2026\\02\\22\\LatestUsNewsHeadlines.txt",
+    "C:\\Users\\daves\\.openclaw\\data\\datastore2\\01-Mine\\GeneralNews\\2026\\02\\22\\NewZealandLatestNewsHeadlines.txt",
+    "C:\\Users\\daves\\.openclaw\\data\\datastore2\\01-Mine\\GeneralNews\\2026\\02\\22\\SouthAfricaLatestNewsHeadlines.txt"
+  ],
+  "files_selected": 13,
+  "files_in_corpus": 13,
+  "llm": {
+    "model": "gpt-oss:20b",
+    "endpoint": "http://127.0.0.1:11434/v1/chat/completions"
+  },
+  "analysis": {
+    "executive_summary": "On 22 Feb 2026 global headlines pivoted from a post‑pandemic recovery narrative to a landscape dominated by geopolitical flashpoints and protectionist economic moves.  The United States is grappling with domestic security incidents at the presidential estate, a surge in tariffs and a renewed focus on Middle‑East tensions, while the European Union is tightening sanctions on Russia and negotiating energy‑related concessions.  The Middle East sees renewed cross‑border hostilities between Pakistan and Afghanistan, and Iran’s strategic posture is under scrutiny.  NATO‑aligned countries such as Norway and Denmark are adjusting defense deployments and expanding clean‑energy cooperation, signalling a shift toward hybrid security and climate resilience.  Political instability remains a theme in Venezuela, South Africa, and other regions, underscoring a broader trend of governance challenges.",
+    "key_trends": [
+      "US protectionist tariff policy and domestic security incidents",
+      "Middle‑East cross‑border hostilities and Iran‑US strategic tension",
+      "EU sanctions tightening on Russia and energy‑related negotiations",
+      "NATO defense posture adjustments and clean‑energy collaboration",
+      "Political instability in Venezuela and South Africa",
+      "Climate‑energy cooperation expanding in the North Sea"
+    ],
+    "delta_start_to_end": "From a 2025 focus on pandemic recovery and economic stimulus, headlines in 2026 emphasize geopolitical tensions, protectionist trade policies, and a pivot toward energy‑security and climate cooperation.",
+    "supporting_evidence": [
+      "\"After most of his tariffs were outlawed on Friday, Trump announced new global tariffs of 10% - which he says he has now increased to 15%\" (BBC, 22 Feb 2026)",
+      "\"US envoy Steve Witkoff says the president is puzzled why Iran has not yet compromised in the face of a major American military build‑up nearby\" (BBC, 22 Feb 2026)",
+      "\"Pakistan has carried out multiple overnight air strikes on Afghanistan\" (BBC, 22 Feb 2026)",
+      "\"Hungary threatens to block EU loan to Ukraine unless Russian oil shipments resume\" (NewsNow, 22 Feb 2026)",
+      "\"The United Kingdom has joined nine European countries in a landmark agreement to develop a vast offshore wind network in the North Sea\" (Denmark Times, 22 Feb 2026)",
+      "\"US jets pulled from NATO Cold Response exercises in Northern Norway\" (NewsinEnglish.no, 22 Feb 2026)",
+      "\"Venezuela’s 1,557 political prisoners have applied for amnesty under a new law\" (BBC, 22 Feb 2026)",
+      "\"South Africa crime statistics show a rise in extortion and protection rackets\" (TimesLIVE, 22 Feb 2026)"
+    ],
+    "caveats": [
+      "Coverage is uneven; many regional sources provide limited context or are inaccessible; the dataset may underrepresent non‑English language events; the excerpts focus on headline snippets rather than full articles, potentially omitting nuance."
+    ],
+    "confidence": "medium"
+  }
+}

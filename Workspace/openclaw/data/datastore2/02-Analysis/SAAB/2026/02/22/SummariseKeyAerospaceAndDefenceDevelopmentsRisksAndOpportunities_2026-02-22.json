@@ -1,0 +1,46 @@
+{
+  "ts": "2026-02-22T20:50:37Z",
+  "domain": "SAAB",
+  "timeframe": "2026/02/22",
+  "prompt": "Summarise key aerospace and defence developments, risks, and opportunities.",
+  "input_files": [
+    "C:\\Users\\daves\\.openclaw\\data\\datastore2\\01-Mine\\SAAB\\2026\\02\\22\\Saab.txt",
+    "C:\\Users\\daves\\.openclaw\\data\\datastore2\\01-Mine\\SAAB\\2026\\02\\22\\SaabDefenseLatestCompanyNews.txt",
+    "C:\\Users\\daves\\.openclaw\\data\\datastore2\\01-Mine\\SAAB\\2026\\02\\22\\SaabDefenseLatestContractAwards.txt"
+  ],
+  "files_selected": 3,
+  "files_in_corpus": 3,
+  "llm": {
+    "model": "gpt-oss:20b",
+    "endpoint": "http://127.0.0.1:11434/v1/chat/completions"
+  },
+  "analysis": {
+    "executive_summary": "Saab has solidified its position as a leading aerospace and defence contractor, achieving record order bookings in 2025 and expanding its global footprint through strategic partnerships and new contracts. The company is capitalising on heightened European defence spending, securing high‑value deals in Poland, Sweden, NATO, and the United States, while advancing its Gripen fighter and future combat air system programmes. Growth is underpinned by a robust order backlog, increased organic sales, and a focus on capacity expansion, though geopolitical tensions and supply‑chain uncertainties remain potential risks.",
+    "key_trends": [
+      "Record order bookings and 22% organic sales growth in 2025",
+      "Strategic MoU with Ukrainian Defence Industry to strengthen airborne surveillance",
+      "High‑value contracts in Poland (SIGINT ship), Sweden (Trackfire RWS, next‑generation fighter studies), NATO (9AIR C4I system), and the U.S. (Giraffe 1X radars, SHIELD IDIQ)",
+      "Expansion of Gripen fighter programme and exploration of unmanned combat platforms",
+      "Rising European defence budgets amid Russia‑Ukraine conflict",
+      "Saab’s focus on capacity expansion and new capabilities to support future growth"
+    ],
+    "delta_start_to_end": "From the start‑page emphasis on global presence and market expansion to the end‑page record order bookings, Saab has moved from a positioning narrative to demonstrable commercial success, with a 22% organic sales increase in the first half of 2025 and an upgraded medium‑term sales growth target.",
+    "supporting_evidence": [
+      "\"Competing in the international market, requires a strong global presence. We continue to strengthen our presence in key markets, develop innovative solutions and acquire companies in prioritised areas.\" (Start page)",
+      "\"2025 was a record year for Saab where we secured several important orders and continued to see high demand. At the same time, we continue to invest in capacity expansion and new capabilities to build for future growth.\" (Linked page 3)",
+      "\"Saab and the Joint Stock Company “Ukrainian Defense Industry” (JSC UDI) have signed a Memorandum of Understanding (MoU) regarding their intention to collaborate in the areas of aviation and airborne surveillance.\" (Linked page 2)",
+      "\"On 14 January 2026, the launch of Poland's second SIGINT (Signals Intelligence) ship from Saab, ORP Henryk Zygalski, took place in Gdańsk, Poland.\" (File 2)",
+      "\"Saab has received an order from the Swedish Defence Materiel Administration, FMV, for the Trackfire Remote Weapon Station (RWS). The order value is approximately SEK 1,5 billion and deliveries will take place 2026-2028.\" (File 2)",
+      "\"Saab’s 9AIR C4I system is designed to enhance control over air and space operations by integrating weapons, sensors, and communications.\" (File 3)",
+      "\"Sweden has awarded defense contractor Saab a $276 million contract to continue development work on future fighter systems.\" (File 3)",
+      "\"Saab beat second‑quarter operating earnings forecasts and raised its guidance on expectations of even stronger sales this year as European military spending surges.\" (File 2)"
+    ],
+    "caveats": [
+      "Information is derived solely from press releases and public announcements, which may not reflect full financial or operational details.",
+      "The dataset covers a limited time window (February 2026) and may not capture longer‑term trends or recent developments beyond the cited releases.",
+      "Potential bias exists as corporate communications tend to highlight successes and may underreport challenges or setbacks.",
+      "Geopolitical risks such as supply‑chain disruptions or changes in defence procurement policies are not fully quantified in the available data."
+    ],
+    "confidence": "medium"
+  }
+}

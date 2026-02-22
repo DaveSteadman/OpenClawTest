@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "defaults": {
+    "python": "{python_executable}",
+    "cwd": "{workspace}",
+    "env": {
+      "PYTHONUNBUFFERED": "1",
+      "OPENAI_API_KEY": "ollama",
+      "OPENAI_BASE_URL": "http://127.0.0.1:11434/v1",
+      "OPENAI_MODEL": "gpt-oss:20b",
+      "OLLAMA_CONTEXT_LENGTH": "32768"
+    },
+    "timeout_sec": 3600,
+    "log_dir": "runs"
+  },
+  "startup": [
+    {
+      "id": "ollama_server",
+      "cmd": ["ollama", "serve"],
+      "background": true,
+      "ready": {
+        "type": "tcp",
+        "host": "127.0.0.1",
+        "port": 11434,
+        "timeout_sec": 30
+      }
+    }
+  ],
+  "shutdown": [
+    {
+      "id": "stop_ollama_server",
+      "ref": "ollama_server",
+      "timeout_sec": 5
+    }
+  ],
+  "scheduler": {
+    "poll_interval_sec": 1,
+    "status_interval_sec": 10
+  },
+  "tasks": [
+    {
+      "id": "mine_all_configs_daily",
+      "enabled": true,
+      "every_sec": 86400,
+      "start_in_sec": 1,
+      "timeout_sec": 14400,
+      "cwd": "{workspace}",
+      "cmd": [
+        "{python}",
+        "{workspace}/workspace/Skills/Gen2MinerSchedule/gen2_miner_schedule.py",
+        "--config",
+        "{workspace}/workspace/Skills/Gen2MinerSchedule/gen2_miner_schedule_SAAB_config.json",
+        "--cadence",
+        "daily",
+        "--all-configs",
+        "--inter-config-delay",
+        "0"
+      ]
+    },
+    {
+      "id": "analyse_all_configs_daily",
+      "enabled": true,
+      "every_sec": 86400,
+      "start_in_sec": 2,
+      "timeout_sec": 10800,
+      "cwd": "{workspace}",
+      "cmd": [
+        "{python}",
+        "{workspace}/workspace/Skills/Gen2AnalysisSchedule/gen2_analysis_schedule.py",
+        "--config",
+        "{workspace}/workspace/Skills/Gen2AnalysisSchedule/gen2_analysis_schedule_SAAB_config.json",
+        "--cadence",
+        "daily",
+        "--all-configs"
+      ]
+    }
+  ]
+}

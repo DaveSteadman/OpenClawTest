@@ -1,0 +1,23 @@
+{
+  "default_domain": "BAESystems",
+  "tasks": [
+    {
+      "name": "BAE Systems Daily Report",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "report",
+      "timeframe": "{today_slash}",
+      "prompt": "Write a structured executive report with key events, strategic implications, opportunities, and risks.",
+      "llm_timeout": 900
+    },
+    {
+      "name": "BAE Systems Daily Product Report",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "report",
+      "timeframe": "{today_slash}",
+      "prompt": "Write a structured executive report highlighting mentions of products, projects, bids, and contracts.",
+      "llm_timeout": 900
+    }
+  ]
+}

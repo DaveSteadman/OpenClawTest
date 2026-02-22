@@ -1,0 +1,65 @@
+Domain: GeneralNews
+Query: latest EU news headlines
+Timestamp: 2026-02-22T16:37:14
+PerPageSummaryWords: 200
+- EU News | Live Feed & Top Stories - NewsNow
+  https://www.newsnow.co.uk/h/World+News/Europe/EU
+  EU news - updated 24/7/365. We link to the best sources from around the world. Covering the latest news on the European Union...
+  LinkedPageStatus: ok (https://www.newsnow.co.uk/h/World+News/Europe/EU)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  European Union Top Stories Latest News Most Read Hungary threatens to block EU loan to Ukraine unless Russian oil shipments resume Fox News 13:28 EU/Hungary EU/Ukraine Hungary Hungary, Slovakia spat with Ukraine deepens as Budapest threatens to block new EU sanctions The Kyiv Independent 15:02 EU/Hungary EU/Ukraine Hungary Transcript: Christine Lagarde, European Central Bank president, on "Face the Nation with Margaret Brennan," Feb. 22,… CBS News 15:35 European Central Bank Banking Industry World Banking ECB’s Lagarde: EU doesn’t need all 27 to move forward on reforms Politico EU 15:23 European Central Bank Banking Industry World Banking Cyprus’ air force, navy declared terrorist organisations by Iran Cyprus Mail 08:57 Islamic Revolutionary Guard Corps Iran Middle East Iran declares EU naval, air forces terrorist in reciprocal move IMNA - Iran's Metropolises News Agency 05:16 Islamic Revolutionary Guard Corps Iran Middle East 'A deal is a deal': EU says it 'expects' US to honour trade deal as Trump hikes tariffs TheJournal.ie 15:47 US/EU Donald Trump Tariffs EU says US must honor a trade deal after Court blocks Trump tariffs NewsMax 15:54 US/EU Donald Trump Tariffs Malta shows slowest ageing rate in the EU, Eurostat data shows MaltaToday 05:20 Malta Southern Europe Luxembourg behind
+
+- Europe News | Latest Headlines & Stories | Reuters
+  https://www.reuters.com/world/europe/
+  Reuters.com is your online source for the latest Europe news stories and current events, ensuring our readers up to date with any breaking news developments
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/world/europe/
+  LinkedPageSummaryWords: 0
+
+- Europe | Latest News & Updates | BBC News
+  https://www.bbc.co.uk/news/world/europe
+  Get all the latest news , live updates and content about Europe from across the BBC.
+  LinkedPageStatus: ok (https://www.bbc.co.uk/news/world/europe)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Features & Analysis Watch/Listen Latest Updates 14:19 GMT Explosions kill police officer and injure 25 in western Ukraine , published at 14:19 GMT Explosions kill police officer and injure 25 in western Ukraine Attribution Europe 11:48 GMT Teenage girl dies after hit-and-run collision , published at 11:48 GMT Teenage girl dies after hit-and-run collision Attribution Europe 06:53 GMT Could this be wreckage from a 214-year-old maritime disaster? , published at 06:53 GMT Could this be wreckage from a 214-year-old maritime disaster? Attribution Europe 22:15 GMT 21 February Two men charged in connection with Dublin assault , published at 22:15 GMT 21 February Two men charged in connection with Dublin assault Attribution Europe 18:11 GMT 21 February Killing of nationalist student leaves French far left in deep trouble as elections loom , published at 18:11 GMT 21 February Killing of nationalist student leaves French far left in deep trouble as elections loom Attribution Europe 17:17 GMT 21 February What tariffs has Trump introduced and why? , published at 17:17 GMT 21 February What tariffs has Trump introduced and why? Attribution World 16:43 GMT 21 February Divers recover bodies of seven Chinese tourists from bottom of Lake Baikal , published at 16:43
+
+- Google News - European Union - Latest
+  https://news.google.com/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNRjgyZEY5Nk9CSUNaVzRvQUFQAQ?hl=en-US&ceid=US:en
+  Read full articles, watch videos, browse thousands of titles and more on the "European Union" topic with Google News .
+  LinkedPageStatus: ok (https://consent.google.com/ml?continue=https://news.google.com/topics/CAAqJAgKIh5DQkFTRUFvS0wyMHZNRjgyZEY5Nk9CSUNaVzRvQUFQAQ?hl%3Den-US%26ceid%3DUS:en&gl=GB&hl=en-US&cm=2&pc=n&src=1&escs=AZ8E49AvLSekb1eL-WeS9N0WI58lsnwpKHgGBYiKGx0uhR427BHSrgo_EOB-wS2WSvln5X7Q5EcBqJ-ya5Sv5RGFrSyyxvTjXwPx)
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  Select “More options” to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+- Find all latest and hot news about Europe | euronews
+  https://www.euronews.com/news/europe
+  Find all national and international information about Europe. Select the subects you want to know more about on euronews.com
+  LinkedPageStatus: ok (https://www.euronews.com/news/europe)
+  LinkedPageSummaryWords: 140
+  LinkedPageSummary:
+  Milano-Cortina 2026 Greenland War in Ukraine Attack Luxury Qatar Hungary Hungary blocks EU sanctions package until Ukrainian oil flow resumes ADVERTISEMENT Russia Seven Chinese tourists drown after car falls through ice in Russia The car went underwater after hitting a patch of thin ice. Seven Chinese tourists, including a couple with a 14-year-old boy, have died. 21/02/2026 Made in Europe 'A Beautiful Mess' makes a new start in Europe easier for refugees What can be done to improve the integration of refugees in Europe? How can newcomers be supported to get a foothold in social life? A Euronews report from the Netherlands. 20/02/2026 Italy Would-be bank robber trapped in Milan vault for nine hours A 24-year-old man was arrested in Milan after spending nine hours trapped in a UniCredit vault during a failed robbery attempt. No one was hurt. 20/02/2026
+
+- Europe News | Breaking European News Today | AP News
+  https://apnews.com/hub/europe
+  Never miss an update on European news from The Associated Press. Stay informed on all Europe business, sports, economic news and more.
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- News and Events | European Union
+  https://european-union.europa.eu/news-and-events_en
+  Get the latest news coming out of the EU - press releases, statements and highlights. See upcoming events organised by EU institutions and agencies.
+  LinkedPageStatus: ok (https://european-union.europa.eu/news-and-events_en)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Browse through a selection of Featured EU news, see a comprehensive overview of the Latest EU news or read about past and upcoming events from all EU’s institutions and bodies. All are available in all 24 EU official languages via machine translation, when clicking on the full list of corresponding content. Read a selection of the featured news from across the EU's institutions and bodies. The EU's health and food safety agencies say the risk to exposure to contaminated infant formula is now low, thanks to the recall in several EU countries. Most of the affected children experience mild symptoms. The recall was triggered in December after a toxin called cereulide was detected. Two years ago, the Digital Services Act entered into force. It regulates online services such as social media, marketplaces, app stores, and online travel and accommodation services. Its objective is to ensure a safer digital space in which fundamental rights are protected. This year we celebrate 15 years of the European Citizens’ Initiative - a unique way for you to act on causes you care about. Launch an initiative that falls within the EU’s competences and shape the EU by calling on the European Commission to propose
+
+- European Union - The Guardian
+  https://www.theguardian.com/world/eu
+  Latest news , sport, business, comment, analysis and reviews from the Guardian, the world's leading liberal voice
+  LinkedPageStatus: ok (https://www.theguardian.com/world/eu)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  European Union 22 February 2026 UK in talks with US over ‘best possible deal’ for British firms amid higher tariffs threat China overtakes US as Germany’s top trading partner 21 February 2026 The Saturday read Under water, in denial: is Europe drowning out the climate crisis? Even as weather extremes worsen, the voices calling for the rolling back of environmental rules have grown louder and more influential 20 February 2026 UK ‘working with US’ to analyse impact of supreme court’s ruling against tariffs Opinion Corruption is no longer envelopes of cash – now it is about who Washington is shielding and who it is sacrificing Kenneth Mohammed 19 February 2026 The Guardian view on Merz and Meloni: an emerging Berlin-Rome axis is threatening the EU’s green deal ‘Made in Europe’ EU industrial strategy could hit supply chains, UK minister warns Macron defends EU AI rules and vows crackdown on child ‘digital abuse’ Beef and lamb get 580 times more in EU subsidies than legumes, study finds 18 February 2026 Other lives Anne Parry obituary Other lives : Language teacher immersed in European life Countries that do not embrace AI could be left behind, says OpenAI’s George Osborne Without AI you
+
+
