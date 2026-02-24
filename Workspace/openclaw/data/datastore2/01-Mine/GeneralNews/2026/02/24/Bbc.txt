@@ -1,0 +1,73 @@
+Domain: GeneralNews
+StartURL: https://www.bbc.com/news
+Timestamp: 2026-02-24T21:54:17
+PerPageSummaryWords: 220
+StartPageSummaryWords: 220
+StartPageSummary:
+Four men expose the horror and brutality of conditions in the Ukraine war, with two saying they saw soldiers being shot for refusing orders. The men, who are on the run, told of the horrors they witnessed on the Russian side of the front lines in Ukraine. Fighting back tears, the missing woman's NBC host daughter says they accept she may be dead. The prisoners escaped from a jail in Puerto Vallarta after armed men rammed one of the gates. Events were held across Ukraine to mark four years since Russia launched its full-scale invasion. The BBC speaks to Guadalajara residents days after cartel members sought to avenge the killing of Nemesio "El Mencho" Oseguera. Few of Donald Trump’s speeches to Congress have had as much riding on them as the one on Tuesday night. Laurence des Carrs submitted her resignation to President Emmanel Macron, who said it was "an act of responsibility". This month marks four gruelling years since the full‑scale invasion began and a genuine ceasefire still feels far from assured Steve Rosenberg reports on the economic consequences of Russia's war, and how people are coping. How Russia's gradual gains in the face of fierce Ukrainian opposition have affected the front line in recent months. Russia hoped to overthrow Ukraine's pro-Western government, but Moscow's war has dragged on
+
+- Link 1
+  AnchorText: Mandelson's lawyers say he was arrested over 'baseless' claim he was a flight risk
+  URL: https://www.bbc.com/news/articles/c05vey47yddo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  Lord Mandelson's lawyers have said police officers arrested the former ambassador to the US at his London home on Monday afternoon because they worried he was a flight risk. The peer's lawyers have told the BBC there is "absolutely no truth" in the suggestion that Lord Mandelson was planning to leave the UK and move abroad. The Metropolitan Police has said it will not comment. The former Labour minister was arrested on suspicion of misconduct in public office on Monday and later released on bail, pending further investigation. A spokesperson for Mishcon De Reya, Lord Mandelson's lawyers, said: "Peter Mandelson was arrested yesterday despite an agreement with the police that he would attend an interview next month on a voluntary basis. "The arrest was prompted by a baseless suggestion that he was planning to leave the country and take up permanent residence abroad. There is absolutely no truth whatsoever in any such suggestion. "We have asked the MPS [Metropolitan Police Service] for the evidence relied upon to justify the arrest. "Peter Mandelson's overriding priority is to cooperate with the police investigation, as he has done throughout this process, and to clear his name." Lord Mandelson was arrested on Monday afternoon and taken to Wandsworth police station in London for interview. He was at the police station for nine hours before
+
+- Link 2
+  AnchorText: BBC edited a second racial slur out of Bafta ceremony
+  URL: https://www.bbc.com/news/articles/c5ykl7y2zv9o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  A racial slur was edited out of the Baftas ceremony before it was broadcast, but another one aired in error, the BBC's chief content officer has said. Tourette's campaigner John Davidson shouted the N-word when US actors Michael B Jordan and Delroy Lindo were on stage on Sunday. The shout was audible in the broadcast, although many viewers would have struggled to make out the word. BBC content chief Kate Phillips emailed staff on Tuesday, reiterating the BBC's apology for it not being edited out of the broadcast, adding: "We understand how distressing this was." Phillips confirmed other instances of offensive language had been removed, telling staff: "The edit team removed another racial slur from the broadcast." In contrast, the slur shouted when Lindo and Jordan were on stage "was aired in error and we would never have knowingly allowed this to be broadcast", she said. The use of the N-word on any BBC television programme is very rare and usually requires sign-off from a channel controller. The Bafta ceremony was shown on BBC One on a two-hour delay, with producers editing the show's length to fit its two-hour broadcast slot. BBC News understands the producers overseeing the ceremony for the BBC were doing so from a TV truck and simply did not hear the slur shouted when Lindo and
+
+- Link 3
+  AnchorText: Nigeria denies report it paid 'huge' ransom to free pupils in mass abduction
+  URL: https://www.bbc.com/news/articles/cewzyqjq2ygo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  Nigeria's government has rejected a media report alleging that it paid a "huge" ransom to Islamist militant group Boko Haram to secure the release of more than 200 pupils and staff abducted from a Catholic boarding school in November. Information Minister Mohammed Idris described the allegation, made by the AFP news agency quoting intelligence sources, as "completely false and baseless" and a "disservice to the professionalism and integrity" of the security forces. He also denied that two Boko Haram commanders were freed as part of the deal. In a separate announcement, a presidential spokesman has said police chief Kayode Egbetokun, a close ally of President Bola Tinubu, has resigned. The spokesman, Bayo Onanuga, said the resignation - a year ahead of the end of Egbetokun's term - was for "pressing family considerations". His deputy Tunji Disu has been appointed as acting chief at a time when the country faces mounting security pressures. This includes kidnap for ransom, which is big business in parts of Nigeria - with the culprits ranging from Islamists militants, members of gangs known as "bandits" and separatists. Some analysts cited by AFP believe that the kidnapping from St Mary's School in Papiri in the western state of Niger was led by a notorious Boko Haram militant commander known as "Sadiku", who had previously been linked to
+
+- Link 4
+  AnchorText: Trump hits out at reports that top US general warned against attacking Iran
+  URL: https://www.bbc.com/news/articles/cn0zrwzr519o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  President Donald Trump has lashed out at reports that his top military adviser had urged caution on air strikes against Iran, saying the general believes it would be "easily won". Chairman of the Joint Chiefs of Staff, Air Force General Dan Caine, has warned that strikes against Iran could be risky, potentially drawing the US into a prolonged conflict, US media report. General Caine has reportedly cautioned that a military action could have repercussions across the region, potentially including retaliatory strikes by Iranian proxies or a larger conflict that would require more US forces. In a lengthy post on Truth Social, Trump described the reports as "fake news". "General Caine, like all of us, would like not to see war, but, if a decision is made on going against Iran at a military level, it is his opinion that it will be something easily won," the president wrote. "He has not spoken of not doing Iran, or even the fake limited strikes that I have been reading about," Trump added. "He knows only one thing, how to win, and, if he is told to do so, will be leading the pack." The US has been reinforcing its forces in the region in recent weeks, one of the largest build-ups in decades, to pressure Iran to curb its nuclear programme. Multiple
+
+- Link 5
+  AnchorText: Hillary Duff pays tribute to Robert Carradine after star of Lizzie McGuire dies aged 71
+  URL: https://www.bbc.com/news/articles/cy0dqpjjprno
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  Robert Carradine, the US actor best known for roles in Revenge of the Nerds and Lizzie McGuire, has died aged 71. In a statement, his family said the actor took his own life after living with bipolar disorder for nearly two decades. The Carradine family said they wanted to announce his cause of death to raise awareness of "the stigma that attaches to mental illness". "We want people to know it, and there is no shame in it," his brother Keith told Deadline. Lizzie McGuire star Hilary Duff led the tributes to her former on-screen father, writing on Instagram: "This one hurts. It's really hard to face this reality about an old friend." Born on 24 March 1954, Carradine was the youngest son of John Carradine and a brother of actors David and Keith Carradine. Encouraged by his brother David, Robert Carradine auditioned for 1972's The Cowboys, a John Wayne film that became his first screen role. He went on to appear in and Martin Scorsese's 1973 film Mean Streets, Oscar-winning Coming Home (1978), alongside Jane Fonda, The Long Riders (1980), with Mark Hamill, The Big Red One (1980) and Quentin Tarantino's Django Unchained in 2012. But he was best known for playing the head nerd, Lewis Skolnick, in Revenge of the Nerds - which became one of the most
+
+- Link 6
+  AnchorText: 2 Chocolate kept in anti-theft boxes as shops warn it's being stolen to order
+  URL: https://www.bbc.com/news/articles/ce3gqr7p0lqo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  Chocolate bars are being locked in plastic boxes in some UK shops as retailers and police forces warn thieves are stealing them to order. Sainsbury's said it had begun using "boxes on products which are regularly targeted", with £2.60 bars of Cadbury Dairy Milk locked up in one London branch. Chocolate was more recently being "sold on by criminals and is now being targeted more frequently by prolific offenders," according to the Association of Convenience Stores (ACS). Some individual police forces told us they had seen a specific trend of chocolate being targeted. The National Police Chiefs' Council said it was working to tackle this type of crime. In recent months some police forces have posted videos of chocolate being stolen to highlight the issue. West Midlands Police shared CCTV footage of a man grabbing trays of chocolate from a shop in Stourbridge, while Wiltshire Police shared a video of a man dragging a whole shelving stand of chocolate out of a shop door. And earlier last year a man was arrested by Cambridgeshire Police with a coat full of Cadbury's Creme eggs . Cambridgeshire Police told the BBC: "Chocolate is one of a number of high-value items thieves often target, along with products such as alcohol, meat and coffee. "Retail theft has a real and lasting impact – not
+
+- Link 7
+  AnchorText: 7 Man 'caused wife's death by controlling her', jury told
+  URL: https://www.bbc.com/news/articles/czx7yp14v1vo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  A man controlled his wife through "physical and sexual violence", leading to her taking her own life because she could not escape him, a court has heard. Christopher Trybus from Swindon in Wiltshire is accused of the manslaughter of Tarryn Baird, who took her own life in November 2017 at the age of 34. The 43-year-old also faces charges at Winchester Crown Court of controlling and coercive behaviour and two charges of rape, which he denies. Tom Little KC, prosecuting, told the jury that Trybus carried out "extensive and escalating controlling, coercive and manipulative behaviour including sexual violence of two rapes and other sexual assaults". If you have been affected by any of the issues raised in this story, information and support can be found at the BBC's Action Line. It is alleged that Trybus controlled Baird, using and threatening violence towards her, sexually assaulting her, monitoring her whereabouts, limiting access to finance, threatening to reveal private information to her family and isolating her from her family. "It took place over a sustained period of time behind closed doors and all of it during the course of a marriage," Little told the court. "It led ultimately in November 2017 to a woman in just her thirties and whose name is Tarryn Baird taking her own life. "She was the defendant's
+
+- Link 8
+  AnchorText: 8 Driver admits causing death of mother pushing pram
+  URL: https://www.bbc.com/news/articles/c4gql405dydo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  A lorry driver has admitted causing the death of a woman who was struck on the head by crane equipment while pushing a pram. Rebecca Ableman, 30, was with her two-year-old daughter Autumn on the pavement by the B1050 in Willingham, Cambridgeshire, when she was hit in September 2022. Kevin Miller, 71, of Gayton Road, King's Lynn, Norfolk, admitted causing death by careless or inconsiderate driving at a hearing in Peterborough Crown Court, officials said. Court staff said he was due to be sentenced on 14 April. Miller had gone on trial last year after denying causing death by dangerous driving - when detail of the incident emerged. The trial was halted in April and a new trial was due to start this week. Ms Ableman, who lived in Willingham, had left a farm shop in Station Road with her daughter when she was struck by the equipment at about 11:15 BST. She died from head and brain injuries three weeks later. Prosecutors said Miller was transporting scrap metal from King's Lynn docks to two Network Rail depots in Essex and Cambridgeshire on 22 September. As he passed through Willingham, loose unsecured crane equipment moved from its position and was hanging over the edge of a trailer, the court heard. Miller said he did not know there had been an
+
+

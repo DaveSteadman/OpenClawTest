@@ -1,0 +1,67 @@
+Domain: GeneralNews
+Query: latest Norway news headlines
+Timestamp: 2026-02-23T23:32:10
+PerPageSummaryWords: 200
+- Norway's News in English — www.newsinenglish.no
+  https://www.newsinenglish.no/
+  NewsInEnglish.no is a free and independent Oslo-based website offering news from Norway . It's run on a voluntary basis by veteran journalists keen to share insight into Norwegian politics, economic affairs and culture, in English.
+  LinkedPageStatus: ok (https://www.newsinenglish.no/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Troubled king remains popular US pulls jets out of Cold Response Norwegian defense officials have confirmed that the US is pulling several of its fighter jets and other aircraft out of the upcoming NATO Cold Response military exercises in Northern Norway. As many as 150 American soldiers may also be... Former diplomat undergoes police questioning in Oslo Terje Rød-Larsen, the former Norwegian diplomat who's now in trouble over his lengthy association with the late financier and convicted sex offender Jeffrey Epstein, underwent police questioning back home in Oslo on Thursday. Police said he was cooperative and... Epstein ‘survivor’ scolds Norway’s Crown Princess Mette-Marit One of the many young teenage girls who were sexually abused by the late financier Jeffrey Epstein has publicly scolded Norwegian Crown Princess Mette-Marit, who carried on a three-year friendship with Epstein before he later died in prison. The... Klæbo cheers up his homeland After weeks of uproar and scandal, Norwegians at least have a lot to cheer about at this year's Winter Olympics in Italy. Both Crown Prince Haakon and Prime Minister Jonas Gahr Støre were on hand to celebrate more historic... Central bank chief’s inflation battle may boost interest rates Norwegian economists admit to being
+
+- Latest News | The Oslo Herald
+  https://www.osloherald.com/latest-news
+  The Oslo Herald is an online news publication focusing on the Norway : The most trusted news from Norway
+  LinkedPageStatus: ok (https://www.osloherald.com/latest-news)
+  LinkedPageSummaryWords: 140
+  LinkedPageSummary:
+  By signing to this email alert, you agree to our Terms & Conditions We sent a one-time activation link to . Just click on the link to continue. If you don't see the email in your inbox, check your spam folder or try again You have successfully confirmed your email and are subscribed to The Oslo Herald daily news alert. It looks like you have already confirmed and are receiving the The Oslo Herald daily news alert. It looks like something went wrong. Please try again. By signing to this email alert, you agree to our Terms & Conditions You are no longer receiving the The Oslo Herald daily news alert. You are no longer receiving the The Oslo Herald daily news alert. Try clicking the Unsubscribe link in the email again and if it still doesn't work, contact us
+
+- Norway News | Latest Norway News - NewsNow
+  https://www.newsnow.com/us/World/Europe/Northern+Europe/Norway
+  Latest news on Norway , providing comprehensive coverage of politics, economy, culture, weather, crime, and developments in this Scandinavian nation.
+  LinkedPageStatus: ok (https://www.newsnow.com/us/World/Europe/Northern+Europe/Norway)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest news on Norway, providing comprehensive coverage of politics, economy, culture, weather, crime, and developments in this Scandinavian nation. Norway is a prosperous Nordic country with a population of approximately 5.7 million, situated on the Scandinavian Peninsula between the North Atlantic and the Arctic. The capital Oslo is home to over 1.1 million people, while other major cities include Bergen and Trondheim, each steeped in centuries of history. The nation's parliamentary democracy operates through the Storting, with Prime Minister Jonas Gahr Støre leading a Labour minority government following parliamentary elections in September 2025. The Norwegian economy is underpinned by its massive oil and gas industry, with state revenues from petroleum activities funding the world's largest sovereign wealth fund. The Government Pension Fund Global holds assets exceeding $1.9 trillion, equivalent to over $340,000 per Norwegian citizen. Political debate centres on how much to spend from the fund versus saving for future generations, energy policy, and maintaining Norway's role as a stable energy supplier to Europe while pursuing climate commitments. Norway's dramatic landscape of fjords, mountains, and coastal waters has shaped both its history and contemporary identity. The UNESCO-listed Geirangerfjord and Nærøyfjord represent some of the world's most spectacular natural formations, carved
+
+- The Norway Times | Breaking Norway News & Daily Updates
+  https://thenorwaytimes.com/
+  Get the latest news from Norway . Daily updates on politics,society, and global affairs from a trusted Norwegian news source.
+  LinkedPageStatus: ok (https://thenorwaytimes.com/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Nation Nation UK Joins European Pact to Build World’s Largest Offshore Clean... Nation Trump Ties Greenland Push to Nobel Snub, Threatens EU With... Nation Powerful Storm Brings Destruction Across Norway With Near-Hurricane Winds Nation Norway Moves Closer to EU as Government Accelerates Adoption of... Nation Equinor Chief Warns Against Using Oil Policy as Bargaining Chip... Nation Norway’s High Tariffs Blamed for Soaring Food Prices and Surge... World Iran-US Talks: Non-Aggression Pact Offer Signals Tehran’s Broader Diplomatic Ambitions Zelensky Says US Accelerates Peace Efforts with Florida Location and Summer Goal Greenland PM Warns National Legislature: US Ownership Ambitions for Arctic Persist Trump’s Veiled Iran Threat: Military Plans “Very Big,” Details Withheld Trump Says Regional Allies Support American Iran Naval Operation US Approves Major New Arms Sales Worth $6.67B to Israel and $9B to Saudi Arabia in Massive Defense Commitment Sports Turning the Tide: England’s Spinners Master the Colombo Rank-Turner Tournament Leadership Supports Current System While Weighing Start Date Adjustment Politics Trump Accelerates USS Gerald R Ford Transit to Middle East for Iran Showdown Russia-Ukraine-US Trilateral Talks: Abu Dhabi Peace Summit Seeks Diplomatic Resolution Carney Unleashes Sharp Criticism of US Alberta Separatist Strategy Rubio Highlights Swift Operation Execution as Minimizing Regional Destabilization
+
+- Norway - BBC News
+  https://www.bbc.co.uk/news/topics/clm1wxp5mgxt
+  Stay informed with the latest news , video, live updates and expert analysis about Norway from across the BBC.
+  LinkedPageStatus: ok (https://www.bbc.co.uk/news/topics/clm1wxp5mgxt)
+  LinkedPageSummaryWords: 7
+  LinkedPageSummary:
+  Posted 28 December 2025 28 Dec 2025
+
+- Google News - Norway - Latest
+  https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZpTkhjU0FuWnBLQUFQAQ
+  Get the latest news from Norway and around the world, including politics, economy, sports and more.
+  LinkedPageStatus: ok (https://consent.google.com/ml?continue=https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZpTkhjU0FuWnBLQUFQAQ&gl=GB&hl=en-US&cm=2&pc=n&src=1&escs=AZ8E49BPiedDnaCDRYaxTDr-1h-HDpClUBUsVGCtV15f_trUm-yr_5xb2ipG2U1kgRmid8MHwUB-ZsTYNlDAJW5NiXFMrn8zwonL)
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  Select “More options” to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+- Latest News from Norway - The Local
+  https://www.thelocal.no/category/norway-news
+  Read the latest news and important information from Norway in English here at The Local.
+  LinkedPageStatus: ok (https://www.thelocal.no/category/norway-news)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest News from Norway Read the latest news and important information from Norway in English here at The Local. skiing What makes Norwegians so good at skiing and winter sports? Norway has done it again. At the 2026 Winter Olympics in Milan-Cortina, the country put on an incredible performance and proved once more that it is a true powerhouse in winter sports. Weather 'Rain freezes on the ground': Norway set for sudden weather shift If you’re tired of the freezing temperatures, milder weather is on the way. However, the change comes with a downside, as rain and icy road warnings are expected across parts of Norway. Working in Norway How Norway's kindergartens are increasingly offering foreigners a career path Starting a career in Norway can be challenging for foreign residents. However, kindergartens are becoming a solid choice for steady work and long-term integration. Recent rule changes have made this path more accessible to those with degrees from abroad. What changes in Norway Transport to immigration rules: What changes about life in Norway in 2026? From cheaper dental care to immigration restrictions and more Metro construction, here are the changes you can expect to see in Norway throughout 2026. Travel news
+
+- NORWAY NEWS - latest news, breaking stories and comment - NORWAY NEWS ...
+  https://www.norwaynews.com/
+  NORWAY NEWS is an online news site, written in English, dedicated to Norwegian affairs at home and abroad. Norway News .com is published online. It is a daily online newspaper in existence since May, 2003. The site is run by an Independent Journalist.
+  LinkedPageStatus: error: HTTPSConnectionPool(host='www.norwaynews.com', port=443): Read timed out. (read timeout=15)
+  LinkedPageSummaryWords: 0
+
+

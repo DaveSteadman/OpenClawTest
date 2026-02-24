@@ -1,0 +1,65 @@
+Domain: LockheedMartin
+Query: Lockheed Martin latest contract awards
+Timestamp: 2026-02-24T21:57:25
+PerPageSummaryWords: 200
+- Media - Lockheed Martin - Releases
+  https://news.lockheedmartin.com/news-releases?l=100
+  ORLANDO, Fla., Feb. 18, 2026 - Lockheed Martin (NYSE: LMT) announced today that it has been awarded a foreign military sale contract through Wright-Patterson Air Force Base to deliver C-130J...
+  LinkedPageStatus: ok (https://news.lockheedmartin.com/news-releases?l=100)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  In this section of the Lockheed Martin Newsroom, you'll find our news releases. The releases are listed in chronological order and are archived by year. Advanced simulators will expand training capacity for the RAAF’s growing C-130J fleet and leverage Lockheed Martin’s Original Equipment Manufacturer expertise. ORLANDO, Fla., Feb. 18, 2026 – Lockheed Martin (NYSE: LMT) announced today that it has been awarded a foreign military sale contract through Wright-Patterson Air Force Base to deliver C-130J... DALLAS, Feb. 12, 2026 – Lockheed Martin (NYSE:LMT) conducted a successful 112-km flight test of its Extended‑Range GMLRS (ER GMLRS) at White Sands Missile Range, New Mexico. For the first... Lockheed Martin and Fujitsu Limited, a Japanese multinational leader in information technology solutions, finalized the first purchase order for a critical component of Japan’s Aegis System Equipped Vessel (ASEV)’s SPY-7 radar antenna. Lockheed Martin (NYSE: LMT) Chairman, President and CEO Jim Taiclet and Chief Financial Officer Evan Scott will participate in a fireside chat at Citi's 2026 Global Industrial Tech and Mobility... FLORENCE, Ala., Feb. 10, 2026 – Lockheed Martin (NYSE:LMT) inaugurated the Manufacturing Basic Skills+ (MBS+) program at the newly opened Launch Career Technical Specialized Education (CTSE)... Today Lockheed Martin unveils the Lamprey Multi‑Mission
+
+- Lockheed Lands $480M Navy ASW Support Contract - govconwire.com
+  https://www.govconwire.com/articles/lockheed-480m-navy-asw-system-contract
+  Lockheed Martin has secured a potential five-year, $479.9 million contract from the U.S. Navy to support the AN/SQQ-89A(V)15 anti-submarine warfare combat system. The Navy's latest contract ...
+  LinkedPageStatus: ok (https://www.govconwire.com/articles/lockheed-480m-navy-asw-system-contract)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin has secured a potential five-year, $479.9 million contract from the U.S. Navy to support the AN/SQQ-89A(V)15 anti-submarine warfare combat system . The Navy’s latest contract action reflects the steady pace of investment shaping today’s maritime industrial base and undersea warfare portfolio. Discussions around acquisition trends, capability sustainment and industry partnership will continue across the defense community, including at the Potomac Officers Club’s 2026 Navy Summit on Aug. 27. Register now to join the event and gain broader insight into the service’s priorities. The Department of War said Friday the Naval Sea Systems Command awarded Lockheed’s rotary and mission systems business the sole-source, cost-plus-incentive-fee contract, which has a base value of $78.4 million. Under the award, Lockheed will provide engineering labor, program management and other direct costs, travel and materials to support development, certification, qualification and integration efforts for the AN/SQQ-89A(V)15 system. The company will maintain fielded combat system baselines and perform integration and certification for future baselines. The contract combines purchases for the U.S. Navy and foreign military sales customers, including Japan and Australia. Work will take place in Virginia, Pennsylvania and California. The base period of performance runs through February 2027. If the Navy exercises all options,
+
+- U.S. Army Awards Lockheed Martin Record $9.8B Patriot Missile Deal
+  https://theaviationist.com/2025/09/04/us-army-lockheed-martin-record-9-8b-patriot-deal/
+  The U.S. Army has awarded Lockheed Martin a $9.8 billion multi-year contract for the production of nearly 2,000 Patriot Advanced Capability-3 Missile Segment Enhancement (PAC-3 MSE) interceptors ...
+  LinkedPageStatus: ok (https://theaviationist.com/2025/09/04/us-army-lockheed-martin-record-9-8b-patriot-deal/)
+  LinkedPageSummaryWords: 85
+  LinkedPageSummary:
+  The launch of a Patriot PAC-3 interceptor missile. (Image credit: U.S. Army) TAGGED: Lockheed Martin MIM-104 Patriot PAC-3 MSE U.S. Army Stefano D'Urso is the Deputy Editor at The Aviationist, based in Lecce, Italy. He holds a Bachelor’s Degree in Industrial Engineering and is currently pursuing a Master’s Degree in Aerospace Engineering. His areas of expertise include emerging aerospace and defense technologies, electronic warfare, unmanned and autonomous systems, loitering munitions, and the application of OSINT techniques to the analysis of military operations and contemporary conflicts.
+
+- Lockheed Martin Lands $43.5M Army Mod for PATRIOT AC-3 Recapitalization
+  https://envzone.com/award-record/lockheed-martin-lands-43-5m-army-mod-for-patriot-ac-3-recapitalization/
+  Lockheed Martin Corp., Grand Prairie, Texas, was awarded a $43,508,345 modification (P00018) to contract W31P4Q-22-D-0021 for Phased Array Tracking Radar to Intercept on Target (PATRIOT) Advanced Capability-3 product assurance and launcher recapitalization. The modification brings the total cumulative face value of the contract to $223,000,977.
+  LinkedPageStatus: ok (https://envzone.com/award-record/lockheed-martin-lands-43-5m-army-mod-for-patriot-ac-3-recapitalization/)
+  LinkedPageSummaryWords: 74
+  LinkedPageSummary:
+  Lockheed Martin Corp., Grand Prairie, Texas, was awarded a $43,508,345 modification (P00018) to contract W31P4Q-22-D-0021 for Phased Array Tracking Radar to Intercept on Target (PATRIOT) Advanced Capability-3 product assurance and launcher recapitalization. The modification brings the total cumulative face value of the contract to $223,000,977. Work locations and funding will be determined with each order, with an estimated completion date of Feb. 22, 2027. Army Contracting Command, Redstone Arsenal, Alabama, is the contracting activity.
+
+- Lockheed Martin Secures $3.6 Billion Contract for Global F-35 Fighter ...
+  https://www.aeronewsjournal.com/2025/12/lockheed-martin-secures-36-billion.html
+  This latest award builds on Lockheed Martin's ongoing commitment to F-35 global sustainment, following previous modifications and highlighting the program's maturity.
+  LinkedPageStatus: ok (https://www.aeronewsjournal.com/2025/12/lockheed-martin-secures-36-billion.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Washington, DC, December 29 - Lockheed Martin , the prime contractor for the F-35 Lightning II program, has secured a significant $3.6 billion contract modification from the U.S. Navy to deliver comprehensive logistics support for the global F-35 fighter fleet. This award, announced in December 2025, underscores the critical role of sustained F-35 sustainment in maintaining operational readiness for the world's most advanced fifth-generation stealth fighter jet. The contract focuses on ensuring seamless F-35 maintenance, supply chain efficiency, and training across domestic and international operators, reinforcing Lockheed Martin's position as the leader in F-35 logistics support. The F-35 Lightning II, known for its stealth capabilities, sensor fusion, and multirole versatility, forms the backbone of modern air forces for the U.S. Air Force , Navy, Marine Corps , and numerous allied nations. Under this $3.6 billion F-35 contract, Lockheed Martin will provide essential services, including ground maintenance activities, depot-level repairs, automatic logistics information system operations, reliability enhancements, supply chain management, pilot and maintainer training, and training system sustainment. These efforts support delivered of F-35 Joint Strike Fighter aircraft for U.S. services, Foreign Military Sales customers, and non-Department of Defense partners, extending through 2026 with work primarily conducted at facilities in Texas,
+
+- Lockheed Martin wins $9.8 billion Patriot missile contract
+  https://www.reuters.com/business/aerospace-defense/lockheed-martin-wins-98-billion-patriot-missile-contract-2025-09-03/
+  The U.S. Army awarded Lockheed Martin a $9.8 billion contract for Patriot missiles, the company said on Wednesday, as demand for the missile defense interceptor from the U.S. and foreign ...
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/aerospace-defense/lockheed-martin-wins-98-billion-patriot-missile-contract-2025-09-03/
+  LinkedPageSummaryWords: 0
+
+- Lockheed Martin secures RAAF C-130J training systems contract under US ...
+  https://mrobusinesstoday.com/lockheed-martin-secures-raaf-c-130j-training-systems-contract-under-us-fms-programme/
+  Tap to listen this article (play/stop) Lockheed Martin has been awarded a Foreign Military Sale (FMS) contract to deliver advanced C-130J training devices and system upgrades to the Royal Australian Air Force (RAAF). The contract was issued through Wright-Patterson Air Force Base, reinforcing the long-standing defense partnership between the United States and Australia.
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://mrobusinesstoday.com/lockheed-martin-secures-raaf-c-130j-training-systems-contract-under-us-fms-programme/
+  LinkedPageSummaryWords: 0
+
+- Lockheed Martin wins deals for missiles and systems worth $5 billion
+  https://www.shephardmedia.com/news/landwarfareintl/lockheed-martin-wins-deals-for-missiles-and-systems-worth-5-billion/
+  The GMLRS brings the total contract value to $13.7 billion and will see the company continue manufacturing the precision-guided rocket systems until October 2027. Lockheed Martin was previously awarded a $3.43 billion contract modification in September 2024 to produce the surface-to-surface weapon systems.
+  LinkedPageStatus: ok (https://www.shephardmedia.com/news/landwarfareintl/lockheed-martin-wins-deals-for-missiles-and-systems-worth-5-billion/)
+  LinkedPageSummaryWords: 100
+  LinkedPageSummary:
+  Lockheed Martin has been awarded two contracts, a US$4.2 billion contract modification for the production of Guided Multiple Launch Rocket System ( GMLRS ) and a $720.1 million contract modification to produce air-to-ground missiles (ATGM). The GMLRS brings the total contract value to $13.7 billion and will see the company continue manufacturing the precision-guided rocket systems until October 2027. Lockheed Martin was previously awarded a $3.43 billion contract modification in September 2024 to produce the surface-to-surface weapon systems. In May this year, the company secured two contract modifications worth a combined $553 million with the first contract covering the production
+
+

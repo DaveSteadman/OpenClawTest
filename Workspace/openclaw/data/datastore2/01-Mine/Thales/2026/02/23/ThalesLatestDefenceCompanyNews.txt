@@ -1,0 +1,65 @@
+Domain: Thales
+Query: Thales latest defence company news
+Timestamp: 2026-02-23T23:43:31
+PerPageSummaryWords: 200
+- News centre | Thales Group
+  https://www.thalesgroup.com/en/news-centre
+  Catch up on the latest stories, interviews and reports from Thales . Use the search facility below to find news items by theme or date.
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- Thales to open third facility in NI - BBC News
+  https://www.bbc.co.uk/news/articles/cgl0z7gxpg2o
+  Thales , the French-owned arms company , is to open a third facility in Northern Ireland, MLAs have been told. On Sunday Prime Minister Keir Starmer announced that Thales would supply 5,000 of its ...
+  LinkedPageStatus: ok (https://www.bbc.co.uk/news/articles/cgl0z7gxpg2o)
+  LinkedPageSummaryWords: 139
+  LinkedPageSummary:
+  The company is also planning to recruit 200 additional staff over the next two years. Speaking to a Stormont committee Mr MacVean said the LMMs were keeping Russian helicopters out of Ukraine and another Thales weapon, the Next generation Light Anti-tank Weapon (the NLAW), had kept Russian tanks out of Kyiv. Thales began delivering LMMs to Ukraine at the end of 2024 as part of an initial £162m contract for 650 of the missiles. The new order is in addition to that. The contract has been placed by the MoD's procurement arm Defence Equipment & Support on behalf of the Ukrainian Government. It will be funded by a loan underwritten by United Kingdom Export Finance (UKEF) after a deal signed last year to allow Ukraine to draw on £3.5bn worth of support from UKEF to spend with UK industry.
+
+- Fraud probe launched in defence and aviation firm Thales
+  https://www.bbc.com/news/articles/c62l19ez56lo
+  A fraud investigation has been launched into suspected bribery and corruption at aviation and defence firm Thales . Authorities in the UK and France said they were carrying out a joint probe into ...
+  LinkedPageStatus: ok (https://www.bbc.com/news/articles/c62l19ez56lo)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A fraud investigation has been launched into suspected bribery and corruption at aviation and defence firm Thales. Authorities in the UK and France said they were carrying out a joint probe into the company, which is one of the government's key defence contractors. It comes after police in France, the Netherlands and Spain searched its offices in June over suspicions of corruption linked to arms sales abroad, according to reports. Thales UK, which has its headquarters in Reading, Berkshire, employs more than 7,000 staff across the country. Investigators from the Serious Fraud Office (SFO) and French authority Parquet National Financier have informed the company of the investigation, they said on Thursday. Director of the SFO, Nick Ephgrave, said: "Working collaboratively with our international partners is a crucial factor in the fight against international corruption. "We will together rigorously pursue every avenue in our investigation into these serious allegations." Thales built the 650 so-called Lightweight Multirole Missiles (LMMs) that the UK announced it would supply to Ukraine in September, in a £162m order. The firm also won a £1.8bn UK defence contract in February, which would see it maintain the Royal Navy's fleet of ships and submarines for the next 15
+
+- Thales to open third site in north following £1.6bn ... - Irish News
+  https://www.irishnews.com/news/business/thales-to-open-third-site-in-north-following-16bn-missile-order-for-ukraine-PEHMURTEXJD2XK6TFTQVO3B73Q/
+  A huge UK Government missile order for Ukraine is expected to see French-owned defence company Thales open a third site in Northern Ireland as part of a £100 million investment. British Prime ...
+  LinkedPageStatus: ok (https://www.irishnews.com/news/business/thales-to-open-third-site-in-north-following-16bn-missile-order-for-ukraine-PEHMURTEXJD2XK6TFTQVO3B73Q/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A huge UK Government missile order for Ukraine is expected to see French-owned defence company Thales open a third site in Northern Ireland as part of a £100 million investment. British Prime Minister Keir Starmer announced on Sunday that the Ministry of Defence (MoD) would source 5,000 lightweight multirole missiles (LMMs) from the arms manufacturer , which makes the ‘Martlet’ weapons in east Belfast. The £1.6 billion order is expected to involve Thales expanding its workforce from 700 to 900 in Northern Ireland. The company’s main base of operations is on the Alanbrooke Road in Castlereagh. It also operates a testing site in Co Down. Speaking to Stormont’s economy committee on Wednesday, Thales’ managing director Nigel MacVean said the defence company would be opening a third site in the north on the back of the new order. He said the defence company expects to invest around £100m in Northern Ireland. Mr MacVean was part of a delegation from the ADS Group to address MLAs at Stormont. ADS represents the interests of companies involved in the aerospace, defence, security and space sector. The Ministry of Defence said on Sunday that the order would require production to treble at Thales’ Belfast factory.
+
+- Thales and BDL Sign Landmark Deal for the ... - The Financial Express
+  https://www.financialexpress.com/business/thales-and-bdl-sign-landmark-deal-for-the-indian-army-uk-launches-new-india-focused-programme-3745391/
+  Laser-Beam-Riding-Man-Portable-Air- Defence -systems-LBRM (Image: Thales ) At Aero India 2025, one of the standout agreements between the United Kingdom and India is the significant deal between ...
+  LinkedPageStatus: ok (https://www.financialexpress.com/business/thales-and-bdl-sign-landmark-deal-for-the-indian-army-uk-launches-new-india-focused-programme-3745391/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  At Aero India 2025, one of the standout agreements between the United Kingdom and India is the significant deal between Thales UK and Bharat Dynamics Limited (BDL). This partnership aims to enhance India’s air defence capabilities, marking an important step in India’s quest for self- reliance in defence sector. The Indian Army as part of its modernization plan intends to replace the existing Russian Igla-S systems and the Defence PSU BDL had already bagged a contract from the Indian Army for the same under emergency procurement. The contract focuses on delivering advanced Laser Beam Riding MANPADs (LBRM) and an initial supply of STARStreak High Velocity Missiles (HVM) and launchers, scheduled for delivery later this year. This collaboration will not only strengthen air defence but will also lay the foundation for more advanced weapon systems in the future. The deal further extends to the production of Lightweight Multirole Missiles (LMM), with BDL set to become an integral part of Thales’ global supply chain. This collaboration will help enhance both nations’ security, create job opportunities, and improve interoperability between their armed forces. UK Defence Minister Lord Vernon Coaker opened the UK-India Defence Partnership Pavilion, which marked the establishment of a dedicated programme
+
+- Thales Latest News | Belfast News Letter
+  https://www.newsletter.co.uk/topic/thales
+  Get all of the latest Thales news from Belfast News Letter. Providing a fresh perspective for online news .
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.newsletter.co.uk/topic/thales
+  LinkedPageSummaryWords: 0
+
+- Inside the Glasgow factory that is shaping the next ... - Sky News
+  https://news.sky.com/story/inside-the-glasgow-factory-that-is-shaping-the-next-generation-of-warfare-13235783
+  Originally Barr & Stroud Ltd, the Thales Glasgow facility has links dating back to 1888 and has been the sole supplier of periscopes to the Royal Navy since the First World War.
+  LinkedPageStatus: ok (https://news.sky.com/story/inside-the-glasgow-factory-that-is-shaping-the-next-generation-of-warfare-13235783)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Govan in Glasgow was once an industrial powerhouse and is famed for its shipbuilding history but long gone are the days when it was a dominating driving force in the industry. However, as plans press on to regenerate the historic Govan Graving Docks area, a factory nested on the banks of the River Clyde has continued the district's legacy over the past century having been the sole supplier of periscopes to the Royal Navy since the First World War. Originally Barr & Stroud Ltd, the Scottish facility has links dating back to 1888. Now run by global technology group Thales, the Glasgow hub in Govan - which boasts a working First World War periscope - is the oldest part of the firm's UK operations. Managing director Stephen McCann told Sky News he spent the first few years of his life in Govan before moving to Linwood in Renfrewshire, where his dad worked in the renowned car factory known for the Hillman Imp. Due to his upbringing, he strives to provide opportunities for people who live in the area - which was once home to Vikings and was found to be one of the earliest seats of Christianity in Scotland .
+
+- Thales' £100m Northern Ireland expansion: How 200 new jobs could
+  https://business-news-today.com/thales-100m-northern-ireland-expansion-how-200-new-jobs-could-strengthen-the-uks-defence-supply-chain-and-boost-local-industry/
+  How could this expansion reinforce Northern Ireland's position as a competitive global defence and aerospace hub? Thales already contributes to several high-profile UK and international defence programmes, including surface-to-air missile systems, sonar technologies, and secure communications platforms.
+  LinkedPageStatus: ok (https://business-news-today.com/thales-100m-northern-ireland-expansion-how-200-new-jobs-could-strengthen-the-uks-defence-supply-chain-and-boost-local-industry/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Thales has confirmed a £100 million expansion at its Castlereagh operations in Northern Ireland, marking one of the largest private sector defence investments in the region in recent years. The move will add up to 200 highly skilled jobs to the company’s existing workforce of around 900, directly linking Northern Ireland’s industrial base to the UK Government’s increased commitment to raise defence spending to 2.6% of GDP. The investment, announced alongside the UK Government’s broader Plan for Change package, positions Northern Ireland as a central hub in the UK’s defence supply chain and a critical contributor to future military readiness. The Castlereagh site is home to Thales’ Integrated Air-space Protection Systems division, which develops advanced surveillance, detection, and protection systems. With the expansion, the company will open a third facility to scale production capacity and accelerate research and development. This growth comes at a time when the UK is prioritising domestic manufacturing capability to secure supply chains, reduce reliance on imports, and protect sensitive technologies. By expanding in Northern Ireland, Thales reinforces the UK’s aim to anchor critical defence competencies within its own borders while still meeting export demand from allied nations. Defence analysts emphasise that the Castlereagh operation’s enhanced
+
+

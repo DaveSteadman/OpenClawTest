@@ -1,0 +1,67 @@
+Domain: SAAB
+Query: SAAB defense latest contract awards
+Timestamp: 2026-02-23T23:42:40
+PerPageSummaryWords: 200
+- News and Press releases | Saab, Inc.
+  https://www.saab.com/markets/united-states/us-newsroom/news-and-press-releases
+  The U.S. Army has awarded Saab , Inc. a contract to provide Giraffe 1X radars in support of security cooperation partners. The order value for this award is approximately USD $46 million.
+  LinkedPageStatus: ok (https://www.saab.com/markets/united-states/us-newsroom/news-and-press-releases)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Saab, Inc. was awarded a contract for the Missile Defense Agency Scalable Homeland Innovative Enterprise Layered Defense (SHIELD) indefinite-delivery/indefinite-quantity (IDIQ) contract. This contract encompasses a broad range of work areas that allows for the rapid delivery of innovative capabilities to the warfighter with increased speed and agility. Saab will showcase the Studio version of its Ground Combat Indoor Trainer publicly for the first time at the I/ITSEC training and simulation industry event in Orlando, Florida, U.S., 1-4 December 2025. The U.S. Army has awarded Saab, Inc. a contract to provide Giraffe 1X radars in support of security cooperation partners. The order value for this award is approximately USD $46 million. The order was booked in Q3 2025. The Federal Aviation Authority (FAA) has selected Saab’s Aerobahn Runway and Surface Safety service for installation at 26 additional airports across the U.S. The award is made under the FAA’s Surface Awareness Initiative (SAI) Block 3 deployment. Saab has received a contract modification award from the U.S. Marine Corps for additional Marine Corps Training Instrumentation Systems (MCTIS) equipment. The order value for this award is USD $37 million (SEK 375 million) with deliveries taking place from 2025 to 2027. Skapa by Saab, the
+
+- Saab wins NATO contract for advanced air command and control system
+  https://defence-industry.eu/saab-wins-nato-contract-for-advanced-air-command-and-control-system/
+  With this latest contract , Saab continues to expand its role as a key supplier of command and control solutions for air and space operations. The deal highlights the growing demand for advanced defence technologies that enhance situational awareness and operational efficiency in modern warfare.
+  LinkedPageStatus: error: HTTPSConnectionPool(host='defence-industry.eu', port=443): Read timed out. (read timeout=15)
+  LinkedPageSummaryWords: 0
+
+- Saab Books $189M Czech Missile Defense System Contract
+  https://govconexec.com/2025/07/czech-189m-procurement-saab-missile-defense-system/
+  The new contract award aligns with Saab's commitment to enhancing European and global defense capabilities. In June, Saab partnered with Maxar to develop multi-domain combat solutions. In April, it started large-batch manufacturing of electronic warfare sensors in Finland to enable fast deliveries.
+  LinkedPageStatus: ok (https://www.govconexec.com/2025/07/czech-189m-procurement-saab-missile-defense-system/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Saab will supply its mobile short-range air defense, or MSHORAD, system to the Ministry of Defence and Armed Forces of the Czech Republic under a contract valued at about $189 million. The company said it will supply the systems from 2028 to 2030. The deliveries will include platforms based on the company’s RBS 70 NG short-range missile system, which is already in the Czech Armed Forces’ arsenal. The MSHORADs are for Saab’s integration into the MARS S-330 armored vehicle made by SVOS, a Czech firm. At the 2025 GovCon International Summit , discover how the Department of Defense is working to strengthen its partnerships at a time when the need for strategic power projection, unity and technological innovation has never been more urgent. Register today . The systems feature a command and control capability provided by a Czech partner and a third-party radar platform that the Czech Armed Forces already operates. Görgen Johansson , Saab senior vice president and head of business area dynamics, conveyed the company’s pride in maintaining its support to the Czech military, which already uses the man-portable variant of the RBS 70 NG air defense system. “Our MSHORAD solution complements this with a highly mobile configuration,
+
+- Major Defense Wins Could Be a Game Changer for Saab (OM:SAAB B)
+  https://finance.yahoo.com/news/major-defense-wins-could-game-101052556.html
+  These contracts not only strengthen Saab's backlog and increase its presence in new international markets, but also highlight growing demand for advanced defense technology and multi-domain ...
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_c8ae96ca-0b46-4c41-aa40-73731f1341db)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- FMV awards Saab $219.8m contract for air defence systems
+  https://www.airforce-technology.com/news/sweden-saab-defence-systems/
+  The Swedish Defence Materiel Administration (FMV) has awarded Saab a contract worth around Skr2.1bn ($219.8m) to supply brigades with sensors and command-and-control systems for ground-based air defence system. Saab will deliver the systems between 2027 and 2028.
+  LinkedPageStatus: ok (https://www.airforce-technology.com/news/sweden-saab-defence-systems/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The Swedish Defence Materiel Administration (FMV) has awarded Saab a contract worth around Skr2.1bn ($219.8m) to supply brigades with sensors and command-and-control systems for ground-based air defence system. Saab will deliver the systems between 2027 and 2028. Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. The order includes the LSS Lv command-and-control system, Giraffe 1X radar units, and a range of components, including integration of weapon systems, studies, and spare parts. In addition, the contract includes an integration study for expanding the brigade air defence system with Giraffe AMB radar, intended for medium-range surveillance. Saab business area surveillance head Carl-Johan Bergholm said: “We are very proud to contribute to a strengthened ground-based air defence capability for the Swedish brigades. The contract gives an increased capability to control the battle, but also to detect and engage airborne threats through world-class command-and-control and sensor systems.” The LSS Lv is designed as a software solution that enables military units to manage engagements with airborne targets, distribute target data across forces, and carry out planning and evaluation related to air defence operations at the ground level. Don’t let policy changes catch you off guard. Stay proactive with
+
+- U.S. Navy Extends Saab Contract: $15M for Radar Engineering and ...
+  https://envzone.com/award-record/u-s-navy-extends-saab-contract-15m-for-radar-engineering-and-manufacturing-through-2028/
+  Saab Inc., Syracuse, New York, is awarded a $15,012,698 firm-fixed-price and cost-plus-fixed-fee modification to a previously awarded contract (N00024-22-C-5530) to exercise an option for multi-mode radar production and engineering support.
+  LinkedPageStatus: ok (https://envzone.com/award-record/u-s-navy-extends-saab-contract-15m-for-radar-engineering-and-manufacturing-through-2028/)
+  LinkedPageSummaryWords: 93
+  LinkedPageSummary:
+  Saab Inc., Syracuse, New York, is awarded a $15,012,698 firm-fixed-price and cost-plus-fixed-fee modification to a previously awarded contract (N00024-22-C-5530) to exercise an option for multi-mode radar production and engineering support. Work will be performed in Gothenburg, Sweden (51%); and Syracuse, New York (49%), and is expected to be completed by September 2028. Fiscal 2025 other procurement (Navy) funds in the amount of $15,012,698 will be obligated at time of award and will not expire at the end of the current fiscal year. The Naval Sea Systems Command, Washington, D.C., is the contracting activity.
+
+- Sweden awards Saab $1,0B contract for two A26 submarines to strengthen ...
+  https://www.armyrecognition.com/news/navy-news/2025/sweden-awards-saab-1-0b-contract-for-two-a26-submarines-to-strengthen-nato-deterrence
+  Sweden's defense procurement agency FMV has awarded Saab a $1,0 billion contract to complete production of two Blekinge-class A26 submarines, with delivery targets now set for 2031 and 2033. The move strengthens Sweden's naval posture in the Baltic Sea following its NATO accession, ensuring advanced undersea capability through the next decade.
+  LinkedPageStatus: ok (https://www.armyrecognition.com/news/navy-news/2025/sweden-awards-saab-1-0b-contract-for-two-a26-submarines-to-strengthen-nato-deterrence)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Sweden’s defense procurement agency FMV has awarded Saab a $1,0 billion contract to complete production of two Blekinge-class A26 submarines, with delivery targets now set for 2031 and 2033. The move strengthens Sweden’s naval posture in the Baltic Sea following its NATO accession, ensuring advanced undersea capability through the next decade. Swedish company Saab confirmed on October 13, 2025, that Sweden’s procurement agency FMV placed an additional order worth roughly $1,0 billion to cover the final production phase and added material and services for two Blekinge class A26 submarines. Saab says most deliveries under this tranche run from 2026 to 2032, reinforcing continuity at Kockums in Karlskrona. In parallel, FMV has updated the master agreement, setting new delivery targets for the boats in 2031 and 2033 and fixing total program cost around $2,6 billion. The A26 will field heavyweight Torpedo 62 and the new lightweight Torped 47, giving the Swedish Navy a balanced mix for anti-ship and anti-submarine warfare. Follow Army Recognition on Google News at this link At the heart of the Blekinge design is a scaled, quiet diesel-electric hull paired with Stirling air-independent propulsion, enabling discreet submerged endurance measured in weeks rather than days. Saab and naval sources
+
+- Saab awarded $37M contract for U.S.M.C. Training Instrumentation ...
+  https://www.globaldefenseaerospacepost.com/news/articleView.html?idxno=4219
+  We take pride in providing the premier interoperable, land-based live training capability in the world." Saab's collaboration with the U.S. Marine Corps began with a contract awarded in June 2021, marking the transition from the previous Instrumentation and Tactical Engagement Simulation System II (ITESS - II) to the MCTIS training system.
+  LinkedPageStatus: ok (https://www.globaldefenseaerospacepost.com/news/articleView.html?idxno=4219)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Saab announced on March 14, 2025 that it has received a contract modification award from the U.S. Marine Corps for additional Marine Corps Training Instrumentation Systems (MCTIS) equipment . The award is valued at USD $37 million (SEK 375 million). The deliveries will take place from 2025 to 2027. This award ensures the U.S. Marine Corps will continue implementing Saab's deployable and expeditionary MCTIS capability. This advanced, interoperable live training solution helps Marines train in the most realistic environments, significantly improving their performance and survivability on the battlefield. The system focuses on developing and reinforcing effective tactics, techniques and procedures, while also facilitating joint training with NATO allies during multinational exercises. “We are honored that the U.S. Marine Corps continues to rely on us as their training partner for the next generation of Marine warfighters,” said Erik Smith, President and CEO of Saab in the U.S. “Our training capability enhances combat readiness by immersing Marines in realistic scenarios and rigorously analyzing their decision-making and actions, ultimately delivering on the objective of saving American lives. We take pride in providing the premier interoperable, land-based live training capability in the world.” Saab's collaboration with the U.S. Marine Corps began with a contract
+
+

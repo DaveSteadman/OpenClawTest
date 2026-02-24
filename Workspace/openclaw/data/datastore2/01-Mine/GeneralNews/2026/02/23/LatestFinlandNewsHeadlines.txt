@@ -1,0 +1,67 @@
+Domain: GeneralNews
+Query: latest Finland news headlines
+Timestamp: 2026-02-23T23:33:41
+PerPageSummaryWords: 200
+- Google News - Finland - Latest
+  https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREoyZW1NU0FuSjFLQUFQAQ?hl=en-US&ceid=US:en
+  Read full articles, watch videos, browse thousands of titles and more on the " Finland " topic with Google News .
+  LinkedPageStatus: ok (https://consent.google.com/ml?continue=https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNREoyZW1NU0FuSjFLQUFQAQ?hl%3Den-US%26ceid%3DUS:en&gl=GB&hl=en-US&cm=2&pc=n&src=1&escs=AZ8E49DYzaUK7GSCkLA0yt9BIgr2OLlVjcPZQH-20pNtjYgtP0MKWFl6ed-9Gyf_fedmueljd8YxwHIlYbovZ4oEgRyLCb505koN)
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  Select “More options” to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+- Latest News | The Helsinki Herald
+  https://www.thehelsinkiherald.com/latest-news/
+  The Helsinki Herald is an online news publication focusing on the Finland : The latest news from Finland
+  LinkedPageStatus: ok (https://www.thehelsinkiherald.com/latest-news/)
+  LinkedPageSummaryWords: 140
+  LinkedPageSummary:
+  By signing to this email alert, you agree to our Terms & Conditions We sent a one-time activation link to . Just click on the link to continue. If you don't see the email in your inbox, check your spam folder or try again You have successfully confirmed your email and are subscribed to The Helsinki Herald daily news alert. It looks like you have already confirmed and are receiving the The Helsinki Herald daily news alert. It looks like something went wrong. Please try again. By signing to this email alert, you agree to our Terms & Conditions You are no longer receiving the The Helsinki Herald daily news alert. You are no longer receiving the The Helsinki Herald daily news alert. Try clicking the Unsubscribe link in the email again and if it still doesn't work, contact us
+
+- Helsinki Times - Helsinki Times
+  https://www.helsinkitimes.fi/
+  Helsinki Times is an independent online newspaper covering news and events in Finland . Helsinki Times is the first ever English language news site in Finland established in 2007. The site is updated several times every day.
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.helsinkitimes.fi/
+  LinkedPageSummaryWords: 0
+
+- News | Yle Uutiset
+  https://yle.fi/news
+  Yle News in English
+  LinkedPageStatus: ok (https://yle.fi/news)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The tranche for Ukraine is part of a broader 72-million-euro humanitarian aid effort for other crises-hit regions of the world. The state-owned VTT Technical Research Centre of Finland and IQM completed work on the country's first quantum computer in 2021. Negative spot electricity prices are losing their charge, according to Helsingin Sanomat. Finland placed third in the men's ice hockey tournament, clinching its sixth medal at the Milan-Cortina Winter Olympics. Both the police officer and the stabbing suspect have been hospitalised with serious injuries, Iltalehti reports. Foreign Minister Elina Valtonen (NCP) also claimed that recent racism scandals have not affected Finland’s international image "at all". Integration specialists point to problems such as prohibitive costs, a lack of study materials, and the risks of indirect discrimination. Finland introduced a specific law banning the practice and preparation of female genital mutilation (FGM) at the beginning of last year. An unsettled start to their slumber, and the early-than-planned wake-up call, means the bears only caught about three weeks of uninterrupted sleep this winter. What would you like to hear on the All Points North podcast? With a baby on the way and her fixed-term contract about to end, Canadian Silvie Kroeker must decide
+
+- Finland news | Latest Finland News - NewsNow
+  https://www.newsnow.co.uk/h/World+News/Europe/Northern+Europe/Finland
+  Latest news on Finland , covering politics, economy, NATO membership, relations with Russia, culture, education, and developments in this Nordic nation. With a population of 5.5 million and capital Helsinki approaching 700,000 residents, Finland is a Nordic country that joined NATO on 4 April 2023, marking a historic shift from decades of ...
+  LinkedPageStatus: ok (https://www.newsnow.co.uk/h/World+News/Europe/Northern+Europe/Finland)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest news on Finland, covering politics, economy, NATO membership, relations with Russia, culture, education, and developments in this Nordic nation. With a population of 5.5 million and capital Helsinki approaching 700,000 residents, Finland is a Nordic country that joined NATO on 4 April 2023, marking a historic shift from decades of military non-alignment. Other major cities include Espoo, Tampere, and Oulu, with Finnish and Swedish as official languages. Finland's economy faces challenges as it emerges from stagnation, with growth projected at modest levels through the coming years. The unemployment rate remains elevated while public debt continues to rise. Recent legislative changes have tightened permanent residence requirements, extending the qualifying period from four to six years and introducing mandatory Finnish or Swedish language proficiency from January 2026. Finnish culture centres around the sauna tradition, inscribed on UNESCO's Intangible Cultural Heritage list, with over 3 million saunas serving as spaces for physical and mental cleansing. The education system, offering tuition-free schooling from primary through university, consistently ranks among the world's best. Finland's vast wilderness includes Lapland in the north, home to the indigenous Sámi people, reindeer, and the Northern Lights. Following Russia's 2022 invasion of Ukraine, Finland abandoned its longstanding policy of
+
+- Finland - BBC News
+  https://www.bbc.co.uk/news/topics/crr7mlg0gzdt
+  Stay informed with the latest news , video, live updates and expert analysis about Finland from across the BBC.
+  LinkedPageStatus: ok (https://www.bbc.co.uk/news/topics/crr7mlg0gzdt)
+  LinkedPageSummaryWords: 7
+  LinkedPageSummary:
+  Posted 31 December 2025 31 Dec 2025
+
+- Latest | Finland Today | News in English | finlandtoday.fi
+  https://finlandtoday.fi/latest/
+  A pioneering, independent Finnish news website in English. Daily news . Original journalism. Subscriber content.
+  LinkedPageStatus: ok (https://finlandtoday.fi/latest/)
+  LinkedPageSummaryWords: 10
+  LinkedPageSummary:
+  Latest | Finland Today | News in English | finlandtoday.fi
+
+- national | Finland Times
+  https://www.finlandtimes.fi/national
+  President Sauli Niinistö on Friday granted clemency to two convicts from jail sentences to conditional imprisonment. The President, however, rejected 18 applications of clemency, national broadcaster Yle reported. The two, who granted clemency were convicted of aggravated drug offenses, drug use and theft. One of them was sentenced to one year and two months' imprisonment while the rest was ...
+  LinkedPageStatus: ok (https://www.finlandtimes.fi/national)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Headline Strike disrupts flights operation 2 granted President´s clemency, 18 rejected Unemployment rate reduces slightly Finland grants Iraq EUR 5000,000 in aid Move to repeal same-sex marriage law foiled Govt publishes defence policy report Home NATIONAL 2 granted President´s clemency, 18 rejected President Sauli Niinistö on Friday granted clemency to two convicts from jail sentences to conditional imprisonment. The President, however, rejected 18 applications of clemency, national broadcaster Yle reported. The two, who granted clemency were convicted of aggravated drug offenses, drug use and theft. One of them was sentenced to one year and two months’ imprisonment while the rest was sentenced to three and ... details Finland grants Iraq EUR 5000,000 in aid Finland will grant EUR 500,000 to the Finnish Red Cross for humanitarian aid activities in Iraq. The government has taken the ... details Move to repeal same-sex marriage law foiled The parliament on Friday rejected a bill, which was placed with the view to repeal the same-sex marriage law. The citizen ... details Govt publishes defence policy report The government on Thursday published the first ever defence policy report which defines defence policy guidelines for maintaining, developing and ... details Niinistö to attend Munich Security Conference
+
+

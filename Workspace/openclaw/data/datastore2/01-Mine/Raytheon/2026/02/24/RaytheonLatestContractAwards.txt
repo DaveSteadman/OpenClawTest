@@ -1,0 +1,65 @@
+Domain: Raytheon
+Query: Raytheon latest contract awards
+Timestamp: 2026-02-24T22:01:30
+PerPageSummaryWords: 200
+- RTX Awarded $1.19B AMRAAM Contract - The Aviationist
+  https://theaviationist.com/2024/09/12/rtx-awarded-1-19b-amraam-contract-the-largest-amraam-award-to-date/
+  This latest contract is particularly interesting as it is the largest AMRAAM award to-date and comes 15 months after Raytheon received a $1.15B AMRAAM contract : as part of the Form, Fit, Function ...
+  LinkedPageStatus: ok (https://theaviationist.com/2024/09/12/rtx-awarded-1-19b-amraam-contract-the-largest-amraam-award-to-date/)
+  LinkedPageSummaryWords: 116
+  LinkedPageSummary:
+  AMRAAM missile (Image credit: RTX) TAGGED: AIM-120 AMRAAM NASAMS RTX David Cenciotti is a journalist based in Rome, Italy. He is the Founder and Editor of “The Aviationist”, one of the world’s most famous and read military aviation blogs. Since 1996, he has written for major worldwide magazines, including Air Forces Monthly, Combat Aircraft, and many others, covering aviation, defense, war, industry, intelligence, crime and cyberwar. He has reported from the U.S., Europe, Australia and Syria, and flown several combat planes with different air forces. He is a former 2nd Lt. of the Italian Air Force, a private pilot and a graduate in Computer Engineering. He has written five books and contributed to many more ones.
+
+- News | RTX awarded $1.7 billion contract for LTAMDS | RTX
+  https://www.rtx.com/news/2025/09/23/rtx-awarded-contract-for-ltamds
+  ANDOVER, Mass. (Sept. 23, 2025) - Raytheon , an RTX business, was awarded a U.S. Army contract valued at $1.7 billion to deliver theLower Tier Air and Missile Defense Sensor, or LTAMDS. The contract includes a total quantity of nine radars for the U.S. Army and Poland, which is the first international LTAMDS customer, as well as engineering services, spares, support, development and testing ...
+  LinkedPageStatus: ok (https://www.rtx.com/news/2025/09/23/rtx-awarded-contract-for-ltamds)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  ANDOVER, Mass. (Sept. 23, 2025) – Raytheon, an RTX business, was awarded a U.S. Army contract valued at $1.7 billion to deliver the Lower Tier Air and Missile Defense Sensor , or LTAMDS. The contract includes a total quantity of nine radars for the U.S. Army and Poland, which is the first international LTAMDS customer, as well as engineering services, spares, support, development and testing. LTAMDS has completed eight successful flight tests of increasing complexity to stress the radar and prove its capabilities against real-world threats. This led the Army to validate that the radar has reached Milestone C, initiating the production and deployment phase of the program. LTAMDS is now officially designated a program of record by the U.S. Army and ready to support both its U.S. homeland defense and expeditionary missions. “This latest contract highlights the need for LTAMDS amid increasingly complex and large raid threat tactics and underscores the U.S. Army’s confidence in the system's advanced 360-degree integrated air and missile defense capability,” said Tom Laliberty, president of Land & Air Defense Systems at Raytheon. “After achieving Milestone C earlier this year, Raytheon continues to ramp up production to meet the fast-growing demand from the U.S. Army
+
+- Raytheon Wins $19.3M Contract for Rolling Airframe Missile Support
+  https://thedefensepost.com/2026/01/27/us-raytheon-ram-support/
+  The US Navy has awarded Raytheon a $19.3-million contract modification to continue design agent and engineering support for the Rolling Airframe Missile program.
+  LinkedPageStatus: ok (https://thedefensepost.com/2026/01/27/us-raytheon-ram-support/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The US Navy has awarded Raytheon a $19.3-million contract modification to continue design agent and engineering support for the Rolling Airframe Missile (RAM) program, a key ship self‑defense weapon used by the US and allied navies. The award covers work through March 2028 and includes contributions from Japan, Qatar, South Korea, and Canada under the foreign military sales (FMS) framework. Funding is drawn from a mix of fiscal 2025 and 2026 navy and FMS budgets, while work will be performed primarily in Tucson, Arizona. The RAM is a lightweight, fire‑and‑forget surface‑to‑air missile designed to defend ships against anti‑ship cruise missiles, aircraft, and other close-in threats. It uses a combination of passive radio frequency and infrared guidance in its Block 2 configuration, allowing rapid reaction without external illumination. It is deployed on a broad range of platforms from amphibious assault ships to destroyers via the MK49 Guided Missile Launching System or the SeaRAM close‑in weapon system. Raytheon and the US Navy have continued to invest in RAM production and capability upgrades in recent years. In July 2025, Raytheon secured a roughly $74-million contract — the largest single order for RAM launching systems in more than two decades — to produce new
+
+- Breaking News: US Concludes Largest AIM-120 AMRAAM Contract to Date to ...
+  https://www.armyrecognition.com/news/army-news/2025/breaking-news-us-concludes-largest-aim-120-amraam-contract-to-date-to-reinforce-air-to-air-defense-posture
+  Amid rising global tensions and growing demand for advanced weapon systems, Raytheon , a division of RTX ( Raytheon Technologies Corp.), has secured the largest contract in the history of the AIM-120 AMRAAM (Advanced Medium Range Air-to-Air Missile) program. Awarded by the U.S. Department of Defense on July 31, 2025, the $3.5 billion agreement covers production lots 39 and 40 and represents a ...
+  LinkedPageStatus: ok (https://www.armyrecognition.com/news/army-news/2025/breaking-news-us-concludes-largest-aim-120-amraam-contract-to-date-to-reinforce-air-to-air-defense-posture)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The contract, structured as a firm fixed-price incentive agreement, does not specify the exact number of missiles to be delivered, although unit costs can exceed one million dollars depending on the variant. It includes production of AMRAAM missiles, telemetry systems, spare parts, and technical support. A substantial portion is allocated to Foreign Military Sales (FMS), benefiting 19 partner nations including the United Kingdom, Germany, Japan, Finland, Poland, Canada, Israel, Ukraine, Australia, Sweden, the Netherlands, and Taiwan. All manufacturing will take place in Tucson, Arizona, with completion expected by the third quarter of fiscal year 2031. Funding for the contract draws from a combination of budget allocations across multiple fiscal years: procurement accounts from the Navy and Air Force, research and development budgets, operations and maintenance funds, as well as FMS contributions, amounting to over $621 million obligated at contract award. The contract was issued through a non-competitive process. Management oversight is being handled by the Air Dominance Division of the Air Force Life Cycle Management Center, based at Eglin Air Force Base in Florida. This announcement follows a previous FMS contract awarded to Raytheon less than a year earlier, valued at $1.2 billion. In a statement, Sam Deneke, president of
+
+- Raytheon: RTX's Raytheon awarded $536 million US Navy contract for SPY ...
+  https://raytheon.mediaroom.com/2025-06-03-RTXs-Raytheon-awarded-536-million-US-Navy-contract-for-SPY-6-family-of-radars
+  Contract provides continued integration and test support for the U.S. Navy's most advanced maritime radar ANDOVER, Mass., June 3, 2025 / PRNewswire / -- Raytheon , an RTX (NYSE: RTX) business, has been awarded a $536 million contract from the U.S. Navy for the SPY-6 family of radars. The contract is a follow-on to the previously awarded Integration and Production Support contract and includes ...
+  LinkedPageStatus: ok (https://raytheon.mediaroom.com/2025-06-03-RTXs-Raytheon-awarded-536-million-US-Navy-contract-for-SPY-6-family-of-radars)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Contract provides continued integration and test support for the U.S. Navy's most advanced maritime radar ANDOVER, Mass. , June 3, 2025 / PRNewswire / -- Raytheon, an RTX (NYSE: RTX) business, has been awarded a $536 million contract from the U.S. Navy for the SPY-6 family of radars . The contract is a follow-on to the previously awarded Integration and Production Support contract and includes upgrading Flight IIA destroyers with the SPY-6(V)4 variant. Under the sole source award, Raytheon will provide continued support for the SPY-6 family of radars through training, engineering services, ship installation, integration and testing, as well as software upgrades to enhance radar capabilities. "SPY-6 is the most advanced radar in the U.S. naval fleet, providing ships a new level of defense against evolving threats," said Barbara Borgonovi , president of Naval Power at Raytheon. "This contract highlights the essential role of this technology in supporting the U.S. Navy's technology roadmap for several decades to come." SPY-6 is now installed on two new U.S. Navy ships, with three additional ships slated for installation and undergoing various stages of testing in 2025. Over the next decade, SPY-6 is expected to be deployed on more than 60 U.S. Navy
+
+- Raytheon secures U.S. contract to establish domestic thin film lithium ...
+  https://defence-industry.eu/raytheon-secures-u-s-contract-to-establish-domestic-thin-film-lithium-niobate-wafer-production-papability/
+  Raytheon has been awarded a contract by the Air Force Research Laboratory to develop a domestic production capability for thin film lithium niobate wafers, a material critical to high-speed secure communications and advanced sensing systems.
+  LinkedPageStatus: error: HTTPSConnectionPool(host='defence-industry.eu', port=443): Read timed out. (read timeout=15)
+  LinkedPageSummaryWords: 0
+
+- RTX Corporation's (RTX) Raytheon Wins New Contracts
+  https://finance.yahoo.com/news/rtx-corporation-rtx-raytheon-wins-164207376.html
+  On December 23, RTX Corporation (NYSE:RTX) announced that its Raytheon has been awarded a new contract from Spain to supply four Patriot air and missile defense systems.
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_887f2284-a9d5-466b-b9b4-3dcfafc8c80b)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Pentagon awards Raytheon largest AMRAAM contract
+  https://defence-blog.com/pentagon-awards-raytheon-largest-amraam-contract/
+  On September 11, the U.S. Department of Defense (DoD) awarded Raytheon a $1.19 billion contract for the production of the Advanced Medium-Range Air-to-Air Missile (AMRAAM), marking the largest AMRAAM contract to date. This award , known as Lot 38, follows a similar $1.15 billion contract from just 15 months earlier, underscoring the missile's critical role in modern air defense systems. Paul ...
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://defence-blog.com/pentagon-awards-raytheon-largest-amraam-contract/
+  LinkedPageSummaryWords: 0
+
+

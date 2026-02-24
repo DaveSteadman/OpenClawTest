@@ -1,0 +1,67 @@
+Domain: GeneralNews
+Query: latest India news headlines
+Timestamp: 2026-02-24T21:48:42
+PerPageSummaryWords: 200
+- India News | Today's latest updates and breaking news from India, Live ...
+  https://www.ndtv.com/india
+  Get the latest updates and breaking news from India , including politics, elections, government, business, technology, and Bollywood.
+  LinkedPageStatus: ok (https://www.ndtv.com/india)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A neighbourhood cricket game turned deadly in west Delhi's Tilak Nagar after a 15-year-old boy allegedly had his neck broken in a violent confrontation with three juveniles, police said on Tuesday. A car carrying a lawyer who is part of gangster Lawrence Bishnoi's legal team, was shot at in Delhi on Tuesday. Besides the lawyer, there were four others in the car, which wastargetted near the Delhi's Kashmere Gate inter-state bus stand. Commerce and Industry Minister Piyush Goyal on Tuesday said "as soon as" there is more clarity in the situation at the tariffs front in the US, India will resume trade talks. The government on Tuesday blocked five OTT platforms for streaming obscene content, officials said. The Uttarakhand High Court has quashed proceedings in a POCSO case against a man, noting that the accused and the victim are now legally married, have a child and that the woman wants to live with him. One person died, and another was injured after a speeding car lost control and rammed a bystander in Uttar Pradesh's Basti. The incident was captured on camera and witnessed by the victim's family, who were present at the scene. A 65-year-old tourist from Bhopal died after
+
+- News, Today's News Headlines, Breaking News and Live News from India ...
+  https://timesofindia.indiatimes.com/home/headlines
+  Headlines today: Get news headlines from India and around the world. Today's breaking news on politics, sports, entertainment, business, life style and many more on Times of India
+  LinkedPageStatus: ok (https://timesofindia.indiatimes.com/home/headlines)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  News Headlines IBM's rout, 'ghost' GDP: Why AI doom loop may be just a 'scary bedtime story' 24 Feb 2026, 1956 hrs IST Donald Trump to address Congress joint session amid SCOTUS tariff ruling and Iran tensions Tamil Nadu has an election coming — and problems that don't 'fit' election talk Defence, trade & Hexagon alliance: What to expect during PM Modi's high-stakes Israel visit Shootout in Delhi: Unidentified men fire at Lawrence Bishnoi's legal team 'For streaming obscene content': Govt blocks five OTT platforms; action under IT Rules 2021 Have lifestyle loans trapped you? Here’s what you can do to get out 24 Feb 2026, 1859 hrs IST After IBM's worst day on stock market, IBM VP: AI tools emerge, what they don’t change is ... Su-57 or F-35? Why India may opt for Russia's 5th gen fighter 4 dead, 11 injured after speeding bus hits two vehicles on NH-31 in Bihar’s Bhagalpur Iran's war calculus: Why Khamenei is betting on Trump for his regime's survival What made judge angry with executives who accompanied Zuckerberg for social media trial Brook dents Pakistan’s hopes for semis; England cement last-four berth Tendulkar becomes global champion for road safety cause PM chairs
+
+- India News, Latest Breaking News Headlines from India, Live News Updates
+  https://www.indiatoday.in/india
+  India News Today: Read latest and breaking news headlines from India . Top India News , Current headlines , videos, photos and live india news updates at India Today
+  LinkedPageStatus: ok (https://www.indiatoday.in/india)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  On Tuesday, Chief Minister Devendra Fadnavis, who also holds the finance portfolio, introduced supplementary budget demands worth Rs 11,995.33 crore in the state assembly. The latest proposal is significantly smaller than previous demands, as the state government attempts to contain a widening revenue deficit that has already neared Rs 2 lakh crore. Despite his professional success, friends say, Vivek remained closely attached to his village. His childhood friend, Uday Narayan, said Vivek would return home whenever time allowed and was always eager to spend moments with old friends. The complainant, a BJP worker, has alleged that Rahul Gandhi referred to PM Modi as 'commander-in-thief' while addressing a public rally in Rajasthan in September 2018. A 15-year-old Class 9 student died after a Mahindra Thar plunged into a 100-foot-deep cliff during an alleged stunt attempt in Faridabad, Haryana. Speaking in the Assembly, the Deputy Chief Minister said the investigation determined that the ghee supplied to the Tirumala Tirupati Devasthanams was manufactured using palm oil and chemicals rather than milk. An RTI response accessed by India Today has revealed nearly 40% vacancies in key safety wings of the Directorate General of Civil Aviation, raising concerns over regulatory oversight. The recent Learjet crash
+
+- India News, Latest India News, Today's Breaking News Headlines from ...
+  https://indianexpress.com/section/india/
+  India News , Latest India News : Read Live Breaking News from India along with Latest News and Today's Top Headlines Online in Bharat. Stay Up-to-date with Top news in India , current headlines , photos & videos online, live coverage on entertainment, business, politics, sports, technology and more at indianexpress.com.
+  LinkedPageStatus: ok (https://indianexpress.com/section/india/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  India tops road accident fatalities: A total of 1.77 lakh people died in road accidents in 2024, an increase of 2.31% from 2023 The complainant, a 21-year-old third-year BA student Hari Ayyappan, stated that the incident took place on February 23 at around 1.25 pm near the Abhimanch Auditorium. At the Kisan Mahachaupal, Leader of Opposition in Lok Sabha Rahul Gandhi claimed ‘pressure’ linked to unreleased convicted sex offender Jeffrey Epstein files and a criminal case in the US allegedly involving the Adani Group forced the prime minister to rush through the India–US trade agreement without Cabinet approval. South Bengal, Chhattisgarh, MP, Maharashtra had negligible elephants till herds from Jharkhand, Odisha moved in around the 1980s, forced by natural as well as manmade triggers As per the EC’s standing instructions, police constables and home guards should be deployed outside the districts they are working in or if that is not possible, then outside the jurisdiction of the police station they are posted at. The decision to extend the existing Katra–Srinagar railway line up to Jammu, according to railway officials, has been taken keeping in mind the increasing demand and convenience of passengers. Addressing the conference, Chief Election Commissioner Gyanesh Kumar
+
+- Google News - India - Latest
+  https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE?hl=en-IN&ceid=IN%3Aen
+  Read full articles, watch videos, browse thousands of titles and more on the 'India' topic with Google News .
+  LinkedPageStatus: ok (https://consent.google.com/ml?continue=https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE?hl%3Den-IN%26ceid%3DIN:en&gl=GB&hl=en-IN&cm=2&pc=n&src=1&escs=AZ8E49AXVSrc0rLgnFMpg3ll1sBU0P8S7y9FpH9WJgzVL-B_q1-xJua1GRhno2Sx546VHe_eDmIv-GIOpCy1zqsLrAIauTzy4BOb)
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  Select 'More options' to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+- India News | Today's Top Stories | Reuters
+  https://www.reuters.com/world/india/
+  Reuters.com is your online source for the latest India news stories and current events, ensuring our readers up to date with any breaking news developments
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/world/india/
+  LinkedPageSummaryWords: 0
+
+- Latest News Today, Top Headlines & Live Updates - News24
+  https://news24online.com/latest-news/
+  Stay informed with the latest news today. Get breaking news , live updates, and top headlines from India and around the world on News24
+  LinkedPageStatus: ok (https://news24online.com/latest-news/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Dublin | 12.77 °C | AQI 50 English हिन्दी E24 Isomes News24 Sports Tuesday, 24 February, 2026 Latest News Today, Top Headlines & Live Updates Sports ICC Women’s T20 World Cup 2026 Schedule announced, another India Vs Pakistan group clash confirmed, check details here Published on Feb 24, 2026 03:15 PM India MQ-9B drone to give sleepless nights to Pakistan, China, can fly over 30 hours, operate at altitudes above…, India has already… Published on Feb 24, 2026 03:04 PM India Calcutta High Court, 6 other courts in West Bengal receive bomb threat emails Published on Feb 24, 2026 02:45 PM Entertainment How much does it cost to get styled by Nita Ambani’s hairstylist? Her package ranges from Rs 15000 to… Published on Feb 24, 2026 02:41 PM India Noida daylight murder horror: CCTV captures bullets, screams, and panic among children as assailants shot dead young man on road Published on Feb 24, 2026 02:07 PM Entertainment ‘Cannot be loose tongued’: Karnataka HC slams Dhurandhar star Ranveer Singh over Kantara davia mimicry, court finds it… Published on Feb 24, 2026 02:02 PM India What is Pawan Hans? Helicopter crashes into Andaman Sea with 7 on board Published on Feb 24,
+
+- India | Latest News & Updates | BBC News
+  https://www.bbc.co.uk/news/world/asia/india
+  Get all the latest news , live updates and content about India from across the BBC.
+  LinkedPageStatus: ok (https://www.bbc.co.uk/news/world/asia/india)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Features Watch Latest Updates 08:04 GMT India cuts dividend tax for large French investors , published at 08:04 GMT India cuts dividend tax for large French investors Attribution World 23:00 GMT 23 February 'We pray for peace': Indian filmmaker from troubled state who won a Bafta , published at 23:00 GMT 23 February 'We pray for peace': Indian filmmaker from troubled state who won a Bafta Attribution Asia 11:25 GMT 23 February The taekwondo teacher tasked with healing India's troubled state , published at 11:25 GMT 23 February The taekwondo teacher tasked with healing India's troubled state Attribution Asia 08:20 GMT 23 February India and US defer trade talks after Supreme Court's tariff ruling , published at 08:20 GMT 23 February India and US defer trade talks after Supreme Court's tariff ruling Attribution Asia 06:19 GMT 23 February 'Biggest challenge' for travel boss on tuk-tuk trek , published at 06:19 GMT 23 February 'Biggest challenge' for travel boss on tuk-tuk trek Attribution Dorset 00:40 GMT 23 February How budget fast fashion is taking small-town India by storm , published at 00:40 GMT 23 February How budget fast fashion is taking small-town India by storm Attribution Asia 00:30 GMT 22 February
+
+

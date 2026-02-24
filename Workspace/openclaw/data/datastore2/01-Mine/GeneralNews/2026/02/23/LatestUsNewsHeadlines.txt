@@ -1,0 +1,67 @@
+Domain: GeneralNews
+Query: latest US news headlines
+Timestamp: 2026-02-23T23:27:18
+PerPageSummaryWords: 200
+- Breaking News, Latest News and Videos | CNN
+  https://www.cnn.com/
+  View the latest news and breaking news today for U.S ., world, weather, entertainment, politics and health at CNN.com.
+  LinkedPageStatus: ok (https://edition.cnn.com/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  US snowstorm Peter Mandelson arrested Zelensky pleads to Trump An American in Paris Ultra-rare white whale photo Afro-Appalachia Video 2026 BAFTAs fashion 0:49 • Breaking News Breaking News David Dee Delgado/Getty Images for The New York Times Breaking News Peter Attia resigns from CBS News following Epstein backlash Deepak Chopra had close relationship with Epstein, told him to bring ‘your girls’ on trips, messages show Video Activists hang photo of former Prince Andrew in Louvre 0:30 • Live Updates Live Updates Win McNamee/Getty Images Live Updates Trump threatens higher tariffs on countries that ‘play games’ Analysis Trump vows to avenge the most damaging loss of second term Vacationers urged to shelter in place after Mexican unrest Show all • Live Updates Live Updates skyprojectsmx and paco villaneuva/reuters Live Updates US sets up crisis hotline for citizens impacted after the killing of Mexico’s most-wanted drug lord Analysis Will ‘El Mencho’s’ killing set off turf wars and narco-terrorism in Mexico? Video What happens next after a top Mexican cartel boss was killed? 1:49 Video ‘Terrifying’: Tourist describes chaos in Mexico 1:17 Who was ‘El Mencho,’ the feared cartel leader killed in a military operation? Catch up on today's global news • Source:
+
+- BBC News - Breaking news, video and the latest top stories from the U.S ...
+  https://www.bbc.com/news
+  Visit BBC News for the latest news , breaking news , video, audio and analysis. BBC News provides trusted World, U.S . and U.K. news as well as local and regional perspectives. Also entertainment ...
+  LinkedPageStatus: ok (https://www.bbc.com/news)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A wave of violence has erupted across Mexico since a powerful drug cartel boss died following his capture by special forces. Violence has erupted across several states in Mexico after cartel leader El Mencho was killed on Sunday. A major snowstorm walloped the US north-east, causing disruptions for millions and thousands of flight cancellations. Steve Rosenberg reports on the economic consequences of Russia's war, and how people are coping. The Metropolitan Police says a 72-year-old man has been taken to a London police station for interview following the arrest in Camden. Sergiy Kyslytsya is among those trying to negotiate an end to the conflict, which is entering its fifth year. Nick Reiner, 32, appeared in a Los Angeles courtroom on Monday, after his parents were found dead in their Brentwood home in December. Camilla praised the French rape survivor over tea at her Clarence House residence in London. A fresh wave of anti-government protests at several Iranian universities that began on Saturday has spread to more campuses. Boong director Lakshmipriya Devi called attention to the situation in Manipur state in her acceptance speech. The event occurs only in February, when the setting sun hits Horsetail Fall in Yosemite National Park
+
+- Latest U.S. News | Top headlines from the USA | Reuters
+  https://www.reuters.com/world/us/
+  Reuters.com is your online source for the latest US news stories and current events, ensuring our readers up to date with any breaking news developments
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/world/us/
+  LinkedPageSummaryWords: 0
+
+- US News - The latest headlines from the US | Sky News
+  https://news.sky.com/us
+  The latest news , video and expert analysis from around the United States of America.
+  LinkedPageStatus: ok (https://news.sky.com/us)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  US Content Homepage Rob Reiner's son pleads not guilty to murder of his parents 4 hrs ago 4 hours ago US Explainer Explainer Explainer Explainer 'Staring down the barrel at higher costs': UK businesses face uncertain future over US tariffs 2 hrs ago 2 hours ago Money Armed man shot and killed after entering perimeter of Trump's residence Yesterday Yesterday US Video, 1 minute 30 seconds Video 1:30 What happened at Trump's Mar-a-Lago resort? 18 hrs ago 18 hours ago Six states declare emergency as 'bomb cyclone' paralyses New York 4 hrs ago 4 hours ago US Live Stream Live Watch live: 'Historic' winter storm hits northeastern US 10 hrs ago 10 hours ago Greenland PM responds to Trump's US hospital boat offer 16 hrs ago 16 hours ago US Sky News Explains YouTube series relaunches - How Trump reinvented ICE Yesterday Yesterday World Video, 0 minutes 26 seconds Video 0:26 Watch: World's biggest warship heads towards Iran Yesterday Yesterday World Analysis Analysis Analysis Analysis Trump bumps up global tariffs - creating more mess and uncertainty for the world Yesterday Yesterday US Video, 2 minutes 17 seconds Video 2:17 'Face like thunder' as Mandelson led away Video, 2 minutes 7
+
+- U.S. News: Latest news, breaking news, today's news stories updated ...
+  https://www.cbsnews.com/us/
+  U.S . breaking news : Today's top stories updated by the CBS News team.
+  LinkedPageStatus: ok (https://www.cbsnews.com/us/)
+  LinkedPageSummaryWords: 90
+  LinkedPageSummary:
+  A comment made by California Gov. Gavin Newsom at his book tour is being slammed by critics as racially insensitive. He told the mayor of Atlanta, Andre Dickens, and a crowd at the event, "I'm like you. I'm no better than you. You know, I'm a 960 SAT guy. And, you know, and I'm not trying to offend anyone, you know, trying to act all there, if you've got 940." Coleman Hughes, a columnist for the Free Press, joins CBS News to discuss. The Free Press is a Paramount publication.
+
+- NBC News - Breaking Headlines and Video Reports on World, U.S. and ...
+  https://www.nbcnews.com/
+  Go to NBCNews.com for breaking news , videos, and the latest top stories in world news , business, politics, health and pop culture.
+  LinkedPageStatus: ok (https://www.nbcnews.com/)
+  LinkedPageSummaryWords: 52
+  LinkedPageSummary:
+  The National Guard has been deployed in Massachusetts for storm recovery assistance. The rough surf along Long Branch, New Jersey, did not deter resident Dean Boyd. The National Guard has been deployed in Massachusetts for storm recovery assistance. The rough surf along Long Branch, New Jersey, did not deter resident Dean Boyd.
+
+- Google News - U.S. - Latest
+  https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE?hl=en-US&ceid=US:en
+  Get breaking news and updates on U.S . politics, economy, security, and culture from Google News .
+  LinkedPageStatus: ok (https://consent.google.com/ml?continue=https://news.google.com/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE?hl%3Den-US%26ceid%3DUS:en&gl=GB&hl=en-US&cm=2&pc=n&src=1&escs=AZ8E49Ayg3LlUAv8Gfs8jJdQZozO2dDsNdCXHD8KH7_5iRtP3oUFjgnm0RzGy0e45ls-UsfnswghSNzGz_wcQfCMq8HKVtMXFJ4O)
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  Select “More options” to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+- USA News | Latest US News - NewsNow
+  https://www.newsnow.co.uk/h/World+News/US
+  About our USA News Latest news on USA, providing comprehensive coverage of politics, economy, foreign policy and cultural developments across the United States of America. The United States, home to over 335 million people across 50 states, remains one of the world's most influential nations.
+  LinkedPageStatus: ok (https://www.newsnow.co.uk/h/World+News/US)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest news on USA, providing comprehensive coverage of politics, economy, foreign policy and cultural developments across the United States of America. The United States, home to over 335 million people across 50 states, remains one of the world's most influential nations. As the world's largest economy with a GDP exceeding $30 trillion, America's political landscape, technological innovations, and cultural exports continue to shape global affairs. From Washington D.C. to Silicon Valley, the country's diverse regions contribute to its complex national identity. Recent developments in American politics show a nation navigating the early days of President Trump's second administration. His new cabinet, featuring figures like Marco Rubio as Secretary of State and Robert F. Kennedy Jr. as Secretary of Health and Human Services, signals potential shifts in policy direction. Economic indicators suggest ongoing recovery amid inflation concerns, while international relations evolve through strategic competition with China and renewed approaches to traditional alliances. The technology sector continues its rapid transformation with artificial intelligence advancements raising both excitement and regulatory questions. Across America, communities are addressing social issues through grassroots initiatives and local governance. From New York's urban revitalisation projects to rural community support programmes in the Midwest, citizens are actively shaping their
+
+

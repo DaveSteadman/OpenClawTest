@@ -1,0 +1,65 @@
+Domain: Thales
+Query: Thales latest defence contract awards
+Timestamp: 2026-02-23T23:44:28
+PerPageSummaryWords: 200
+- Thales wins £1.8 Billion contract to 'maximise the days-at-sea for the ...
+  https://www.thalesgroup.com/en/news-centre/press-releases/thales-wins-ps18-billion-contract-maximise-days-sea-royal-navy
+  The UK Ministry of Defence has today announced a new £1.8 Billion, 15 years contract with Thales to improve Royal Navy (RN) ship availability and resilience. The new contract is in response to the increasing need for Royal Navy platforms to be on active duty for longer periods because of increasing global instability.
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- DE&S contract award enhances Royal Navy fleet communications and boosts ...
+  https://des.mod.uk/des-contract-award-enhances-royal-navy-fleet-communications-and-boosts-jobs/
+  More than 100 high-skilled jobs will be secured in the UK thanks to a new £250 million contract awarded by us to Thales UK to upgrade the communications systems of the Royal Navy's warship and submarine fleet.
+  LinkedPageStatus: ok (https://des.mod.uk/des-contract-award-enhances-royal-navy-fleet-communications-and-boosts-jobs/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  More than 100 high-skilled jobs will be secured in the UK thanks to a new £250 million contract awarded by us to Thales UK to upgrade the communications systems of the Royal Navy’s warship and submarine fleet. Jobs at Thales sites in Portsmouth, Plymouth, Crawley, Reading and Bristol will be supported after the company was awarded the largest-ever contract for the provision of naval communication capabilities. This large-scale investment helps to support the objectives of the upcoming Defence Industrial Strategy – to drive investment to UK-based businesses and boost defence jobs in every nation and region of the country. The 10-year long contract for Maritime Communications Capability Support (MCCS), awarded by Defence Equipment & Support, will upgrade the Royal Navy’s internal and external fleet communications, strengthening the UK’s continuous at sea deterrent and supporting global operations. Contracts like this one are a key part of the UK Government’s Plan for Change, safeguarding national security whilst raising living standards across the UK with good, skilled, productive jobs. It is estimated the new contract will also save the Royal Navy up to £30 million in costs over the next decade. Minister for Defence Procurement and Industry, Maria Eagle MP, announced the contract
+
+- Thales UK awarded major contract to maintain Royal Navy's fleet ...
+  https://www.navalnews.com/naval-news/2025/02/thales-uk-awarded-major-contract-to-maintain-royal-navys-fleet-communications/
+  Defence Equipment & Support (DE&S) has awarded Thales UK a major contract to maintain the Royal Navy's internal and external fleet communications and provide global 24/7 support operations for the next 10 years.
+  LinkedPageStatus: ok (https://www.navalnews.com/naval-news/2025/02/thales-uk-awarded-major-contract-to-maintain-royal-navys-fleet-communications/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Defence Equipment & Support (DE&S) has awarded Thales UK a major contract to maintain the Royal Navy’s internal and external fleet communications and provide global 24/7 support operations for the next 10 years. This investment is one of the largest in naval communications across Europe. The announcement for Maritime Communications Capability Support (MCCS) secures around 100 high skilled UK jobs sustained. The Royal Navy’s fleet communications systems are being maintained to support combat capability after one of the largest investment in naval communications across Europe. The announcement for Maritime Communications Capability Support (MCCS) secures around 100 high skilled jobs at Thales and the new arrangements are estimated to save the Royal Navy up to £30m in through life costs over the next decade. Communications systems on Royal Navy Units are a critical component of a platform’s ability to operate and fight; any failure or degradation of these systems places significant risk on the Royal Navy’s ability to fulfil Defence Outcomes. To meet and sustain global Royal Navy operational commitments requires resilient and enduring support contracts to maintain mission critical equipment at the highest levels of operational capability and availability. The MCCS arrangement replaces the previous Fleetwide Communications contract which Thales
+
+- British warships to get Â£250m upgrades - UK Defence Journal
+  https://ukdefencejournal.org.uk/british-warships-to-get-250m-upgrades/
+  The new MCCS contract replaces the previous Fleetwide Communications contract , which Thales UK has managed for seven years. It introduces waterfront office services, improved maintenance, inventory management, and faster equipment recovery to enhance fleet readiness.
+  LinkedPageStatus: ok (https://ukdefencejournal.org.uk/british-warships-to-get-250m-upgrades/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The 10-year contract for Maritime Communications Capability Support (MCCS), awarded by Defence Equipment & Support (DE&S), will modernise both internal and external communications across the Royal Navy's warships and submarines. Work will be carried out by Thales UK, with jobs supported at its sites in Portsmouth, Plymouth, Crawley, Reading, and Bristol. This deal represents the largest-ever contract for naval communications capability provision and aligns with the UK Government's Defence Industrial Strategy, which aims to strengthen British industry and safeguard national security. According to Defence Procurement Minister Maria Eagle, the investment is essential for maintaining the UK's continuous at-sea deterrent and bolstering global operations. âThis new contract is a vital step in ensuring our forces remain secure at home and strong abroad. By enhancing the capabilities of our naval operations, we are reinforcing the UK's ability to respond to threats wherever they arise.â The project is also claimed to save the Royal Navy up to £30 million in costs over the next decade. The new MCCS contract replaces the previous Fleetwide Communications contract, which Thales UK has managed for seven years. It introduces waterfront office services, improved maintenance, inventory management, and faster equipment recovery to enhance fleet readiness. A key focus
+
+- Thales UK Royal Navy MCCS Contract Award | Joint Forces News
+  https://www.joint-forces.com/uk-news/79956-thales-uk-royal-navy-mccs-contract-award
+  Thales in the UK is to maintain Royal Navy ships and submarines communications under the new 10-year MCCS contract award . ~ Press Release, Reading, 12 February 2025: The Royal Navy's fleet communications systems are being maintained to support combat capability after one of the largest investment in naval communications across Europe.
+  LinkedPageStatus: ok (https://www.joint-forces.com/uk-news/79956-thales-uk-royal-navy-mccs-contract-award)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Press Release, Reading, 12 February 2025 : The Royal Navy’s fleet communications systems are being maintained to support combat capability after one of the largest investment in naval communications across Europe. The announcement for Maritime Communications Capability Support (MCCS) secures around 100 high skilled jobs at Thales and the new arrangements are estimated to save the Royal Navy up to £30m in through life costs over the next decade. Communications systems on Royal Navy Units are a critical component of a platform’s ability to operate and fight; any failure or degradation of these systems places significant risk on the Royal Navy’s ability to fulfil Defence Outcomes. To meet and sustain global Royal Navy operational commitments requires resilient and enduring support contracts to maintain mission critical equipment at the highest levels of operational capability and availability. The MCCS arrangement replaces the previous Fleetwide Communications contract which Thales in the UK has overseen for the past seven years. Thales in the UK will also provide ‘waterfront’ office services, obsolescence recovery for ageing equipment and inventory management, ensuring spare part availability and ongoing defect repairs as required. A key element to the contract is the slashing of red tape through closer collaboration between
+
+- Thales locks in 10-year deal to keep Royal Navy's communication systems ...
+  https://www.navaltoday.com/2025/02/12/thales-locks-in-10-year-deal-to-keep-royal-navys-communication-systems-up-and-running/
+  Defense Equipment & Support (DE&S) has awarded Thales UK a contract to maintain the Royal Navy's internal and external fleet communications and provide global support for the next ten years.
+  LinkedPageStatus: ok (https://www.navaltoday.com/2025/02/12/thales-locks-in-10-year-deal-to-keep-royal-navys-communication-systems-up-and-running/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Defense Equipment & Support (DE&S) has awarded Thales UK a major contract to maintain the Royal Navy’s internal and external fleet communications and provide global support for the next ten years. The Royal Navy’s fleet communications systems are being maintained to support combat capability. They are a critical component of a platform’s ability to operate and fight; any failure or degradation of these systems places ‘a significant risk’ on the Royal Navy’s ability to fulfill defense outcomes. According to Thales, the Maritime Communications Capability Support (MCCS) replaces the previous Fleetwide Communications contract, which Thales UK has overseen for the past seven years. The company will also provide ‘waterfront’ office services, obsolescence recovery for aging equipment, and inventory management, ensuring spare part availability and ongoing defect repairs as required. “… we have looked at outcomes from other successful defence programmes and applied the lessons learned from those, in particular cutting unnecessary red tape and bureaucracy allowing Thales much more freedom to get the job done ,” Commodore Phil Game , Director of Sense, Decide & Communicate at DE&S, said. “We estimate that the scope of this contract will save between £25m and £30m in through life costs to the Royal Navy
+
+- Thales wins contract to upgrade Royal Navy fleet comms
+  https://www.naval-technology.com/news/thales-upgrade-royal-navy-fleet-communications/
+  UK Defence Equipment & Support (DE&S) has contracted Thales to maintain and enhance the Royal Navy warship and submarine fleet's communications systems. The ten-year contract , valued at £250m ($312.20m), is known as the Maritime Communications Capability Support (MCCS).
+  LinkedPageStatus: ok (https://www.naval-technology.com/news/thales-upgrade-royal-navy-fleet-communications/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  UK Defence Equipment & Support (DE&S) has contracted Thales to maintain and enhance the Royal Navy warship and submarine fleet’s communications systems. The ten-year contract, valued at £250m ($312.20m), is known as the Maritime Communications Capability Support (MCCS). Combine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. It will see internal and external fleet communications upgrades and provide global 24/7 support operations aboard the Royal Navy’s warships and submarines. The MCCS agreement supersedes the previous seven-year Fleetwide Communications contract managed by Thales UK. This is expected to save up to £30m in lifecycle costs while securing around 100 jobs across various Thales UK locations in Portsmouth, Plymouth, Crawley, Reading, and Bristol. This aligns with the forthcoming Defence Industrial Strategy, which aims to drive investment into UK businesses and bolster defence employment across the country. Don’t let policy changes catch you off guard. Stay proactive with real-time data and expert analysis. DE&S Sense Decide & Communicate director Phil Game said: “First and foremost, this announcement ensures the Royal Navy continues to have effective and secure communications equipment with continuous support from Thales, which has Europe’s largest team of marine communications engineers, supporting its vital work
+
+- Thales wins GBP 1.8 billion contract to improve Royal Navy ship ...
+  https://defence-industry.eu/thales-wins-gbp-1-8-billion-contract-to-improve-royal-navy-ship-availability-and-resilience/
+  The UK Ministry of Defence has today announced a new £1.8 Billion, 15 years contract with Thales to improve Royal Navy (RN) ship availability and resilience.
+  LinkedPageStatus: error: HTTPSConnectionPool(host='defence-industry.eu', port=443): Read timed out. (read timeout=15)
+  LinkedPageSummaryWords: 0
+
+

@@ -1,0 +1,46 @@
+Domain: Raytheon
+StartURL: https://www.rtx.com/news
+Timestamp: 2026-02-23T23:41:01
+PerPageSummaryWords: 220
+StartPageSummaryWords: 32
+StartPageSummary:
+Sorry, we did not find any results. Please try filtering again — or use the search function at the top of the page for a more refined search of our site archives.
+
+- Link 1
+  AnchorText: Media Resources
+  URL: https://www.rtx.com/news/media-resources
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 59
+  LinkedPageSummary:
+  Media Resources | RTX For media requests, please contact: Email: [email protected] Media hotline: 202-455-4056 RTX Our News Christopher Calio biography Christopher Calio image Our Businesses Collins Aerospace Troy Brunk biography and image Images Pratt & Whitney Shane Eddy biography and image Images Raytheon Phil Jasper biography and image Images Investor Information Investor relations Webcasts SEC filings Analyst list
+
+- Link 2
+  URL: https://www.rtx.com/news/news-center/2026/02/20/u-s-navy-approves-raytheons-stormbreaker-smart-weapon-for-use-on-super-hornet
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  TUCSON, Ariz., Feb. 20, 2026 /PRNewswire/ -- The U.S. Navy has approved Raytheon's StormBreaker® smart weapon for operational use on the F/A-18-E/F Super Hornet strike fighter. Raytheon is an RTX (NYSE: RTX) business. StormBreaker is the only operational smart weapon that can engage moving and stationary targets in both fair and adverse weather conditions, at land or at sea. Its compact size allows a single aircraft to engage more surface targets than previously possible. The weapon can also fly to strike mobile targets, reducing the amount of time that aircrews spend in harm's way. "The Super Hornet plays a critical role in the Navy's air combat strategy and equipping it with StormBreaker increases the aircraft's lethality by enabling precision strike in all weather conditions," said Sam Deneke , president of Air & Space Defense Systems at Raytheon. "StormBreaker's accuracy and versatility gives operators the upper hand in the most degraded environments, ensuring they can complete the mission and return home safely." In 2023, the Super Hornet became the first U.S. Navy aircraft to carry StormBreaker . It has had exceptional performance in combat on the aircraft. StormBreaker is approved for use on the F-15E and the F/A-18-E/F Super Hornet, and is currently being integrated on the F-35A/B/C. About Raytheon Raytheon, an RTX business, is a leading provider of defense solutions
+
+- Link 3
+  URL: https://www.rtx.com/news/news-center/2026/02/20/rtxs-collins-aerospace-autonomy-solution-sidekick-flies-ga-asis-yfq-42a-cca-p
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  CEDAR RAPIDS, Iowa, Feb. 20, 2026 /PRNewswire/ -- Collins Aerospace, an RTX (NYSE: RTX) business, showcased its Sidekick mission autonomy software in a successful test flight of a YFQ-42A, an uncrewed jet developed by General Atomics Aeronautical Systems, Inc. for the U.S. Air Force's Collaborative Combat Aircraft (CCA) program. The flight test paired uncrewed aircraft with crewed fighter jets to enhance sensor range, increase weapon effectiveness, and improve overall mission success. During the flight test, autonomy mode was engaged to enable a four-hour autonomous flight managed by a human operator on the ground. The successful test showcased seamless integration between Collins' autonomy software and the YFQ-42A's mission systems, ensuring precise piloting commands. This marks a significant step forward in support of the U.S. Air Force's efforts to advance its CCA program. "The rapid integration of Sidekick onto this platform to perform various combat-relevant tasks highlight the strength and adaptability of Collins' open systems approach," said Ryan Bunge , vice president and general manager for Strategic Defense Solutions, Collins Aerospace. "The autonomy capabilities showcased in this flight highlight nearly a decade of dedicated investment and close collaboration with our customers to advance collaborative mission autonomy." Collins' collaborative mission autonomy solution, called Sidekick, enables open systems collaboration between human teams and autonomous platforms. Designed for combat-related air operations, the software is intuitive,
+
+- Link 4
+  URL: https://www.rtx.com/news/2026/02/18/fast-tracking-the-fighter-jet-engine-of-the-future
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  The digital collaborative workspace is just one way the team is working differently. They’ve also realized time savings by bringing testing and validation earlier in the design process instead of adding test instrumentation after the engine has been designed. Another key component of the program is its use of model-based systems, or 3D digital models that contain all the relevant program details and data. This will simplify reporting because years of test data will be neatly stored and easily accessible in the model and make it easier for onboarding teammates mid-project. “Our current engine is over 2,000 pieces of instrumentation sensors – all with their own little story that goes along with them and why they’re needed. In the past, you’d have somebody at the center of all of that who has lived it,” Seipt said. “Now, even if a new person comes onto the program that hasn’t lived the last four or five years of history with that particular test asset, they can jump right in and have those impact analyses available immediately.” Model-based systems will help streamline the supply chain as well. Industry studies show the time between order receipt and delivery could be cut in half when using model-based technologies. “There’s a lot of manual handoff of information. Model-based definition for manufacturing and inspection really focuses on
+
+- Link 5
+  AnchorText: Investors
+  URL: https://investors.rtx.com/
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  RTX creates long-term shareowner value by focusing on opportunities that drive profitable growth. We are continuously improving in all that we do.
+
+

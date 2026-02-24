@@ -1,0 +1,73 @@
+Domain: GeneralNews
+StartURL: https://www.bbc.com/news
+Timestamp: 2026-02-23T23:33:47
+PerPageSummaryWords: 220
+StartPageSummaryWords: 220
+StartPageSummary:
+A wave of violence has erupted across Mexico since a powerful drug cartel boss died following his capture by special forces. Violence has erupted across several states in Mexico after cartel leader El Mencho was killed on Sunday. A major snowstorm walloped the US north-east, causing disruptions for millions and thousands of flight cancellations. Steve Rosenberg reports on the economic consequences of Russia's war, and how people are coping. The Metropolitan Police says a 72-year-old man has been taken to a London police station for interview following the arrest in Camden. Sergiy Kyslytsya is among those trying to negotiate an end to the conflict, which is entering its fifth year. Nick Reiner, 32, appeared in a Los Angeles courtroom on Monday, after his parents were found dead in their Brentwood home in December. Camilla praised the French rape survivor over tea at her Clarence House residence in London. A fresh wave of anti-government protests at several Iranian universities that began on Saturday has spread to more campuses. Boong director Lakshmipriya Devi called attention to the situation in Manipur state in her acceptance speech. The event occurs only in February, when the setting sun hits Horsetail Fall in Yosemite National Park at just the right angle. This year's Bafta Film Awards had it all... A-listers, a touch of royalty, Paddington Bear
+
+- Link 1
+  AnchorText: Judge blocks release of Smith's report on Trump classified documents case
+  URL: https://www.bbc.com/news/articles/c1kgzelxjywo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  A US judge has permanently blocked the release of former Special Counsel Jack Smith's report on his probe into President Donald Trump's handling of classified documents at his Mar-a-Lago home. Judge Aileen Cannon, a Trump-appointee, granted a request from the president to keep the public from seeing the report, which detailed his alleged mishandling of sensitive files taken from the White House after his first term. Trump was charged in 2023 with illegally retaining classified defence information, but the case was dismissed after he was re-elected. The judge ruled that releasing the report would cause "irreparable damage" to Trump and "contravene basic notions of fairness and justice". Dozens of classified files were found in Trump's Mar-a-Lago home in Florida, including in a shower and storage room, after he left the White House in 2021. In 2024, Judge Cannon had granted the president's motion to dismiss the federal case on the grounds that the justice department's appointment of Smith as special counsel was unconstitutional and he therefore lacked authority to bring charges. Smith, who was appointed by former Attorney General Merrick Garland to investigate Trump, first appealed against that decision. But he later requested to dismiss the case in 2024 after Trump's re-election because the justice department is banned from prosecuting a sitting president. At the end of 2024, Smith gave
+
+- Link 2
+  AnchorText: BBC sorry for airing racial slur shouted by guest with Tourette's at Baftas
+  URL: https://www.bbc.com/news/articles/cz6edwg06n1o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  The BBC has apologised for not editing out a racial slur from its Bafta Film Awards coverage after a guest with Tourette's syndrome shouted out when two black actors were on stage. John Davidson, whose life story inspired the film I Swear, shouted the N-word as Sinners stars Michael B Jordan and Delroy Lindo presented the first prize of Sunday's ceremony. The moment was not edited out of the BBC One broadcast, which was shown on a two-hour delay, and remained on BBC iPlayer on Monday morning before the ceremony was removed. A BBC spokesperson said: "We apologise that this was not edited out prior to broadcast and it will now be removed from the version on BBC iPlayer." The shout was audible in the broadcast, although many viewers would have struggled to make out the word. Conservative Party leader Kemi Badenoch said the BBC had made "a horrible mistake" by not editing it out at the time, adding: "I think an apology is important, they need to explain why it wasn't bleeped out." In its statement, the BBC said: "Some viewers may have heard strong and offensive language during the Bafta Film Awards. "This arose from involuntary verbal tics associated with Tourette syndrome, and as explained during the ceremony it was not intentional." The corporation declined to comment further
+
+- Link 3
+  AnchorText: US partially evacuates Beirut embassy amid rising Iran tensions
+  URL: https://www.bbc.com/news/articles/cj32l00k47lo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  The US government has ordered all non-essential staff to leave its embassy in the Lebanese capital of Beirut after a security review, a senior State Department official has told the BBC. The decision comes as there are heightened tensions in the region, with US President Donald Trump threatening military action against Iran if it does not reach a deal over its nuclear programme. Iran has previously vowed to retaliate if attacked by the US, with American bases and facilities in the Middle East thought to be possible targets. Meanwhile, Secretary of State Marco Rubio has delayed a planned trip to Israel without announcing a reason. A senior State Department official said: "We continuously assess the security environment, and based on our latest review, we determined it prudent to reduce our footprint to essential personnel. "The embassy remains operational with core staff in place. This is a temporary measure intended to ensure the safety of our personnel while maintaining our ability to operate and assist US citizens." About 50 members of US embassy staff have been ordered to leave, with 32 staff members and their families flying out of Beirut airport on Monday, an airport official told Reuters news agency. A precise reason has not been given for the partial evacuation, but it comes after Trump said "bad things" would happen
+
+- Link 4
+  AnchorText: What's at stake as ICC judges hear charges against ex-Philippine president Duterte?
+  URL: https://www.bbc.com/news/articles/c363xd6p1gxo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  The International Criminal Court is holding a hearing to determine whether former Philippine president Rodrigo Duterte should stand trial for crimes against humanity committed during his bloody "war on drugs". The campaign, which Duterte waged as a city mayor and then throughout his six-year presidency, saw the extrajudicial killings of tens of thousands of alleged dealers, users and others, human rights groups say. ICC prosecutors allege he was involved in at least 76 murders and have charged him with three counts of crimes against humanity. Duterte, 80, drew international condemnation over the campaign, but was unfazed, at one point saying he'd be "happy to slaughter" millions of "drug addicts" who he said were destroying the country. "Duterte's so-called war on drugs resulted in the killings of thousands of civilians and many of these victims were children," prosecutor Mame Niang told the judges on Monday, calling for Duterte to be held to account. The proceedings were "a reminder that those in power are not above the law", he said. Duterte waived his right to be present in the courtroom, saying he does not recognise the ICC's authority. He maintains his innocence, his lawyer said. The hearing will be held over four days, after which ICC judges must decide if there is enough evidence to proceed to a full trial. Duterte was
+
+- Link 5
+  AnchorText: Fifteen killed after helicopter crashes during Peru flood rescue
+  URL: https://www.bbc.com/news/articles/c5yjpv28g5ko
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  Fifteen people have died after a military helicopter providing rescue services during severe flooding in south Peru crashed on Sunday. The Peruvian Air Force said the Mi-17 aircraft lost radio contact while operating in the Arequipa region, which has been hit by torrential rain and flash flooding. Rescue teams found the wreckage in the Chala district on Monday, officials said. Seven children were among the 11 passengers and four crew members who died. The helicopter had been deployed to support search and rescue efforts in the region as mudslides and overflowing rivers caused widespread damage. Local media reported that some of the armed forces personnel on board had relatives accompanying them. One of the victims was three years old. The Peruvian Air Force said: "Our deepest condolences to the family members, friends, and the entire FAP family for the irreparable loss of our crew and passengers." The aircraft had been travelling from the city of Pisco, in the Ica region, to Chala in Arequipa to carry out a support mission. It was found near Chala Viejo, a town close to the Pacific coast. An investigation has been launched into the incident, officials said. Torrential rain has caused intense flooding across Peru's Arequipa region causing mudslides, flooded streets and homes and trees to collapse. At least two people have died as
+
+- Link 6
+  AnchorText: 'Burned and destroyed': Locals and tourists describe Mexico unrest Violence has erupted across several states in Mexico after cartel leader El Mencho was killed on Sunday. 2 hrs ago Latin America
+  URL: https://www.bbc.com/news/articles/c4gqkg87293o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  Locals and tourists in Mexico have described the "heartbreaking" unrest after one of the most powerful and feared cartels in the country unleashed a wave of violence across several states. It comes after Nemesio Oseguera Cervantes, known as "El Mencho", Mexico's most wanted man and leader of the Jalisco New Generation (CJNG) drug cartel, was killed during a security operation to arrest him on Sunday. Footage recorded by locals and tourists showed burnt vehicles and plumes of smoke rising above several towns and cities, including the beach resort of Puerto Vallarta. Nashville-born Jerry Jones, who has lived in the town for more than four years, told BBC News he has "never experienced anything like this" and usually felt "safer here than in my hometown". Jones, the owner of LGBT+ lifestyle magazine Out and About Puerto Vallarta, moved to Mexico after retiring from his job in the United States. "I love the people here, I love the walkability of the city, how nice everyone is. It's a beautiful and fantastic place, and that's what encouraged me to come here," he said. He said residents were "completely caught off guard" on Sunday morning as news of El Mencho's capture, and the following unrest, broke. "The first inkling that we had that something was going on was one of our readers sent us
+
+- Link 7
+  AnchorText: More than 5,000 flights cancelled as US east coast digs out of record snow A major snowstorm walloped the US north-east, causing disruptions for millions and thousands of flight cancellations. 1 hr ago US & Canada
+  URL: https://www.bbc.com/news/articles/cx289g1yw97o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  A major snow storm hit the US east coast on Monday with record-breaking snow, causing disruptions for millions and thousands of flight cancellations. Parts of Rhode Island and Massachusetts have seen nearly 33in (83cm) of snow fall, with more than19in in New York's Central Park, the National Weather Service said. There have been "near impossible" travel conditions in New York, a state agency warned. More than 600,000 homes and businesses on the east coast endured power outages, with New Jersey and Massachusetts the worst hit. Winter storm warnings stretched from North Carolina to northern Maine, with some warnings in place further north in parts of eastern Canada. The snow was expected to persist throughout Monday, according to the National Weather Service, with some areas near the northeast coastline expected to get a total of 1ft to 2ft (61cm) of snow by Tuesday morning. Rhode Island, America's smallest state, appeared to have received the most snow during the storm. In fact, it was the worst snowstorm to ever hit the state, according to local media. Providence, the state capital, received 33in of snow, smashing the existing record for the single greatest snowstorm, 28.6in set in February 1978. "It completely smashed it," Candice Hrencecin, a meteorologist with the National Weather Service in Boston, told the New York Times. "We were just as
+
+- Link 8
+  AnchorText: Four years into its full-scale war in Ukraine, Russia is feeling the effects Steve Rosenberg reports on the economic consequences of Russia's war, and how people are coping. 18 hrs ago Europe
+  URL: https://www.bbc.com/news/articles/c4gj20xzw39o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  At first glance, Yelets in winter looks like something from a Russian fairy tale. From the embankment I spy the golden domes of Orthodox churches and, down below, ice fishermen dotted along the frozen river. But in this town, 350km (217 miles) south of Moscow, the fairy tale feeling is transient. On the riverbank I spot an army recruitment billboard. It promises a one-off sum equivalent to £15,000 to anyone who'll sign up to fight in Ukraine. Close by there's a poster of a Russian soldier taking aim with a Kalashnikov. "We're there where we need to be," the accompanying slogan declares. The Kremlin launched its full-scale invasion of Ukraine on 24 February 2022. Outside Russia it was widely seen as an attempt to force Kyiv back into Moscow's orbit and to overturn the entire post-Cold War security architecture in Europe. The Russian leadership envisaged a short and successful military operation. Four years later, Russia's war on Ukraine grinds on. It has lasted longer than Nazi Germany's brutal war on the Soviet Union, known here as the Great Patriotic War. And, in this town, you can see some of the consequences. A giant mural fills one side of a nine-storey Yelets apartment block. Depicted here are the faces of five Russian soldiers, local men killed fighting in Ukraine. "Glory to
+
+

@@ -1,0 +1,69 @@
+Domain: GeneralNews
+Query: latest Norway news headlines
+Timestamp: 2026-02-24T21:52:37
+PerPageSummaryWords: 200
+- Norway's News in English — www.newsinenglish.no
+  https://www.newsinenglish.no/
+  NewsInEnglish.no is a free and independent Oslo-based website offering news from Norway . It's run on a voluntary basis by veteran journalists keen to share insight into Norwegian politics, economic affairs and culture, in English.
+  LinkedPageStatus: ok (https://www.newsinenglish.no/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Troubled king remains popular US pulls jets out of Cold Response Norwegian defense officials have confirmed that the US is pulling several of its fighter jets and other aircraft out of the upcoming NATO Cold Response military exercises in Northern Norway. As many as 150 American soldiers may also be... Former diplomat undergoes police questioning in Oslo Terje Rød-Larsen, the former Norwegian diplomat who's now in trouble over his lengthy association with the late financier and convicted sex offender Jeffrey Epstein, underwent police questioning back home in Oslo on Thursday. Police said he was cooperative and... Epstein ‘survivor’ scolds Norway’s Crown Princess Mette-Marit One of the many young teenage girls who were sexually abused by the late financier Jeffrey Epstein has publicly scolded Norwegian Crown Princess Mette-Marit, who carried on a three-year friendship with Epstein before he later died in prison. The... Klæbo cheers up his homeland After weeks of uproar and scandal, Norwegians at least have a lot to cheer about at this year's Winter Olympics in Italy. Both Crown Prince Haakon and Prime Minister Jonas Gahr Støre were on hand to celebrate more historic... Central bank chief’s inflation battle may boost interest rates Norwegian economists admit to being
+
+- Latest News | The Oslo Herald
+  https://www.osloherald.com/latest-news
+  The Oslo Herald is an online news publication focusing on the Norway : The most trusted news from Norway
+  LinkedPageStatus: ok (https://www.osloherald.com/latest-news)
+  LinkedPageSummaryWords: 140
+  LinkedPageSummary:
+  By signing to this email alert, you agree to our Terms & Conditions We sent a one-time activation link to . Just click on the link to continue. If you don't see the email in your inbox, check your spam folder or try again You have successfully confirmed your email and are subscribed to The Oslo Herald daily news alert. It looks like you have already confirmed and are receiving the The Oslo Herald daily news alert. It looks like something went wrong. Please try again. By signing to this email alert, you agree to our Terms & Conditions You are no longer receiving the The Oslo Herald daily news alert. You are no longer receiving the The Oslo Herald daily news alert. Try clicking the Unsubscribe link in the email again and if it still doesn't work, contact us
+
+- The Norway Times | Breaking Norway News & Daily Updates
+  https://thenorwaytimes.com/
+  Get the latest news from Norway . Daily updates on politics,society, and global affairs from a trusted Norwegian news source.
+  LinkedPageStatus: ok (https://thenorwaytimes.com/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Nation Nation UK Joins European Pact to Build World’s Largest Offshore Clean... Nation Trump Ties Greenland Push to Nobel Snub, Threatens EU With... Nation Powerful Storm Brings Destruction Across Norway With Near-Hurricane Winds Nation Norway Moves Closer to EU as Government Accelerates Adoption of... Nation Equinor Chief Warns Against Using Oil Policy as Bargaining Chip... Nation Norway’s High Tariffs Blamed for Soaring Food Prices and Surge... World Iran-US Talks: Non-Aggression Pact Offer Signals Tehran’s Broader Diplomatic Ambitions Zelensky Says US Accelerates Peace Efforts with Florida Location and Summer Goal Greenland PM Warns National Legislature: US Ownership Ambitions for Arctic Persist Trump’s Veiled Iran Threat: Military Plans “Very Big,” Details Withheld Trump Says Regional Allies Support American Iran Naval Operation US Approves Major New Arms Sales Worth $6.67B to Israel and $9B to Saudi Arabia in Massive Defense Commitment Sports Turning the Tide: England’s Spinners Master the Colombo Rank-Turner Tournament Leadership Supports Current System While Weighing Start Date Adjustment Politics Trump Accelerates USS Gerald R Ford Transit to Middle East for Iran Showdown Russia-Ukraine-US Trilateral Talks: Abu Dhabi Peace Summit Seeks Diplomatic Resolution Carney Unleashes Sharp Criticism of US Alberta Separatist Strategy Rubio Highlights Swift Operation Execution as Minimizing Regional Destabilization
+
+- Norway News | Latest Norway News - NewsNow
+  https://www.newsnow.com/us/World/Europe/Northern+Europe/Norway
+  Latest news on Norway , providing comprehensive coverage of politics, economy, culture, weather, crime, and developments in this Scandinavian nation.
+  LinkedPageStatus: ok (https://www.newsnow.com/us/World/Europe/Northern+Europe/Norway)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest news on Norway, providing comprehensive coverage of politics, economy, culture, weather, crime, and developments in this Scandinavian nation. Norway is a prosperous Nordic country with a population of approximately 5.7 million, situated on the Scandinavian Peninsula between the North Atlantic and the Arctic. The capital Oslo is home to over 1.1 million people, while other major cities include Bergen and Trondheim, each steeped in centuries of history. The nation's parliamentary democracy operates through the Storting, with Prime Minister Jonas Gahr Støre leading a Labour minority government following parliamentary elections in September 2025. The Norwegian economy is underpinned by its massive oil and gas industry, with state revenues from petroleum activities funding the world's largest sovereign wealth fund. The Government Pension Fund Global holds assets exceeding $1.9 trillion, equivalent to over $340,000 per Norwegian citizen. Political debate centres on how much to spend from the fund versus saving for future generations, energy policy, and maintaining Norway's role as a stable energy supplier to Europe while pursuing climate commitments. Norway's dramatic landscape of fjords, mountains, and coastal waters has shaped both its history and contemporary identity. The UNESCO-listed Geirangerfjord and Nærøyfjord represent some of the world's most spectacular natural formations, carved
+
+- Norway - BBC News
+  https://www.bbc.co.uk/news/topics/clm1wxp5mgxt
+  Stay informed with the latest news , video, live updates and expert analysis about Norway from across the BBC.
+  LinkedPageStatus: ok (https://www.bbc.co.uk/news/topics/clm1wxp5mgxt)
+  LinkedPageSummaryWords: 7
+  LinkedPageSummary:
+  Posted 28 December 2025 28 Dec 2025
+
+- Google News - Norway - Latest
+  https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZpTkhjU0FtNXZLQUFQAQ
+  Read full articles, watch videos, browse thousands of titles and more on the " Norway " topic with Google News .
+  LinkedPageStatus: ok (https://consent.google.com/ml?continue=https://news.google.com/topics/CAAqIQgKIhtDQkFTRGdvSUwyMHZNRFZpTkhjU0FtNXZLQUFQAQ&gl=GB&hl=en-US&cm=2&pc=n&src=1&escs=AZ8E49DxOSy6E4EPjOgU2gDb-ReKbqOmXjKb25_c3q1SdxDVJRD21M7WMfAGMuAE21_7Qic6aJ6qiBG9uKrSC9iUqbUI1YnDGEaC)
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  Select “More options” to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+- Latest News from Norway - The Local
+  https://www.thelocal.no/category/norway-news
+  Read the latest news and important information from Norway in English here at The Local.
+  LinkedPageStatus: ok (https://www.thelocal.no/category/norway-news)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest News from Norway Read the latest news and important information from Norway in English here at The Local. Travel news 1 EU's EES biometric passport checks catch 4,000 over-stayers in first 4 months One of the stated aims of the EU's new EES system of biometric passport checks is to catch people who 'over-stay' the 90-day limit, and 4,000 of those have been caught in the first months of its implementation, according to an EU official. Police Norway's Civil Defence apologises after triggering emergency sirens by mistake Did you hear the sirens in Oslo and Akershus this morning? Don’t worry, it wasn’t an emergency. It was just a false alarm. Today in Norway Today in Norway: A roundup of the latest news on Tuesday Sirens accidentally set off in Oslo, PM in Kyiv and new trade forum with UK. Here are the latest news stories from Norway this Tuesday. Driving Winter driving in Norway: Tougher rules for tourists ahead Norway's government is stepping up safety measures for foreign tourists as authorities admit they are "desperate" to reduce the number of accidents on the country's icy northern roads. skiing What makes Norwegians so good at skiing and winter sports? Norway
+
+- NORWAY NEWS - latest news, breaking stories and comment - NORWAY NEWS ...
+  https://www.norwaynews.com/
+  NORWAY NEWS is an online news site, written in English, dedicated to Norwegian affairs at home and abroad. Norway News .com is published online. It is a daily online newspaper in existence since May, 2003. The site is run by an Independent Journalist.
+  LinkedPageStatus: ok (https://www.norwaynews.com/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  THE Nordic countries have expressed strong support for Zimbabwe’s candidature for a non-permanent seat on … ( By Ingrida Nevenchannaya ) From September 15 to 17, 2025, the II BRICS Forum … A Rwandan man, who was arrested in Norway for crimes he allegedly committed during the … Norwegian Foreign Minister, Espen Barth Eide, on Thursday called Saturday airstrikes on a Médecins Sans … Oslo, Norway – A wave of optimism swept through Oslo’s business and political corridors today … Việt Nam attaches importance to strengthening multifaceted cooperation with Norway, as the two sides have … A Norwegian state-linked multinational stand accused of orchestrating a sustained campaign to crush unionization at … Norway’s Parliament has launched a probe into reports that state‑controlled telecoms giant Telenor exposed hundreds … Chinese Foreign Minister Wang Yi on Saturday expressed hope that Norway will play a constructive … The Chinese Embassy in Norway on Saturday issued a statement expressing strong dissatisfaction and firm … Suparna Airlines has launched a new direct cargo route between Oslo Airport and Shanghai Pudong, … On Nov. 26, the Chinese Embassy in Norway held a seminar on China-Norway economic cooperation. Charge … Norwegian media, citing police, report security forces
+
+

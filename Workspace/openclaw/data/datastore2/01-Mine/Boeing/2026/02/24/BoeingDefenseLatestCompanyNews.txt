@@ -1,0 +1,65 @@
+Domain: Boeing
+Query: Boeing defense latest company news
+Timestamp: 2026-02-24T21:44:00
+PerPageSummaryWords: 200
+- Boeing relocates defense HQ to American heartland, leaving ... - Fox News
+  https://www.foxnews.com/politics/top-defense-contractor-announces-major-move-weeks-after-dem-governor-takes-office-win-heartland
+  Boeing announced it is moving its defense headquarters out of Virginia back to St. Louis, just weeks after newly elected Democratic Gov. Abigail Spanberger took office.
+  LinkedPageStatus: ok (https://www.foxnews.com/politics/top-defense-contractor-announces-major-move-weeks-after-dem-governor-takes-office-win-heartland)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Former special assistant to President Biden Michael LaRosa and Washington Times editor-at-large Alex Swoyer join 'America Reports' to react to Virginia Democrat Gov. Abigail Spanberger's controversial start to her term. NEW You can now listen to Fox News articles! After nearly a decade in Virginia, Boeing announced on Wednesday that it is moving its Defense, Space & Security headquarters out of the state back to St. Louis. This comes just weeks after new Democratic Gov. Abigail Spanberger took office, replacing Republican Gov. Glenn Youngkin. In a Wednesday statement, Boeing said its decision to move its defense headquarters to St. Louis emphasizes company leadership’s "commitment to being present and engaged with teammates who are designing, producing and delivering vital defense and space products and capabilities for customers in the U.S. and around the world." The company said it is progressing on a multibillion-dollar investment in "the world’s most advanced combat aircraft production facilities," including in St. Louis. The change moves the defense headquarters from Arlington, Virginia , back to its former site in St. Louis, where much of the company’s products are designed and manufactured. Boeing’s headquarters was in Arlington, a suburb of Washington, D.C., for nearly a decade, with the
+
+- Defense - The Boeing Company
+  https://www.boeing.com/defense
+  Boeing's precision-guided munitions, layered air and missile defense , and strategic deterrent capabilities give operators advanced, integrated solutions to meet global defense and security needs today and tomorrow — ranging from affordable mass and maritime strike to protection against sophisticated drone and advanced missile threats.
+  LinkedPageStatus: ok (https://www.boeing.com/defense)
+  LinkedPageSummaryWords: 121
+  LinkedPageSummary:
+  Trusted and sought after by the United States Army, Navy, Marines, Air Force and allied defense forces spanning more than 20 countries across the globe, Boeing has redefined the boundaries of technology, capability and sustainability to ensure the production and delivery of reliable, maintainable and mission-ready rotorcraft. We have adapted our proven multi-mission rotorcraft to effectively address current missions while preparing for future challenges – and continue to make innovation a priority. We are dedicated to improving our capabilities to support our platforms, including manned and unmanned teaming requirements, as well as developing new rotorcraft concepts. Our forecasts take into account future needs and emerging trends, allowing us to provide comprehensive solutions that meet the diverse requirements of our global customers.
+
+- News Releases - Boeing UK
+  https://www.boeing.co.uk/news-releases
+  10/06/2024 Boeing -supported Newton Room Opens in North Somerset 14/05/2024 Boeing Strengthens Presence in Bristol with New UK Defence Headquarters 11/04/2024 Moray Steel Supplier Supports Construction of UK E-7 Wedgetail Facilities 21/02/2024
+  LinkedPageStatus: ok (https://www.boeing.co.uk/news-releases)
+  LinkedPageSummaryWords: 41
+  LinkedPageSummary:
+  Dan Mosely Head of Communications, Boeing UK, Ireland & the Nordics +44 7825 898594 daniel.mosely@boeing.com Georgina Ramin Boeing UK & Ireland Defence Communications Specialist +44 (0) 7552 254770 georgina.ramin@boeing.com Hannah Shroot Boeing UK & Ireland Communications +44 (0) 7775 225695 hannah.l.shroot@boeing.com
+
+- Boeing's defense unit logs massive $2 billion in losses for third ...
+  https://breakingdefense.com/2024/10/boeings-defense-unit-logs-massive-2-billion-in-losses-for-third-quarter/
+  The financial bleeding on in Boeing's defense unit was replicated in its commercial business, which will declare $3 billion in losses for the quarter.
+  LinkedPageStatus: ok (https://breakingdefense.com/2024/10/boeings-defense-unit-logs-massive-2-billion-in-losses-for-third-quarter/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  WASHINGTON — Boeing’s defense unit will take $2 billion in losses on fixed-price contracts when it reports its third quarter results later this month, the company disclosed today, bringing total defense-related charges for the company up to $3.2 billion this year. The wider company also announced plans to slash 10 percent of its total workforce. The charges to its defense arm come as the US planemaker hemorrhages money amid an ongoing strike by its Seattle-area machinists union and as it announced the conclusion of its 767 freighter production — both factors the company states contributed to losses on the T-7A trainer, MQ-25 tanker drone, KC-46 tanker and NASA’s Starliner in the most recent financial quarter. The T-7 trainer logged the largest charge, worth $900 million, due to what the company said were higher estimated costs for production in 2026 and beyond. Behind it, the KC-46 logged a $700 million loss due to Boeing’s decision to end production of the 767 freighter, the commercial aircraft on which the militarized tanker is based. The company also pointed the finger at the ongoing machinists union strike , which has paused production of commercial airplanes, such as the 767 made in the company’s Seattle
+
+- News Releases | Boeing Newsroom
+  https://boeing.mediaroom.com/news-releases-statements
+  The Boeing Company [NYSE: BA] announced today major program deliveries across its commercial and defense operations for the fourth quarter of 2025 as follows: Major Programs 4th Quarter 2025 Full Year
+  LinkedPageStatus: ok (https://boeing.mediaroom.com/news-releases-statements)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  We’re grateful to NASA for its thorough investigation and the opportunity to contribute to it. In the 18 months since our test flight, Boeing has made substantial progress on corrective actions... Federal Aviation Administration (FAA) and European Union Aviation Safety Agency (EASA) approve simulator devices for airline pilot training GATWICK, United Kingdom, Feb. 19, 2026 /PRNewswire/ --... New luxury airline makes first direct jet purchase to grow tourism and economy on Vietnam's largest island WASHINGTON, Feb. 18, 2026 /PRNewswire/ -- Boeing [NYSE: BA] and Sun PhuQuoc Airways today... 787 Dreamliner operator places first Boeing single-aisle order as part of its growth strategy Versatile 737-8 jets will expand Vietnam's short- and medium-haul network amid rising travel demand... SEATTLE, Feb. 17, 2026 — Boeing and Air Astana JSC announced today the Kazakhstan flag carrier has finalized an order for up to 15 787 Dreamliner jets to grow and modernize its Boeing widebody... LONG BEACH, Calif. — February 9, 2026 — The Boeing Company today announced a contract award from the U.S. Air Force that will keep the C‑17A Globemaster flying and mission-ready for decades... SINGAPORE, Feb. 4, 2026 — Boeing [NYSE: BA] successfully completed its 100th 787 Landing Gear Exchange (LGE) delivery,
+
+- Boeing Defense News Room - Latest news and breaking stories - Aviation24.be
+  https://www.aviation24.be/category/manufacturers/boeing/boeing-defense/
+  All the latest breaking news on Boeing Defense . Browse Aviation24.be's complete collection of articles and commentary on Boeing Defense .
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.aviation24.be/category/manufacturers/boeing/boeing-defense/
+  LinkedPageSummaryWords: 0
+
+- Boeing (BA) Strikes Massive Multi-Billion Dollar Missile Defense Deal
+  https://finance.yahoo.com/news/boeing-ba-strikes-massive-multi-161550298.html
+  Jim Bryan, executive director of Boeing Integrated Air & Missile Defense , said the awards reflect the company's progress in expanding capacity to meet rising global demand for advanced interceptors.
+  LinkedPageStatus: ok (https://consent.yahoo.com/v2/collectConsent?sessionId=3_cc-session_5cc0bc24-269e-4de7-83db-1e2e16d7e619)
+  LinkedPageSummaryWords: 3
+  LinkedPageSummary:
+  Your privacy choices
+
+- Boeing Defense plans to replace striking workers with new hires
+  https://www.reuters.com/business/world-at-work/boeing-defense-plans-replace-striking-workers-with-new-hires-2025-09-04/
+  Sept 4 (Reuters) - Boeing Defense (BA.N) plans to hire new workers to replace striking members of the International Association of Machinists and Aerospace Workers (IAM) who assemble munitions ...
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/business/world-at-work/boeing-defense-plans-replace-striking-workers-with-new-hires-2025-09-04/
+  LinkedPageSummaryWords: 0
+
+

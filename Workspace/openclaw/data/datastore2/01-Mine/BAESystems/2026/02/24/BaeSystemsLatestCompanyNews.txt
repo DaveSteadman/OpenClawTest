@@ -1,0 +1,65 @@
+Domain: BAESystems
+Query: BAE Systems latest company news
+Timestamp: 2026-02-24T21:42:16
+PerPageSummaryWords: 200
+- Latest news from BAE Systems
+  https://www.baesystems.com/en/newsroom
+  The latest in our Power of Perspective series, Chris Cook, External Stakeholder Director at BAE Systems Digital Intelligence shares his views on the subsea domain and what drives his work forward in this space.
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- BAE Systems News | Latest News - NewsNow
+  https://www.newsnow.co.uk/h/Industry+Sectors/Aerospace+and+Defence/Corporations/BAE+Systems
+  Latest news on BAE Systems , a British multinational arms, security, and aerospace company based in London, England. It is the largest defence contractor in Europe, and ranked the seventh-largest in the world based on applicable 2021 revenues.
+  LinkedPageStatus: ok (https://www.newsnow.co.uk/h/Industry+Sectors/Aerospace+and+Defence/Corporations/BAE+Systems)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Latest news on BAE Systems, a British multinational arms, security, and aerospace company based in London, England. It is the largest defence contractor in Europe, and ranked the seventh-largest in the world based on applicable 2021 revenues. BAE Systems was formed in 1999 from the merger of British Aerospace (BAe) with Marconi Electronic Systems, the defence electronics and naval shipbuilding subsidiary of the General Electric Company plc (GEC). BAe, in turn, dates to the merger (1977, with two other firms) of British Aircraft Corporation (BAC) and Hawker Siddeley Aviation, both having been nationalised a year earlier owing to unprofitable financial situations. Through its BAe antecedents, BAE Systems carries the legacy of some 20 British aircraft firms (e.g., Bristol, Avro, Gloster, De Havilland, Supermarine), several dating to the first decades of flight. In the 1960s and early ’70s, BAC and Hawker Siddeley each produced significant aircraft. BAC built the Vickers-Armstrongs VC10 and BAC One-Eleven jetliners and, in partnership with Aerospatiale of France, the Concorde supersonic transport. Hawker Siddeley developed the HS 121 Trident jetliner, Vulcan bomber, and Harrier vertical/short-takeoff-and-landing (V/STOL) fighter. Since its formation in 1999, BAE has made a number of acquisitions, most notably of United Defense and Armor Holdings
+
+- Defence giant BAE hails record sales as workers remain on strike - BBC News
+  https://www.bbc.co.uk/news/articles/cy4w8nxnp94o
+  Defence company BAE has increased payouts to investors after its sales increased but staff in Lancashire have walked out over stalled pay talks
+  LinkedPageStatus: ok (https://www.bbc.co.uk/news/articles/cy4w8nxnp94o)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Unite, which represents 5,000 workers at BAE's factories in Warton and Samlesbury, said its workers "know their value and want their fair share of the pie". The union said higher-skilled staff at the sites were last year given 3.6% pay increases "against their will", while those on the factory floor agreed to a 4.2% rise and an extra day off. Local Unite organiser Ross Quinn said the striking staff, on average salaries of £50,000, were "crucial" to BAE's success. And Sharon Graham, Unite's general secretary, said: "BAE's profits are little short of obscene. The company is making billions from government contracts and yet refuses to pay our members what they are worth." BAE has offered 3.7% raises for 2026. Those on strike are demanding 5.2% increases to account for last year's below-inflation raises. A BAE Systems spokesperson said the current offer "is fair and ensures that our employees continued to receive market-leading pay and rewards, while balancing our need to be competitive and affordable for our customers". On the prospect of strike action continuing into March, BAE said: "With the majority of our employees working as normal, we are focused on minimising any disruption and implementing our robust contingency plans."
+
+- BAE Systems profits leap amid 'new era' of defence spending
+  https://www.independent.co.uk/news/business/bae-systems-keir-starmer-gdp-europe-prime-minister-b2922542.html
+  BAE Systems profits leap amid 'new era' of defence spending Europe's biggest defence contractor reported better-than-expected underlying earnings of £3.32 billion for 2025, up 12% on 2024.
+  LinkedPageStatus: ok (https://www.independent.co.uk/news/business/bae-systems-keir-starmer-gdp-europe-prime-minister-b2922542.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems has set new records with its annual results amid a ramping-up in global defence spending as geopolitical uncertainty remains heightened. Europe’s biggest defence contractor reported better-than-expected underlying earnings before interest and taxes of £3.32 billion for 2025, up 12% on the previous year, as sales jumped 10% to a record high of £30.66 billion. The aerospace and weapons manufacturer said its order backlog also hit a record £83.6 billion as of the end of December while its order intake stood at £36.8 billion. Chief executive Charles Woodburn said: “In a new era of defence spending, driven by escalating security challenges, we’re well-positioned to provide both the advanced conventional systems and disruptive technologies needed to protect the nations we serve now and into the future. “With a record order backlog and continuing investment in our business to enhance agility, efficiency and capacity, we’re confident in our ability to keep delivering growth over the coming years.” The firm forecast further growth in 2026, albeit at a slower pace, with the firm pencilling in underlying earnings growth of between 9% to 11% and sales to rise by between 7% and 9%. BAE – which makes weapons ranging across missiles and artillery
+
+- BAE Systems PLC | Reuters
+  https://www.reuters.com/company/bae-systems-plc/
+  The latest international BAE Systems PLC news and views from Reuters - one of the world's largest news agencies
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/company/bae-systems-plc/
+  LinkedPageSummaryWords: 0
+
+- Britain's BAE Systems positions for 'new era' of defense spending - CNBC
+  https://www.cnbc.com/2026/02/18/bae-systems-defense-spending-europe-military-geopolitics-weapons.html
+  The company expects sales to grow by between 7% and 9% in 2026, with guidance for cumulative free cash flow between 2026 and 2028 in excess of £6 billion. BAE Systems .
+  LinkedPageStatus: ok (https://www.cnbc.com/2026/02/18/bae-systems-defense-spending-europe-military-geopolitics-weapons.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems attracted record orders in 2025, and now the UK defense staple is setting its sights on years of growth amid a global ramp-up in spending. Its shares rose 3.6% on Wednesday after its full-year earnings report showed sales soared 10% last year to reach a record £30.7 billion ($41.7 billion). That helped push operating profits to £2.93 billion, a 9% year-on-year increase, as revenues grew 8% to £28.3 billion. The FTSE 100 -listed company, which manufactures a range of aircraft, weapons, munitions and warships, saw its order backlog hit £83.6 billion, a £5.8 billion increase from 2024. Now, BAE is preparing to capitalize on years of future growth as geopolitical fissures usher in what CEO Charles Woodburn called a "new era of defense spending" driven by "escalating security challenges." The company expects sales to grow by between 7% and 9% in 2026, with guidance for cumulative free cash flow between 2026 and 2028 in excess of £6 billion. "We're well positioned to provide both the advanced conventional systems and disruptive technologies needed to protect the nations we serve now and into the future," Woodburn said in a statement accompanying Wednesday's earnings. "With a record order backlog and continuing
+
+- BAE Systems Announces 2025 Full Year Results - Business Wire
+  https://www.businesswire.com/news/home/20260218327744/en/BAE-Systems-Announces-2025-Full-Year-Results
+  About BAE Systems We provide some of the world's most advanced, technology-led defence, aerospace and security solutions, helping customers stay ahead of evolving threats across land, sea, air ...
+  LinkedPageStatus: ok (https://www.businesswire.com/news/home/20260218327744/en/BAE-Systems-Announces-2025-Full-Year-Results)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  LONDON--( BUSINESS WIRE )-- Charles Woodburn, Chief Executive, said: “Our results highlight another year of strong operational and financial performance, thanks to the outstanding dedication of our employees. In a new era of defence spending, driven by escalating security challenges, we’re well positioned to provide both the advanced conventional systems and disruptive technologies needed to protect the nations we serve now and into the future. With a record order backlog and continuing investment in our business to enhance agility, efficiency and capacity, we’re confident in our ability to keep delivering growth over the coming years.” – Sales increased 10% 2 to a record £30.7bn, with growth in all of our sectors. Organic growth was 9% 2 . – Underlying EBIT increased by 12% 2 with a 20bps increase in return on sales from 10.6% to 10.8%. – Underlying EPS increased by 12% 2 . – Free cash flow was strong at £2,158m. Significant customer advances were received late in the year, capital expenditure remained close to record levels at c.£1bn and research and development (R&D) spend increased. – Our order backlog grew by £5.8bn to a record £83.6bn. Order intake was strong at £36.8bn, with all sectors performing well, reflecting
+
+- bae systems, inc. News and Press Releases | PR Newswire
+  https://www.prnewswire.com/news/bae-systems,-inc./
+  News from bae systems , inc. A wide array of domestic and global news stories; news topics include politics/government, business, technology, religion, sports/entertainment, science/nature, and ...
+  LinkedPageStatus: ok (https://www.prnewswire.com/news/bae-systems,-inc./)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  BAE Systems (LON: BA) received a contract award valued at more than $500 million to produce additional M109A7 Paladin Self-Propelled Howitzers and... BAE Systems (LON: BA) recently delivered its 100,000th APKWS® laser-guidance kit, marking a major production milestone as it continues providing U.S. ... BAE Systems (LON: BA) has successfully demonstrated scaled electromagnetic attack (EA) capabilities during multiple test events using a modular... The CV9035 MkIV for the Armed Forces of the Slovak Republic has been unveiled during a ceremonial rollout at BAE Systems Hägglunds in Sweden. Swedish ... BAE Systems (LON: BA) has received Foreign Military Sales contracts from the U.S. Army valued at $137 million to deliver its AN/AAR-57 Common Missile ... BAE Systems (LON: BA) has received a $195 million contract for the production of additional Amphibious Combat Vehicles (ACVs) for the U.S. Marine... BAE Systems (LON: BA) announced the opening of its new office in Utah, marking an expansion of the company's local footprint and continued investment ... The U.S. Navy has awarded Data Link Solutions, a joint venture between BAE Systems (LON: BA) and Collins Aerospace, an RTX business, a $248 million... BAE Systems (LON: BA) has received a $473 million contract award for the
+
+

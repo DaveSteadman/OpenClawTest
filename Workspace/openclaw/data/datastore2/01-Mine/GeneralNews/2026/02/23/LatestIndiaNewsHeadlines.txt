@@ -1,0 +1,67 @@
+Domain: GeneralNews
+Query: latest India news headlines
+Timestamp: 2026-02-23T23:28:11
+PerPageSummaryWords: 200
+- India News | Today's latest updates and breaking news from India, Live ...
+  https://www.ndtv.com/india
+  Get the latest updates and breaking news from India , including politics, elections, government, business, technology, and Bollywood.
+  LinkedPageStatus: ok (https://www.ndtv.com/india)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A 21-year-old has been arrested in Lucknow for the gruesome murder of his father, the police have said. The man was shot dead, dismembered and parts of his body disposed of after a dispute with his son over his prospective career. Canada is signalling a decisive reset in ties with India as Prime Minister Mark Carney prepares for his first major overseas tour to India, placing New Delhi at the centre of a broader Indo-Pacific strategy aimed at diversifying trade. A two-year-old girl died after being hit by a car in Gujarat's Morbi district on Monday. A woman died and a spa centre manager in Viman Nagar area of Pune was injured after they allegedly jumped out of a window of the facility when police conducted a raid on suspicion of a prostitution racket on Monday, an officer said. A major controversy has erupted after a viral video allegedly showed portraits of Chhatrapati Shivaji Maharaj and Maharani Padmini being used as gender signage on the doors of men's and women's washrooms at a private banquet hall in Haryana. If you stop to help a seriously injured road accident victim in Delhi and ensure they reach a hospital in time, you
+
+- News, Today's News Headlines, Breaking News and Live News from India ...
+  https://timesofindia.indiatimes.com/home/headlines
+  Headlines today: Get news headlines from India and around the world. Today's breaking news on politics, sports, entertainment, business, life style and many more on Times of India
+  LinkedPageStatus: ok (https://timesofindia.indiatimes.com/home/headlines)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  News Headlines The great biryani audit: UPI IDs, locker cash and ghost bills — anatomy of a multi-crore restaurant tax evasion probe 23 Feb 2026, 1434 hrs IST Explained: Why US govt keeps shutting down & how India avoids such financial crises Free for TOI+ subscribers. Need a lawyer? Write to us Ranchi-Delhi air ambulance crash: All 7 passengers dead in Jharkhand’s Chatra Tyson: 4-legged hero who led terror op despite taking bullet Arihant, Arighaat, Aridhaman: Inside India's invisible & deadly undersea arsenal After EVs' runaway success, why aren’t more Indians buying them? 23 Feb 2026, 1650 hrs IST Anthropic CEO Dario Amodei gets summoned from Pentagon for 'not a friendly meeting' Canada moves to revoke Tahawwur Rana's citizenship; terror charges not cited Taking cue from Devji, more cadres may shun Maoist ideology, join mainstream India tells citizens to leave Iran by all available means Anthropic engineer’s doomsday warning: AI agents will take over engineers, designers and … T20 World Cup: Worry for India? West Indies storm to top Super 8 group with huge NRR after 107-run win over Zimbabwe Hindu groups in UK slam SOAS-led report into 2022 Leicester unrest Inoperative EPF accounts with up to Rs 1,000 to
+
+- India News, Latest Breaking News Headlines from India, Live News Updates
+  https://www.indiatoday.in/india
+  India News Today: Read latest and breaking news headlines from India . Top India News , Current headlines , videos, photos and live india news updates at India Today
+  LinkedPageStatus: ok (https://www.indiatoday.in/india)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Acting on a tip-off, a team of the Central Crime Branch (CCB) intercepted a car on Umarkhayam Road on February 23. An inspection of the vehicle allegedly led to the seizure of nearly 103 grams of MDMA. Israel and India are moving toward a Free Trade Agreement, potentially finalised this year. PM Modi's upcoming visit will also deepen defence ties and expand collaboration in technology, infrastructure, and innovation. A political controversy has erupted in Maharashtra following allegations of a possible conspiracy behind a plane crash linked to Ajit Pawar. The issue has sparked heated debates and demands for transparency from investigating agencies across the state. What looked like a major aviation push in Uttar Pradesh has quickly lost altitude. India Today filed an RTI in the matter and fresh data obtained from the Airports Authority of India reveals that six of the seven airports that started commercial flights after 2021 have already seen services suspended. A major air tragedy has been reported from Jharkhand's Chatra district where an air ambulance has crashed. The chartered air ambulance had taken off from Ranchi's airport and was en route to Delhi. An air ambulance flying from Ranchi to Delhi crashed in Jharkhand's Chatra
+
+- Google News - India - Latest
+  https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE?hl=en-IN&ceid=IN%3Aen
+  Read full articles, watch videos, browse thousands of titles and more on the 'India' topic with Google News .
+  LinkedPageStatus: ok (https://consent.google.com/ml?continue=https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE?hl%3Den-IN%26ceid%3DIN:en&gl=GB&hl=en-IN&cm=2&pc=n&src=1&escs=AZ8E49C9rgUgSNg40XUZamY0apT2ifxaiwAGnVZ3tL5y1hSjozMHp7whhqiMlZtV5obMtskdbf_SVa8hNb2ETqQdO-UJ3lZrW8So)
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  Select 'More options' to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+- India News, Latest India News, Today's Breaking News Headlines from ...
+  https://indianexpress.com/section/india/
+  India News , Latest India News : Read Live Breaking News from India along with Latest News and Today's Top Headlines Online in Bharat. Stay Up-to-date with Top news in India , current headlines , photos & videos online, live coverage on entertainment, business, politics, sports, technology and more at indianexpress.com.
+  LinkedPageStatus: ok (https://indianexpress.com/section/india/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Ahead of Prime Minister Narendra Modi’s visit to Israel on Wednesday, India on Monday advised all its nationals living in Iran to leave the country by all available means of transport, including commercial flights, in view of the evolving security situation. The latest advisory by the Indian embassy in Tehran comes in the wake of […] Rahul Gandhi hit back saying that the PM has been having “sleepless nights” thinking about the consequences of the case against industrialist Gautam Adani in the US. This will be the first Prime Minister-level visit to India since former PM Justin Trudeau came to India for the G20 summit in September 2023. AT A time when the Opposition has moved a no-confidence resolution against him, Lok Sabha Speaker Om Birla has constituted Parliamentary Friendship Groups with 64 countries and appointed senior Opposition leaders to head over a dozen of them. Each of these groups have 11 members, including those from the Rajya Sabha too. Key Opposition leaders […] The crash comes less than a month after a chartered jet crashed in Maharashtra's Baramati, claiming the lives of the state's then deputy chief minister Ajit Pawar and four others. Those who have turned 18 as
+
+- Latest News Today, Top Headlines & Live Updates - News24
+  https://news24online.com/latest-news/
+  Stay informed with the latest news today. Get breaking news , live updates, and top headlines from India and around the world on News24
+  LinkedPageStatus: ok (https://news24online.com/latest-news/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Southampton | 10.78 °C | AQI 22 English हिन्दी E24 Isomes News24 Sports Tuesday, 24 February, 2026 Latest News Today, Top Headlines & Live Updates Cricket T20 World Cup 2026 Super 8s Group 1 Points Table: Check out latest standings after West Indies beat Zimbabwe, did it help India? Published on Feb 24, 2026 03:50 AM Entertainment Inside Tara Sutaria’s first home in Mumbai: From stunning piano to aesthetic decor, a look at her new house worth Rs… Published on Feb 24, 2026 02:47 AM Entertainment Vijay Deverakonda and Rashmika Mandanna’s pre-wedding: From special menu with top in-house chefs to dinner party, more details revealed Published on Feb 24, 2026 01:41 AM Entertainment This 3 hour 6 minute film won 55 awards, was a huge hit, earned Rs…, has 8.1 IMDb rating, name is…, lead actor is… Published on Feb 24, 2026 12:42 AM World Rs 1000000 cheque, fake degrees, White House reception and…: How Jeffrey Epstein carved his way into Wall Street elite Published on Feb 24, 2026 12:06 AM World Trump warns countries trying to ‘play games’ with Supreme Court ruling will face even higher tariffs Published on Feb 23, 2026 11:40 PM India Air Ambulance with 7
+
+- India News | Today's Top Stories | Reuters
+  https://www.reuters.com/world/india/
+  Reuters.com is your online source for the latest India news stories and current events, ensuring our readers up to date with any breaking news developments
+  LinkedPageStatus: error: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/world/india/
+  LinkedPageSummaryWords: 0
+
+- India | Latest News & Updates | BBC News
+  https://www.bbc.co.uk/news/world/asia/india
+  Get all the latest news , live updates and content about India from across the BBC.
+  LinkedPageStatus: ok (https://www.bbc.co.uk/news/world/asia/india)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Features Watch Latest Updates 23:00 GMT 'We pray for peace': Indian filmmaker from troubled state who won a Bafta , published at 23:00 GMT 'We pray for peace': Indian filmmaker from troubled state who won a Bafta Attribution Asia 11:25 GMT The taekwondo teacher tasked with healing India's troubled state , published at 11:25 GMT The taekwondo teacher tasked with healing India's troubled state Attribution Asia 08:20 GMT India and US defer trade talks after Supreme Court's tariff ruling , published at 08:20 GMT India and US defer trade talks after Supreme Court's tariff ruling Attribution Asia 06:19 GMT 'Biggest challenge' for travel boss on tuk-tuk trek , published at 06:19 GMT 'Biggest challenge' for travel boss on tuk-tuk trek Attribution Dorset 00:40 GMT How budget fast fashion is taking small-town India by storm , published at 00:40 GMT How budget fast fashion is taking small-town India by storm Attribution Asia 00:30 GMT 22 February How football is helping girls fight against forced marriage , published at 00:30 GMT 22 February How football is helping girls fight against forced marriage Attribution Asia 01:21 GMT 21 February How photography helped the British empire classify India , published at 01:21 GMT 21
+
+

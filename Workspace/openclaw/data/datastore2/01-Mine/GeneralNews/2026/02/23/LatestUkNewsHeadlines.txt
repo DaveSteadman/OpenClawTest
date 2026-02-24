@@ -1,0 +1,67 @@
+Domain: GeneralNews
+Query: latest UK news headlines
+Timestamp: 2026-02-23T23:26:35
+PerPageSummaryWords: 200
+- UK | Latest News & Updates - BBC
+  https://www.bbc.co.uk/news/uk
+  Get all the latest news , live updates and content about the UK from across the BBC.
+  LinkedPageStatus: ok (https://www.bbc.co.uk/news/uk)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Watch/Listen Features & analysis More from the UK Latest Updates 23:00 GMT 'Ukraine will always be home - but Scotland is now home too' , published at 23:00 GMT 'Ukraine will always be home - but Scotland is now home too' Attribution NE, Orkney & Shetland 23:00 GMT A hotel with rooms for students? People thought there would be chaos , published at 23:00 GMT A hotel with rooms for students? People thought there would be chaos Attribution Scotland 22:26 GMT Valleys football club could become first to power its ground with water , published at 22:26 GMT Valleys football club could become first to power its ground with water Attribution Wales 22:11 GMT 'I don't want him going abroad to die' says mum of son's assisted dying wish , published at 22:11 GMT 'I don't want him going abroad to die' says mum of son's assisted dying wish Attribution Wales 20:33 GMT Noah's mental health considered in investigation, says officer , published at 20:33 GMT Noah's mental health considered in investigation, says officer Attribution Northern Ireland 20:30 GMT Queen tells GisÃ¨le Pelicot her new memoir left her 'speechless' , published at 20:30 GMT Queen tells GisÃ¨le Pelicot her new
+
+- UK News - Breaking News UK & UK Newspaper Stories - Express.co.uk
+  https://www.express.co.uk/news/uk
+  Breaking UK news headlines and stories from around Britain from Express.co. uk . Featuring the latest news stories, features, analysis, videos and pictures.
+  LinkedPageStatus: ok (https://www.express.co.uk/news/uk)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The picturesque wild moorland is popular with dog walkers, but owners are warned of possible... Two stores are closing after 30 years, with owners blaming online fast fashion and the cost of... Lidl has given shoppers an update as it gears up to open in a slew of new stores across the country. Motorway camer footage shows traffic at a complete standstill. Tamer Zeki was left at his wits' end before a new chance came along If confirmed, the move would place Ju Ae at the centre of North Korea's strategic weapons... Eligible households can get thousands of pounds worth of support per year. The registry office building in leafy Macclesfield was opened back in 1876 but now disgracefully... A campaign group has been granted judicial review of the demolition. Biographer believes he may have cracked the case of the slain starlet whose death spawned books... Iceland has announced that another one of its stores will close in the coming weeks. The... Australian prosecutors to review decades-old case of missing British toddler Cheryl Grimmer. The officer was forced to explain freedom of speech laws after a Christian preacher was heckled... A mysterious tragedy unfolds in London's waterways as dozens of
+
+- UK News - The latest headlines from the UK | Sky News
+  https://news.sky.com/uk
+  Expert comment and analysis on the latest UK news , with headlines from England, Scotland, Northern Ireland and Wales.
+  LinkedPageStatus: ok (https://news.sky.com/uk)
+  LinkedPageSummaryWords: 167
+  LinkedPageSummary:
+  Breaking Breaking Live Live Breaking Breaking Live Live Mandelson arrested on suspicion of misconduct in public office 45 minutes ago 45 mins ago Mandelson will continue to be a headache for the PM, says former Starmer aide 1 hour ago 1 hr ago US must increase demand for action, former defence lawyer for survivors says 1 hour ago 1 hr ago Watch: Why was Mandelson arrested? 1 hour ago 1 hr ago MPs to debate Andrew Mountbatten-Windsor tomorrow 1 hour ago 1 hr ago Giuffre's family praise 'meaningful action' 1 hour ago 1 hr ago 'We won't see Mandelson slumped in the back of a car' 2 hours ago 2 hrs ago Jon Craig: What a risk Mandelson turned out to be 2 hours ago 2 hrs ago What we know so far 2 hours ago 2 hrs ago What happens to Mandelson in custody? 3 hours ago 3 hrs ago Government must not use Mandelson arrest as excuse for delaying files release, says MP More updates
+
+- Latest UK news | The Guardian
+  https://www.theguardian.com/uk-news
+  Latest news , breaking news and current affairs coverage from across the UK from theguardian.com
+  LinkedPageStatus: ok (https://www.theguardian.com/uk-news)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  UK latest news Trump threatens ‘obnoxious’ tariffs as UK and EU seek clarity on trade deals US president suggests trade war could escalate as administration says it will stop collecting levies ruled illegal by supreme court Met police arrest former British ambassador to US Peter Mandelson – as it happened Inquiry into Andrew’s links to Jeffrey Epstein is matter for MPs, says No 10 Jeremy Hunt urges medics to do more to improve detection of rare childbirth condition Nottingham killer was not sectioned because of his race, inquiry told Parents of children with Send give changes in England a mixed response Ex-Mail on Sunday editor denies misleading inquiry over private investigator Stock markets stumble as global trade faces more Trump tariff uncertainty Ex-DJ jailed in London for selling fake parts to airlines All stories UK politics Peter Mandelson timeline: what have been his key jobs and past scandals? The former ambassador, now under arrest, has had plenty of ups and downs in his career of more than 40 years in the Labour party Telegraph suitor considers legal action against UK government over rival bid Reform UK’s ICE-style deportation plan condemned as ‘sadistic’ Martin Lewis ambushes Badenoch on Good Morning Britain
+
+- Google News - United Kingdom - Latest
+  https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE
+  Read full articles, watch videos, browse thousands of titles and more on the "United Kingdom" topic with Google News .
+  LinkedPageStatus: ok (https://consent.google.com/ml?continue=https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE&gl=GB&hl=en-US&cm=2&pc=n&src=1&escs=AZ8E49BaB09KHJ_VOXBJA-1ZhIaAhHtED3iB6HPXbwHreHXc9ks2DICWuy1YRVBKheZfvt5knMuulhcBWBkJbYJVNXNKh5d6sKt8)
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  Select “More options” to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+- UK news: Latest stories & updates - The Telegraph
+  https://www.telegraph.co.uk/news/uk/
+  Find all the latest news and updates from stories around the UK . Including politics, transport, education, health and religion.
+  LinkedPageStatus: error: 402 Client Error: Payment Required for url: https://www.telegraph.co.uk/news/uk/
+  LinkedPageSummaryWords: 0
+
+- UK News: Latest breaking headlines, top stories and updates
+  https://metro.co.uk/news/uk/
+  Find out all latest UK news from England, Wales, Scotland and Northern Ireland including breaking and exclusive headlines and stories from Metro.co. uk .
+  LinkedPageStatus: ok (https://metro.co.uk/news/uk/)
+  LinkedPageSummaryWords: 101
+  LinkedPageSummary:
+  Two 'sadistic' students filmed themselves blowing up lamb with fireworks Peter Mandelson arrested on suspicion of misconduct in public office Family mourn mum and daughter, 7, killed after car swerved off road Killamarsh killer handed life sentence for another claw hammer attack in prison Mastermind behind Andrew arrest artwork hanging in the Louvre says security were laughing YouTuber 'set up fake livestream as alibi before pregnant partner's murder' Posts calling on a 'violent street fight' between children spread across more schools Co-founder of HIV charity Terrence Higgins Trust dies 'I struggle to buy food because self-checkouts aren't designed for wheelchair users'
+
+- The Independent | Latest news and features from US, UK and worldwide
+  https://www.independent.co.uk/
+  The Independent delivers breaking news , features, and opinions on UK and world events, politics, culture, sports, and more.
+  LinkedPageStatus: ok (https://www.independent.co.uk/)
+  LinkedPageSummaryWords: 73
+  LinkedPageSummary:
+  Prestianni allegedly racially abused Real Madrid winger Vinicius Jr during last week’s Champions League knockout play-off first leg Save 10 per cent on appliances and more with the latest Marks Electrical promo codes Save 10 per cent on appliances and more with the latest Marks Electrical promo codes Please refresh the page or navigate to another page on the site to be automatically logged in Please refresh your browser to be logged in
+
+

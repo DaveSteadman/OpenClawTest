@@ -1,0 +1,73 @@
+Domain: SAAB
+StartURL: https://www.saab.com/newsroom
+Timestamp: 2026-02-24T22:03:22
+PerPageSummaryWords: 220
+StartPageSummaryWords: 64
+StartPageSummary:
+Competing in the international market, requires a strong global presence. We continue to strengthen our presence in key markets, develop innovative solutions and acquire companies in prioritised areas. Saab's products are sold to over 100 countries and we currently operate in over 30 countries. Saab produces a variety of images and videos to watch and download. Phone: +46 734 180 018 / Email: presscentre@saabgroup.com
+
+- Link 1
+  AnchorText: 24 Feb Press release - Regulatory Notice of Annual General Meeting of Saab AB The shareholders of Saab Aktiebolag (Reg. No. 556036-0793) are invited to attend the Annual General Meeting in Saab’s hangar, Åkerbogatan 10, Linköping, Sweden on Wednesday, 1 April 2026 at 15.00 (CEST).
+  URL: https://www.saab.com/newsroom/press-releases/2026/notice-of-annual-general-meeting-of-saab-ab
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  Admission and registration will commence at 13.30 (CEST). An air show with Gripen is planned to take place about 14.00 (CEST). The shareholders will also have the opportunity to exercise their voting rights by postal voting prior to the Meeting. The Board of Directors has decided that it will be possible to follow the Annual General Meeting via webcast on the company’s website www.saab.com/agm . Security controls are conducted at the entrance. Please bring valid identification. It is not allowed to bring bags to the Annual General Meeting. Outerwear must be left in the cloakroom. The Annual General Meeting will be conducted in Swedish. Shareholders who wish to attend the meeting venue in person or by proxy must: Notification must include name, personal- or corporate identification number, address and telephone number, and the number of any assistants (not more than two). If the shareholder is represented by proxy, a written and dated power of attorney signed by the shareholder shall be issued for the proxy. If the power of attorney has been issued by a legal entity, registration certificate or equivalent authorization document must be enclosed. In order to facilitate the registration at the Meeting, the power of attorney, registration certificate and other authorization documents, should be received by the company at the address stated above well in advance of
+
+- Link 2
+  AnchorText: 18 Feb Press release Sale of shares in Saab Saab’s President and CEO Micael Johansson and Deputy CEO Anders Carp have sold shares in Saab for the purpose of paying tax.
+  URL: https://www.saab.com/newsroom/press-releases/2026/sale-of-shares-in-saab
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 182
+  LinkedPageSummary:
+  Saab’s President and CEO Micael Johansson and Deputy CEO Anders Carp have sold shares in Saab for the purpose of paying tax. The sale of shares has been made in order to pay tax arising from the allocation of shares in the company’s long-term incentive programme. On 18 February, Saab’s CEO Micael Johansson sold 14,000 shares in Saab. Following the sale, Micael Johansson owns 343,299 shares in Saab. On 18 February, Saab’s Deputy CEO Anders Carp sold 4,500 shares in Saab. Following the sale, Anders Carp owns 95,798 shares in Saab. Saab Press Centre +46 (0)734 180 018 presscentre@saabgroup.com Saab is a leading defence and security company with an enduring mission, to help nations keep their people and society safe. Empowered by its 27,000 talented people, Saab constantly pushes the boundaries of technology to create a safer and more sustainable world. Saab designs, manufactures and maintains advanced systems in aeronautics, weapons, command and control, sensors and underwater systems. Saab is headquartered in Sweden. It has major operations all over the world and is part of the domestic defence capability of several nations.
+
+- Link 3
+  AnchorText: 13 Feb Press release Saab and Joint Stock Company “Ukrainian Defense Industry” sign memorandum of understanding Saab and the Joint Stock Company “Ukrainian Defense Industry” (JSC UDI) have signed a Memorandum of Understanding (MoU) regarding their intention to collaborate in the areas of aviation and airborne surveillance, in which they have complementary expertise. The aim is to strengthen Ukraine’s defence capabilities.
+  URL: https://www.saab.com/newsroom/press-releases/2026/saab-and-joint-stock-company-ukrainian-defense-industry-sign-memorandum-of-understanding
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  Saab and the Joint Stock Company “Ukrainian Defense Industry” (JSC UDI) have signed a Memorandum of Understanding (MoU) regarding their intention to collaborate in the areas of aviation and airborne surveillance, in which they have complementary expertise. The aim is to strengthen Ukraine’s defence capabilities. The MoU was signed today at the Munich Security Conference 2026 in Germany. JSC UDI has a strong track record as a strategic manufacturer of weapons and military hardware. By consolidating state enterprises and companies, it has become an integral part of Ukraine’s security and defence sector. Saab will contribute its solid defence industry experience and leading expertise in aviation and airborne surveillance technology. “We look forward to collaborating with JSC UDI, exploring cooperation opportunities relating to Ukraine. Saab is strongly committed to supporting Ukraine’s defence capability and its defence sector,” says Anders Carp, Deputy CEO of Saab. Saab Press Centre +46 (0)734 180 018 presscentre@saabgroup.com Saab is a leading defence and security company with an enduring mission, to help nations keep their people and society safe. Empowered by its 27,000 talented people, Saab constantly pushes the boundaries of technology to create a safer and more sustainable world. Saab designs, manufactures and maintains advanced systems in aeronautics, weapons, command and control, sensors and underwater systems. Saab is headquartered in Sweden. It has major operations all
+
+- Link 4
+  AnchorText: Saab in cooperation with Babcock for the Swedish Navy’s Future Surface Combatants The development of the four new Surface combatants of the Luleå class for Sweden continues. Contracted by The Swedish Defence Materiel Administration, FMV, Saab proceeds to manage the basic design phase of the project, supported by Babcock.
+  URL: https://www.saab.com/newsroom/stories/2024/may/saab-in-cooperation-with-babcock-for-the-swedish-navys-future-surface-combatants
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  The development of the four new Surface combatants of the Luleå class for Sweden continues. Contracted by The Swedish Defence Materiel Administration, FMV, Saab proceeds to manage the basic design phase of the project, supported by Babcock. The contract with Babcock follows the Strategic Cooperation Agreement signed by both parties at DSEI in September 2023. Saab will develop a so-called basic design for the Luleå class, Babcock will support with engineering; among other things structural design and auxiliary systems. Saab’s expertise in combination with Babcock’s know-how will contribute to the new Surface Combatants capabilities. During a visit to Babcock’s Rosyth facility in Scotland, senior representatives from Saab, the Swedish Navy, UK Royal Navy, FMV and Babcock marked the beginning of the ambitious new collaboration in naval programme delivery, which follows the Strategic Cooperation Agreement signed by Saab and Babcock at DSEI in September 2023. “We are proud to take on the mission to start the basic design of the new Luleå-class for Sweden and happy to cooperate with Babcock in this project. This is an important collaboration between Swedish and British shipbuilders, and I am looking forward to a close teamwork to strengthen the Swedish capabilities at sea.”, said Mats Wicksell, SVP and Head of Business Area Kockums, Saab. David Lockwood, Babcock CEO, said: “This is a hugely important programme
+
+- Link 5
+  AnchorText: Story Forging the future of radar technology The year was 2018, and the popularity of AI and machine learning was on the rise. At the same time, a student studying computer science decided to focus his thesis on this flourishing field. Fast forward a few years, and he has now become a Scrum Master for a team developing the next-generation radar detector systems at Saab. Allow us to introduce Eric Norgren.
+  URL: https://www.saab.com/newsroom/stories/2024/january/Forging-the-future-of-radar-technology
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  The year was 2018, and the popularity of AI and machine learning was on the rise. At the same time, a student studying computer science decided to focus his thesis on this flourishing field. Fast forward a few years, and he has now become a Scrum Master for a team developing the next-generation radar detector systems at Saab. Allow us to introduce Eric Norgren. Eric Norgren's passion for technology has been present in his life for as long as he can remember. As a child, when playing around with his remote-controlled car, he enjoyed it the most when it broke because then he had the opportunity to try out his tech skills when building it back together again. Today, he utilizes his curiosity for technology and all its possibilities here at Saab "I got in touch with Saab through a friend who, at the time, was going to write his thesis here. They needed another person, so he recommended me. What intrigued me at that moment was the chance to work with AI and machine learning applications. It was a rapidly emerging field, which generated a lot of buzz at school, and Saab was also keen on making it a focal point, so I was one of the early team members to dive into this exciting area," Eric shares. Finding
+
+- Link 6
+  AnchorText: Story Good things come in small packages If your perception of advanced passive sensors involves inflexible fixed installations, think again. A new generation of highly portable Saab sensors is enhancing situational awareness on the land, water and in the sky.
+  URL: https://www.saab.com/newsroom/stories/2024/march/good-things-come-in-small-packages
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  If your perception of advanced passive sensors involves inflexible fixed installations, think again. A new generation of highly portable Saab sensors is enhancing situational awareness on the land, water and in the sky. Picture this. Sometime in the not-too-distant future, an enemy jet aircraft has just quietly slipped over an isolated part of your national border. Its task: destroying a critical piece of infrastructure. As the jet speeds deeper into your airspace, the pilot uses radar and weapons systems to search for threats such as other aircraft and Ground Based Air Defence (GBAD) batteries. But what they can’t see are your passive sensors on the ground. Many kilometres away on a ridge, a small network of man-portable passive sensors has detected the jet’s approach and through triangulation determined its position, bearing and speed. By analysing its distinctive electronic signature, the sensor system quickly identifies it as a threat and alerts a nearby GBAD unit. The unit switches on its radar and quickly fires a series of missiles to neutralise the aircraft. Passive sensors have long been a vital part of most nations’ defence, surveillance and intelligence gathering capabilities. Unlike radar systems which emit electromagnetic radiation to locate and track targets, passive systems work instead by detecting and analysing those same type of electromagnetic emissions emitted by other sources, for instance
+
+- Link 7
+  AnchorText: Go to Stories
+  URL: https://www.saab.com/newsroom/stories
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 57
+  LinkedPageSummary:
+  Competing in the international market, requires a strong global presence. We continue to strengthen our presence in key markets, develop innovative solutions and acquire companies in prioritised areas. Saab's products are sold to over 100 countries and we currently operate in over 30 countries. Get to know our business and our people by reading our latest stories.
+
+- Link 8
+  AnchorText: Images and Videos
+  URL: https://www.saab.com/newsroom/images-and-video
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 107
+  LinkedPageSummary:
+  Saab produces a variety of images and videos to watch and download. Here you find our approved logotype with general guidelines on how to use it. Here you find our image bank with images in high resolution ready for you to download. Information about the photo and what photo credit should be given are stated for each photo. Visit here to see Saab’s popular products in video. Feel free to share or use the B-roll for editorial purposes. Visit our official Saab YouTube channel and don't forget to subscribe. Here you can find images to make your mobile phone or desktop extra cool with some great wallpapers.
+
+

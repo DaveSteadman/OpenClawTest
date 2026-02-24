@@ -1,0 +1,67 @@
+Domain: Leonardo
+Query: Leonardo defence latest contract awards
+Timestamp: 2026-02-23T23:35:13
+PerPageSummaryWords: 200
+- Leonardo set for Fleet Solid Support ship IFF contract award
+  https://ukdefencejournal.org.uk/leonardo-set-for-fleet-solid-support-ship-iff-contract-award/
+  Leonardo UK has been awarded a £12.5m contract to supply three Identification Friend or Foe (IFF) systems for the Fleet Solid Support ships along with tech support and spares for Type 31 frigates.
+  LinkedPageStatus: ok (https://ukdefencejournal.org.uk/leonardo-set-for-fleet-solid-support-ship-iff-contract-award/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A UK6 contract award notice, published on 7 August 2025, confirms the Ministry of Defence’s decision but makes clear the deal has not yet been signed. Under UK procurement rules, the publication of a UK6 notice starts a standstill period of at least eight working days before a contract can be finalised. In this case, the standstill ends on 18 August, with 5 September listed as the earliest possible signing date. The notice covers “procurement of three IFF systems for Fleet Solid Support (FSS) with technical support and spares for both Type 31 and FSS.” The award has been made via direct award to Leonardo UK Limited, with options for additional purchases and warranty extensions during the contract’s life. Identification Friend or Foe is a vital capability in modern naval ops. It uses encrypted transponders and interrogators to allow ships and aircraft to identify allied or neutral forces and distinguish them from potential threats. IFF reduces the risk of fratricide, especially in complex maritime and littoral environments where multiple allied units may be operating in close proximity. Without reliable IFF, forces risk delays in engagement or accidental targeting of friendly assets. The systems to be supplied will also need to
+
+- Leonardo awarded new contract to drive forward new high-tech protection ...
+  https://uk.leonardo.com/en/news-and-stories-detail/-/detail/leonardo-awarded-new-contract-to-drive-forward-new-high-tech-protection-system-for-british-army-vehicles
+  The Defence Science and Technology Laboratory (Dstl) has placed a new contract through the Aurora Engineering Delivery Partnership (EDP) for a programme targeted to improve the survivability and protection of Land Armoured Vehicles in the British Army.
+  LinkedPageStatus: ok (https://uk.leonardo.com/en/news-and-stories-detail/-/detail/leonardo-awarded-new-contract-to-drive-forward-new-high-tech-protection-system-for-british-army-vehicles)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Under the EDP framework, QinetiQ is lead EDP partner, and Leonardo UK is the Principal Systems Integrator. Leonardo will lead a team of major defence companies, under the name of Team Minerva, which includes: Thales, CGI, Roke, Ultra Electronics and Frazer Nash. The programme is the successor to the Leonardo-led Icarus Technology Demonstrator Programme (TDP) , which was concluded in July 2021. The new contract represents the second development phase of the UK Modular Integrated Protection System (MIPS) programme for the development of a new pan-fleet active protection system architecture for British Army vehicles, including tanks and armoured personnel carriers, to handle existing, new and future threats. Richard Muir, Vice President Sales Integrated Sensing and Protection, Leonardo UK, said: “We are excited to be working with Dstl and QinetiQ in leading the Minerva Team on this latest phase of the UK Modular Integrated Protection System programme. MIPS will be a life-saving technology that will also provide the UK with operational independence for a critical British Army capability.” Jamie MacKenzie, Head of Business Development, UK Defence, QinetiQ, said: “QinetiQ is delighted that Dstl has selected the Engineering Delivery Partnership for this critical next phase of research. Specifically, phase II of the
+
+- Enemy weapons detector in the hands of soldiers five years early
+  https://des.mod.uk/enemy-weapons-detector-in-the-hands-of-soldiers-five-years-early/
+  Defence supplier Leonardo UK have been awarded the £18.3 million contract by the Army five-years earlier than originally planned. The works sustains 250 jobs across the UK, notably at Leonardo's Basildon site, as well as through 29 small and medium sized enterprises (SMEs). The procurement is happening as part of the largest sustained increase in defence spending since the end of the Cold ...
+  LinkedPageStatus: ok (https://des.mod.uk/enemy-weapons-detector-in-the-hands-of-soldiers-five-years-early/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  British soldiers will be able to more aggressively hunt, detect, and locate hostile gunfire, as well as receive a further layer of protection on the battlefield, with the early delivery of new technology. Through SONUS – a new system to detect enemy weapons – UK forces will now have access to a capability that weighs 70% less than its predecessor, making it easier to transport and able to deploy in under three minutes. SONUS works by detecting acoustic pressure waves from gunfire, mortars and explosions. This form of detection means the system can operate covertly, without emitting an electronic signature, helping troops to avoid enemy fire. It will also enable soldiers to identify targets faster and more accurately, meaning they can take evasive or offensive action more effectively. Defence supplier Leonardo UK have been awarded the £18.3 million contract by the Army five-years earlier than originally planned. The works sustains 250 jobs across the UK, notably at Leonardo’s Basildon site, as well as through 29 small and medium sized enterprises (SMEs). The procurement is happening as part of the largest sustained increase in defence spending since the end of the Cold War – hitting 2.6% of GDP from 2027. Minister
+
+- Leonardo DRS Awarded Contracts for the Missile Defense Agency SHIELD ...
+  https://www.leonardodrs.com/news/press-releases/leonardo-drs-awarded-contracts-for-the-missile-defense-agency-shield-idiq/
+  Leonardo DRS is a leading U.S. defense technology company with operations across the country, rapidly designing, manufacturing, and delivering diverse, innovative, integrated technologies that advance next-generation air and missile defense capabilities across all domains.
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.leonardodrs.com/news/press-releases/leonardo-drs-awarded-contracts-for-the-missile-defense-agency-shield-idiq/
+  LinkedPageSummaryWords: 0
+
+- Leonardo huge jobs boost as government agrees UK-wide defence deal - MSN
+  https://www.msn.com/en-gb/news/uknews/leonardo-huge-jobs-boost-as-government-agrees-uk-wide-defence-deal/ar-AA1C4Bh7
+  A £165 million contract with Leonardo to secure the upkeep of the Royal Navy's fleet of Merlin helicopters has been announced. The agreement supports the government's Plan for Change by ...
+  LinkedPageStatus: ok (https://www.msn.com/en-gb/news/uknews/leonardo-huge-jobs-boost-as-government-agrees-uk-wide-defence-deal/ar-AA1C4Bh7)
+  LinkedPageSummaryWords: 1
+  LinkedPageSummary:
+  MSN
+
+- UK awards £165m contract extension to Leonardo - avitrader.com
+  https://avitrader.com/2025/04/02/uk-awards-165m-contract-extension-to-leonardo-for-merlin-helicopter-maintenance/
+  The Italian defence company Leonardo has been awarded a £165 million (US$213 million) contract extension by the British government to continue maintaining the Royal Navy's fleet of 54 Merlin helicopters, according to The Guardian. The deal underscores the UK's commitment to increasing defence spending amid growing security concerns.
+  LinkedPageStatus: ok (https://avitrader.com/2025/04/02/uk-awards-165m-contract-extension-to-leonardo-for-merlin-helicopter-maintenance/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The Italian defence company Leonardo has been awarded a £165 million (US$213 million) contract extension by the British government to continue maintaining the Royal Navy’s fleet of 54 Merlin helicopters , according to The Guardian . The deal underscores the UK’s commitment to increasing defence spending amid growing security concerns. Keir Starmer’s government has pledged to raise military expenditure to 2.5% of gross domestic product by 2027. Officials stated that the contract extension with Leonardo would enhance national security while also supporting jobs across the country. Leonardo confirmed that the extension will help sustain around 1,000 jobs, including 200 positions at its Yeovil factory in Somerset and a further 800 roles throughout the wider UK supply chain. The agreement will also support employment at the Royal Navy’s airbase at Culdrose in Cornwall. The Ministry of Defence highlighted the strategic importance of the Merlin helicopters, describing them as “submarine hunters” capable of intercepting pirates and drug traffickers, conducting search and rescue missions, and transporting essential personnel and supplies. Maria Eagle, Minister for Defence Procurement and Industry, emphasised the significance of the investment, stating: “This investment demonstrates our unwavering commitment to maintaining cutting-edge defence capabilities that keep us safe, while utilising defence
+
+- Leonardo | Defence Today
+  https://www.defencetoday.com/topic/leonardo/
+  Leonardo and Rheinmetall, through their joint venture Leonardo Rheinmetall Military Vehicles (LRMV), handed over the first four Lynx infantry...
+  LinkedPageStatus: ok (https://www.defencetoday.com/topic/leonardo/)
+  LinkedPageSummaryWords: 28
+  LinkedPageSummary:
+  Defence Today is an online publication covering global defence and security. Military platforms and systems. C4ISR and cyber security. Strategic intelligence and emerging threats. Published in Ayrshire, Scotland.
+
+- New contract with defence prime Leonardo - London Stock Exchange
+  https://www.londonstockexchange.com/news-article/FTC/new-contract-with-defence-prime-leonardo/17058771
+  Filtronic wins new contract with defence prime Leonardo Filtronic plc (AIM: FTC), the designer and manufacturer of products for the aerospace, defence , space and telecoms infrastructure markets, is pleased to announce a new contract win to supply high-performance modules for an airborne radar application with its lead defence customer, Leonardo .
+  LinkedPageStatus: ok (https://www.londonstockexchange.com/news-article/FTC/new-contract-with-defence-prime-leonardo/17058771)
+  LinkedPageSummaryWords: 7
+  LinkedPageSummary:
+  London Stock Exchange | London Stock Exchange
+
+
