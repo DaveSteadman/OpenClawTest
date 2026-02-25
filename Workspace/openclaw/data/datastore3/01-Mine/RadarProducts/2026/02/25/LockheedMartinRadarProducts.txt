@@ -1,0 +1,81 @@
+Domain: RadarProducts
+Query: lockheed martin radar products
+Timestamp: 2026-02-25T23:01:23
+PerPageSummaryWords: 200
+- Media - Lockheed Martin - Releases
+  https://news.lockheedmartin.com/2026-02-02-Lockheed-Martin-Delivers-First-Sentinel-A4-from-LRIP-2-Advances-Toward-Full-Rate-Production
+  SYRACUSE, N.Y., Feb . 2, 2026 — Lockheed Martin (NYSE: LMT) has delivered the first Sentinel A4 radar from Low-Rate Initial Production (LRIP) 2 to the U.S. Army and completed the first phase of Initial Operational Test and Evaluation, accelerating the program closer to full-rate production. "This delivery is a major milestone in getting next-generation radar capability to the warfighter to ...
+  LinkedPageStatus: ok (https://news.lockheedmartin.com/2026-02-02-Lockheed-Martin-Delivers-First-Sentinel-A4-from-LRIP-2-Advances-Toward-Full-Rate-Production)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin Delivers First Sentinel A4 from LRIP 2, Advances Toward Full-Rate Production SYRACUSE, N.Y., Feb. 2, 2026 — Lockheed Martin (NYSE: LMT) has delivered the first Sentinel A4 radar from Low-Rate Initial Production (LRIP) 2 to the U.S. Army and completed the first phase of Initial Operational Test and Evaluation, accelerating the program closer to full-rate production. "This delivery is a major milestone in getting next-generation radar capability to the warfighter to address the threats of today and tomorrow,” said Rick Cordaro, vice president of Lockheed Martin's Radar and Sensor Systems. “Sentinel A4 expands battlespace awareness and improves layered defense against cruise missiles, unmanned aerial systems and rotary- and fixed-wing threats in complex environments.” Lockheed Martin will continue to deliver Sentinel A4 systems, directly supporting the U.S. Army’s fielding plans and operational testing. These fielded systems will help refine tactics, validate performance in real-world settings and ensure the radar is ready to meet operational demands. With broad and deep experience developing and delivering advanced radar solutions to customers, Lockheed Martin’s high-performing, high-reliability radar systems specialize in advanced early warning, counter target acquisition, situational awareness and integrated air and missile defense. Lockheed Martin radars are designed with a high degree
+
+- US Army Receives First LRIP 2 Sentinel A4 Radar From Lockheed Martin
+  https://thedefensepost.com/2026/02/03/us-army-sentinel-a4-lrip/
+  The US Army has taken delivery of the first of 19 Sentinel A4 radars , part of low-rate initial production (LRIP) 2, from Lockheed Martin .
+  LinkedPageStatus: ok (https://thedefensepost.com/2026/02/03/us-army-sentinel-a4-lrip/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The US Army has taken delivery of the first of 19 Sentinel A4 radars, part of low-rate initial production (LRIP) 2, from Lockheed Martin. The army approved the LRIP in August 2023 , under which the Sentinel A4 will replace the currently fielded Sentinel A3 radar and integrate into the service’s Integrated Air and Missile Defense Battle Command System and Indirect Fire Protection Capability. Moreover, the handover follows completion of the first phase of Initial Operational Test and Evaluation, during which the radar was integrated with the Forward Area Air Defense Command and Control (FAAD-C2), moving the program closer to full-rate production. “This delivery is a major milestone in getting next-generation radar capability to the warfighter to address the threats of today and tomorrow,” said Rick Cordaro , VP of Lockheed Martin’s Radar and Sensor Systems. While neither the service nor Lockheed disclosed which units would first receive the radar, previous reporting by The War Zone cited an army officer stating that the first full deployment of Sentinel A4 will take place in the National Capital Region around Washington, DC. While several of its specific capabilities remain classified, the Sentinel A4 is known to feed precise tracking data into the
+
+- Lockheed Martin Delivers First Sentinel A4 Radar from LRIP 2, Nears ...
+  https://uasweekly.com/2026/02/03/lockheed-martin-delivers-first-sentinel-a4-radar-from-lrip-2-nears-full-rate-production/
+  Lockheed Martin delivers the first Sentinel A4 radar from Low-Rate Initial Production Lot 2, marking key progress in modernizing U.S. Army air and missile defense with enhanced counter-UAS, cruise missile, and drone detection capabilities as the program advances toward full-rate production. Read more at uasweekly.com.
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://uasweekly.com/2026/02/03/lockheed-martin-delivers-first-sentinel-a4-radar-from-lrip-2-nears-full-rate-production/
+  LinkedPageSummaryWords: 0
+
+- Lockheed Martin delivers second lot Sentinel A4 radar to US Army
+  https://www.spacedaily.com/reports/Lockheed_Martin_delivers_second_lot_Sentinel_A4_radar_to_US_Army_999.html
+  Los Angeles CA (SPX) Feb 03, 2026 - Lockheed Martin has delivered the first Sentinel A4 radar from the second Low Rate Initial Production tranche to the US Army, marking a key step toward full rate production of the new air and missil
+  LinkedPageStatus: ok (https://www.spacedaily.com/reports/Lockheed_Martin_delivers_second_lot_Sentinel_A4_radar_to_US_Army_999.html)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Lockheed Martin has delivered the first Sentinel A4 radar from the second Low Rate Initial Production tranche to the US Army, marking a key step toward full rate production of the new air and missile defense sensor. The radar recently completed the first phase of Initial Operational Test and Evaluation, which is designed to assess performance in representative operational scenarios and reduce risk before the system enters large scale manufacturing. Company officials describe Sentinel A4 as a next generation, 360 degree Active Electronically Scanned Array radar that expands battlespace awareness and strengthens layered defenses against a broad set of aerial threats. The system is engineered to detect and track cruise missiles, unmanned aircraft systems, helicopters, fixed wing aircraft, rockets, artillery and mortars, giving commanders more time and data to respond to complex air attack profiles. During the initial test and evaluation phase, Sentinel A4 successfully integrated with the Forward Area Air Defense Command and Control system, demonstrating the utility of its open architecture design and its ability to operate within multiple command and control networks. This integration is intended to allow the radar to plug into existing and future battle management systems, share target data rapidly and support joint and
+
+- Lockheed Martin Delivers First LRIP 2 Sentinel A4 Radar
+  https://www.joint-forces.com/defence-equipment-news/88849-lockheed-martin-delivers-first-lrip-2-sentinel-a4-radar
+  Lockheed Martin has delivered the first Sentinel A4 radar from the Low-Rate Initial Production (LRIP) 2 batch to the US Army. ~ News Release, Syracuse NY, 02 February 2026 : Lockheed Martin has delivered the first Sentinel A4 radar from Low-Rate Initial Production (LRIP) 2 to the U.S. Army and completed the first phase of Initial Operational Test and Evaluation, accelerating the programme ...
+  LinkedPageStatus: ok (https://www.joint-forces.com/defence-equipment-news/88849-lockheed-martin-delivers-first-lrip-2-sentinel-a4-radar)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  News Release, Syracuse NY, 02 February 2026 : Lockheed Martin has delivered the first Sentinel A4 radar from Low-Rate Initial Production (LRIP) 2 to the U.S. Army and completed the first phase of Initial Operational Test and Evaluation, accelerating the programme closer to full-rate production. “This delivery is a major milestone in getting next-generation radar capability to the warfighter to address the threats of today and tomorrow,” said Rick Cordaro, vice president of Lockheed Martin’s Radar and Sensor Systems. “Sentinel A4 expands battlespace awareness and improves layered defence against cruise missiles, unmanned aerial systems and rotary- and fixed-wing threats in complex environments.” What’s Next: Lockheed Martin will continue to deliver Sentinel A4 systems, directly supporting the U.S. Army’s fielding plans and operational testing. These fielded systems will help refine tactics, validate performance in real-world settings and ensure the radar is ready to meet operational demands. Proven Radar Experience: With broad and deep experience developing and delivering advanced radar solutions to customers, Lockheed Martin’s high-performing, high-reliability radar systems specialise in advanced early warning, counter target acquisition, situational awareness and integrated air and missile defence. Lockheed Martin radars are designed with a high degree of commonality, are available in highly mobile configurations,
+
+- Lockheed Martin Delivers First Sentinel A4 Radar from Second Production ...
+  https://www.sahmcapital.com/news/content/lockheed-martin-delivers-first-sentinel-a4-radar-from-second-production-batch-to-us-army-2026-02-02
+  Lockheed Martin Corporation published the original content used to generate this news brief on February 02, 2026 , and is solely responsible for the information contained therein. More This page is machine-translated.
+  LinkedPageStatus: ok (https://www.sahmcapital.com/news/content/lockheed-martin-delivers-first-sentinel-a4-radar-from-second-production-batch-to-us-army-2026-02-02)
+  LinkedPageSummaryWords: 155
+  LinkedPageSummary:
+  Lockheed Martin Corporation has delivered the first Sentinel A4 radar from Low-Rate Initial Production (LRIP) 2 to the U.S. Army, marking a significant milestone in the program. This delivery follows the completion of the first phase of Initial Operational Test and Evaluation. Lockheed Martin will continue to deliver additional Sentinel A4 systems in support of the U.S. Army’s fielding plans and operational testing. The Sentinel A4 radar is designed to provide improved battlespace awareness and layered defense capabilities, and will replace the currently fielded Sentinel A3 radar. Disclaimer: This news brief was created by Public Technologies (PUBT) using generative artificial intelligence. While PUBT strives to provide accurate and timely information, this AI-generated content is for informational purposes only and should not be interpreted as financial, investment, or legal advice. Lockheed Martin Corporation published the original content used to generate this news brief on February 02, 2026, and is solely responsible for the information contained therein.
+
+- 2026 Look Ahead: Delivering the Future of Defense Tech
+  https://www.lockheedmarten.com/en-us/news/features/2026/2026-Look-Ahead-Delivering-the-Future-of-Defense.html
+  A cornerstone of our 21st Century Security® vision is the digital transformation of how we design, build, and operate. Autonomous Systems - Saildrone sea trials, Lockheed Martin Vectis™, distributed autonomous sensors and 5G.MIL nodes illustrate a future where platforms sense, decide, and act with minimal human latency.
+  LinkedPageStatus: error: HTTPSConnectionPool(host='www.lockheedmarten.com', port=443): Max retries exceeded with url: /en-us/news/features/2026/2026-Look-Ahead-Delivering-the-Future-of-Defense.html (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.lockheedmarten.com'. (_ssl.c:1081)")))
+  LinkedPageSummaryWords: 0
+
+- Radar - Lockheed Martin
+  https://www.lockheedmartin.com/en-us/capabilities/radar-sensors.html
+  The threats to military and civilian assets are accelerating in volume, diversity, and ferocity every day. In this frenetic environment, the U.S. military and its allies need radar systems that can protect various mission types and adapt to an ever-changing landscape.
+  LinkedPageStatus: ok (https://www.lockheedmartin.com/en-us/capabilities/radar-sensors.html)
+  LinkedPageSummaryWords: 112
+  LinkedPageSummary:
+  Threat deterrence always begins with detection. As escalation from bad actors increases, the U.S. military and its allies need radar systems that can adapt to a range of potential threats in various landscapes. Lockheed Martin radars are the choice of more than 45 nations on 6 continents. We have broad and deep experience developing and delivering high performing, high reliability ground-based, naval and airborne radar solutions, specializing in counter target acquisition, early warning, situational awareness and integrated air and missile defense. Our radars are deployed worldwide and have operated in extremely stressing environments. Lockheed Martin covers all mission spaces with radars that perform surveillance, tracking, classification/discrimination/identification, fire control engagement and kill assessment.
+
+- Lockheed Martin, Fujitsu Sign Initial Contract for SPY-7 Radar Power ...
+  https://www.navalnews.com/naval-news/2026/02/lockheed-martin-fujitsu-sign-initial-contract-for-spy-7-radar-power-supply-units-for-japans-asev/
+  Lockheed Martin and Japanese technology company Fujitsu signed a contract for the initial procurement of components that supply power to the modular Subarray Suite (SAS), a critical element of the SPY-7 radar selected for the Japan Maritime Self-Defense Force's (JMSDF) Aegis System Equipped Vessels (ASEV).
+  LinkedPageStatus: ok (https://www.navalnews.com/naval-news/2026/02/lockheed-martin-fujitsu-sign-initial-contract-for-spy-7-radar-power-supply-units-for-japans-asev/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  On February 12, Lockheed Martin and Japanese technology company Fujitsu signed a contract for the initial procurement of components that supply power to the modular Subarray Suite (SAS), a critical element of the SPY-7 radar selected for the Japan Maritime Self-Defense Force’s (JMSDF) Aegis System Equipped Vessels (ASEV). A signing ceremony held in Tokyo formalized Fujitsu as a supplier of the SPY-7 Subarray Suite Power Supply Line Replaceable Unit (PS LRU). The PS LRU is a mission-critical naval radar assembly that delivers stable and regulated electrical power to the radar’s SAS modules, supporting reliable performance in demanding maritime operating conditions. The contract follows a Memorandum of Understanding (MOU) signed in May 2025 covering supplier selection and industrial partnership arrangements for the SPY-7 program. Under that framework, this marks the first procurement agreement between the two companies. The SPY-7 radar, developed by Lockheed Martin, is based on a scalable gallium nitride (GaN) Active Electronically Scanned Array (AESA) architecture designed to support ballistic missile defense (BMD) and integrated air and missile defense (IAMD) missions. The ASEV program is expected to serve as a core maritime component of Japan’s layered missile defense architecture. “Fujitsu is honored to commence mass production of the PS
+
+- Lockheed Martin and Fujitsu Formalize Industrial Collaboration for ...
+  https://global.fujitsu/en-global/pr/news/2026/02/12-03
+  Lockheed Martin Fujitsu Limited TOKYO, KAWASAKI, Japan, Feb . 12, 2026 Lockheed Martin (NYSE: LMT) and Fujitsu Limited, a Japanese multinational leader in information technology solutions, finalized the first purchase order for a critical component of Japan's Aegis System Equipped Vessel (ASEV)'s SPY-7 radar antenna.
+  LinkedPageStatus: ok (https://global.fujitsu/en-global/pr/news/2026/02/12-03)
+  LinkedPageSummaryWords: 104
+  LinkedPageSummary:
+  Fujitsu’s purpose is to make the world more sustainable by building trust in society through innovation. As the digital transformation partner of choice for customers around the globe, our 113,000 employees work to resolve some of the greatest challenges facing humanity. Our range of services and solutions draw on five key technologies: AI, Computing, Networks, Data & Security, and Converging Technologies, which we bring together to deliver sustainability transformation. Fujitsu Limited (TSE:6702) reported consolidated revenues of 3.6 trillion yen (US$23 billion) for the fiscal year ended March 31, 2025 and remains the top digital services company in Japan by market share. Find out more:
+
+

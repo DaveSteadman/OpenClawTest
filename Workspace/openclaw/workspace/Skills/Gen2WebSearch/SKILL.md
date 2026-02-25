@@ -10,7 +10,7 @@ Combines search from LoggedWebSearchPlus with page extraction quality from Gen2W
 
 ## Execution
 
-python gen2_web_search.py <domain> --query <search_query> --max <number> --timeout <seconds> --page-timeout <seconds> --words <number> --sleep-ms <milliseconds>
+python gen2_web_search.py <domain> --query <search_query> --max <number> --timeout <seconds> --page-timeout <seconds> --words <number> --sleep-ms <milliseconds> --date-context <none|month_year|year> --date <YYYY-MM-DD>
 
 ## Arguments
 
@@ -21,10 +21,15 @@ python gen2_web_search.py <domain> --query <search_query> --max <number> --timeo
 - --page-timeout optional default 15 range 5 to 60
 - --words optional default 200 range 80 to 400
 - --sleep-ms optional default 0
+- --date-context optional default none. Appends date hints to the query using natural tokens:
+	- none uses the query as-is
+	- month_year appends `<mon> <yyyy>` (example `feb 2026`)
+	- year appends `<yyyy>`
+- --date optional reference date in YYYY-MM-DD. Used only to derive date-context tokens; if omitted, today is used.
 
 ## Output
 
-On success returns JSON with domain, query, count, results, log_path, status.
+On success returns JSON with domain, query, effective_query, date_context, query_reference_date, count, results, log_path, status.
 Each result includes title, url, snippet, rank, page_summary, page_words, page_status.
 
 On error returns JSON with domain, query, error, results, count, status.
@@ -32,7 +37,7 @@ On error returns JSON with domain, query, error, results, count, status.
 ## Logging
 
 Writes to:
-{OPENCLAW_ROOT}/data/datastore2/01-Mine/<domain>/YYYY/MM/DD/{QueryName}.txt
+{OPENCLAW_ROOT}/data/datastore3/01-Mine/<domain>/YYYY/MM/DD/{QueryName}.txt
 
 File name is derived from the query text.
 Path resolution is handled by `FolderNavigator.from_fixed_point()` and `get_today_path(area="mine", domain=..., create=True)`.

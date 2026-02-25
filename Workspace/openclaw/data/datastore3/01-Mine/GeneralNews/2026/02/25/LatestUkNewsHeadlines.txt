@@ -1,0 +1,67 @@
+Domain: GeneralNews
+Query: latest UK news headlines
+Timestamp: 2026-02-25T22:56:29
+PerPageSummaryWords: 200
+- Today's views, tomorrow's news - Subscribe today in minutes
+  https://duckduckgo.com/y.js?ad_domain=spectator.com&ad_provider=bingv7aa&ad_type=txad&click_metadata=8QFkQj9dfsuBeDaT5Nagglw%2DIIoKIQDwwPo9HzM_3wKsmFiRzotF_YToINXz8tsH4WHM3glaeK3ga%2DlvieE22ZGdwG%2D2d2prhAEOtRrbb0QF7Cx3wFRoB0dWZZlWCqKlAItEM9z7dPhPCAegTq1nNLDXVynXgmg6zNfG4NXDLaM.xiC25RjUORKA5%2DLUIiI8Eg&rut=f32ec4ba55bf6da707e7622dbe2895b9e98c52eaa430160ad41e11ea7145dca3&u3=https%3A%2F%2Fwww.bing.com%2Faclick%3Fld%3De8Y0ajIn4hlZkv_lJofOll5TVUCUwB2t7Y86C4A8_LFaFjMsjjpo_HX90stJ8p2arP5dgFf9z3GGzyuqGvM7Tv8BwKwu1m1Zd7gWOt1NF5iyfgu32salcI25AFuyqioCoCYnK3TZQUXUXNiExAgxhde7mPlO9JvtHbmHQ20MSNsTEXgcaeKERiussS_CRTwsi1pNtcrZyOjRaIIid6lh_cd_bIuZQ%26u%3DaHR0cHMlM2ElMmYlMmZ3d3cuc3BlY3RhdG9yLmNvbSUyZmNhdGVnb3J5JTJmZWNvbm9taWNzJTJmJTNmbXNjbGtpZCUzZDMzZjY1NzU3Y2Q3YTFmMWZiZGFjM2VjOGIwODgzMWY2JTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkVUslMjU3Q1NwZWN0YXRvciUyNTdDUFBDJTI1N0NQTUFYX0NhdGVnb3JpZXMlMjZ1dG1fdGVybSUzZHd3dy5zcGVjdGF0b3IuY29tJTI2dXRtX2NvbnRlbnQlM2RQTUFYJTI1N0NFY29ub215%26rlid%3D33f65757cd7a1f1fbdac3ec8b08831f6&vqd=4-69689045804990498444615979669643000352&iurl=%7B1%7DIG%3DA11875993ACB4F55A00CC0BCEE3868AB%26CID%3D2928D73A6CFE606E3644C0316DD86101%26ID%3DDevEx%2C5046.1
+  Get in-depth analysis of UK economic trends and global market news with The Spectator. Weekly magazine featuring the best British journalists, authors and critics since 1828.
+  LinkedPageStatus: ok (https://spectator.com/category/economics/?msclkid=33f65757cd7a1f1fbdac3ec8b08831f6&utm_source=bing&utm_medium=cpc&utm_campaign=UK%7CSpectator%7CPPC%7CPMAX_Categories&utm_term=www.spectator.com&utm_content=PMAX%7CEconomy)
+  LinkedPageSummaryWords: 110
+  LinkedPageSummary:
+  Donald Trump’s State of the Union address, the longest in history, served as a reminder of the relentless will and unstoppable energy he brings to the office of the presidency. In a coup de grace he humiliated Congressional Democrats, securing footage of them remaining seated en masse as they refused to accept that the role of the government is to prioritise American citizens. He gently chastised the Supreme Court judges, assembled in the front row, for declaring his tariff programme unlawful last Friday. Our political right should take heed: for all its roughness, this agenda isn’t going away The President’s opponents may be celebrating the judgment, but the Donald is
+
+- UK | Latest News & Updates - BBC
+  https://www.bbc.co.uk/news/uk
+  Get all the latest news , live updates and content about the UK from across the BBC.
+  LinkedPageStatus: ok (https://www.bbc.co.uk/news/uk)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Watch/Listen Features & analysis More from the UK Latest Updates 22:54 GMT Busting the tobacco bandits with Boo the dog , published at 22:54 GMT Busting the tobacco bandits with Boo the dog Attribution Tayside & Central Scotland 22:47 GMT Lord advocate again defends her actions over Murrell memos , published at 22:47 GMT Lord advocate again defends her actions over Murrell memos Attribution Scotland Politics 22:17 GMT 'Total devastation' as two young men die in cross-border crash , published at 22:17 GMT 'Total devastation' as two young men die in cross-border crash Attribution Northern Ireland 21:31 GMT Scottish Budget passes after vote at Holyrood , published at 21:31 GMT Scottish Budget passes after vote at Holyrood Attribution Scotland Politics 20:52 GMT Faisal Islam: Is Reeves right in saying we're turning a corner? , published at 20:52 GMT Faisal Islam: Is Reeves right in saying we're turning a corner? Attribution Business 20:35 GMT Man and woman arrested on suspicion of Lisa Dorrian's murder , published at 20:35 GMT Man and woman arrested on suspicion of Lisa Dorrian's murder Attribution Northern Ireland 18:58 GMT Mystery boom in the night had people startled and staring skyward , published at 18:58 GMT Mystery
+
+- UK News - Breaking News UK & UK Newspaper Stories - Express.co.uk
+  https://www.express.co.uk/news/uk
+  Breaking UK news headlines and stories from around Britain from Express.co. uk . Featuring the latest news stories, features, analysis, videos and pictures.
+  LinkedPageStatus: ok (https://www.express.co.uk/news/uk)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Daniel Boakye, 21, is on the run from police after twice escaping from officers. A Reform UK councillor has cast doubt on the zones' effectiveness, describing plans in... National Highways has warned drivers they face significant delays. For Halifax customers, depositing cash isn't as straightforward as it seems. A hidden rule could... The UK government has confirmed that stronger consumer protections will apply to buy now pay... Russia has made yet another threat to Britain about nuclear warfare - and the modelling of what... Respected VetPlus chair David Haythornthwaite raised concerns at the university's DEI... The Chancellor is dragging millions of pensioners into the income tax net, thanks to her... Local customers thanked the owners for "creating such a special space". The mosque said a "serious security incident" had occurred during prayers. Bridget Phillipson said schools should allow children to explore their gender at a young age. Even after he was knocked to the ground, Khan and Rahman continued their attack, kicking him... With the current journey time at two hours and 16 minutes, it would shave a huge amount of time... Ed Miliband has been blasted for boasting the energy price cap will fall by £117 as analysis... Drivers
+
+- UK News - The latest headlines from the UK | Sky News
+  https://news.sky.com/uk
+  Expert comment and analysis on the latest UK news , with headlines from England, Scotland, Northern Ireland and Wales.
+  LinkedPageStatus: ok (https://news.sky.com/uk)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  UK Content Homepage Epstein blamed 'Charles' on day Andrew lost UK trade envoy job 3 hrs ago 3 hours ago UK Met Police apologises to Commons Speaker for 'revealing information' over Mandelson arrest 2 mins ago 2 minutes ago Politics UK records hottest day of the year so far 6 hrs ago 6 hours ago UK Man jailed for killing partner's baby after argument with his ex-girlfriend 6 hrs ago 6 hours ago UK BBC investigating BAFTAs racial slur incident 5 hrs ago 5 hours ago UK Thursday's newspaper front pages 52 mins ago 52 minutes ago UK Man with axe arrested at mosque in 'serious security incident' 4 hrs ago 4 hours ago UK First migrants reach UK in two weeks after crossing Channel 5 hrs ago 5 hours ago Politics Stranger who stabbed girl, 9, in the heart as she played outside mum's shop jailed for life 6 hrs ago 6 hours ago UK Killer former gamekeeper hunted ex-colleague down 'like he was quarry' 5 hrs ago 5 hours ago UK Video, 0 minutes 48 seconds Video 0:48 Family's race to raise £2.5m for life-saving surgery Video, 2 minutes 47 seconds Video 2:47 Why fly-tipping is worse than
+
+- Latest UK news | The Guardian
+  https://www.theguardian.com/uk-news
+  Latest news , breaking news and current affairs coverage from across the UK from theguardian.com
+  LinkedPageStatus: ok (https://www.theguardian.com/uk-news)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  UK latest news Memorial to 72 victims of Grenfell fire to be funded by new legislation Housing secretary says bill will give spending authority needed to build and maintain ‘dignified memorial’ France’s Engie strikes deal to buy UK Power Networks for £10.5bn Home secretary granted permission to challenge ruling on Palestine Action ban Met apologises to Commons speaker for sharing tipoff with Mandelson’s lawyers Reeves must back defence investment plan or be sacked, says Unite union boss Police and MI5 waged campaign of illegal interference against BBC journalist, tribunal told Ed Davey accuses care home trustee of embezzlement amid watchdog inquiry Doom Bar maker Sharp’s Brewery in Cornwall to be closed by US owner Met on Fabergé egg hunt after items worth £2m poached from Soho pub All stories UK politics Zero hour: Corbyn and Sultana duke it out in battle for the soul of Your Party After eight months of rows and rifts, results of leadership election offering ‘fundamentally differing visions’ are due Foreign Office denies minister’s claim the Chagos Islands deal has been paused – as it happened Treasury calls in Blair thinktank to advise on using AI across public services Labour ministers exploring ways of easing burden
+
+- Google News - United Kingdom - Latest
+  https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE
+  Read full articles, watch videos, browse thousands of titles and more on the "United Kingdom" topic with Google News .
+  LinkedPageStatus: ok (https://consent.google.com/ml?continue=https://news.google.com/topics/CAAqJQgKIh9DQkFTRVFvSUwyMHZNRGR6YzJNU0JXVnVMVWRDS0FBUAE&gl=GB&hl=en-US&cm=2&pc=n&src=1&escs=AZ8E49Ckahf6-SYMKyfP9-eCNIZJHvxzUQ9MyGmCR3YrqByYVXiDPFLl8oRkh4FLfDv1sKZHMl7J95YnLOhdXhOhLCQ78IHIUFAm)
+  LinkedPageSummaryWords: 22
+  LinkedPageSummary:
+  Select “More options” to see additional information, including details about managing your privacy settings. You can also visit g.co/privacytools at any time.
+
+- UK News: Latest breaking headlines, top stories and updates
+  https://metro.co.uk/news/uk/
+  Find out all latest UK news from England, Wales, Scotland and Northern Ireland including breaking and exclusive headlines and stories from Metro.co. uk .
+  LinkedPageStatus: ok (https://metro.co.uk/news/uk/)
+  LinkedPageSummaryWords: 151
+  LinkedPageSummary:
+  Andrew Mountbatten-Windsor 'banned from horse riding' Woman arrested after Brit found dead in Tenerife hotel room Residents film truck brazenly fly tipping in London neighbourhood All London Underground line closures in March 2026 - see if yours is affected Man accused of driving wife to suicide says she made up abuse for attention Man arrested after ‘serious axe incident’ at Manchester mosque Police taking London 'school wars' so seriously they've launched an operation Man who killed five-month-old stepson in 'extremely violent' attack is jailed Beloved Metro cat snatched by woman at train station found safe LGBTQ+ Pride flag torn down from queer salon 'for the sixth time in just three years' 'We've lost millions after the burst water main flooded our streets' Man who stabbed girl, 9, to death while she played in street jailed for 25 years Thousands of Brits snitching on their neighbours for watching TV without a licence
+
+- UK news: Latest stories & updates - The Telegraph
+  https://www.telegraph.co.uk/news/uk/
+  Find all the latest news and updates from stories around the UK . Including politics, transport, education, health and religion.
+  LinkedPageStatus: error: 402 Client Error: Payment Required for url: https://www.telegraph.co.uk/news/uk/
+  LinkedPageSummaryWords: 0
+
+

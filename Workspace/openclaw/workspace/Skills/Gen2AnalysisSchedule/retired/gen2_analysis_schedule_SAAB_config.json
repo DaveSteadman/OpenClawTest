@@ -1,0 +1,33 @@
+{
+  "default_domain": "SAAB",
+  "tasks": [
+    {
+      "name": "SAAB Basic Daily Brief",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "basic",
+      "timeframe": "{today_slash}",
+      "prompt": "Summarise key aerospace and defence developments, risks, and opportunities.",
+      "llm_timeout": 900
+    },
+    {
+      "name": "SAAB Report Daily Deep Dive",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "report",
+      "timeframe": "{today_slash}",
+      "prompt": "Write a structured executive report with key events, strategic implications, opportunities, and risks.",
+      "llm_timeout": 900
+    },
+    {
+      "name": "SAAB Monthly CSV Trend",
+      "enabled": true,
+      "cadence": "monthly",
+      "day_of_month": 1,
+      "type": "csv",
+      "timeframe": "{year_month}",
+      "prompt": "Extract major company events into structured rows with date, event, value, and confidence.",
+      "llm_timeout": 900
+    }
+  ]
+}

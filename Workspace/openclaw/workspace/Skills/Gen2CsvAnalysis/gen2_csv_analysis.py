@@ -19,6 +19,7 @@ if str(SKILLS_ROOT) not in sys.path:
     sys.path.insert(0, str(SKILLS_ROOT))
 
 from CommonCode.FolderNavigator import FolderNavigator
+from CommonCode.LlmAudit import audit_llm_invocation
 
 
 @dataclass(frozen=True)
@@ -216,13 +217,26 @@ def normalize_table_payload(payload: dict) -> tuple[list[str], list[list[str]]]:
     return columns, normalized_rows
 
 
-def call_llm_for_table(prompt_text: str, timeframe: Timeframe, domain: str, corpus_blocks, llm_timeout_seconds: int):
+def call_llm_for_table(
+    prompt_text: str,
+    timeframe: Timeframe,
+    domain: str,
+    corpus_blocks,
+    llm_timeout_seconds: int,
+    model_override: str,
+):
     api_key = os.environ.get("OPENAI_API_KEY", "").strip()
     if not api_key:
         raise RuntimeError("OPENAI_API_KEY is required for LLM analysis")
 
-    model = os.environ.get("OPENAI_MODEL", "gpt-4o-mini").strip() or "gpt-4o-mini"
     base_url = os.environ.get("OPENAI_BASE_URL", "https://api.openai.com/v1").strip().rstrip("/")
+    model = (model_override or "").strip() or os.environ.get("OPENAI_MODEL", "openai-oss-20b").strip() or "openai-oss-20b"
+    normalized_base_url = base_url.lower()
+    if "127.0.0.1:11434" in normalized_base_url or "localhost:11434" in normalized_base_url:
+        model = {
+            "openai-oss-20b": "gpt-oss:20b",
+            "openai-oss-120b": "gpt-oss:120b",
+        }.get(model, model)
     endpoint = f"{base_url}/chat/completions"
 
     corpus_text = "\n\n".join(item["text"] for item in corpus_blocks)
@@ -258,6 +272,17 @@ def call_llm_for_table(prompt_text: str, timeframe: Timeframe, domain: str, corp
             {"role": "user", "content": user_prompt},
         ],
     }
+
+    audit_llm_invocation(
+        source="Gen2CsvAnalysis",
+        reason="Generate CSV-ready table from mined corpus",
+        prompt=user_prompt,
+        model=model,
+        endpoint=endpoint,
+        domain=domain,
+        timeframe=timeframe.normalized,
+        request_kind="analysis",
+    )
 
     print(
         f"[csv:phase] llm_wait domain={domain} timeframe={timeframe.normalized} model={model} timeout_sec={max(30, llm_timeout_seconds)}",
@@ -320,11 +345,11 @@ def write_csv_output(
     navigator: FolderNavigator,
     domain: str,
     timeframe: Timeframe,
-    prompt_text: str,
+    output_title: str,
     table: dict,
 ) -> Path:
     out_dir = timeframe_output_dir(navigator, domain, timeframe)
-    prompt_name = safe_name(prompt_text, fallback="CsvAnalysis")
+    prompt_name = safe_name(output_title, fallback="CsvAnalysis")
     scope_token = timeframe.normalized.replace("/", "-")
     out_path = out_dir / f"{prompt_name}_{scope_token}.csv"
 
@@ -345,6 +370,8 @@ def main():
     parser.add_argument("--max-chars-per-file", type=int, default=6000)
     parser.add_argument("--max-total-chars", type=int, default=180000)
     parser.add_argument("--llm-timeout", type=int, default=90)
+    parser.add_argument("--model", default="", help="Optional model override (otherwise OPENAI_MODEL)")
+    parser.add_argument("--title", default="", help="Optional output title/stem (defaults to prompt)")
 
     try:
         args = parser.parse_args()
@@ -357,6 +384,7 @@ def main():
         prompt_text = (args.prompt or "").strip()
         if not prompt_text:
             raise ValueError("Prompt must be non-empty")
+        output_title = (args.title or "").strip() or prompt_text
     except Exception as exc:
         print(
             json.dumps(
@@ -406,6 +434,7 @@ def main():
             domain=domain,
             corpus_blocks=corpus_blocks,
             llm_timeout_seconds=args.llm_timeout,
+            model_override=args.model,
         )
 
         print("[csv:phase] write_output", flush=True)
@@ -413,7 +442,7 @@ def main():
             navigator=navigator,
             domain=domain,
             timeframe=timeframe,
-            prompt_text=prompt_text,
+            output_title=output_title,
             table=llm_result["table"],
         )
         print(f"[csv:phase] done output={out_path}", flush=True)

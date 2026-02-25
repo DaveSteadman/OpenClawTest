@@ -1,6 +1,6 @@
 ---
 name: Gen2BasicAnalysis
-description: Analyze mined domain logs over a timeframe (YYYY, YYYY/MM, or YYYY/MM/DD) using an LLM prompt, and write analysis output to datastore2 02-Analysis via CommonCode FolderNavigator.
+description: Analyze mined domain logs over a timeframe (YYYY, YYYY/MM, or YYYY/MM/DD) using an LLM prompt, and write analysis output to datastore3 02-Analysis via CommonCode FolderNavigator.
 metadata: {"openclaw":{"requires":{"bins":["python","python3"]},"os":["win32","linux","darwin"]}}
 ---
 

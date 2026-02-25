@@ -6,7 +6,7 @@ metadata: {"openclaw":{"requires":{"bins":["python","python3"]},"os":["win32","l
 
 # Gen2PresentationCompanyProfile
 
-Creates a single-slide CompanyProfile presentation from analysis files in datastore2.
+Creates a single-slide CompanyProfile presentation from analysis files in datastore3.
 
 ## Execution
 

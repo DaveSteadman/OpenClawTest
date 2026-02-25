@@ -13,6 +13,7 @@ Runs recurring analysis tasks from JSON configs, similar to Gen2MinerSchedule.
 - `--config <path>`
 - `--cadence daily|monthly|all`
 - `--date YYYY-MM-DD`
+- `--model <model_name>`
 - `--dry-run`
 - `--max-tasks <int>`
 - `--all-configs`
@@ -31,11 +32,18 @@ Runs recurring analysis tasks from JSON configs, similar to Gen2MinerSchedule.
       "type": "basic",
       "timeframe": "{today_slash}",
       "prompt": "Summarise key developments.",
+      "model": "openai-oss-20b",
       "llm_timeout": 300
     }
   ]
 }
 ```
+
+## Model selection
+
+- `--model` on `Gen2AnalysisSchedule` sets the LLM model for all tasks in that run.
+- Task-level `model` in JSON overrides the scheduler-level `--model` value.
+- If neither is provided, downstream skills fall back to `OPENAI_MODEL` (then their internal default).
 
 ## Time tokens
 

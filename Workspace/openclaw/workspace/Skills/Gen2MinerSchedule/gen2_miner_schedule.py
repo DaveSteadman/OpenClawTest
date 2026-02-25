@@ -83,7 +83,7 @@ def parse_json_from_output(text: str) -> dict:
         return {"raw": content}
 
 
-def run_task(task: dict, default_domain: str, skills_root: Path, python_exe: str, dry_run: bool) -> dict:
+def run_task(task: dict, default_domain: str, skills_root: Path, python_exe: str, dry_run: bool, run_date: dt.date) -> dict:
     task_name = str(task.get("name", "Unnamed Task")).strip() or "Unnamed Task"
     task_type = str(task.get("type", "")).strip().lower()
     domain = validate_domain(task.get("domain") or default_domain)
@@ -98,6 +98,12 @@ def run_task(task: dict, default_domain: str, skills_root: Path, python_exe: str
         page_timeout = int(task.get("page_timeout", 15))
         words = int(task.get("words", 200))
         sleep_ms = int(task.get("sleep_ms", 0))
+        date_context = str(task.get("date_context", "none")).strip().lower() or "none"
+        if date_context not in {"none", "month_year", "year"}:
+            raise ValueError(
+                f"Task '{task_name}' has invalid date_context '{date_context}' (expected none|month_year|year)"
+            )
+        reference_date = str(task.get("date", "")).strip() or run_date.isoformat()
 
         cmd = [
             python_exe,
@@ -115,7 +121,10 @@ def run_task(task: dict, default_domain: str, skills_root: Path, python_exe: str
             str(words),
             "--sleep-ms",
             str(sleep_ms),
+            "--date-context",
+            date_context,
         ]
+        cmd.extend(["--date", reference_date])
 
     elif task_type == "webtext":
         script = skills_root / "Gen2WebText" / "gen2_web_text.py"
@@ -279,6 +288,7 @@ def run_single_config(config_path: Path, args, run_ts: str, skills_root: Path, p
                 skills_root=skills_root,
                 python_exe=python_exe,
                 dry_run=args.dry_run,
+                run_date=run_date,
             )
             summary["results"].append(result)
             summary["tasks_executed"] += 1

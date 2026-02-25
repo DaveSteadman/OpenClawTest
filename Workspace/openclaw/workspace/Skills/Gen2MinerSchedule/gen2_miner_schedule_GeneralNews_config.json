@@ -10,87 +10,6 @@
       "max": 8
     },
     {
-      "name": "US Headlines",
-      "enabled": true,
-      "cadence": "daily",
-      "type": "websearch",
-      "query": "latest US news headlines",
-      "max": 8
-    },
-    {
-      "name": "India Headlines",
-      "enabled": true,
-      "cadence": "daily",
-      "type": "websearch",
-      "query": "latest India news headlines",
-      "max": 8
-    },
-    {
-      "name": "EU Headlines",
-      "enabled": true,
-      "cadence": "daily",
-      "type": "websearch",
-      "query": "latest EU news headlines",
-      "max": 8
-    },
-    {
-      "name": "France Headlines",
-      "enabled": true,
-      "cadence": "daily",
-      "type": "websearch",
-      "query": "latest France news headlines",
-      "max": 8
-    },
-    {
-      "name": "Germany Headlines",
-      "enabled": true,
-      "cadence": "daily",
-      "type": "websearch",
-      "query": "latest Germany news headlines",
-      "max": 8
-    },
-    {
-      "name": "Sweden Headlines",
-      "enabled": true,
-      "cadence": "daily",
-      "type": "websearch",
-      "query": "latest Sweden news headlines",
-      "max": 8
-    },
-    {
-      "name": "Norway Headlines",
-      "enabled": true,
-      "cadence": "daily",
-      "type": "websearch",
-      "query": "latest Norway news headlines",
-      "max": 8
-    },
-    {
-      "name": "Denmark Headlines",
-      "enabled": true,
-      "cadence": "daily",
-      "type": "websearch",
-      "query": "latest Denmark news headlines",
-      "max": 8
-    },
-    {
-      "name": "Finland Headlines",
-      "enabled": true,
-      "cadence": "daily",
-      "type": "websearch",
-      "query": "latest Finland news headlines",
-      "max": 8
-    },
-    {
-      "name": "BBC News Front Page",
-      "enabled": true,
-      "cadence": "daily",
-      "type": "webtext",
-      "url": "https://www.bbc.com/news",
-      "max_links": 8,
-      "words": 220
-    },
-    {
       "name": "BBC Business",
       "enabled": true,
       "cadence": "daily",
@@ -106,7 +25,79 @@
       "day_of_month": 1,
       "type": "websearch",
       "query": "global geopolitics news headlines",
+      "date_context": "month_year",
       "max": 10
+    },
+    {
+      "name": "Military Radar Product",
+      "domain": "Radar",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "query": "new military radar products",
+      "date_context": "month_year",
+      "max": 20
+    },
+    {
+      "name": "Military Radar Contract",
+      "domain": "Radar",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "query": "new military radar contracts",
+      "date_context": "month_year",
+      "max": 20
+    },
+    {
+      "name": "UK Military Radar Trends",
+      "domain": "Radar",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "query": "UK military radar trends",
+      "date_context": "month_year",
+      "max": 20
+    },
+    {
+      "name": "saab radar products",
+      "domain": "RadarProducts",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "query": "saab radar products",
+      "date_context": "month_year",
+      "max": 20
+    },
+    {
+      "name": "Lockheed martin radar products",
+      "domain": "RadarProducts",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "query": "lockheed martin radar products",
+      "date_context": "month_year",
+      "max": 20
+    },
+    {
+      "name": "bae systems radar products",
+      "domain": "RadarProducts",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "query": "bae systems radar products",
+      "date_context": "month_year",
+      "max": 20
+    },
+    {
+      "name": "raytheon radar products",
+      "domain": "RadarProducts",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "query": "raytheon radar products",
+      "date_context": "month_year",
+      "max": 20
     }
+
   ]
 }

@@ -15,6 +15,7 @@ if str(SKILLS_ROOT) not in sys.path:
 
 from CommonCode.FolderNavigator import FolderNavigator
 from CommonCode.PresentationMakerCompanyProfile import instantiate_template
+from CommonCode.LlmAudit import audit_llm_invocation
 
 try:
     import requests
@@ -186,6 +187,17 @@ def call_llm_slide_formatter(
             {"role": "user", "content": user_prompt},
         ],
     }
+
+    audit_llm_invocation(
+        source="Gen2PresentationCompanyProfile",
+        reason="Format analysis context into presentation payload",
+        prompt=user_prompt,
+        model=model,
+        endpoint=endpoint,
+        domain=domain,
+        timeframe=as_of_date.isoformat(),
+        request_kind="presentation",
+    )
 
     print(
         f"[presentation:phase] llm_wait domain={domain} date={as_of_date.isoformat()} model={model} timeout_sec={max(30, llm_timeout)}",

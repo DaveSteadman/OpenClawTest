@@ -44,6 +44,7 @@ python gen2_miner_schedule.py --config <path_to_json> --cadence <daily|monthly|a
       "type": "websearch",
       "domain": "GeneralNews",
       "query": "latest UK news headlines",
+      "date_context": "month_year",
       "max": 8
     },
     {
@@ -73,6 +74,8 @@ python gen2_miner_schedule.py --config <path_to_json> --cadence <daily|monthly|a
 - `monthly` tasks run only when `run_date.day == day_of_month`.
 - If `domain` is omitted on a task, `default_domain` is used.
 - Domain values must be alphabetic (A-Z, a-z), matching Gen2 skill constraints.
+- `websearch` tasks can include `date_context` as `none`, `month_year`, or `year`.
+- `websearch.date` is optional (`YYYY-MM-DD`). If omitted, the scheduler run date is passed through.
 
 ### Run all company configs in one invocation
 

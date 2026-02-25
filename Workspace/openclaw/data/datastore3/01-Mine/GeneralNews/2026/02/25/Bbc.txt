@@ -1,0 +1,73 @@
+Domain: GeneralNews
+StartURL: https://www.bbc.com/business
+Timestamp: 2026-02-25T22:56:35
+PerPageSummaryWords: 220
+StartPageSummaryWords: 220
+StartPageSummary:
+A newspaper reports Gates apologised to staff over his links to Epstein and said: "I did nothing illicit. I saw nothing illicit." A former California governor candidate was also disciplined as the platform cracks down. From 25 February, a new system will come into force which will affect many people, including British dual nationals. About 600 jobs will go at the luxury car maker, which in part blames US tariffs for its troubles. The amount Manchester United owe increases to almost £1.3bn in outstanding transfer fees, rolling credit facility and legacy debt. His speech follows years of the firm focusing away from China as it moved its headquarters to Singapore. Warner Bros says the latest proposal could convince it to abandon the deal it struck with Netflix. Gain the leading edge with global insights for the boardroom and beyond, in your inbox every Wednesday. The technology giant had pledged to increase investment in the US by $600bn, under pressure from Trump. The global levy comes in at 10%, lower than the rate the president had threatened at the weekend. Trump's volatile trade policy has thrown the world economy into chaos, and put some US prices up. Jobs are available on the icy continent for chefs, plumbers, carpenters and even hairdressers. During winter in Britain, fresh produce is sent by cargo
+
+- Link 1
+  AnchorText: Prediction market Kalshi fines MrBeast editor over insider trading A former California governor candidate was also disciplined as the platform cracks down. 3 hrs ago Business
+  URL: https://www.bbc.com/news/articles/c77ed1e2r6zo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  An editor for the YouTube streamer MrBeast and a former California governor candidate are the first two people revealed by prediction market Kalshi to face disciplinary actions for insider trading. The company said it had opened 200 investigations into potential violations of its trading rules over the past year - over a dozen of which have become "active cases". Prediction markets have surged in popularity in the US, with companies like Kalshi and Polymarket letting users bet on everything from sports to politics. But concerns about wagers placed on inside information have proliferated. Kalshi said it suspended the two users accused of violating its rules. "No financial exchange is immune from bad actors. Not stock exchanges, not banks, not prediction markets," Bobby DeNault, who leads Kalshi's enforcement efforts, said in a post on Wednesday. "We're committed to deterring and finding the bad actors, manipulators, and those who willingly cheat." The company disclosed a more than $20,000 fine and a two-year suspension for Artem Kaptur, who allegedly placed bets based on "material, non-public information" he obtained by working as a video editor for the YouTube streamer MrBeast. Kalshi said its surveillance systems had flagged Kaptur's "near-perfect" and "statistically anomalous" trading wins. Kalshi users had also notified the company about the abnormal trading activity. A spokesperson for Beast Industries, the entertainment company
+
+- Link 2
+  AnchorText: New travel rules for UK visitors kick in - how are you affected? From 25 February, a new system will come into force which will affect many people, including British dual nationals. 13 hrs ago Business
+  URL: https://www.bbc.com/news/articles/cy57p1v61d1o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  A new travel system for visitors to the UK comes into force from Wednesday for citizens of dozens of countries like the US and Australia. The government says electronic travel authorisation (ETA) will improve the immigration system. However, it has created problems for dual nationals, who have been scrambling to get a UK passport to follow the new rules. An ETA is a digital permission to travel to the UK . From 25 February, most people who have been able to travel to the UK visa-free until now will need an ETA . The new rules apply to people from 85 different countries. Once approved, your ETA will allow you to stay in the UK for up to six months. It will be valid for two years, or until your passport expires, and allows multiple journeys to the UK. The visit can be for things like tourism, business or short-term study. It can also be for people who cross the border and travel through the UK as part of a journey, although people transiting through UK airports and who don't need to go through border security will not need an ETA. Longer trips and visits for work or longer study will require a visa. People who usually need a visa to travel to the UK will still need a visa
+
+- Link 3
+  AnchorText: Aston Martin cuts 20% of workforce as losses widen About 600 jobs will go at the luxury car maker, which in part blames US tariffs for its troubles. 13 hrs ago Coventry & Warwickshire
+  URL: https://www.bbc.com/news/articles/cp9m8n2vx0mo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  Aston Martin has confirmed it will be axing 20% of its workforce, with the firm's net losses jumping 52% last year to £493.2m. The luxury car firm, synonymous with James Bond, has struggled for several years and blamed US president Donald Trump's tariffs in a statement made last month . Aston Martin, which has its headquarters in Gaydon, Warwickshire, employs about 3,000 people, meaning job losses will total around 600. The firm said the job cuts should deliver annual savings of around £40m and did not specify when the job cuts would be implemented, but said most of the savings would be made this year. A spokesperson for Aston Martin said US tariffs had been "extremely disruptive" and demand had also been "extremely subdued" in China, the world's biggest auto market. It has also trimmed its five-year capital spending plan to £1.7bn from £2bn by delaying investment in electric vehicle technology. Aston Martin said: "Having undertaken at the start of 2025 a process to make organisational adjustments to ensure the business was appropriately resourced for its future plans, we had to take the difficult decision at the end of 2025 to implement further changes. "This latest programme will ultimately see the departure of up to 20% of our valued workforce." It is understood the majority of cuts will impact the
+
+- Link 4
+  AnchorText: Shein's elusive boss hails Chinese roots in rare public appearance His speech follows years of the firm focusing away from China as it moved its headquarters to Singapore. 20 hrs ago Business
+  URL: https://www.bbc.com/news/articles/c39wdgy3gmvo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  The founder of Chinese fast-fashion giant Shein made a rare public appearance on Tuesday, as he re-affirmed his ties to Beijing and investments in the country's clothing industry. Speaking at a business conference in Guangdong, home to many of China's garment factories, Xu Yangtian highlighted that Shein is investing 10bn yuan (£1.08bn; $1.45bn) in the province to create a high-tech fashion hub. Xu praised the Chinese government and said "nourishment" from Guangdong has been "inseparable" from Shein's success. His speech follows years of Shein focusing away from China, with the firm moving its headquarters to Singapore and pursuing a potential stock market listing in New York and London. The Shein boss, also known as Sky or Chris Xu, was speaking at the High-quality Development Conference in Guangzhou, a global manufacturing powerhouse that is home to most of China's clothing production. The city's factories are the backbone of Shein's fast-fashion operation, allowing it to turn the latest trends into low‑cost clothes to be sold online within a matter of weeks. Xu credited the "world-class business environment" that local officials have built and the region's "complete industrial ecosystem" as a reason that companies like his have thrived. For Shein, local support has helped the firm grow to support more than 600,000 jobs in the area, Xu said. He described Guangdong as "fertile
+
+- Link 5
+  AnchorText: Paramount boosts Warner Bros offer to rival Netflix in takeover bid Warner Bros says the latest proposal could convince it to abandon the deal it struck with Netflix. 23 hrs ago Business
+  URL: https://www.bbc.com/news/articles/c24dz0683dyo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  Paramount Skydance has boosted its proposal to buy Warner Bros Discovery, with an offer that could finally knock rival bidder Netflix out of the game. Warner Bros, which put itself up for sale last year, said Paramount had agreed to increase its purchase offer by $1 per share, creating a bid that its board had determined "could reasonably be expected to lead to a ... superior proposal". Warner Bros said it would engage in further talks before making a final decision about whether to abandon the deal it struck with Netflix in December. Netflix, which would have four days to make a counter-offer, did not immediately comment. In a recent interview with the BBC , Netflix co-chief executive Ted Sarandos declined to say whether the company was prepared to engage in a bidding war, calling the back-and-forth "part of the process". "I don't want to do hypotheticals," he said, before the new Paramount bid was made. "We very much like the deal where we're at right now, we're very disciplined buyers and we always have been." "This is all a process of price-discovery," he added later. Paramount, which is backed by tech billionaire Larry Ellison and led by his son David, has waged an outspoken campaign to buy Warner Bros since last year as it looks to transform itself into
+
+- Link 6
+  AnchorText: Apple says some Mac Mini production will move to the US The technology giant had pledged to increase investment in the US by $600bn, under pressure from Trump.
+  URL: https://www.bbc.com/news/articles/c4g8eq9z2v8o
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  Apple has said it will make some of its Mac Mini desktop computers in the US for the first time, as the technology giant works to boost domestic production under pressure from US President Donald Trump. The iPhone maker unveiled plans on Tuesday for a "significant expansion" of its factory in Houston, Texas to manufacture Mac Mini devices and artificial intelligence servers. Apple's latest move comes after the firm pledged last year to increase investment in the US by $600bn (£445bn). The company did not immediately respond to a request for comment on the planned scale of Mac Mini production in the US. The niche compact computers, currently made in Asia, account for less than 5% of Mac sales. "Apple is deeply committed to the future of American manufacturing, and we're proud to significantly expand our footprint in Houston with the production of Mac mini starting later this year," chief executive Tim Cook said in a statement. The company also touted plans for an advanced manufacturing training centre at its Houston location. Trump, who has pressured manufacturers across sectors to bring production to the US, singled out Apple by name last year, threatening to raise tariffs on its products if it did not move iPhone manufacturing to America. Apple has been hit hard by Trump's second-term tariffs, spending more than
+
+- Link 7
+  AnchorText: Trump's new tariff comes into effect at lower than expected rate The global levy comes in at 10%, lower than the rate the president had threatened at the weekend.
+  URL: https://www.bbc.com/news/articles/cd6zn3ly22yo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  US President Donald Trump's new global tariffs have come into effect at 10% despite a pledge to introduce them at a higher rate. After the Supreme Court blocked many of his sweeping import taxes on Friday , the president said he would introduce a 10% global rate. He then said on Saturday that the rate would be 15%. However, according to official documents , the tariffs have been set at the lower rate from Tuesday with no directive to increase the rate issued. The BBC has contacted the White House for comment. The White House is working to update the rate to 15% to reflect Trump's announcement, a White House official told Reuters, without saying when the change might come into force. "I think it simply adds to the chaos and mess," said Carsten Brzeski, an analyst with investment bank ING, referring to the fast-changing tariffs and their effects on businesses. "In terms of uncertainty we're back to where we were last year," he told the BBC's Today programme, adding there was now a higher risk that the US's trading partners would retaliate. "The risk of a real fully-fledged tariff war - trade war - escalation is clearly higher than last year," he said. An executive order signed by Trump on Friday said the temporary 10% import duty was intended
+
+- Link 8
+  AnchorText: What tariffs has Trump introduced and why? Trump's volatile trade policy has thrown the world economy into chaos, and put some US prices up.
+  URL: https://www.bbc.com/news/articles/cn93e12rypgo
+  LinkedPageStatus: ok
+  LinkedPageSummaryWords: 220
+  LinkedPageSummary:
+  US President Donald Trump has introduced a new 10% global tariff rate after the Supreme Court ruled that the majority of tariffs he introduced in 2025 were illegal. Trump argues that his import taxes have boosted US manufacturing and created jobs. But critics say they have put up prices for American consumers and have disrupted and damaged the global economy. It is thought the new 10% duty will replace the individual rates that were negotiated between the US and dozens of its trading partners - including the UK, India and EU - after the global tariffs were introduced. Typically, the charge is a percentage of a good's value. For example, a 10% tariff on a $10 product would mean a $1 tax on top - taking the total cost to $11 (£8.17). The tax is paid to the government by companies bringing in the foreign products. These firms may pass some or all of the extra cost on to their customers, which in this case means American consumers and other US businesses. Companies may also decide to import fewer goods. Trump says "tariff" is his favourite word, and has for decades repeatedly hailed them as a way to boost the US economy. He argues they increase the amount of tax raised by the government, encourage consumers to buy American-made goods
+
+

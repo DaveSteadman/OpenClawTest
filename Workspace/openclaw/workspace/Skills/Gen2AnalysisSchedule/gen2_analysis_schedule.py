@@ -218,6 +218,7 @@ def run_task(
     run_date: dt.date,
     config_name: str,
     section_index: int,
+    default_model: str,
 ) -> dict:
     task_name = str(task.get("name", "Unnamed Task")).strip() or "Unnamed Task"
     task_type = str(task.get("type", "basic")).strip().lower()
@@ -230,6 +231,7 @@ def run_task(
     max_chars_per_file = int(task.get("max_chars_per_file", 6000))
     max_total_chars = int(task.get("max_total_chars", 180000))
     llm_timeout = int(task.get("llm_timeout", 90))
+    task_model = str(task.get("model", "")).strip() or (default_model or "").strip()
 
     if task_type == "basic":
         script = skills_root / "Gen2BasicAnalysis" / "gen2_basic_analysis.py"
@@ -244,6 +246,8 @@ def run_task(
         python_exe,
         str(script),
         domain,
+        "--title",
+        task_name,
         "--timeframe",
         timeframe,
         "--prompt",
@@ -257,12 +261,15 @@ def run_task(
         "--llm-timeout",
         str(llm_timeout),
     ]
+    if task_model:
+        cmd.extend(["--model", task_model])
 
     if dry_run:
         return {
             "name": task_name,
             "type": task_type,
             "domain": domain,
+            "model": task_model,
             "command": cmd,
             "status": "dry_run",
         }
@@ -304,6 +311,8 @@ def run_single_config(config_path: Path, args, run_ts: str, skills_root: Path, p
         run_date = parse_date(args.date)
         config = load_config(config_path)
         default_domain = validate_domain(config.get("default_domain", "GeneralNews"))
+        config_model = str(config.get("model", "")).strip()
+        effective_default_model = str(args.model or "").strip() or config_model
     except Exception as exc:
         summary = {
             "status": "error",
@@ -328,6 +337,7 @@ def run_single_config(config_path: Path, args, run_ts: str, skills_root: Path, p
         "run_date": run_date.isoformat(),
         "cadence": args.cadence,
         "dry_run": args.dry_run,
+        "model": effective_default_model,
         "config_path": str(config_path),
         "tasks_total": len(config.get("tasks", [])),
         "tasks_due": 0,
@@ -402,6 +412,7 @@ def run_single_config(config_path: Path, args, run_ts: str, skills_root: Path, p
                 run_date=run_date,
                 config_name=config_path.name,
                 section_index=section_index,
+                default_model=effective_default_model,
             )
             summary["results"].append(result)
             summary["tasks_executed"] += 1
@@ -457,6 +468,7 @@ def main() -> int:
     parser.add_argument("--config", default="gen2_analysis_schedule_config.json", help="Path to task config JSON")
     parser.add_argument("--cadence", default="daily", choices=["daily", "monthly", "all"])
     parser.add_argument("--date", default="", help="Run date in YYYY-MM-DD (default today)")
+    parser.add_argument("--model", default="", help="Optional LLM model for all tasks (task-level 'model' overrides this)")
     parser.add_argument("--dry-run", action="store_true", help="Plan tasks without executing")
     parser.add_argument("--max-tasks", type=int, default=0, help="Optional execution cap")
     parser.add_argument(

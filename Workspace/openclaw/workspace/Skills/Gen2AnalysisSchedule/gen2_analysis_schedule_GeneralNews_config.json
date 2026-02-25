@@ -1,9 +1,10 @@
 {
   "default_domain": "GeneralNews",
+  "model": "openai-oss-120b",
   "tasks": [
     {
       "name": "GeneralNews Basic Daily Summary",
-      "enabled": true,
+      "enabled": false,
       "cadence": "daily",
       "type": "basic",
       "timeframe": "{today_slash}",
@@ -11,12 +12,32 @@
       "llm_timeout": 900
     },
     {
-      "name": "GeneralNews Report Daily Brief",
+      "name": "GeneralNews Business Report Daily Brief",
+      "enabled": false,
+      "cadence": "daily",
+      "type": "report",
+      "timeframe": "{today_slash}",
+      "prompt": "Produce an executive market intelligence report with trends, catalysts, and risk watchlist. Add a section listing the top 5 most impactful news headlines of the day, and their financial impact (e.g. stock price change, market movement).",
+      "llm_timeout": 900
+    },
+    {
+      "name": "GeneralNews OnTheRadar",
+      "domain": "Radar",
       "enabled": true,
       "cadence": "daily",
       "type": "report",
       "timeframe": "{today_slash}",
-      "prompt": "Produce an executive market intelligence report with trends, catalysts, and risk watchlist.",
+      "prompt": "Produce a report 'On The Radar' highlighting news stories from Radar related content. After analysing all of the source material, decide on five top themes from the data to report in five sections, each section covers needs to contain information around the relevant companies, countries, products and contracts. Detail what makes each section unique and what capability is added for a customer.",
+      "llm_timeout": 900
+    },
+    {
+      "name": "GeneralNews Beam Analysis",
+      "domain": "RadarProducts",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "report",
+      "timeframe": "{today_slash}",
+      "prompt": "Produce a report 'Beam Analysis' focusing on news stories related to radar products from different vendors. After analyzing all of the source material, identify and summarize the top 5 most significant product differences between company offerings, the markets the operate in, and opportunities for companies to differentiate, or offer products in new markets.",
       "llm_timeout": 900
     }
   ]

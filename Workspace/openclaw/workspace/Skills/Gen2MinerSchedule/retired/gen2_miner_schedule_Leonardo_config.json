@@ -1,0 +1,32 @@
+{
+  "default_domain": "Leonardo",
+  "tasks": [
+    {
+      "name": "Leonardo Company News",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "Leonardo",
+      "query": "Leonardo defence latest company news",
+      "max": 8
+    },
+    {
+      "name": "Leonardo Contract Awards",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "Leonardo",
+      "query": "Leonardo defence latest contract awards",
+      "max": 8
+    },
+    {
+      "name": "LeonardoNewsroom",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "webtext",
+      "url": "https://uk.leonardo.com/en/media/uk-press-releases",
+      "max_links": 8,
+      "words": 220
+    }
+  ]
+}

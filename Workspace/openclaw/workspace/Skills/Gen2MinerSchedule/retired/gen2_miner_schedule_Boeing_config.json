@@ -1,0 +1,23 @@
+{
+  "default_domain": "Boeing",
+  "tasks": [
+    {
+      "name": "Boeing Company News",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "Boeing",
+      "query": "Boeing defense latest company news",
+      "max": 8
+    },
+    {
+      "name": "Boeing Contract Awards",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "Boeing",
+      "query": "Boeing defense latest contract awards",
+      "max": 8
+    }
+  ]
+}

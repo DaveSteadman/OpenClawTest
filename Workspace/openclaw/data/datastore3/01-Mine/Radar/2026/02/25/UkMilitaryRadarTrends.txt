@@ -1,0 +1,81 @@
+Domain: Radar
+Query: UK military radar trends
+Timestamp: 2026-02-25T22:59:19
+PerPageSummaryWords: 200
+- New state-of-the-art radar delivered to UK
+  https://des.mod.uk/new-radar-delivered-to-uk/
+  Published 16 February 2026 British soldiers will be able to more aggressively hunt, detect, and locate hostile gunfire, as well as receive a further layer of protection on the battlefield, with the early delivery of new technology.
+  LinkedPageStatus: ok (https://des.mod.uk/new-radar-delivered-to-uk/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  A new state-of-the art long-range air defence radar that can be deployed in support of worldwide operations or used to cover gaps in coverage on home shores has been delivered to the UK. Last year, the DE&S Air Defence and Electronic Warfare Systems (ADEWS) team based at RAF Henlow awarded a £13.1 million contract to Indra, a Spain based global company to produce their Lanza Long Tactical Range 25 radar for the RAF’s Battlespace Management Force. Due to its small number of components, this system can be rapidly deployed worldwide using in-service military vehicles and transport aircraft such as the C130. The radar also benefits from being highly capable of mitigating the effect of windfarms and can rotate at two different speeds providing an Air Traffic Radar Service mode long desired by the RAF. “By adopting a collegiate approach and working through the issues together the project continues to make steady progress” The radar will be used mainly for long range surveillance of cooperative (secondary surveillance) and non-cooperative aircraft. The flexibility of the system means that the RAF will be able to carry out a variety of battlespace management missions, including long and short term deployments worldwide, as well as
+
+- Military Airborne Radar Market: Emerging Trends & Technology Shifts
+  https://www.linkedin.com/pulse/military-airborne-radar-market-emerging-trends-technology-oybnf
+  📅 Publication Date: Feb 2026 ⏳ Forecast Period: 2026 -2033 📄 Request a Sample Copy 💰 Limited-Time Special Discount The Military Airborne Radar Market was valued at 12.54 billion in ...
+  LinkedPageStatus: ok (https://www.linkedin.com/pulse/military-airborne-radar-market-emerging-trends-technology-oybnf)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  📅 Publication Date: Feb 2026 ⏳ Forecast Period: 2026–2033 Military Airborne Radar Market Research Analysis: Strategic Overview 2026 Military Airborne Radar Market Analysis and Strategic Overview for 2026 The military airborne radar market is poised for significant growth by 2026, driven by increasing defense budgets and the evolving nature of aerial warfare. Advancements in radar technology, such as active electronically scanned arrays (AESA) and multi-mode systems, are enhancing detection capabilities, situational awareness, and target tracking precision. As nations prioritize modernizing their air forces, the demand for sophisticated radar systems that can operate in contested environments is escalating. This strategic shift is further reinforced by geopolitical tensions and the need for comprehensive air defense systems, positioning the airborne radar market as a critical component of modern military arsenals. Furthermore, the integration of artificial intelligence (AI) and machine learning (ML) into radar systems is transforming operational efficiency and threat detection accuracy. These innovations facilitate real-time data processing, automated threat identification, and adaptive targeting, thereby reducing human error and response times. The market is also witnessing a surge in collaborative defense projects, with countries investing in joint development initiatives to share technological expertise and reduce costs. This collaborative approach is expected to foster
+
+- Deep Space Advanced Radar Capability (DARC) - GOV.UK
+  https://www.gov.uk/guidance/deep-space-advanced-radar-capability-darc
+  The pre-application consultation period will run to 23 March 2026 . Deep Space Advanced Radar Capability Pre-Application Consultation What Happens Next?
+  LinkedPageStatus: ok (https://www.gov.uk/guidance/deep-space-advanced-radar-capability-darc)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  In December 2023 the United Kingdom, United States and Australia announced the creation of the Deep Space Advanced Radar Capability (DARC) programme. DARC will enable detection, identification, and tracking of objects in Earth orbit. The Ministry of Defence (MOD) is proposing to house the UK DARC site at the former Cawdor Barracks in Pembrokeshire and to refurbish the site to accommodate new DARC facilities. Following the progression of the design process, the MOD has undertaken an Environmental Impact Assessment (EIA) with the support of independent subject matter experts. The EIA is a detailed study that evaluates the potential effects of the proposed development on the environment and ensures that environmental matters are fully considered in the planning process. The MOD now offers these materials, including the findings of the EIA, for public review. The pre-application consultation period will run to 23 March 2026. DARC will form the cornerstone of the UK’s ability to detect, identify and track objects in Earth orbit, including satellites, space debris, and asteroids. This is essential for ensuring our continued ability to safely and securely operate space-based services. This includes satellites which are used to provide critical infrastructure support in the UK (such as coordinating emergency
+
+- UK Awards $612M Contract for New Radar on RAF Typhoon Jets
+  https://thedefensepost.com/2026/01/23/bae-uk-typhoon-radar/
+  The UK Ministry of Defence has awarded BAE Systems a $612-million contract to deliver a new advanced radar for Royal Air Force Typhoon fighter jets.
+  LinkedPageStatus: ok (https://thedefensepost.com/2026/01/23/bae-uk-typhoon-radar/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  The UK Ministry of Defence has awarded BAE Systems a 453.5-million-pound ($612-million) contract to deliver a new advanced radar for Royal Air Force (RAF) Typhoon fighter jets . The contract covers full production of the ECRS Mk2 radar , following a multi-year development and testing phase supported by long-term government investment. BAE Systems and Leonardo UK are set to deliver 38 ECRS Mk2 radars, all of which will be fitted to the RAF’s Tranche 3 Typhoon fleet. The upgraded radar is scheduled to enter service by the end of the decade. Once fielded, the radar will significantly enhance the Typhoon’s electronic warfare capability, enabling the aircraft to detect, identify, and track multiple air and ground targets in contested environments. Work on the program will support around 1,300 jobs across the UK, including approximately 400 positions at Leonardo and more than 120 roles at BAE Systems. Leonardo will develop and manufacture the radar at its sites in Edinburgh and Luton, while BAE Systems will integrate the system onto Typhoon aircraft at its Lancashire facilities. The Eurofighter Typhoon is the RAF’s primary air combat aircraft and a key contributor to NATO air defense missions across Europe. Operated on quick reaction alert duties,
+
+- UK Defence Journal
+  https://ukdefencejournal.org.uk/
+  Independent website publishing British and international defence news and analysis.
+  LinkedPageStatus: ok (https://ukdefencejournal.org.uk/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Trending Now UK joins European push for low-cost air defence weapons Babcock frigate factory marks double warship milestone U.S. Navy fires warship Captain during exercise NATO launches drone-based deep strike capability DARPA missile drone moves closer to first flight Scot Gov backs expanded skills pipeline for shipbuilding Sea February 25, 2026 Deputy First Minister Kate Forbes has set out how the Scottish Government is seeking to strengthen the skills base behind major shipbuilding programmes such as the Type 31 frigates at Rosyth. Read more LATEST NEWS Lights, camera, Active in Rosyth News February 25, 2026 HMS Active rolled out of the build hall at Rosyth this week, and you could feel what it meant to the people there. Babcock frigate factory marks double warship milestone Sea February 24, 2026 Babcock has marked two major milestones on the Royal Navy’s Type 31 programme in a single day, cutting steel on HMS Bulldog while rolling HMS Active out of the build hall at Rosyth. Australia funds AUKUS long-lead nuclear systems Sea February 24, 2026 The funding will support the manufacture of critical components for nuclear propulsion systems destined for Australia’s first two SSN-AUKUS submarines, which are to be built at Osborne in
+
+- The UK's Defence Industrial Strategy 2025 and other key developments
+  https://cms.law/en/alb/publications/cms-global-radar-2026/the-uk-s-defence-industrial-strategy-2025-and-other-key-developments
+  The UK's new Defence Industrial Strategy (DIS) aligns with wider security reforms, including a new EU security cooperation framework, the Strategic Defence Review, the National Security Strategy, and major MOD structural changes. It sets out how defence will serve as a growth sector for the UK economy whilst delivering greater readiness, resilience, and speed.
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://cms.law/en/alb/publications/cms-global-radar-2026/the-uk-s-defence-industrial-strategy-2025-and-other-key-developments
+  LinkedPageSummaryWords: 0
+
+- Countering threats and enhancing operations: Our 2026 technology ...
+  https://www.baesystems.com/en/insight/countering-threats-2026-predictions
+  Here, our experts outline what they expect to see in 2026 , covering: countering space threats; human deception in cyber security; AI in defence operations; responding to the UAV threat; subsea to space; and the role of secure cloud in military operations.
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- United Kingdom (UK) Military Radar Market (2025-2031) | Trends, Outlook ...
+  https://www.6wresearch.com/industry-report/united-kingdom-uk-military-radar-market-outlook
+  United Kingdom ( UK ) Military Radar Market Overview The military radar market involves radar systems used for surveillance, target detection, and navigation. These systems are critical for maintaining situational awareness, tracking enemy movements, and guiding military operations. Drivers of the market The UK military radar market growth is driven by modernization of air defense systems ...
+  LinkedPageStatus: ok (https://www.6wresearch.com/industry-report/united-kingdom-uk-military-radar-market-outlook)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  3 United Kingdom (UK) Military Radar Market Overview 3.1 United Kingdom (UK) Country Macro Economic Indicators 3.2 United Kingdom (UK) Military Radar Market Revenues & Volume, 2021 & 2031F 3.3 United Kingdom (UK) Military Radar Market - Industry Life Cycle 3.4 United Kingdom (UK) Military Radar Market - Porter's Five Forces 3.5 United Kingdom (UK) Military Radar Market Revenues & Volume Share, By Platform, 2021 & 2031F 3.6 United Kingdom (UK) Military Radar Market Revenues & Volume Share, By Range, 2021 & 2031F 3.7 United Kingdom (UK) Military Radar Market Revenues & Volume Share, By Application, 2021 & 2031F 3.8 United Kingdom (UK) Military Radar Market Revenues & Volume Share, By Frequency, 2021 & 2031F 3.9 United Kingdom (UK) Military Radar Market Revenues & Volume Share, By Component, 2021 & 2031F 4 United Kingdom (UK) Military Radar Market Dynamics 4.2.1 Increasing defense budget allocation by the UK government 4.2.2 Growing need for advanced radar systems for national security and defense purposes 4.2.3 Technological advancements leading to the development of more sophisticated radar systems 4.3.1 Budget constraints and competing priorities within the defense sector 4.3.2 Regulatory challenges in terms of export controls and compliance 4.3.3 Impact of geopolitical uncertainties on defense
+
+- Elbit Systems UK delivers Ground Based Surveillance Radar systems to ...
+  https://www.defencetoday.com/c4isr/elbit-systems-uk-delivers-gbsr-systems-to-the-british-army/
+  Elbit Systems UK (ESUK) has delivered the first Ground Based Surveillance Radar (GBSR) systems to the British Army's Royal Artillery following successful live fire trials earlier this year. The initial delivery comprises 55 radar units along with associated support solutions and is part of a contract awarded by the UK Ministry of Defence (MOD) in May 2023 for a total of 90 portable GBSR ...
+  LinkedPageStatus: ok (https://www.defencetoday.com/c4isr/elbit-systems-uk-delivers-gbsr-systems-to-the-british-army/)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Elbit Systems UK (ESUK) has delivered the first Ground Based Surveillance Radar (GBSR) systems to the British Army’s Royal Artillery following successful live fire trials earlier this year. The initial delivery comprises 55 radar units along with associated support solutions and is part of a contract awarded by the UK Ministry of Defence (MOD) in May 2023 for a total of 90 portable GBSR systems, with an option for an additional 40 units. GBSR is a mobile radar system that functions in two main capacities: Surveillance and Fall of Shot (FoS) correction. In its Surveillance role, the system is capable of tracking and classifying personnel, vehicles, helicopters, and drones – thereby offering troops a precise overview of allied movements and an early alert regarding potential threats. For FoS correction, GBSR assists mortar and artillery units by providing swift fire adjustments through the detection and localisation of rounds with a high degree of accuracy, thereby enhancing the effectiveness and lethality of fire teams. Manufactured solely in the UK and Europe, the system was specifically designed to fulfil the needs of the British Armed Forces and supports the demand for leading-edge sense and decide technology. This innovative strategy, coupled with ESUK’s open
+
+- Major £5 billion technology investment accelerates UK defence ...
+  https://www.gov.uk/government/news/major-5-billion-technology-investment-accelerates-uk-defence-innovation-in-a-european-first
+  Major £5 billion technology investment accelerates UK defence innovation in a European first More than £4 billion drive towards autonomous systems to shape UK military future and boost export ...
+  LinkedPageStatus: ok (https://www.gov.uk/government/news/major-5-billion-technology-investment-accelerates-uk-defence-innovation-in-a-european-first)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  UK troops and warships will be protected by drone and laser weapon technology through a major £5 billion investment, as the UK seeks to become the leading edge of innovation in NATO under the Strategic Defence Review (SDR) and driven by lessons from Ukraine. The major funding package includes more than £4 billion for autonomous systems and a further investment of nearly £1 billion for Directed Energy Weapons (DEW) this Parliament – including the iconic DragonFire laser – boosting frontline capabilities while creating 300 skilled jobs across the country. DragonFire is set to be the first high power laser capability entering service from a European nation, with the first Royal Navy Type 45 destroyer due to be fitted in 2027. The SDR recommends that an immediate priority for force transformation should be a shift towards greater use of autonomy. To help achieve this, it says Defence must incorporate uncrewed and autonomous systems in high numbers over the next five years and make targeted investment in the development of novel directed energy weapons. Today’s autonomous systems investment – of which more than £2 billion is new funding following the Government‘s historic uplift in defence spending to 2.5% of GDP from 2027
+
+

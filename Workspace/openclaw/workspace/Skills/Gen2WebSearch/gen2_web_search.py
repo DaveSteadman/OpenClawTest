@@ -84,6 +84,9 @@ CONTENT_HINTS = [
     "content", "article", "story", "main", "body", "post", "entry", "headline", "news"
 ]
 
+DATE_CONTEXT_OPTIONS = {"none", "month_year", "year"}
+MONTH_ABBR = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
+
 
 def validate_domain(domain):
     if not domain or not isinstance(domain, str):
@@ -98,6 +101,37 @@ def validate_query(query):
     if not query or not isinstance(query, str) or not query.strip():
         raise ValueError("Query must be non-empty")
     return query.strip()
+
+
+def validate_date_context(value):
+    mode = (value or "none").strip().lower()
+    if mode not in DATE_CONTEXT_OPTIONS:
+        raise ValueError("--date-context must be one of: none, month_year, year")
+    return mode
+
+
+def parse_reference_date(value):
+    if not value:
+        return dt.date.today()
+    cleaned = value.strip()
+    try:
+        return dt.date.fromisoformat(cleaned)
+    except ValueError as exc:
+        raise ValueError("--date must be YYYY-MM-DD") from exc
+
+
+def apply_date_context_to_query(query, date_context, reference_date):
+    base = validate_query(query)
+    mode = validate_date_context(date_context)
+
+    if mode == "none":
+        return base
+
+    if mode == "year":
+        return f"{base} {reference_date.year}"
+
+    month_token = MONTH_ABBR[reference_date.month - 1]
+    return f"{base} {month_token} {reference_date.year}"
 
 
 def decode_html_entities(text):
@@ -508,11 +542,22 @@ def main():
     )
     parser.add_argument("domain", help="Domain subfolder name (alphabetic only)")
     parser.add_argument("--query", required=True, help="Search query")
-    parser.add_argument("--max", type=int, default=8, help="Max results (1-25)")
+    parser.add_argument("--max", type=int, default=10, help="Max results (1-25)")
     parser.add_argument("--timeout", type=int, default=20, help="Search timeout seconds (5-60)")
     parser.add_argument("--page-timeout", type=int, default=15, help="Page timeout seconds (5-60)")
-    parser.add_argument("--words", type=int, default=200, help="Target words per linked page summary (80-400)")
+    parser.add_argument("--words", type=int, default=250, help="Target words per linked page summary (80-400)")
     parser.add_argument("--sleep-ms", type=int, default=0, help="Optional sleep before search in milliseconds")
+    parser.add_argument(
+        "--date-context",
+        default="none",
+        choices=["none", "month_year", "year"],
+        help="Optional date context appended to search query",
+    )
+    parser.add_argument(
+        "--date",
+        default="",
+        help="Optional reference date for date context in YYYY-MM-DD format (defaults to today)",
+    )
 
     try:
         args = parser.parse_args()
@@ -522,6 +567,9 @@ def main():
     try:
         domain = validate_domain(args.domain)
         query = validate_query(args.query)
+        date_context = validate_date_context(args.date_context)
+        reference_date = parse_reference_date(args.date)
+        effective_query = apply_date_context_to_query(query, date_context, reference_date)
     except Exception as e:
         print(
             json.dumps(
@@ -569,7 +617,6 @@ def main():
         return 0
 
     try:
-        effective_query = query
         search_html = fetch_duckduckgo_html(effective_query, timeout_seconds)
         base_results = extract_results_from_html(search_html, max_results)
         result_source = "duckduckgo_html"
@@ -584,7 +631,7 @@ def main():
                 pass
 
         if not base_results:
-            for relaxed_query in build_relaxed_queries(query):
+            for relaxed_query in build_relaxed_queries(effective_query):
                 try:
                     search_html = fetch_duckduckgo_html(relaxed_query, timeout_seconds)
                     base_results = extract_results_from_html(search_html, max_results)
@@ -611,6 +658,8 @@ def main():
         response = {
             "domain": domain,
             "query": query,
+            "date_context": date_context,
+            "query_reference_date": reference_date.isoformat(),
             "effective_query": effective_query,
             "results": enriched_results,
             "log_path": log_path,

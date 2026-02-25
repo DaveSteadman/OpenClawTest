@@ -1,0 +1,77 @@
+Domain: Radar
+Query: upcoming military radar events
+Timestamp: 2026-02-25T22:10:44
+PerPageSummaryWords: 200
+- 16 key defence tech events of 2026 - thedefender.media
+  https://thedefender.media/en/2026/01/main-events-2026/
+  In 2026 , the global defence industry is expected to see even more exhibitions, hackathons, conferences, and summits. The Defender Media calendar already features more than 130 events from around the world — from Apex Defense in Washington, D.C., to the SAHA 2026 International Defence and Aerospace Exhibition in Istanbul.
+  LinkedPageStatus: error: empty extracted text
+  LinkedPageSummaryWords: 0
+
+- Military Conferences 2025 | Defence Conferences & Events 2025-2026
+  https://www.defenseadvancement.com/events/
+  A comprehensive diary of global military and defense trade shows, conferences and events taking place throughout 2024 and 2025.
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.defenseadvancement.com/events/
+  LinkedPageSummaryWords: 0
+
+- Global Defence Industry Events & Conferences | 2025-2026
+  https://www.defence-industries.com/events
+  Explore upcoming defence industry events , trade shows & conferences worldwide for 2025- 2026 . Find expos, workshops & summits for security, aerospace, & military tech.
+  LinkedPageStatus: ok (https://www.defence-industries.com/events)
+  LinkedPageSummaryWords: 146
+  LinkedPageSummary:
+  Event Type: Trade Shows / Fairs / Expos Event Type: Trade Shows / Fairs / Expos Event Type: Trade Shows / Fairs / Expos Event Type: Trade Shows / Fairs / Expos Event Type: Trade Shows / Fairs / Expos Event Type: Trade Shows / Fairs / Expos Event Type: Trade Shows / Fairs / Expos Event Type: Trade Shows / Fairs / Expos Gaylord National Resort & Convention Center National Harbor, Maryland, USA Event Type: Trade Shows / Fairs / Expos Malaysia International Trade and Exhibition Centre (MITEC), Kuala Lumpur, Malaysia Thank you for your interest in our Events section. We have received your posting and a client success team member will get in touch with you shortly to take this ahead. Details Submitted Successfully. Download of the Media Pack will start automatically and a direct download link is sent to your registered email address.
+
+- Upcoming Military Conferences in UK February 2026
+  https://www.allconferencealert.com/uk/military-conference/february
+  Find the list of upcoming Military conferences in UK February 2026 with invitation an letter.
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://www.allconferencealert.com/uk/military-conference/february
+  LinkedPageSummaryWords: 0
+
+- British airshows in 2026: calendar with UK airshow dates.
+  https://britishairshows.com/british-uk-airshows-2026-calendar-dates
+  Calendar with dates of British Airshows in 2026 and beyond and other information about seaside, airfield and other air shows being held in the UK.
+  LinkedPageStatus: ok (https://britishairshows.com/british-uk-airshows-2026-calendar-dates)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Aircraft flying in from all over the UK to raise money for the Cornwall Air ambulance. Each of Duxford's Flying Days is themed and will allow visitors the chance to explore the museum and pop up displays and experiences, before enjoying some flying. The theme this time celebrates VE Day. The flying-line up will commemorate the role of aviation and RAF Duxford in the fight for peace across Europe. The first Shuttleworth Collection airshow of the season. Flying displays of resident and visiting aircraft between about 14.00 and 17.30. Also expect vehicle parade and live music. All are welcome, but especially a celebration of ladies in aviation. Also vintage and classic vehicles. Check Bodmin Airfield web site for more details. A chance to showcase your RV aircraft. Attempt to get 20% of the UK registered RV's in one place. Free landings with fuel uplift. Mostly military vehicles and trade stands but possibly some flying and taxy runs. Trade stalls, vintage cars, military vehicles, tank firing. All to raise funds for the restoration of Lancaster NX611. In 2020 the Torbay Airshow became 'The English Riviera Airshow' and was to return in 2021 for a fifth year after 2020's cancellation. However, uncertainty
+
+- Top Military Conferences in 2026 | Global Events & Key Dates - BigEvent
+  https://bigevent.io/events/category/military/
+  Military conferences worldwide focus on defense strategies, technology advancements and international collaboration. Discover key details on dates and speakers.
+  LinkedPageStatus: ok (https://bigevent.io/events/category/military/)
+  LinkedPageSummaryWords: 158
+  LinkedPageSummary:
+  The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network. The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user. The technical storage or access that is used exclusively for statistical purposes. The technical storage or access that is used exclusively for anonymous statistical purposes. Without a subpoena, voluntary compliance on the part of your Internet Service Provider, or additional records from a third party, information stored or retrieved for this purpose alone cannot usually be used to identify you. The technical storage or access is required to create user profiles to send advertising, or to track the user on a website or across several websites for similar marketing purposes.
+
+- Military Conferences 2026/2027/2028 - Conference Index
+  https://conferenceindex.org/conferences/military
+  Military Conferences 2026 2027 2028 is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activities that might want to attend events , meetings, seminars, congresses, workshops, summit, and symposiums.
+  LinkedPageStatus: ok (https://conferenceindex.org/conferences/military)
+  LinkedPageSummaryWords: 200
+  LinkedPageSummary:
+  Military Conferences 2026/2027/2028 Mar 02 International Conference on Mechanical, Aeronautical and Manufacturing Engineering (ICMAME) - Barcelona, Spain Mar 02 International Conference on Mechanical, Aeronautical and Manufacturing Engineering (ICMAME) - Rome, Italy Mar 02 International Conference on Mechanical, Aeronautical and Manufacturing Engineering (ICMAME) - Taipei, Taiwan Mar 02 International Conference on Mechanical, Aeronautical and Manufacturing Engineering (ICMAME) - Haifa, Israel Mar 02 International Conference on Mechanical, Aeronautical and Manufacturing Engineering (ICMAME) - Arizona, United States Mar 09 International Conference on Mechanical, Aeronautical and Manufacturing Engineering (ICMAME) - Bangkok, Thailand Mar 09 International Conference on Mechanical, Aeronautical and Manufacturing Engineering (ICMAME) - London, United Kingdom Mar 09 International Conference on Mechanical, Aeronautical and Manufacturing Engineering (ICMAME) - Miami, United States Mar 09 International Conference on Mechanical, Aeronautical and Manufacturing Engineering (ICMAME) - Hanoi, Vietnam Mar 09 International Conference on Mechanical, Aeronautical and Manufacturing Engineering (ICMAME) - Doha, Qatar Mar 09 Future Solider Technology - London, United Kingdom Mar 16 International Conference on Mechanical, Aeronautical and Manufacturing Engineering (ICMAME) - Dubai, United Arab Emirates Mar 16 International Conference on Mechanical, Aeronautical and Manufacturing Engineering (ICMAME) - Prague, Czechia Mar 16 International Conference on Mechanical, Aeronautical and Manufacturing Engineering (ICMAME) - Istanbul, Turkey Mar
+
+- DGI 2026 | Geospatial Intelligence - London, Feb 23-25 2026
+  https://www.ogc.org/event/dgi-2026/
+  Join Europe's leading Geospatial Intelligence event , DGI 2026 , Feb 23-25 at QEII Centre, London. Network, learn & explore cutting‑edge geo‑tech.
+  LinkedPageStatus: ok (https://www.ogc.org/event/dgi-2026/)
+  LinkedPageSummaryWords: 67
+  LinkedPageSummary:
+  DGI 2026 – The World’s Leading Geospatial Intelligence Event As allied nations increase investment in military space and geospatial intelligence, DGI remains the trusted global forum for senior military leaders, industry and academia to shape the future of multi-domain ISR. As the race for decision advantage gathers pace, DGI 2026 unites the community to unlock new capabilities to: Sokos Hotel Presidentti, Eteläinen Rautatiekatu 4, Helsinki, 00100 Finland
+
+- Connecting Government & Industry - Calendar of Events - Military Expos
+  https://www.militaryexpos.com/
+  Featuring a chronological list of upcoming events , searchable by date, theme, and location.
+  LinkedPageStatus: ok (https://www.militaryexpos.com/)
+  LinkedPageSummaryWords: 62
+  LinkedPageSummary:
+  Category Filter by Category All Air Force Army Conference Cyber Geospatial Health & Wellness Intel International Logistics Medical Mid-Atlantic Midwest Navy/Marines Southeast Southwest Space Force Speaking Opportunities Tactical Virtual West Location Filter by Location All Arizona California Colorado Florida Georgia Maryland Nebraska New Mexico North Carolina Ohio South Carolina Texas Virginia Washington D.C. Benin England Germany Italy Ivory Coast Liberia United States
+
+- Upcoming Military conferences in February 2026 | ConferenceAlert.Com
+  https://conferencealert.com/february/military.php
+  Stay updated with the latest trends and innovations in Military by attending events designed to foster knowledge sharing and collaboration. February 2026 is packed with exciting conferences featuring renowned speakers, thought-provoking discussions, and valuable networking sessions to help you stay ahead in your field.
+  LinkedPageStatus: error: 403 Client Error: Forbidden for url: https://conferencealert.com/february/military.php
+  LinkedPageSummaryWords: 0
+
+

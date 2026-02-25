@@ -1,0 +1,23 @@
+{
+  "default_domain": "Thales",
+  "tasks": [
+    {
+      "name": "Thales Company News",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "Thales",
+      "query": "Thales latest defence company news",
+      "max": 8
+    },
+    {
+      "name": "Thales Contract Awards",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "Thales",
+      "query": "Thales latest defence contract awards",
+      "max": 8
+    }
+  ]
+}

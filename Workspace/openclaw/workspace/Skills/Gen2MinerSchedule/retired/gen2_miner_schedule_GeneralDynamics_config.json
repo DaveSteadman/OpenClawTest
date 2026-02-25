@@ -1,0 +1,32 @@
+{
+  "default_domain": "GeneralDynamics",
+  "tasks": [
+    {
+      "name": "General Dynamics Company News",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "GeneralDynamics",
+      "query": "General Dynamics latest company news",
+      "max": 8
+    },
+    {
+      "name": "General Dynamics Contract Awards",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "GeneralDynamics",
+      "query": "General Dynamics latest contract awards",
+      "max": 8
+    },
+    {
+      "name": "GDNewsroom",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "webtext",
+      "url": "https://www.gd.com/news",
+      "max_links": 8,
+      "words": 220
+    }
+  ]
+}

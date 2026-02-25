@@ -1,6 +1,6 @@
 ---
 name: Gen2WebText
-description: Derivative of DLoggedWebTextPlus that starts from one URL, extracts content-focused links and summaries, and logs outputs using CommonCode FolderNavigator into datastore2 mine/domain/yyyy/mm/dd.
+description: Derivative of DLoggedWebTextPlus that starts from one URL, extracts content-focused links and summaries, and logs outputs using CommonCode FolderNavigator into datastore3 mine/domain/yyyy/mm/dd.
 metadata: {"openclaw":{"requires":{"bins":["python","python3"]},"os":["win32","linux","darwin"]}}
 ---
 
@@ -44,6 +44,6 @@ On error returns JSON with:
 ## Logging
 
 Writes to:
-{OPENCLAW_ROOT}/data/datastore2/01-Mine/<domain>/YYYY/MM/DD/{PageName}.txt
+{OPENCLAW_ROOT}/data/datastore3/01-Mine/<domain>/YYYY/MM/DD/{PageName}.txt
 
 Path resolution is handled by `FolderNavigator.from_fixed_point()` and `get_today_path(area="mine", domain=..., create=True)`.

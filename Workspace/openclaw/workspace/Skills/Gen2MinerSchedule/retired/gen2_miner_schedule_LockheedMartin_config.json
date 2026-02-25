@@ -1,0 +1,32 @@
+{
+  "default_domain": "LockheedMartin",
+  "tasks": [
+    {
+      "name": "Lockheed Martin Company News",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "LockheedMartin",
+      "query": "Lockheed Martin latest company news",
+      "max": 8
+    },
+    {
+      "name": "Lockheed Martin Contract Awards",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "LockheedMartin",
+      "query": "Lockheed Martin latest contract awards",
+      "max": 8
+    },
+    {
+      "name": "Lockheed Martin Product News",
+      "enabled": true,
+      "cadence": "daily",
+      "type": "websearch",
+      "domain": "LockheedMartin",
+      "query": "Lockheed Martin latest product news",
+      "max": 8
+    }    
+  ]
+}

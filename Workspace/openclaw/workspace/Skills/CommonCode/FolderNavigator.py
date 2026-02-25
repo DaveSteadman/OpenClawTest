@@ -2,7 +2,7 @@
 Nominal data structure used by skills:
 
 data/
-    datastore2/
+    datastore3/
         01-Mine/
             <Domain>/
                 YYYY/
@@ -83,7 +83,7 @@ class FolderNavigator:
     def from_fixed_point(cls) -> "FolderNavigator":
         """Build from this module's fixed location: workspace/Skills/CommonCode."""
         openclaw_root = Path(__file__).resolve().parents[3]
-        return cls(data_root=openclaw_root / "data" / "datastore2")
+        return cls(data_root=openclaw_root / "data" / "datastore3")
 
     @staticmethod
     def parse_date(value: str | date | datetime) -> date:

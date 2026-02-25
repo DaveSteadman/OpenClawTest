@@ -1,6 +1,6 @@
 ---
 name: Gen2CsvAnalysis
-description: Analyze mined domain logs over a timeframe (YYYY, YYYY/MM, or YYYY/MM/DD) using an LLM prompt, normalize results into tabular data, and write CSV output to datastore2 02-Analysis via CommonCode FolderNavigator.
+description: Analyze mined domain logs over a timeframe (YYYY, YYYY/MM, or YYYY/MM/DD) using an LLM prompt, normalize results into tabular data, and write CSV output to datastore3 02-Analysis via CommonCode FolderNavigator.
 metadata: {"openclaw":{"requires":{"bins":["python","python3"]},"os":["win32","linux","darwin"]}}
 ---
 
